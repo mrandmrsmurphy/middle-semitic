@@ -40,7 +40,7 @@ def main(root, old, new, st, gloss, construct=True):
     open(p, 'w').write(s + chart(st, new[:-1], construct))
     ip = os.path.join(L, 'Lexicon.md'); t = open(ip).read()
     t, n = re.subn(r'- \[\[Lexicon/' + old + r'\|' + old + r'\]\] \(.*?\) — .*',
-                   f'- [[Lexicon/{new}|{new}]] ({st}â) — {gloss} ✅', t); assert n == 1
+                   f'- [[Lexicon/{new}|{new}]] ({st}â) — {gloss}', t); assert n == 1
     open(ip, 'w').write(t)
     R = os.path.join(root, 'Roots')
     for f in os.listdir(R):

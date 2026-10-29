@@ -5,7 +5,7 @@ metadata:
   type: project
 ---
 
-All 450 lexicon index lines have ✅ (2026-10-28). Rulings (user) that generator scripts and new entries must follow; see also [[project-middle-semitic-lexicon-conventions]] and [[project-middle-semitic-paradigms-midtask]].
+The paradigm pass finished 2026-10-28; the ✅ marks it used on the Lexicon index were removed 2026-10-29. Rulings (user) that generator scripts and new entries must follow; see also [[project-middle-semitic-lexicon-conventions]] and [[project-middle-semitic-paradigms-midtask]].
 
 - **Copulas:** ܗܘ hô (past) and ܝܫ yiš (non-past) are EXISTENCE particles ('hô ôkâ' there was an owl; 'yiš êyalâ' there is a stag), no person/number. ܟܘܢ kôn 'to be equal' is a verb with a past only (no non-past). Present equality = 3rd-person pronoun alone when the subject is a pronoun ('hiyâ malkatâ' she is a queen) and a linker after a noun subject ('sarâ hiyâ malkatâ').
 - **Adjectives:** four forms (m -â, f -tâ, pl -în, f pl -ût) plus frozen constructs (raqîq, raqîqî, raqîqat, raqîqû), lexical citation ends in long -â (rename bare stems); crypto-feminine nouns take feminine adjectives; colours are adjectives (ṣahabâ yellow, ṭalamâ black, waraqâ green, labânâ white); demonstratives hazâ/zakâ are full adjectives with NO construct; -ân adjectives (batûlânâ, rabbânâ, ḥaṭiyânâ); an adjective ending in a bare consonant is not an adjective (šukrân is an interjection). Script `AIOS/scripts/build_ms_adjectives.py` (--no-construct option). III-yod adjectives: first is ܥܒܝ 2 ʿabê 'thick' (Swadesh 30, homograph of ܥܒܝ 'forest') — ʿabê, ʿabêtâ, ʿabîn, ʿabêt, constructs on the samat/samû model; the f pl and construct forms are analogical, NOT yet ruled by the user.

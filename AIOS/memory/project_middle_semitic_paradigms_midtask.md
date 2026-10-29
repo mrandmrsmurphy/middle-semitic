@@ -22,7 +22,7 @@ metadata:
 - III-weak rule (user): contraction ay→ê aw→ô aʾ→â wherever a+radical, then a following vowel is deleted (first vowel wins): banêt, tabnê (2f), yabnên. All nine III-weak verbs regenerated.
 - ܚܝܠܘ ḥîlû (stative III-w) and ܣܡܥ (root fixed ܣ-ܡ-ܥ) DONE. ܪܐܡ (high, R-ʾ-M) and ܪܡܝ (throw, R-M-Y) SEPARATED and DONE.
 
-## Lexicon ✅ status (2026-10-28): ALL 444 index lines have ✅. Goal met; the remaining list below is history of what was resolved.
+## Lexicon status (2026-10-28): all 444 index lines were ✅-marked complete (marks removed from the index 2026-10-29). Goal met; the remaining list below is history of what was resolved.
 Done this pass: all adjectives so far (ܪܩܝܩܐ ܪܚܒܐ ܪܒܐܢܐ ܟܒܝܪܐ ܠܒܐܢܐ ܩܨܪܐ ܪܐܡܐ ܒܬܘܠܐܢܐ ܩܠܠܐ ܨܗܒܐ ܛܠܡܐ ܘܪܩܐ ܛܘܒܐ ܚܛܝܐܢܐ), strong/guttural verbs ܙܒܚ ܙܪܥ ܛܚܢ ܦܬܚ ܨܒܥ ܢܥܡ ܣܐܠ, invariants ܡܐ ܐܡܣܐ ܫܘܟܪܢ ܟܘܠ ܟܡܐ (POS quantifier is a NEW value, unconfirmed). Script: `AIOS/scripts/build_ms_adjectives.py`.
 Remaining, with what each needs:
 - -ê nouns DONE (III-yod nouns: gadê, gadîn, gadi, gadî; masculine, except ܣܡܝ 'sky' (crypto-feminine, dual only: samîm) and ܣܢܝ 'year' (crypto-feminine, rare dual: sanîm)).
