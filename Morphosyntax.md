@@ -17,7 +17,7 @@ Existence is expressed by two particles that do not inflect for person or number
 
 ## Prepositions
 
-There are eight “small” prepositions which “conjugate”. All other “prepositions” are actually nouns in the construct state.
+There are eight “small” prepositions which “conjugate”. All other “prepositions” are actually nouns in the construct state. See [[Prepositions]] for the contrasts among them.
 
 | | 1cs | 2ms | 2fs | 3ms | 3fs | 1cp | 2cp | 3cp |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |

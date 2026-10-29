@@ -26,6 +26,7 @@
 - [[Orthography]]
 - [[Morphophonology]]
 - [[Morphosyntax]]
+- [[Prepositions]]
 - [[Swadesh]]
 - [[Dialogue]]
 - [[Torah]]
