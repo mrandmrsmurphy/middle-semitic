@@ -6,16 +6,16 @@ Middle Semitic has eight "small" prepositions, which take pronominal suffixes an
 
 ## The eight
 
-| Preposition | Latin | Gloss | Cognates (Hebrew / Arabic) | Suffixed 1cs | Shape |
-| --- | --- | --- | --- | --- | --- |
-| [[Lexicon/ܠ-\|ܠ-]] | li- | for, to | ל־ / لِـ | [[Lexicon/ܠܢܝ\|ܠܢܝ]] *linî* | clitic |
-| [[Lexicon/ܒ\|ܒ]] | bi- | at, on | בְּ־ / بِـ | [[Lexicon/ܒܢܝ 2\|ܒܢܝ 2]] *binî* | clitic |
-| [[Lexicon/ܦ\|ܦ]] | pi- | in | (בְּ־ / فِي) | [[Lexicon/ܦܢܝ\|ܦܢܝ]] *pinî* | clitic |
-| [[Lexicon/ܟ\|ܟ]] | ki- | like | כְּ־ / كَـ | [[Lexicon/ܟܢܝ\|ܟܢܝ]] *kinî* | clitic |
-| [[Lexicon/ܡܢ\|ܡܢ]] | min | from | מִן / مِن | [[Lexicon/ܡܢܢܝ\|ܡܢܢܝ]] *minnî* | free word, clitic [[Lexicon/ܡ\|ܡ-]] *mi-* |
-| [[Lexicon/ܥܠ-\|ܥܠ-]] | ʿal- | on, upon | עַל / عَلَى | [[Lexicon/ܥܠܢܝ\|ܥܠܢܝ]] *ʿalnî* | free word, clitic [[Lexicon/ܥ\|ܥ-]] *ʿa-* |
-| [[Lexicon/ܥܡ\|ܥܡ]] | ʿim | with | עִם / مَعَ | [[Lexicon/ܥܡܢܝ\|ܥܡܢܝ]] *ʿimnî* | free word |
-| [[Lexicon/ܒܝܢ\|ܒܝܢ]] | bên | between | בֵּין / بَيْن | [[Lexicon/ܒܝܢܢܝ\|ܒܝܢܢܝ]] *bênnî* | free word |
+| Preposition          | Latin | Gloss    | Cognates      | Suffixed 1cs                     | Shape                                     |
+| -------------------- | ----- | -------- | ------------- | -------------------------------- | ----------------------------------------- |
+| [[Lexicon/ܠ-\|ܠ-]]   | li-   | for, to  | ל־ / لِـ      | [[Lexicon/ܠܢܝ\|ܠܢܝ]] *linî*      | clitic                                    |
+| [[Lexicon/ܒ\|ܒ]]     | bi-   | at, on   | בְּ־ / بِـ    | [[Lexicon/ܒܢܝ 2\|ܒܢܝ 2]] *binî*  | clitic                                    |
+| [[Lexicon/ܦ\|ܦ]]     | pi-   | in       | (בְּ־ / فِي)  | [[Lexicon/ܦܢܝ\|ܦܢܝ]] *pinî*      | clitic                                    |
+| [[Lexicon/ܟ\|ܟ]]     | ki-   | like     | כְּ־ / كَـ    | [[Lexicon/ܟܢܝ\|ܟܢܝ]] *kinî*      | clitic                                    |
+| [[Lexicon/ܡܢ\|ܡܢ]]   | min   | from     | מִן / مِن     | [[Lexicon/ܡܢܢܝ\|ܡܢܢܝ]] *minnî*   | free word, clitic [[Lexicon/ܡ\|ܡ-]] *mi-* |
+| [[Lexicon/ܥܠ-\|ܥܠ-]] | ʿal-  | on, upon | עַל / عَلَى   | [[Lexicon/ܥܠܢܝ\|ܥܠܢܝ]] *ʿalnî*   | free word, clitic [[Lexicon/ܥ\|ܥ-]] *ʿa-* |
+| [[Lexicon/ܥܡ\|ܥܡ]]   | ʿim   | with     | עִם / مَعَ    | [[Lexicon/ܥܡܢܝ\|ܥܡܢܝ]] *ʿimnî*   | free word                                 |
+| [[Lexicon/ܒܝܢ\|ܒܝܢ]] | bên   | between  | בֵּין / بَيْن | [[Lexicon/ܒܝܢܢܝ\|ܒܝܢܢܝ]] *bênnî* | free word                                 |
 
 *min* and *ʿal-* also have clitic forms, [[Lexicon/ܡ|ܡ-]] *mi-* and [[Lexicon/ܥ|ܥ-]] *ʿa-*, each with suffixed forms of its own (*minî*, *mikâ*...; *ʿanî*, *ʿakâ*...; the full words' are *minnî*, *minkâ*... and *ʿalnî*, *ʿalkâ*...). The clitics (*li- bi- pi- ki- mi- ʿa-*) are single consonant + vowel: they attach to the following word, take no stress, and may be said with a schwa in fast speech (*ləMadrid*). The other forms (*min*, *ʿal-*, *ʿim*, *bên*) are full words with their own stress. 
 
@@ -44,4 +44,3 @@ Several words that English glosses with a preposition are not among the eight:
 ## Open
 
 - Extended uses of the eight (possession with *li-*, comparison with *min*, instrument with *bi-*) are not yet ruled.
-- A fused 'because' (*li-* + *ʾan*) is under consideration; see [[Swadesh]] № 206.

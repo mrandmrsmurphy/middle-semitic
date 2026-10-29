@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prepositions.md",
+                "file": "Swadesh.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prepositions"
+              "title": "Swadesh"
+            }
+          },
+          {
+            "id": "f68bcba6c9106edb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lexicon/Lexicon.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lexicon"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prepositions.md",
+                "file": "Lexicon/Lexicon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prepositions.md",
+                "file": "Lexicon/Lexicon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prepositions.md",
+                "file": "Lexicon/Lexicon.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -188,8 +203,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "803df5b03acf5693",
+  "active": "f68bcba6c9106edb",
   "lastOpenFiles": [
+    "Lexicon/ܥܠܐܢ.md",
+    "Swadesh.md",
+    "Lexicon/Lexicon.md",
+    "Prepositions.md",
+    "Lexicon/ܥܗܘܡ.md",
+    "Lexicon/ܥܟܘܡ.md",
+    "Lexicon/ܥܢܘ.md",
+    "Lexicon/ܥܗܐ.md",
+    "Lexicon/ܥܗܘ.md",
+    "Lexicon/ܥܟܝ.md",
+    "Lexicon/ܥܟܐ.md",
+    "Lexicon/ܥܢܝ.md",
+    "Lexicon/ܥ.md",
     "Lexicon/ܡܢ.md",
     "Lexicon/ܡܗܘܡ.md",
     "Lexicon/ܡܟܘܡ.md",
@@ -200,9 +228,6 @@
     "Lexicon/ܡܟܐ.md",
     "Lexicon/ܡܢܝ.md",
     "Lexicon/ܡ.md",
-    "Prepositions.md",
-    "Lexicon/Lexicon.md",
-    "Swadesh.md",
     "Anthropology.md",
     "Middle Semitic.md"
   ]
