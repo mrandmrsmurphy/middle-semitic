@@ -1,6 +1,7 @@
 """Derive a lexicon entry's YAML frontmatter from its visible table.
 
 The table stays; the frontmatter mirrors it so Obsidian can query the lexicon.
+A missing key means NOT CHECKED; the value `none` means checked and confirmed absent (a table `ø` becomes `none`).
 sync() fills keys that are missing and never touches keys it did not derive
 (ugaritic, akkadian, date-last-perfect, ...). Existing values are kept unless the
 key is named in `refresh` -- build scripts pass the keys they just changed
@@ -47,6 +48,7 @@ def derive(rows):
             if nums: d[key] = nums[0] if len(nums) == 1 else '[' + ', '.join(nums) + ']'
             continue
         v = clean(v)
+        if v == 'ø' and key in ('hebrew', 'arabic', 'aramaic'): d[key] = 'none'; continue
         if not v or v in ('ø', '-->'): continue
         d[key] = scalar(v, force_quote=(key == 'proto-semitic'))
     return d
