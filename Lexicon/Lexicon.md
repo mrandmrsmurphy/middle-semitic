@@ -28,7 +28,7 @@ swadesh: 100
 ---
 ```
 
-Core properties: `root`, `pos`, `gender` (nouns), `gloss` (verbs cited as 3ms perfect, "he ate"), `hebrew`, `arabic`, `aramaic`, `proto-semitic` (quoted, since it starts with `*`; suffix `(hypo)` = hypothetical, `invented` = no PS basis), `swadesh` (№, if any). Cognate properties are open-ended: any tradition gets its own lowercase key. New entries get frontmatter from the start; the visible table is unchanged until bulk migration.
+Core properties: `latin` (romanization), `root`, `pos`, `gender` (nouns), `gloss` (verbs cited as 3ms perfect, "he ate"), `hebrew`, `arabic`, `aramaic`, `proto-semitic` (quoted, since it starts with `*`; suffix `(hypo)` = hypothetical, `invented` = no PS basis), `swadesh` (№, if any), `date-last-perfect` (the date the entry was last brought to its final form). Cognate properties are open-ended: any tradition gets its own lowercase key. Every entry carries frontmatter, derived from its table (`ø` and `-->` cells are left out); the visible table stays. `AIOS/scripts/ms_frontmatter.py` fills any missing keys, and the build scripts call it after they change an entry.
 
 The table rows (omit a row that doesn't apply):
 

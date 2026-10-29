@@ -10,6 +10,7 @@ coda (ay -> ê, aw -> ô, aʾ -> â: banê, darô, qarâ). Romanization + plain
 spelling only. Passive = long û after the first consonant; no statives here.
 """
 import os, re, sys
+import ms_frontmatter
 ROM = {'ܐ': 'ʾ', 'ܒ': 'b', 'ܓ': 'g', 'ܕ': 'd', 'ܗ': 'h', 'ܘ': 'w', 'ܙ': 'z', 'ܚ': 'ḥ', 'ܛ': 'ṭ', 'ܝ': 'y',
        'ܟ': 'k', 'ܠ': 'l', 'ܡ': 'm', 'ܢ': 'n', 'ܣ': 's', 'ܥ': 'ʿ', 'ܦ': 'p', 'ܨ': 'ṣ', 'ܩ': 'q', 'ܪ': 'r',
        'ܫ': 'š', 'ܬ': 't'}
@@ -117,6 +118,7 @@ def main(L, words, short3f=False, stative=False):
                 "Only where no *a* precedes it (the 3pl past, *banyû*) is it pronounced as a consonant. "
                 "See [[Morphophonology]] and the model page [[Lexicon/ܡܠܟ]]. The citation form is the 3m past. Each cell gives the romanization and the plain spelling.\n\n")
         open(p, 'w').write(s.rstrip('\n') + '\n' + head + (build_stative(root) if stative else build(root, short3f)).rstrip('\n') + '\n')
+        ms_frontmatter.sync(p, refresh=('pos',))
 
 if __name__ == '__main__':
     args = [x for x in sys.argv[2:] if x not in ('--short3f', '--stative')]

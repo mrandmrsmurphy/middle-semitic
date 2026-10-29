@@ -6,6 +6,7 @@ The model is Lexicon/ܡܠܟ.md (its Forms section); the three radicals come
 from the page's Root row. Only for strong triliteral verbs (no ʾ ʿ ḥ h w y radicals).
 """
 import os, re, sys
+import ms_frontmatter
 
 ROM = {'ܐ': 'ʾ', 'ܒ': 'b', 'ܓ': 'g', 'ܕ': 'd', 'ܗ': 'h', 'ܘ': 'w', 'ܙ': 'z', 'ܚ': 'ḥ', 'ܛ': 'ṭ', 'ܝ': 'y',
        'ܟ': 'k', 'ܠ': 'l', 'ܡ': 'm', 'ܢ': 'n', 'ܣ': 's', 'ܥ': 'ʿ', 'ܦ': 'p', 'ܨ': 'ṣ', 'ܩ': 'q', 'ܪ': 'r',
@@ -87,6 +88,7 @@ def main(L, words, is_stative=False):
         body = conj(T, root)
         if is_stative: body = stative(body)
         open(p, 'w').write(s.rstrip('\n') + '\n\n' + body.rstrip('\n') + '\n')
+        ms_frontmatter.sync(p, refresh=('pos',))
 
 if __name__ == '__main__':
     args = [a for a in sys.argv[2:] if a != '--stative']

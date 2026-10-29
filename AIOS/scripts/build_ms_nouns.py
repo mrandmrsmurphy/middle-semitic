@@ -6,6 +6,7 @@ Classes and lists below are the user's rulings; stems are taken from the
 page's Latin row (so they are only as regular as that row).
 """
 import os, re, sys
+import ms_frontmatter
 
 S = [('1sg', 'nî', 'ܢܝ', 'my'), ('1pl', 'nû', 'ܢܘ', 'our'), ('2m', 'kâ', 'ܟܐ', 'your (m)'),
      ('2f', 'kî', 'ܟܝ', 'your (f)'), ('2pl', 'kûm', 'ܟܘܡ', 'your (pl)'), ('3m', 'hû', 'ܗܘ', 'his'),
@@ -104,6 +105,7 @@ def main(L):
         if not row(t, 'Gender'): add += f"\n| Gender | {gender} |"
         t = t[:m.end()] + add + t[m.end():]
         open(os.path.join(L, f), 'w').write(t.rstrip('\n') + '\n' + chart(name, lat, g, cls))
+        ms_frontmatter.sync(os.path.join(L, f), refresh=('pos', 'gender'))
         n += 1
     print(n, 'noun pages written')
 

@@ -7,6 +7,7 @@ contraction or a pure mater, lexical); the CVC stem persists and the verb just
 takes prefixes and suffixes. No marked stative and no passive.
 """
 import os, re, sys
+import ms_frontmatter
 
 def stem_of(lat):
     s = lat.replace('`', 'ʿ').replace('ˈ', '')
@@ -44,6 +45,7 @@ def main(L, words):
                 "so the stem stays CVC and the verb simply takes prefixes and suffixes. There is no marked stative and no passive: the active and passive cannot be told apart by form. "
                 "See [[Morphophonology]]. Each cell gives the romanization and the plain spelling.\n\n")
         open(p, 'w').write(s.rstrip('\n') + '\n' + head + build(w, stem_of(lat)) + '\n')
+        ms_frontmatter.sync(p, refresh=('pos',))
 
 if __name__ == '__main__':
     main(sys.argv[1], sys.argv[2:])

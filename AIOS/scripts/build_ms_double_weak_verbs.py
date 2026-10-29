@@ -9,6 +9,7 @@ passive is û after the first consonant, with the root-initial aleph returning a
 a consonant in the non-past (yûʾbê). Romanization + plain spelling only.
 """
 import os, re, sys
+import ms_frontmatter
 ROM = {'ܐ': 'ʾ', 'ܒ': 'b', 'ܓ': 'g', 'ܕ': 'd', 'ܗ': 'h', 'ܘ': 'w', 'ܙ': 'z', 'ܚ': 'ḥ', 'ܛ': 'ṭ', 'ܝ': 'y',
        'ܟ': 'k', 'ܠ': 'l', 'ܡ': 'm', 'ܢ': 'n', 'ܣ': 's', 'ܥ': 'ʿ', 'ܦ': 'p', 'ܨ': 'ṣ', 'ܩ': 'q', 'ܪ': 'r',
        'ܫ': 'š', 'ܬ': 't'}
@@ -65,6 +66,7 @@ def main(L, words):
         head = ("\n## Forms\n\nAn I-aleph, III-yod verb. The first radical lengthens the vowel (*â*) and eats a second aleph; the third radical contracts with the preceding *a* (*ay* → *ê*) and the first vowel wins in hiatus (*âbê* + *t* → *âbêt*). "
                 "See [[Morphophonology]] and the model pages [[Lexicon/ܐܟܠ]] and [[Lexicon/ܒܢܝ]]. The citation form is the 3m past. Each cell gives the romanization and the plain spelling.\n\n")
         open(p, 'w').write(s.rstrip('\n') + '\n' + head + build(root).rstrip('\n') + '\n')
+        ms_frontmatter.sync(p, refresh=('pos',))
 
 if __name__ == '__main__':
     main(sys.argv[1], sys.argv[2:])

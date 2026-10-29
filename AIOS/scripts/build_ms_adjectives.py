@@ -10,6 +10,7 @@ forms and constructs, as on Morphophonology), and updates the index, Roots pages
 A final geminate in STEM must be given already simplified; the chart does not add one.
 """
 import os, re, sys
+import ms_frontmatter
 
 def chart(st, pl, construct=True):
     c = f"""| *construct, masculine* | *{st}* {pl} | *{st}î* {pl}ܝ |
@@ -38,6 +39,7 @@ def main(root, old, new, st, gloss, construct=True):
     s = re.sub(r'^\| Part of speech \|.*\n', '', s, flags=re.M)
     s = re.sub(r'^(\| Gloss \|).*$', lambda m: f'| Part of speech | adjective |\n| Gloss | {gloss} |', s, count=1, flags=re.M)
     open(p, 'w').write(s + chart(st, new[:-1], construct))
+    ms_frontmatter.sync(p, refresh=('latin', 'pos', 'gloss'))
     ip = os.path.join(L, 'Lexicon.md'); t = open(ip).read()
     t, n = re.subn(r'- \[\[Lexicon/' + old + r'\|' + old + r'\]\] \(.*?\) — .*',
                    f'- [[Lexicon/{new}|{new}]] ({st}â) — {gloss}', t); assert n == 1
