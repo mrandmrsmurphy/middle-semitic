@@ -38,7 +38,7 @@ The suffixed form of *bi-* is ܒܢܝ 2 *binî* 'on me', a homograph of the verb 
 Several words that English glosses with a preposition are not among the eight:
 
 - [[Lexicon/ܐܝܠܐ|ܐܝܠܐ]] *ʾêllâ* 'except, excluding' (*if* + *not*) is a fixed compound that behaves as a preposition; [[Lexicon/ܐܝܠܠܐ|ܐܝܠܠܐ]] *ella* 'except, but' is the conjunction.
-- Subordinators: [[Lexicon/ܐܢ|ܐܢ]] *ʾan* 'that' (complementizer), [[Lexicon/ܟܝ|ܟܝ]] *kî* 'in order that', [[Lexicon/ܐܡ|ܐܡ]] *ʾam* 'if', and the relative pronoun [[Lexicon/ܠܝܕ|ܠܝܕ]] *lîd*. These join clauses and do not take suffixes.
+- Subordinators: [[Lexicon/ܥܠܐܢ|ܥܠܐܢ]] *ʿal.ˈʾan* 'because' (*ʿal-* + *ʾan*), [[Lexicon/ܐܢ|ܐܢ]] *ʾan* 'that' (complementizer), [[Lexicon/ܟܝ|ܟܝ]] *kî* 'in order that', [[Lexicon/ܐܡ|ܐܡ]] *ʾam* 'if', and the relative pronoun [[Lexicon/ܠܝܕ|ܠܝܕ]] *lîd*. These join clauses and do not take suffixes.
 - Spatial and temporal relations beyond the eight ('before', 'after', 'under', 'until', 'around', 'without') are expressed with nouns in the construct state, as in the rest of Semitic; none have been coined yet.
 
 ## Open

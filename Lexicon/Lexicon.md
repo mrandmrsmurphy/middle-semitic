@@ -436,6 +436,7 @@ The table rows (omit a row that doesn't apply):
 - [[Lexicon/ܥܝܪܐ|ܥܝܪܐ]] (`îrâ) — foal, new donkey ✅
 - [[Lexicon/ܥܟܒܪܐ|ܥܟܒܪܐ]] (`akbarâ) — mouse ✅
 - [[Lexicon/ܥܠ-|ܥܠ-]] (`al-) — on, upon ✅
+- [[Lexicon/ܥܠܐܢ|ܥܠܐܢ]] (ʿal.ˈʾan) — because ✅
 - [[Lexicon/ܥ|ܥ]] (ʿa-) — on, upon (clitic) ✅
 - [[Lexicon/ܥܠܝ|ܥܠܝ]] (`alê) — he ascended ✅
 - [[Lexicon/ܥܢܟܒܬܐ|ܥܢܟܒܬܐ]] (`ankkabtâ) — spider ✅
