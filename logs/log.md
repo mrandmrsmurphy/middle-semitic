@@ -9,3 +9,7 @@ Append-only. Never edit past entries.
 - AIOS seeded: the three MS memory files moved from UL (paths inside them adapted); new `project_vault_layout.md` memory; `memory-index.md`; AGENTS.md/CLAUDE.md pair.
 - Richer entry format live: YAML frontmatter documented in `Lexicon.md` (open-ended cognate keys — ugaritic, akkadian, geez…; core keys root/pos/gender/gloss/hebrew/arabic/aramaic/proto-semitic/swadesh; visible table stays until bulk migration is approved). Pilot entries: ܡܠܟܐ, ܣܡܥ, ܛܘܠܐ, ܥܒܝ 2, ܐܚܪܐ — YAML validated.
 - UL side of the split: root hub `UL/Middle Semitic.md` created (Dan'a'yo-style); UL's build_swadesh.py reads this vault's `Swadesh.md` externally and renders MS forms unlinked; UL Roadmap/site-map/memory-index/sibling-vaults memory updated; UL's AGENTS/CLAUDE pair no longer lists an MS subtree.
+
+## 2026-10-29
+
+- Front door added: `AIOS/facts.yaml` (machine-readable counts, Swadesh coverage, key page paths) + `AIOS/scripts/build_facts.py` to regenerate it. Gotcha hit and fixed: `git ls-files` quotes non-ASCII (Syriac) filenames — must use `-z`. UL's sibling-vaults memory now names facts.yaml as the query interface.

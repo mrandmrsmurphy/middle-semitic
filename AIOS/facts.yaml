@@ -1,0 +1,17 @@
+# Machine-readable vault facts for outside agents (UL vault, scripts). Regenerate: AIOS/scripts/build_facts.py
+vault: middle-semitic
+language: Middle Semitic
+hub: Middle Semitic.md
+counts:
+  lexicon_entries: 450
+  roots: 284
+swadesh:
+  filled: 128
+  total: 207
+key_pages:
+  swadesh: Swadesh.md
+  lexicon_index: Lexicon/Lexicon.md
+  roots_index: Roots/Roots.md
+  memory_index: AIOS/memory-index.md
+source_record: [retired spreadsheet link removed]
+generated: 2026-10-29
