@@ -1,0 +1,481 @@
+# Lexicon
+
+> Parent: [[Middle Semitic]] · Basic list: [[Middle Semitic/Swadesh]] · Sounds: [[Middle Semitic/Phonology]] · Script: [[Middle Semitic/Orthography]]
+
+Dictionary of Middle Semitic words, one file per word, each derived from its Proto-Semitic source with cognate evidence (see [[Middle Semitic/Anthropology]]). The file name and title are the Syriac spelling (unvocalized); the romanization is a row in the entry. Homographs share the bare spelling for the first coinage; later ones take a numeric suffix, e.g. `ܒܢܝ.md` (banê, he built) vs `ܒܢܝ 2.md` (binî, on me).
+
+Imported from the [Google Sheet]([retired spreadsheet link removed]), which remains the source record; new words are coined here, one file per word.
+
+## Entry format
+
+Title is the Syriac spelling, followed by a table with these rows (omit a row that doesn't apply):
+
+| Row | Content |
+| --- | --- |
+| Full | Vocalized spelling, when it matters |
+| Latin | Romanization, with syllable dots and *ˈ* before the stressed syllable on new entries (see [[Middle Semitic/Phonology]]) |
+| Root | Triconsonantal root (function words have none) |
+| Part of speech | |
+| Gender | For nouns |
+| Gloss | English meaning; verbs cited as 3ms perfect ("he ate") |
+| Hebrew | Cognate |
+| Arabic | Cognate |
+| Aramaic | Cognate |
+| Proto-Semitic | Reconstructed source; "(hypo)" = hypothetical, "invented" = no PS basis |
+| Notes | Derivation decisions and caveats |
+| Swadesh | № in [[Middle Semitic/Swadesh]], if any |
+
+## Entries
+
+✅ = paradigm or forms table complete, or the word is an inflected form or invariant (pronouns, particles, prepositions, conjunctions, adverbs, suffixes).
+
+- [[Middle Semitic/Lexicon/-ܐܢ|-ܐܢ]] (-ân) — marked by (the noun) ✅
+- [[Middle Semitic/Lexicon/-ܗܐ|-ܗܐ]] (-hâ) — her ✅
+- [[Middle Semitic/Lexicon/-ܗܘ|-ܗܘ]] (-hû) — him ✅
+- [[Middle Semitic/Lexicon/-ܗܘܡ|-ܗܘܡ]] (-hûm) — them ✅
+- [[Middle Semitic/Lexicon/-ܘܬܐ|-ܘܬܐ]] (-ûtâ) — makes a feminine abstract noun ✅
+- [[Middle Semitic/Lexicon/-ܟܐ|-ܟܐ]] (-kâ) — thee (m) ✅
+- [[Middle Semitic/Lexicon/-ܟܝ|-ܟܝ]] (-kî) — thee (f) ✅
+- [[Middle Semitic/Lexicon/-ܟܘܡ|-ܟܘܡ]] (-kûm) — ye ✅
+- [[Middle Semitic/Lexicon/-ܢܘ|-ܢܘ]] (-nû) — us ✅
+- [[Middle Semitic/Lexicon/-ܢܝ|-ܢܝ]] (-nî) — me ✅
+- [[Middle Semitic/Lexicon/ܐܒܐ|ܐܒܐ]] ('a.bâ) — father, forebearer ✅
+- [[Middle Semitic/Lexicon/ܐܒܝ|ܐܒܝ]] (âbê) — he willed, he desired, he wanted ✅
+- [[Middle Semitic/Lexicon/ܐܒܢܐ|ܐܒܢܐ]] (abnâ) — stone, rock ✅
+- [[Middle Semitic/Lexicon/ܐܕܡܐ|ܐܕܡܐ]] (admâ) — human, man; Adam (as a name) ✅
+- [[Middle Semitic/Lexicon/ܐܗܠܬܐ|ܐܗܠܬܐ]] (ahaltâ) — family ✅
+- [[Middle Semitic/Lexicon/ܐܘ|ܐܘ]] ('o) — or, either ✅
+- [[Middle Semitic/Lexicon/ܐܘܗܠܐ|ܐܘܗܠܐ]] (ôhlâ) — tent ✅
+- [[Middle Semitic/Lexicon/ܐܘܙܢܐ|ܐܘܙܢܐ]] ('ûz.nâ) — ear ✅
+- [[Middle Semitic/Lexicon/ܐܘܟܐ|ܐܘܟܐ]] (ôkâ) — owl ✅
+- [[Middle Semitic/Lexicon/ܐܘܟܠܐ|ܐܘܟܠܐ]] ('û.kâ) — food ✅
+- [[Middle Semitic/Lexicon/ܐܚܐ|ܐܚܐ]] ('a.ḥâ) — brother ✅
+- [[Middle Semitic/Lexicon/ܐܚܙ|ܐܚܙ]] (âḥaz) — he took, seized ✅
+- [[Middle Semitic/Lexicon/ܐܚܪܐ|ܐܚܪܐ]] (ʾa.ˈḥê.râ) — other ✅
+- [[Middle Semitic/Lexicon/ܐܚܬܐ|ܐܚܬܐ]] ('aḥ.tâ) — sister ✅
+- [[Middle Semitic/Lexicon/ܐܝܝܠܐ|ܐܝܝܠܐ]] (êyalâ) — stag ✅
+- [[Middle Semitic/Lexicon/ܐܝܟܝ|ܐܝܟܝ]] ('êkê) — how ✅
+- [[Middle Semitic/Lexicon/ܐܝܠܐ|ܐܝܠܐ]] ('êl.lâ) — except, excluding ✅
+- [[Middle Semitic/Lexicon/ܐܝܠܗܐ|ܐܝܠܗܐ]] (êlhâ) — god, deity ✅
+- [[Middle Semitic/Lexicon/ܐܝܠܠܐ|ܐܝܠܠܐ]] (ella) — except, but ✅
+- [[Middle Semitic/Lexicon/ܐܝܢ|ܐܝܢ]] (ên) — yes ✅
+- [[Middle Semitic/Lexicon/ܐܝܢܐ|ܐܝܢܐ]] (ênâ) — where? ✅
+- [[Middle Semitic/Lexicon/ܐܝܢܐܣܐ|ܐܝܢܐܣܐ]] (î.'nâ.sâ) — human ✅
+- [[Middle Semitic/Lexicon/ܐܝܣܐ|ܐܝܣܐ]] (îssâ) — fire, ash, fever ✅
+- [[Middle Semitic/Lexicon/ܐܨܒܥ|ܐܨܒܥ]] (êṣbaʿ) — finger, toe ✅
+- [[Middle Semitic/Lexicon/ܐܟܠ|ܐܟܠ]] (â.'kal) — he ate, consumed ✅
+- [[Middle Semitic/Lexicon/ܐܠܝܐ|ܐܠܝܐ]] (al.yâ) — fat tail ✅
+- [[Middle Semitic/Lexicon/ܐܠܦܐ|ܐܠܦܐ]] (alpâ) — thousand; alpha (the letter) ✅
+- [[Middle Semitic/Lexicon/ܐܡ|ܐܡ]] ('am) — if ✅
+- [[Middle Semitic/Lexicon/ܐܡܐ|ܐܡܐ]] ('im.mâ) — mother, source ✅
+- [[Middle Semitic/Lexicon/ܐܡܣܐ|ܐܡܣܐ]] (ʾamsâ) — yesterday ✅
+- [[Middle Semitic/Lexicon/ܐܢ|ܐܢ]] ('an) — that (complementizer) ✅
+- [[Middle Semitic/Lexicon/ܐܢܐ|ܐܢܐ]] ('a.nâ) — I ✅
+- [[Middle Semitic/Lexicon/ܐܢܦܐ|ܐܢܦܐ]] (ânpâ) — nose ✅
+- [[Middle Semitic/Lexicon/ܐܢܫܐ|ܐܢܫܐ]] (ʾinšâ) — female ✅
+- [[Middle Semitic/Lexicon/ܐܢܬܐ|ܐܢܬܐ]] (antâ) — thou (m) ✅
+- [[Middle Semitic/Lexicon/ܐܢܬܘܡ|ܐܢܬܘܡ]] (antûm) — you ✅
+- [[Middle Semitic/Lexicon/ܐܢܬܝ|ܐܢܬܝ]] (antî) — thou (f) ✅
+- [[Middle Semitic/Lexicon/ܐܣܝܪܐ|ܐܣܝܪܐ]] (asîrâ) — prison, captive ✅
+- [[Middle Semitic/Lexicon/ܐܣܠܐ|ܐܣܠܐ]] (aslâ) — tamarisk ✅
+- [[Middle Semitic/Lexicon/ܐܣܪ|ܐܣܪ]] (âsar) — he bound, imprisoned ✅
+- [[Middle Semitic/Lexicon/ܐܦܥܐ|ܐܦܥܐ]] (ap`â) — viper ✅
+- [[Middle Semitic/Lexicon/ܐܪܒܐ|ܐܪܒܐ]] (arbâ) — locust ✅
+- [[Middle Semitic/Lexicon/ܐܪܒܝܬܐ|ܐܪܒܝܬܐ]] (arbîtâ) — shrimp ✅
+- [[Middle Semitic/Lexicon/ܐܪܒܥܐ|ܐܪܒܥܐ]] (arba`â) — four ✅
+- [[Middle Semitic/Lexicon/ܐܪܚܐ|ܐܪܚܐ]] (arḥâ) — cow ✅
+- [[Middle Semitic/Lexicon/ܐܪܢܒܐ|ܐܪܢܒܐ]] (arnabâ) — rabbit ✅
+- [[Middle Semitic/Lexicon/ܐܪܨܐ|ܐܪܨܐ]] (arṣâ) — earth, land, country ✅
+- [[Middle Semitic/Lexicon/ܐܬܢܐ|ܐܬܢܐ]] ('at.nâ) — jenny ✅
+- [[Middle Semitic/Lexicon/ܒ|ܒ]] (bi-) — at, on (enclitic) ✅
+- [[Middle Semitic/Lexicon/ܒܕܐ|ܒܕܐ]] (badâ) — he invented, he devised, he originated ✅
+- [[Middle Semitic/Lexicon/ܒܕܐܬܐ|ܒܕܐܬܐ]] (badâtâ) — beginning ✅
+- [[Middle Semitic/Lexicon/ܒܗܐ|ܒܗܐ]] (bihâ) — on her ✅
+- [[Middle Semitic/Lexicon/ܒܗܘ|ܒܗܘ]] (bihû) — on him ✅
+- [[Middle Semitic/Lexicon/ܒܗܘܡ|ܒܗܘܡ]] (bihûm) — on them ✅
+- [[Middle Semitic/Lexicon/ܒܗܝܡܐ|ܒܗܝܡܐ]] (ba.'hî.mâ) — beast, livestock ✅
+- [[Middle Semitic/Lexicon/ܒܝܗܡ|ܒܝܗܡ]] (bîham) — he was confused, murky, dubious ✅
+- [[Middle Semitic/Lexicon/ܒܗܢܐ|ܒܗܢܐ]] (bah.nâ) — big toe, thumb ✅
+- [[Middle Semitic/Lexicon/ܒܘܨܐ|ܒܘܨܐ]] (bûṣâ) — reed, linen, byssus ✅
+- [[Middle Semitic/Lexicon/ܒܚܪܐ|ܒܚܪܐ]] (baḥrâ) — sea ✅
+- [[Middle Semitic/Lexicon/ܒܛܠ|ܒܛܠ]] (ba.'ṭal) — he became null, void, worthless ✅
+- [[Middle Semitic/Lexicon/ܒܝܐܪܐ|ܒܝܐܪܐ]] ('bî'.râ) — well, waterhole ✅
+- [[Middle Semitic/Lexicon/ܒܝܢ|ܒܝܢ]] (bên) — between ✅
+- [[Middle Semitic/Lexicon/ܒܝܢܐ|ܒܝܢܐ]] (bê.nâ) — son ✅
+- [[Middle Semitic/Lexicon/ܒܝܢܗܐ|ܒܝܢܗܐ]] (bênhâ) — between her ✅
+- [[Middle Semitic/Lexicon/ܒܝܢܗܘ|ܒܝܢܗܘ]] (bênhû) — between him ✅
+- [[Middle Semitic/Lexicon/ܒܝܢܗܘܡ|ܒܝܢܗܘܡ]] (bênhûm) — between them ✅
+- [[Middle Semitic/Lexicon/ܒܝܢܟܐ|ܒܝܢܟܐ]] (bênkâ) — between you (m) ✅
+- [[Middle Semitic/Lexicon/ܒܝܢܟܘܡ|ܒܝܢܟܘܡ]] (bênkûm) — between y'all ✅
+- [[Middle Semitic/Lexicon/ܒܝܢܟܝ|ܒܝܢܟܝ]] (bênkî) — between you (f) ✅
+- [[Middle Semitic/Lexicon/ܒܝܢܢܘ|ܒܝܢܢܘ]] (bênnû) — between us ✅
+- [[Middle Semitic/Lexicon/ܒܝܢܢܝ|ܒܝܢܢܝ]] (bênnî) — between me ✅
+- [[Middle Semitic/Lexicon/ܒܝܢܬܐ|ܒܝܢܬܐ]] (bêṇ.tâ) — daughter ✅
+- [[Middle Semitic/Lexicon/ܒܝܬ|ܒܝܬ]] (bêt) — he overnighted ✅
+- [[Middle Semitic/Lexicon/ܒܝܬܐ|ܒܝܬܐ]] ('bê.tâ) — house, beta ✅
+- [[Middle Semitic/Lexicon/ܒܟܐ|ܒܟܐ]] (bikâ) — on you (m) ✅
+- [[Middle Semitic/Lexicon/ܒܟܘܡ|ܒܟܘܡ]] (bikûm) — on y'all ✅
+- [[Middle Semitic/Lexicon/ܒܟܝ|ܒܟܝ]] (bikî) — on you (f) ✅
+- [[Middle Semitic/Lexicon/ܒܢܘ|ܒܢܘ]] (binû) — on us ✅
+- [[Middle Semitic/Lexicon/ܒܢܝ|ܒܢܝ]] ('ba.nê) — he built ✅
+- [[Middle Semitic/Lexicon/ܒܢܝ 2|ܒܢܝ 2]] (binî) — on me ✅
+- [[Middle Semitic/Lexicon/ܒܢܝܢܐ|ܒܢܝܢܐ]] (bin.'ya.nâ) — building ✅
+- [[Middle Semitic/Lexicon/ܒܣܠ|ܒܣܠ]] (basal) — he cooked ✅
+- [[Middle Semitic/Lexicon/ܒܥܠ|ܒܥܠ]] (ba.`al) — he took, married ✅
+- [[Middle Semitic/Lexicon/ܒܥܠܐ|ܒܥܠܐ]] (baʿlâ) — master, husband ✅
+- [[Middle Semitic/Lexicon/ܒܥܠܘܬܐ|ܒܥܠܘܬܐ]] (baʿlûtâ) — ownership ✅
+- [[Middle Semitic/Lexicon/ܒܥܠܬܐ|ܒܥܠܬܐ]] (baʿlatâ) — wife, mistress ✅
+- [[Middle Semitic/Lexicon/ܒܩܪܐ|ܒܩܪܐ]] ('baq.râ) — cattle ✅
+- [[Middle Semitic/Lexicon/ܒܝܪ|ܒܝܪ]] (bîr) — he was pious  ✅
+- [[Middle Semitic/Lexicon/ܒܪܐ|ܒܪܐ]] (barrâ) — outdoors, dry land ✅
+- [[Middle Semitic/Lexicon/ܒܪܐ 2|ܒܪܐ 2]] (barâ) — he created (ex nihilo) ✅
+- [[Middle Semitic/Lexicon/ܒܪܟ|ܒܪܟ]] (barak) — he blessed ✅
+- [[Middle Semitic/Lexicon/ܒܪܟܐ|ܒܪܟܐ]] (bir.kâ) — knee ✅
+- [[Middle Semitic/Lexicon/ܒܪܩ|ܒܪܩ]] (ba.'raq) — he flashed, lightning'd ✅
+- [[Middle Semitic/Lexicon/ܒܪܩܐ|ܒܪܩܐ]] ('bar.qâ) — lightning ✅
+- [[Middle Semitic/Lexicon/ܒܫܢܐ|ܒܫܢܐ]] (bašnâ) — adder, cobra ✅
+- [[Middle Semitic/Lexicon/ܒܫܪܐ|ܒܫܪܐ]] (bašrâ) — flesh, skin ✅
+- [[Middle Semitic/Lexicon/ܒܬܘܠܐ|ܒܬܘܠܐ]] (batûlâ) — birch, male virgin ✅
+- [[Middle Semitic/Lexicon/ܒܬܘܠܐܢܐ|ܒܬܘܠܐܢܐ]] (batûlânâ) — pure, chaste ✅
+- [[Middle Semitic/Lexicon/ܒܬܘܠܬܐ|ܒܬܘܠܬܐ]] (batûltâ) — virgin, girl, virgo ✅
+- [[Middle Semitic/Lexicon/ܓܒܪܐ|ܓܒܪܐ]] (gabrâ) — man ✅
+- [[Middle Semitic/Lexicon/ܓܒܪܘܐ|ܓܒܪܘܐ]] (gabbûrâ) — hero, strong man ✅
+- [[Middle Semitic/Lexicon/ܓܕܝ|ܓܕܝ]] (gadê) — young goat, kid ✅
+- [[Middle Semitic/Lexicon/ܓܘܪܢܐ|ܓܘܪܢܐ]] (gûrnâ) — threshing floor ✅
+- [[Middle Semitic/Lexicon/ܓܡܠܐ|ܓܡܠܐ]] ('gam.lâ) — camel, gimel ✅
+- [[Middle Semitic/Lexicon/ܓܢܒܐ|ܓܢܒܐ]] (ganbâ) — side, flank and back together ✅
+- [[Middle Semitic/Lexicon/ܕܒܘܪܐ|ܕܒܘܪܐ]] (dabôrâ) — wasp, Deborah ✅
+- [[Middle Semitic/Lexicon/ܕܒܣܐ|ܕܒܣܐ]] (dabsâ) — honey, syrup, molasses ✅
+- [[Middle Semitic/Lexicon/ܕܘܒܐ|ܕܘܒܐ]] (dûbâ) — bear ✅
+- [[Middle Semitic/Lexicon/ܕܘܣ|ܕܘܣ]] (dôs) — he threshed ✅
+- [[Middle Semitic/Lexicon/ܕܠ|ܕܠ]] (dal) — of (genitive linker) ✅
+- [[Middle Semitic/Lexicon/ܕܠܬܐ|ܕܠܬܐ]] (dal.tâ) — hanging door, delta ✅
+- [[Middle Semitic/Lexicon/ܕܡܐ|ܕܡܐ]] ('da.mâ) — blood ✅
+- [[Middle Semitic/Lexicon/ܕܪܕܪܐ|ܕܪܕܪܐ]] (dardarâ) — thistle ✅
+- [[Middle Semitic/Lexicon/ܕܪܘ|ܕܪܘ]] (darô) — he winnowed ✅
+- [[Middle Semitic/Lexicon/ܕܫܐ|ܕܫܐ]] (dašâ) — grass ✅
+- [[Middle Semitic/Lexicon/ܗ|ܗ]] (ha) — <polar question particle> ✅
+- [[Middle Semitic/Lexicon/ܗܘܐ|ܗܘܐ]] (hô') — he ✅
+- [[Middle Semitic/Lexicon/ܗܘ|ܗܘ]] (hô) — was, there was ✅
+- [[Middle Semitic/Lexicon/ܗܘܡ|ܗܘܡ]] (hûm) — they ✅
+- [[Middle Semitic/Lexicon/ܗܘܢ|ܗܘܢ]] (hun) — here ✅
+- [[Middle Semitic/Lexicon/ܗܘܢܟ|ܗܘܢܟ]] (hunak) — there ✅
+- [[Middle Semitic/Lexicon/ܗܙܐ|ܗܙܐ]] (hazâ) — this ✅
+- [[Middle Semitic/Lexicon/ܗܝܐ|ܗܝܐ]] (hiyâ) — she ✅
+- [[Middle Semitic/Lexicon/ܗܠ|ܗܠ]] (hal) — the (definite article) ✅
+- [[Middle Semitic/Lexicon/ܗܠܟ|ܗܠܟ]] (halak) — he went away ✅
+- [[Middle Semitic/Lexicon/ܘ|ܘ]] (wa-) — and ✅
+- [[Middle Semitic/Lexicon/ܘܒܠ|ܘܒܠ]] (wabal) — he bore, carried along ✅
+- [[Middle Semitic/Lexicon/ܘܕܥ|ܘܕܥ]] (wûda`) — he knew ✅
+- [[Middle Semitic/Lexicon/ܘܘ|ܘܘ]] (wô) — peg ✅
+- [[Middle Semitic/Lexicon/ܘܚܕ|ܘܚܕ]] (waḥad) — one ✅
+- [[Middle Semitic/Lexicon/ܘܚܕܐ|ܘܚܕܐ]] (waħdâ) — one (f.) ✅
+- [[Middle Semitic/Lexicon/ܘܝܢܐ|ܘܝܢܐ]] (wênâ) — wine ✅
+- [[Middle Semitic/Lexicon/ܘܠܕ|ܘܠܕ]] (walad) — he gave birth ✅
+- [[Middle Semitic/Lexicon/ܘܠܕܐ|ܘܠܕܐ]] (waldâ) — child ✅
+- [[Middle Semitic/Lexicon/ܘܪܕ|ܘܪܕ]] (warad) — he descended ✅
+- [[Middle Semitic/Lexicon/ܘܪܚܐ|ܘܪܚܐ]] (warḥâ) — moon ✅
+- [[Middle Semitic/Lexicon/ܘܥܠܐ|ܘܥܠܐ]] (wa`lâ) — ibex ✅
+- [[Middle Semitic/Lexicon/ܘܪܠܐ|ܘܪܠܐ]] (warlâ) — monitor lizard ✅
+- [[Middle Semitic/Lexicon/ܝܐ|ܝܐ]] (yâ) — O (vocative) ✅
+- [[Middle Semitic/Lexicon/ܟ|ܟ]] (ki) — like ✅
+- [[Middle Semitic/Lexicon/ܟܗܐ|ܟܗܐ]] (kihâ) — like her ✅
+- [[Middle Semitic/Lexicon/ܟܗܘ|ܟܗܘ]] (kihû) — like him ✅
+- [[Middle Semitic/Lexicon/ܟܗܘܡ|ܟܗܘܡ]] (kihûm) — like them ✅
+- [[Middle Semitic/Lexicon/ܟܟܐ|ܟܟܐ]] (kikâ) — like you (m) ✅
+- [[Middle Semitic/Lexicon/ܟܟܘܡ|ܟܟܘܡ]] (kikûm) — like y'all ✅
+- [[Middle Semitic/Lexicon/ܟܟܝ|ܟܟܝ]] (kikî) — like you (f) ✅
+- [[Middle Semitic/Lexicon/ܟܡܢ|ܟܡܢ]] (kaman) — also, too ✅
+- [[Middle Semitic/Lexicon/ܟܢܘ|ܟܢܘ]] (kinû) — like us ✅
+- [[Middle Semitic/Lexicon/ܟܢܝ|ܟܢܝ]] (kinî) — like me ✅
+- [[Middle Semitic/Lexicon/ܠܗܐ|ܠܗܐ]] (lihâ) — for her ✅
+- [[Middle Semitic/Lexicon/ܠܗܘ|ܠܗܘ]] (lihû) — for him ✅
+- [[Middle Semitic/Lexicon/ܠܗܘܡ|ܠܗܘܡ]] (lihûm) — for them ✅
+- [[Middle Semitic/Lexicon/ܠܝܕ|ܠܝܕ]] (lîd) — who, which, that (relative pronoun) ✅
+- [[Middle Semitic/Lexicon/ܠܟܐ|ܠܟܐ]] (likâ) — for you (m) ✅
+- [[Middle Semitic/Lexicon/ܠܟܘܡ|ܠܟܘܡ]] (likûm) — for y'all ✅
+- [[Middle Semitic/Lexicon/ܠܟܝ|ܠܟܝ]] (likî) — for you (f) ✅
+- [[Middle Semitic/Lexicon/ܠܢܘ|ܠܢܘ]] (linû) — for us ✅
+- [[Middle Semitic/Lexicon/ܠܢܝ|ܠܢܝ]] (linî) — for me ✅
+- [[Middle Semitic/Lexicon/ܡܢܗܐ|ܡܢܗܐ]] (minhâ) — from her ✅
+- [[Middle Semitic/Lexicon/ܡܢܗܘ|ܡܢܗܘ]] (minhû) — from him ✅
+- [[Middle Semitic/Lexicon/ܡܢܗܘܡ|ܡܢܗܘܡ]] (minhûm) — from them ✅
+- [[Middle Semitic/Lexicon/ܡܢܟܐ|ܡܢܟܐ]] (minkâ) — from you (m) ✅
+- [[Middle Semitic/Lexicon/ܡܢܟܘܡ|ܡܢܟܘܡ]] (minkûm) — from y'all ✅
+- [[Middle Semitic/Lexicon/ܡܢܟܝ|ܡܢܟܝ]] (minkî) — from you (f) ✅
+- [[Middle Semitic/Lexicon/ܡܢܢܘ|ܡܢܢܘ]] (minnû) — from us ✅
+- [[Middle Semitic/Lexicon/ܡܢܢܝ|ܡܢܢܝ]] (minnî) — from me ✅
+- [[Middle Semitic/Lexicon/ܥܠܗܐ|ܥܠܗܐ]] (ʿalhâ) — upon her ✅
+- [[Middle Semitic/Lexicon/ܥܠܗܘ|ܥܠܗܘ]] (ʿalhû) — upon him ✅
+- [[Middle Semitic/Lexicon/ܥܠܗܘܡ|ܥܠܗܘܡ]] (ʿalhûm) — upon them ✅
+- [[Middle Semitic/Lexicon/ܥܠܟܐ|ܥܠܟܐ]] (ʿalkâ) — upon you (m) ✅
+- [[Middle Semitic/Lexicon/ܥܠܟܘܡ|ܥܠܟܘܡ]] (ʿalkûm) — upon y'all ✅
+- [[Middle Semitic/Lexicon/ܥܠܟܝ|ܥܠܟܝ]] (ʿalkî) — upon you (f) ✅
+- [[Middle Semitic/Lexicon/ܥܠܢܘ|ܥܠܢܘ]] (ʿalnû) — upon us ✅
+- [[Middle Semitic/Lexicon/ܥܠܢܝ|ܥܠܢܝ]] (ʿalnî) — upon me ✅
+- [[Middle Semitic/Lexicon/ܥܡ|ܥܡ]] (ʿim) — with ✅
+- [[Middle Semitic/Lexicon/ܥܡܗܐ|ܥܡܗܐ]] (ʿimhâ) — with her ✅
+- [[Middle Semitic/Lexicon/ܥܡܗܘ|ܥܡܗܘ]] (ʿimhû) — with him ✅
+- [[Middle Semitic/Lexicon/ܥܡܗܘܡ|ܥܡܗܘܡ]] (ʿimhûm) — with them ✅
+- [[Middle Semitic/Lexicon/ܥܡܟܐ|ܥܡܟܐ]] (ʿimkâ) — with you (m) ✅
+- [[Middle Semitic/Lexicon/ܥܡܟܘܡ|ܥܡܟܘܡ]] (ʿimkûm) — with y'all ✅
+- [[Middle Semitic/Lexicon/ܥܡܟܝ|ܥܡܟܝ]] (ʿimkî) — with you (f) ✅
+- [[Middle Semitic/Lexicon/ܥܡܢܘ|ܥܡܢܘ]] (ʿimnû) — with us ✅
+- [[Middle Semitic/Lexicon/ܥܡܢܝ|ܥܡܢܝ]] (ʿimnî) — with me ✅
+- [[Middle Semitic/Lexicon/ܦ|ܦ]] (pi) — in ✅
+- [[Middle Semitic/Lexicon/ܦܗܐ|ܦܗܐ]] (pihâ) — in her ✅
+- [[Middle Semitic/Lexicon/ܦܗܘ|ܦܗܘ]] (pihû) — in him ✅
+- [[Middle Semitic/Lexicon/ܦܗܘܡ|ܦܗܘܡ]] (pihûm) — in them ✅
+- [[Middle Semitic/Lexicon/ܦܟܐ|ܦܟܐ]] (pikâ) — in you (m) ✅
+- [[Middle Semitic/Lexicon/ܦܟܘܡ|ܦܟܘܡ]] (pikûm) — in y'all ✅
+- [[Middle Semitic/Lexicon/ܦܟܝ|ܦܟܝ]] (pikî) — in you (f) ✅
+- [[Middle Semitic/Lexicon/ܦܢܘ|ܦܢܘ]] (pinû) — in us ✅
+- [[Middle Semitic/Lexicon/ܦܢܝ|ܦܢܝ]] (pinî) — in me ✅
+- [[Middle Semitic/Lexicon/ܩܪܨ|ܩܪܨ]] (qaraṣ) — he poked, he pinched ✅
+- [[Middle Semitic/Lexicon/ܘܪܩܐ|ܘܪܩܐ]] (waraqâ) — green ✅
+- [[Middle Semitic/Lexicon/ܩܪܩܥܐ|ܩܪܩܥܐ]] (qarqa`â) — ground, floor ✅
+- [[Middle Semitic/Lexicon/ܙܒܘܒܐ|ܙܒܘܒܐ]] (zavûvâ) — fly, midge ✅
+- [[Middle Semitic/Lexicon/ܙܒܚ|ܙܒܚ]] (zavaḥ) — he massacred ✅
+- [[Middle Semitic/Lexicon/ܙܒܚܐ|ܙܒܚܐ]] (zabḥâ) — massacre ✅
+- [[Middle Semitic/Lexicon/ܙܝܐܒܐ|ܙܝܐܒܐ]] (zê`bâ) — wolf ✅
+- [[Middle Semitic/Lexicon/ܙܟܐ|ܙܟܐ]] (zakâ) — that ✅
+- [[Middle Semitic/Lexicon/ܙܟܪܐ|ܙܟܪܐ]] (zakrâ) — male ✅
+- [[Middle Semitic/Lexicon/ܙܡܪ|ܙܡܪ]] (zamar) — he sang, made music ✅
+- [[Middle Semitic/Lexicon/ܙܢܒܐ|ܙܢܒܐ]] (zanbâ) — tail ✅
+- [[Middle Semitic/Lexicon/ܙܩܢܐ|ܙܩܢܐ]] (ziqnâ) — beard ✅
+- [[Middle Semitic/Lexicon/ܙܪܥ|ܙܪܥ]] (zaraʿ) — he sowed ✅
+- [[Middle Semitic/Lexicon/ܙܪܥܐ|ܙܪܥܐ]] (zar`â) — seed ✅
+- [[Middle Semitic/Lexicon/ܚܒܠܐ|ܚܒܠܐ]] (ḥablâ) — rope ✅
+- [[Middle Semitic/Lexicon/ܚܕܫ|ܚܕܫ]] (ḥadaš) — he became new, renewed ✅
+- [[Middle Semitic/Lexicon/ܚܣܒ|ܚܣܒ]] (ḥasab) — he thought, reckoned ✅
+- [[Middle Semitic/Lexicon/ܚܘܪܐ|ܚܘܪܐ]] (ḥûrâ) — shit, dump ✅
+- [[Middle Semitic/Lexicon/ܚܘܬܐ|ܚܘܬܐ]] (ḥûtâ) — fish, whale ✅
+- [[Middle Semitic/Lexicon/ܚܙܝܪܐ|ܚܙܝܪܐ]] (ḥazîrâ) — pig ✅
+- [[Middle Semitic/Lexicon/ܚܛܐܐ|ܚܛܐܐ]] (ḥaṭ'â) — sin ✅
+- [[Middle Semitic/Lexicon/ܚܛܝܐܢܐ|ܚܛܝܐܢܐ]] (ḥaṭiyânâ) — sinful ✅
+- [[Middle Semitic/Lexicon/ܚܝܡܨ|ܚܝܡܨ]] (ḥîmaṣ) — he was sour ✅
+- [[Middle Semitic/Lexicon/ܚܝܨܢܐ|ܚܝܨܢܐ]] (ḥîṣnâ) — bosom, breast ✅
+- [[Middle Semitic/Lexicon/ܚܟܡܐ|ܚܟܡܐ]] (ḥakmâ) — wisdom ✅
+- [[Middle Semitic/Lexicon/ܚܠܒܐ|ܚܠܒܐ]] (ḥalbâ) — milk ✅
+- [[Middle Semitic/Lexicon/ܚܝܠܘ|ܚܝܠܘ]] (ḥîlû) — he was sweet ✅
+- [[Middle Semitic/Lexicon/ܚܠܘܐ|ܚܠܘܐ]] (ḥalwâ) — halva ✅
+- [[Middle Semitic/Lexicon/ܚܠܦ|ܚܠܦ]] (ḥalap) — he passed, replaced ✅
+- [[Middle Semitic/Lexicon/ܚܡܐ|ܚܡܐ]] (ḥammâ) — father in law ✅
+- [[Middle Semitic/Lexicon/ܚܡܕ|ܚܡܕ]] (ḥamad) — he desired ✅
+- [[Middle Semitic/Lexicon/ܚܡܘܪܐ|ܚܡܘܪܐ]] (ḥimôrâ) — donkey, ass ✅
+- [[Middle Semitic/Lexicon/ܚܡܬܐ|ܚܡܬܐ]] (ḥamtâ) — mother in law ✅
+- [[Middle Semitic/Lexicon/ܚܡܣܐ|ܚܡܣܐ]] (ḥamsâ) — five ✅
+- [[Middle Semitic/Lexicon/ܚܢܛܐ|ܚܢܛܐ]] (ḥinṭâ) — wheat ✅
+- [[Middle Semitic/Lexicon/ܚܝܣܢ|ܚܝܣܢ]] (ḥîsan) — he was good, handsome ✅
+- [[Middle Semitic/Lexicon/ܚܦܪ|ܚܦܪ]] (ḥafar) — he dug ✅
+- [[Middle Semitic/Lexicon/ܚܦܫ|ܚܦܫ]] (ḥafaš) — he gathered, searched out ✅
+- [[Middle Semitic/Lexicon/ܚܨܕ|ܚܨܕ]] (ḥaṣad) — he reaped ✅
+- [[Middle Semitic/Lexicon/ܚܨܢ|ܚܨܢ]] (ḥaṣan) — he embraced ✅
+- [[Middle Semitic/Lexicon/ܚܩܠܐ|ܚܩܠܐ]] (ḥaqlâ) — field ✅
+- [[Middle Semitic/Lexicon/ܚܪܐ|ܚܪܐ]] (ḥarâ) — he shat ✅
+- [[Middle Semitic/Lexicon/ܚܪܒܐ|ܚܪܒܐ]] (ḥarbâ) — sword, knife ✅
+- [[Middle Semitic/Lexicon/ܚܪܓܠܐ|ܚܪܓܠܐ]] (ḥargalâ) — cricket ✅
+- [[Middle Semitic/Lexicon/ܚܝܪܡ|ܚܝܪܡ]] (ḥîram) — he was excommunicated, forbidden ✅
+- [[Middle Semitic/Lexicon/ܚܪܫ|ܚܪܫ]] (ḥaraš) — he ploughed ✅
+- [[Middle Semitic/Lexicon/ܚܬܢܐ|ܚܬܢܐ]] (ḥatnâ) — son in law ✅
+- [[Middle Semitic/Lexicon/ܛܘܒܐ|ܛܘܒܐ]] (ṭôvâ) — good, pleasant ✅
+- [[Middle Semitic/Lexicon/ܛܘܠܐ|ܛܘܠܐ]] (ˈṭô.lâ) — long ✅
+- [[Middle Semitic/Lexicon/ܛܘܦܪܐ|ܛܘܦܪܐ]] (ṭûprâ) — fingernail, claw ✅
+- [[Middle Semitic/Lexicon/ܛܘܪܐ|ܛܘܪܐ]] (ṭûrrâ) — flint ✅
+- [[Middle Semitic/Lexicon/ܛܪܐ|ܛܪܐ]] (ṭarrâ) — flint ✅
+- [[Middle Semitic/Lexicon/ܛܚܘܠܐ|ܛܚܘܠܐ]] (ṭiḥôlâ) — spleen, milt ✅
+- [[Middle Semitic/Lexicon/ܛܚܢ|ܛܚܢ]] (ṭaḥan) — he gound, milled ✅
+- [[Middle Semitic/Lexicon/ܛܝܠܐ|ܛܝܠܐ]] (ṭêllâ) — shadow ✅
+- [[Middle Semitic/Lexicon/ܛܝܢܐ|ܛܝܢܐ]] (ṭînâ) — clay ✅
+- [[Middle Semitic/Lexicon/ܛܠܝ|ܛܠܝ]] (ṭalê) — lamb, faun ✅
+- [[Middle Semitic/Lexicon/ܛܠܡܐ|ܛܠܡܐ]] (ṭalamâ) — black, dark ✅
+- [[Middle Semitic/Lexicon/ܛܡܐ|ܛܡܐ]] (ṭamâ) — he thirsted ✅
+- [[Middle Semitic/Lexicon/ܝܕܐ|ܝܕܐ]] (yidnâ) — hand ✅
+- [[Middle Semitic/Lexicon/ܝܘܡܐ|ܝܘܡܐ]] (yômâ) — day ✅
+- [[Middle Semitic/Lexicon/ܝܘܢܐ|ܝܘܢܐ]] (yônâ) — dove, Jonah ✅
+- [[Middle Semitic/Lexicon/ܝܡܝܢܐ|ܝܡܝܢܐ]] (yamînâ) — right hand ✅
+- [[Middle Semitic/Lexicon/ܝܢܩ|ܝܢܩ]] (yanaq) — he sucked, suckled ✅
+- [[Middle Semitic/Lexicon/ܝܢܩܐ|ܝܢܩܐ]] (yanqâ) — she-camel ✅
+- [[Middle Semitic/Lexicon/ܝܫ|ܝܫ]] (yiš) — there is ✅
+- [[Middle Semitic/Lexicon/ܟܐܣܐ|ܟܐܣܐ]] (kâsâ) — cup, beaker, goblet ✅
+- [[Middle Semitic/Lexicon/ܟܒܝܕܐ|ܟܒܝܕܐ]] (ka.ˈbî.dâ) — heavy ✅
+- [[Middle Semitic/Lexicon/ܟܒܝܪܐ|ܟܒܝܪܐ]] (kabîrâ) — big ✅
+- [[Middle Semitic/Lexicon/ܟܘܗܢܐ|ܟܘܗܢܐ]] (kôhnâ) — priest ✅
+- [[Middle Semitic/Lexicon/ܟܘܟܒܐ|ܟܘܟܒܐ]] (kôkbâ) — star ✅
+- [[Middle Semitic/Lexicon/ܟܘܠ|ܟܘܠ]] (kôl) — all ✅
+- [[Middle Semitic/Lexicon/ܟܘܢ|ܟܘܢ]] (kôn) — to be equal ✅
+- [[Middle Semitic/Lexicon/ܟܝ|ܟܝ]] (kî) — in order that, so that (subj) ✅
+- [[Middle Semitic/Lexicon/ܟܠܒܐ|ܟܠܒܐ]] (kalbâ) — dog ✅
+- [[Middle Semitic/Lexicon/ܟܡܐ|ܟܡܐ]] (kamâ) — some ✅
+- [[Middle Semitic/Lexicon/ܟܢܐܪܐ|ܟܢܐܪܐ]] (kinnârâ) — lyre ✅
+- [[Middle Semitic/Lexicon/ܟܢܦܐ|ܟܢܦܐ]] (kanpâ) — wing ✅
+- [[Middle Semitic/Lexicon/ܟܦܐ|ܟܦܐ]] (kafâ) — palm, spoon ✅
+- [[Middle Semitic/Lexicon/ܟܦܪ|ܟܦܪ]] (kafar) — he covered, atoned ✅
+- [[Middle Semitic/Lexicon/ܟܪܫܐ|ܟܪܫܐ]] (karšâ) — belly ✅
+- [[Middle Semitic/Lexicon/ܟܬܒ|ܟܬܒ]] (katab) — he wrote ✅
+- [[Middle Semitic/Lexicon/ܟܬܦܐ|ܟܬܦܐ]] (katpâ) — shoulder ✅
+- [[Middle Semitic/Lexicon/ܠ-|ܠ-]] (li-) — for, to ✅
+- [[Middle Semitic/Lexicon/ܠܐ|ܠܐ]] (lâ) — not (non-past) ✅
+- [[Middle Semitic/Lexicon/ܠܒܐܢܐ|ܠܒܐܢܐ]] (labânâ) — white ✅
+- [[Middle Semitic/Lexicon/ܠܒܕܐ|ܠܒܕܐ]] (kabdâ) — liver, anger ✅
+- [[Middle Semitic/Lexicon/ܠܒܝܐ|ܠܒܝܐ]] (labyâ) — lion ✅
+- [[Middle Semitic/Lexicon/ܠܒܝܬܐ|ܠܒܝܬܐ]] (labyatâ) — lioness ✅
+- [[Middle Semitic/Lexicon/ܠܒܣ|ܠܒܣ]] (lavas) — he wore ✅
+- [[Middle Semitic/Lexicon/ܠܘܫ|ܠܘܫ]] (lôš) — he twisted, knead ✅
+- [[Middle Semitic/Lexicon/ܠܝܒܐ|ܠܝܒܐ]] (lîbbâ) — heart ✅
+- [[Middle Semitic/Lexicon/ܠܝܠܐ|ܠܝܠܐ]] (lêlâ) — night ✅
+- [[Middle Semitic/Lexicon/ܠܣܢܐ|ܠܣܢܐ]] ('lis.nâ) — tongue, language ✅
+- [[Middle Semitic/Lexicon/ܠܦܬܐ|ܠܦܬܐ]] (laptâ) — turnip ✅
+- [[Middle Semitic/Lexicon/ܡܐ|ܡܐ]] (mâ) — not (past) ✅
+- [[Middle Semitic/Lexicon/ܡܐܐ|ܡܐܐ]] (maʾâ) — hundred ✅
+- [[Middle Semitic/Lexicon/ܡܐܢ|ܡܐܢ]] (mân) — what? ✅
+- [[Middle Semitic/Lexicon/ܡܕܪܐ|ܡܕܪܐ]] (madrâ) — lump, clod ✅
+- [[Middle Semitic/Lexicon/ܡܘܗܪܐ|ܡܘܗܪܐ]] (mûhrâ) — colt (donkey and horse) ✅
+- [[Middle Semitic/Lexicon/ܡܘܚܐ|ܡܘܚܐ]] (muḥḥâ) — brain ✅
+- [[Middle Semitic/Lexicon/ܡܘܬ|ܡܘܬ]] (môt) — he died ✅
+- [[Middle Semitic/Lexicon/ܡܛܪܐ|ܡܛܪܐ]] (maṭrâ) — rain ✅
+- [[Middle Semitic/Lexicon/ܡܝܐ|ܡܝܐ]] (mayâ) — water ✅
+- [[Middle Semitic/Lexicon/ܡܝܠܚܐ|ܡܝܠܚܐ]] (mîlḥâ) — salt ✅
+- [[Middle Semitic/Lexicon/ܡܝܢ|ܡܝܢ]] (mîn) — who? ✅
+- [[Middle Semitic/Lexicon/ܡܝܬܝ|ܡܝܬܝ]] (mêtê) — when ✅
+- [[Middle Semitic/Lexicon/ܡܠܐܟܐ|ܡܠܐܟܐ]] (malâkâ) — angel ✅
+- [[Middle Semitic/Lexicon/ܡܠܟ|ܡܠܟ]] (ma.'lak) — he reigned ✅
+- [[Middle Semitic/Lexicon/ܡܠܟܐ|ܡܠܟܐ]] ('mal.kâ) — king ✅
+- [[Middle Semitic/Lexicon/ܡܠܟܬܐ|ܡܠܟܬܐ]] (mal.'ka.tâ) — queen ✅
+- [[Middle Semitic/Lexicon/ܡܢ|ܡܢ]] (min) — from ✅
+- [[Middle Semitic/Lexicon/ܡܣܚ|ܡܣܚ]] (masaḥ) — he anointed ✅
+- [[Middle Semitic/Lexicon/ܡܣܟܐ|ܡܣܟܐ]] (mas.kâ) — leather, hide ✅
+- [[Middle Semitic/Lexicon/ܡܥܝ|ܡܥܝ]] (maʿê) — intestines, guts ✅
+- [[Middle Semitic/Lexicon/ܡܝܬܩ|ܡܝܬܩ]] (mîtaq) — he was delicious ✅
+- [[Middle Semitic/Lexicon/ܢܕܘ|ܢܕܘ]] (nadô) — he summon/expelled ✅
+- [[Middle Semitic/Lexicon/ܢܗܪܐ|ܢܗܪܐ]] (nahrâ) — river ✅
+- [[Middle Semitic/Lexicon/ܢܘܢܐ|ܢܘܢܐ]] (nûnâ) — eel, tadpole ✅
+- [[Middle Semitic/Lexicon/ܢܘܪܐ|ܢܘܪܐ]] (nûrâ) — fire, light ✅
+- [[Middle Semitic/Lexicon/ܢܚܢܘ|ܢܚܢܘ]] (naḥ.nû) — we ✅
+- [[Middle Semitic/Lexicon/ܢܚܣܐ|ܢܚܣܐ]] (naḥsâ) — snake, adder ✅
+- [[Middle Semitic/Lexicon/ܢܚܪ|ܢܚܪ]] (naḥar) — he snored, snorted, sneezed ✅
+- [[Middle Semitic/Lexicon/ܢܝܣܐ|ܢܝܣܐ]] (nîsâ) — woman, wife ✅
+- [[Middle Semitic/Lexicon/ܢܝܣܪܐ|ܢܝܣܪܐ]] (nîsrâ) — eagle, vulture ✅
+- [[Middle Semitic/Lexicon/ܢܡܠܐ|ܢܡܠܐ]] (namlâ) — ant ✅
+- [[Middle Semitic/Lexicon/ܢܡܪܐ|ܢܡܪܐ]] (nimrâ) — leopard ✅
+- [[Middle Semitic/Lexicon/ܢܥܡ|ܢܥܡ]] (naʿam) — he pleased ✅
+- [[Middle Semitic/Lexicon/ܢܦܚ|ܢܦܚ]] (nafaḥ) — he blew, he exhaled, he breathed ✅
+- [[Middle Semitic/Lexicon/ܢܦܣܐ|ܢܦܣܐ]] (napsâ) — soul, life, breath ✅
+- [[Middle Semitic/Lexicon/ܣܐܠ|ܣܐܠ]] (saʾal) — he asked ✅
+- [[Middle Semitic/Lexicon/ܣܒܛ|ܣܒܛ]] (sabaṭ) — he beat ✅
+- [[Middle Semitic/Lexicon/ܣܒܥܐ|ܣܒܥܐ]] (sab`â) — seven ✅
+- [[Middle Semitic/Lexicon/ܣܗܪܐ|ܣܗܪܐ]] (sahrâ) — month ✅
+- [[Middle Semitic/Lexicon/ܣܘܟܪܐ|ܣܘܟܪܐ]] (sûkrâ) — sugar ✅
+- [[Middle Semitic/Lexicon/ܣܚܢ|ܣܚܢ]] (saḥan) — he warmed up, he heated ✅
+- [[Middle Semitic/Lexicon/ܣܚܪܐ|ܣܚܪܐ]] (saḥrâ) — morning ✅
+- [[Middle Semitic/Lexicon/ܣܝܒܛܐ|ܣܝܒܛܐ]] (sîbṭâ) — stick, beater ✅
+- [[Middle Semitic/Lexicon/ܣܝܟܪܐ|ܣܝܟܪܐ]] (sîkrâ) — alcohol, booze ✅
+- [[Middle Semitic/Lexicon/ܣܝܠܝ|ܣܝܠܝ]] (sîlê) — placenta ✅
+- [[Middle Semitic/Lexicon/ܣܝܡܐ|ܣܝܡܐ]] (sêmâ) — name ✅
+- [[Middle Semitic/Lexicon/ܣܝܢܐ|ܣܝܢܐ]] (sînnâ) — tooth ✅
+- [[Middle Semitic/Lexicon/ܣܝܫܐ|ܣܝܫܐ]] (sêšâ) — six ✅
+- [[Middle Semitic/Lexicon/ܣܠܘܡ|ܣܠܘܡ]] (salôm) — hello ✅
+- [[Middle Semitic/Lexicon/ܣܠܘܡܐ|ܣܠܘܡܐ]] (salômâ) — peace ✅
+- [[Middle Semitic/Lexicon/ܣܝܠܡ|ܣܝܠܡ]] (sîlam) — he was at peace ✅
+- [[Middle Semitic/Lexicon/ܣܠܩ|ܣܠܩ]] (salaq) — he boiled ✅
+- [[Middle Semitic/Lexicon/ܣܡܝ|ܣܡܝ]] (samê) — sky, heaven ✅
+- [[Middle Semitic/Lexicon/ܣܝܡܢ|ܣܝܡܢ]] (sîman) — he was fat ✅
+- [[Middle Semitic/Lexicon/ܣܡܢܐ|ܣܡܢܐ]] (samnâ) — fat, ghee ✅
+- [[Middle Semitic/Lexicon/ܣܡܥ|ܣܡܥ]] (sama`) — he heard ✅
+- [[Middle Semitic/Lexicon/ܣܢܝ|ܣܢܝ]] (sanê) — year ✅
+- [[Middle Semitic/Lexicon/ܣܥܝܪܐ|ܣܥܝܪܐ]] (sa`îrâ) — fire, hell ✅
+- [[Middle Semitic/Lexicon/ܥܒܕܐ|ܥܒܕܐ]] (`abdâ) — slave, servant ✅
+- [[Middle Semitic/Lexicon/ܥܒܝ|ܥܒܝ]] (ʿabê) — forest, jungle ✅
+- [[Middle Semitic/Lexicon/ܥܒܝ 2|ܥܒܝ 2]] (ˈʿa.bê) — thick ✅
+- [[Middle Semitic/Lexicon/ܥܒܪ|ܥܒܪ]] (`avar) — he cross, traversed ✅
+- [[Middle Semitic/Lexicon/ܥܘܪܒܐ|ܥܘܪܒܐ]] (`ûrbâ) — raven, crow ✅
+- [[Middle Semitic/Lexicon/ܥܛܡܐ|ܥܛܡܐ]] (`aṭmâ) — bone ✅
+- [[Middle Semitic/Lexicon/ܥܝܓܠܐ|ܥܝܓܠܐ]] (`îglâ) — calf ✅
+- [[Middle Semitic/Lexicon/ܥܝܢܐ|ܥܝܢܐ]] (`êna) — eye, ayin, spring ✅
+- [[Middle Semitic/Lexicon/ܥܝܢܙܐ|ܥܝܢܙܐ]] (ʿênzâ) — goat ✅
+- [[Middle Semitic/Lexicon/ܥܝܨܐ|ܥܝܨܐ]] (`îṣâ) — tree, wood ✅
+- [[Middle Semitic/Lexicon/ܥܝܪܐ|ܥܝܪܐ]] (`îrâ) — foal, new donkey ✅
+- [[Middle Semitic/Lexicon/ܥܟܒܪܐ|ܥܟܒܪܐ]] (`akbarâ) — mouse ✅
+- [[Middle Semitic/Lexicon/ܥܠ-|ܥܠ-]] (`al-) — on, upon ✅
+- [[Middle Semitic/Lexicon/ܥܠܝ|ܥܠܝ]] (`alê) — he ascended ✅
+- [[Middle Semitic/Lexicon/ܥܢܟܒܬܐ|ܥܢܟܒܬܐ]] (`ankkabtâ) — spider ✅
+- [[Middle Semitic/Lexicon/ܥܦܪܐ|ܥܦܪܐ]] (`aprâ) — dust, dirt ✅
+- [[Middle Semitic/Lexicon/ܥܨܒܐ|ܥܨܒܐ]] (`aṣbâ) — grief ✅
+- [[Middle Semitic/Lexicon/ܥܩܪܒܐ|ܥܩܪܒܐ]] (`aqarbâ) — scorpion ✅
+- [[Middle Semitic/Lexicon/ܥܪܒܐ|ܥܪܒܐ]] (`arbâ) — evening ✅
+- [[Middle Semitic/Lexicon/ܥܫܪܐ|ܥܫܪܐ]] (`ašra) — ten ✅
+- [[Middle Semitic/Lexicon/ܥܫܬܪܬܐ|ܥܫܬܪܬܐ]] (ʿaštartâ) — Ishtar, Astarte ✅
+- [[Middle Semitic/Lexicon/ܦܐܬܐ|ܦܐܬܐ]] (pâtâ) — side, group, division ✅
+- [[Middle Semitic/Lexicon/ܦܘܡܐ|ܦܘܡܐ]] (pûmâ) — mouth ✅
+- [[Middle Semitic/Lexicon/ܦܚܠܐ|ܦܚܠܐ]] (paḥlâ) — stallion, virile man ✅
+- [[Middle Semitic/Lexicon/ܦܚܡܐ|ܦܚܡܐ]] (paḥmâ) — coal, charcoal, cinder ✅
+- [[Middle Semitic/Lexicon/ܦܝܪܐ|ܦܝܪܐ]] (pêrâ) — fruit ✅
+- [[Middle Semitic/Lexicon/ܦܠܓܐ|ܦܠܓܐ]] (palgâ) — stream ✅
+- [[Middle Semitic/Lexicon/ܦܪܥܘܫܐ|ܦܪܥܘܫܐ]] (par`ûšâ) — flea ✅
+- [[Middle Semitic/Lexicon/ܦܬܚ|ܦܬܚ]] (pataḥ) — he opened ✅
+- [[Middle Semitic/Lexicon/ܦܬܝ|ܦܬܝ]] (pâtê) — dupe, adolescent ✅
+- [[Middle Semitic/Lexicon/ܦܬܠ|ܦܬܠ]] (patal) — he twisted, plaited, twined ✅
+- [[Middle Semitic/Lexicon/ܨܐܢܐ|ܨܐܢܐ]] (ṣânâ) — sheep ✅
+- [[Middle Semitic/Lexicon/ܨܒܘܥܐ|ܨܒܘܥܐ]] (ṣabô`â) — hyena ✅
+- [[Middle Semitic/Lexicon/ܨܒܥ|ܨܒܥ]] (ṣabaʿ) — he painted ✅
+- [[Middle Semitic/Lexicon/ܨܒܥ 2|ܨܒܥ 2]] (ṣabaʿ) — he pointed ✅
+- [[Middle Semitic/Lexicon/ܨܝܕ|ܨܝܕ]] (ṣîd) — he hunted ✅
+- [[Middle Semitic/Lexicon/ܨܗܒܐ|ܨܗܒܐ]] (ṣahabâ) — yellow ✅
+- [[Middle Semitic/Lexicon/ܨܠܡܐ|ܨܠܡܐ]] (ṣalmâ) — idol, image ✅
+- [[Middle Semitic/Lexicon/ܨܡܪܐ|ܨܡܪܐ]] (ṣamrâ) — wool ✅
+- [[Middle Semitic/Lexicon/ܨܝܥܪ|ܨܝܥܪ]] (ṣîʿar) — he was small, he was young ✅
+- [[Middle Semitic/Lexicon/ܨܥܝܪܐ|ܨܥܝܪܐ]] (ṣa.ˈʿî.râ) — small, young, minor ✅
+- [[Middle Semitic/Lexicon/ܨܪܪܐ|ܨܪܪܐ]] (ˈṣar.râ) — narrow ✅
+- [[Middle Semitic/Lexicon/ܨܪܬܐ|ܨܪܬܐ]] (ṣartâ) — co-wife (negative) ✅
+- [[Middle Semitic/Lexicon/ܩܝܕܣ|ܩܝܕܣ]] (qîdas) — he was holy ✅
+- [[Middle Semitic/Lexicon/ܩܗܘܐ|ܩܗܘܐ]] (qahwâ) — coffee ✅
+- [[Middle Semitic/Lexicon/ܩܘܡ|ܩܘܡ]] (qôm) — he arose ✅
+- [[Middle Semitic/Lexicon/ܩܠܠܐ|ܩܠܠܐ]] (qallâ) — few ✅
+- [[Middle Semitic/Lexicon/ܩܨܪܐ|ܩܨܪܐ]] (qaṣarâ) — short ✅
+- [[Middle Semitic/Lexicon/ܩܪܐ|ܩܪܐ]] (qarâ) — he read ✅
+- [[Middle Semitic/Lexicon/ܩܪܒ|ܩܪܒ]] (qarab) — he came near, he approached ✅
+- [[Middle Semitic/Lexicon/ܩܪܢܐ|ܩܪܢܐ]] (qarnâ) — horn ✅
+- [[Middle Semitic/Lexicon/ܪܐܝ|ܪܐܝ]] (ra'ê) — he saw ✅
+- [[Middle Semitic/Lexicon/ܪܐܡܐ|ܪܐܡܐ]] (râmâ) — high ✅
+- [[Middle Semitic/Lexicon/ܪܐܣܐ|ܪܐܣܐ]] (râsâ) — head, resh ✅
+- [[Middle Semitic/Lexicon/ܪܒܐ|ܪܒܐ]] (rabbâ) — lord, master, "great one" ✅
+- [[Middle Semitic/Lexicon/ܪܒܐܢܐ|ܪܒܐܢܐ]] (rabbânâ) — a lot, much, plenty ✅
+- [[Middle Semitic/Lexicon/ܪܘܚ|ܪܘܚ]] (rûḥ) — he spread out ✅
+- [[Middle Semitic/Lexicon/ܪܘܚܐ|ܪܘܚܐ]] (rûḥâ) — wind, spirit ✅
+- [[Middle Semitic/Lexicon/ܪܚܒܐ|ܪܚܒܐ]] (raḥabâ) — wide ✅
+- [[Middle Semitic/Lexicon/ܪܚܝܠܐ|ܪܚܝܠܐ]] (raḥêlâ) — ewe ✅
+- [[Middle Semitic/Lexicon/ܪܚܡ|ܪܚܡ]] (raḥam) — he had mercy (upon) ✅
+- [[Middle Semitic/Lexicon/ܪܚܬܐ|ܪܚܬܐ]] (raḥtâ) — palm (of the hand), flat shovel ✅
+- [[Middle Semitic/Lexicon/ܪܝܓܠܐ|ܪܝܓܠܐ]] (rêglâ) — foot, leg ✅
+- [[Middle Semitic/Lexicon/ܪܝܚܐ|ܪܝܚܐ]] (rîḥâ) — smell, odor ✅
+- [[Middle Semitic/Lexicon/ܪܝܡܐ|ܪܝܡܐ]] (rêmâ) — heights, hill ✅
+- [[Middle Semitic/Lexicon/ܪܡܝ|ܪܡܝ]] (ramê) — he threw ✅
+- [[Middle Semitic/Lexicon/ܪܣܘܠܐ|ܪܣܘܠܐ]] (rasûlâ) — messenger, envoy, apostle ✅
+- [[Middle Semitic/Lexicon/ܪܥܕܐ|ܪܥܕܐ]] (ra`dâ) — thunder ✅
+- [[Middle Semitic/Lexicon/ܪܥܝ|ܪܥܝ]] (ra`ê) — he herded ✅
+- [[Middle Semitic/Lexicon/ܪܩܝܩܐ|ܪܩܝܩܐ]] (raqîqâ) — thin ✅
+- [[Middle Semitic/Lexicon/ܫܒܘܠܬܐ|ܫܒܘܠܬܐ]] (šubûltâ) — ear of crop, test ✅
+- [[Middle Semitic/Lexicon/ܫܒܪ|ܫܒܪ]] (šavar) — he broke, ruptured ✅
+- [[Middle Semitic/Lexicon/ܫܗܕ|ܫܗܕ]] (šahad) — he testified ✅
+- [[Middle Semitic/Lexicon/ܫܗܝܕܐ|ܫܗܝܕܐ]] (šahîdâ) — witness ✅
+- [[Middle Semitic/Lexicon/ܫܟܪ|ܫܟܪ]] (šakar) — he thanked ✅
+- [[Middle Semitic/Lexicon/ܫܘܟܪܢ|ܫܘܟܪܢ]] (šukrân) — thanks ✅
+- [[Middle Semitic/Lexicon/ܫܘܡܐ|ܫܘܡܐ]] (šûmâ) — garlic ✅
+- [[Middle Semitic/Lexicon/ܫܘܪܐ|ܫܘܪܐ]] (šôrâ) — bull ✅
+- [[Middle Semitic/Lexicon/ܫܘܪܫܐ|ܫܘܪܫܐ]] (šûršâ) — root, wort ✅
+- [[Middle Semitic/Lexicon/ܫܠܓܐ|ܫܠܓܐ]] (šalgâ) — snow ✅
+- [[Middle Semitic/Lexicon/ܫܠܫܐ|ܫܠܫܐ]] (šalašâ) — three ✅
+- [[Middle Semitic/Lexicon/ܫܡܐܠ|ܫܡܐܠ]] (šamʾal) — left (side) ✅
+- [[Middle Semitic/Lexicon/ܫܡܘܠܐ|ܫܡܘܠܐ]] (šamôlâ) — left hand ✅
+- [[Middle Semitic/Lexicon/ܫܡܢܐ|ܫܡܢܐ]] (šamnâ) — eight ✅
+- [[Middle Semitic/Lexicon/ܫܡܣܐ|ܫܡܣܐ]] (šamsâ) — sun ✅
+- [[Middle Semitic/Lexicon/ܫܢܝܝܡ|ܫܢܝܝܡ]] (šanyîm) — two ✅
+- [[Middle Semitic/Lexicon/ܫܥܠܐ|ܫܥܠܐ]] (ša`alâ) — fox ✅
+- [[Middle Semitic/Lexicon/ܫܥܪܐ|ܫܥܪܐ]] (ša`râ) — hair ✅
+- [[Middle Semitic/Lexicon/ܫܦܬܐ|ܫܦܬܐ]] (šaptâ) — lip, border ✅
+- [[Middle Semitic/Lexicon/ܬܗܘܡܐ|ܬܗܘܡܐ]] (tihômâ) — sea, abyss, depths ✅
+- [[Middle Semitic/Lexicon/ܬܗܘܡܬܐ|ܬܗܘܡܬܐ]] (tihômtâ) — Tiamat, Chaos ✅
+- [[Middle Semitic/Lexicon/ܬܝܠܐ|ܬܝܠܐ]] (têllâ) — hill, mound ✅
+- [[Middle Semitic/Lexicon/ܬܝܢܐ|ܬܝܢܐ]] (tênâ) — fig ✅
+- [[Middle Semitic/Lexicon/ܬܝܣܥܐ|ܬܝܣܥܐ]] (tês`â) — nine ✅
+- [[Middle Semitic/Lexicon/ܬܪܟܐ|ܬܪܟܐ]] (tarkâ) — road, way, path, street ✅
