@@ -238,6 +238,14 @@ The table rows (omit a row that doesn't apply):
 - [[Lexicon/ܥܠܗܐ|ܥܠܗܐ]] (ʿalhâ) — upon her ✅
 - [[Lexicon/ܥܠܗܘ|ܥܠܗܘ]] (ʿalhû) — upon him ✅
 - [[Lexicon/ܥܠܗܘܡ|ܥܠܗܘܡ]] (ʿalhûm) — upon them ✅
+- [[Lexicon/ܥܢܝ|ܥܢܝ]] (ʿanî) — upon me ✅
+- [[Lexicon/ܥܟܐ|ܥܟܐ]] (ʿakâ) — upon you (m) ✅
+- [[Lexicon/ܥܟܝ|ܥܟܝ]] (ʿakî) — upon you (f) ✅
+- [[Lexicon/ܥܗܘ|ܥܗܘ]] (ʿahû) — upon him ✅
+- [[Lexicon/ܥܗܐ|ܥܗܐ]] (ʿahâ) — upon her ✅
+- [[Lexicon/ܥܢܘ|ܥܢܘ]] (ʿanû) — upon us ✅
+- [[Lexicon/ܥܟܘܡ|ܥܟܘܡ]] (ʿakûm) — upon y'all ✅
+- [[Lexicon/ܥܗܘܡ|ܥܗܘܡ]] (ʿahûm) — upon them ✅
 - [[Lexicon/ܥܠܟܐ|ܥܠܟܐ]] (ʿalkâ) — upon you (m) ✅
 - [[Lexicon/ܥܠܟܘܡ|ܥܠܟܘܡ]] (ʿalkûm) — upon y'all ✅
 - [[Lexicon/ܥܠܟܝ|ܥܠܟܝ]] (ʿalkî) — upon you (f) ✅
@@ -428,6 +436,7 @@ The table rows (omit a row that doesn't apply):
 - [[Lexicon/ܥܝܪܐ|ܥܝܪܐ]] (`îrâ) — foal, new donkey ✅
 - [[Lexicon/ܥܟܒܪܐ|ܥܟܒܪܐ]] (`akbarâ) — mouse ✅
 - [[Lexicon/ܥܠ-|ܥܠ-]] (`al-) — on, upon ✅
+- [[Lexicon/ܥ|ܥ]] (ʿa-) — on, upon (clitic) ✅
 - [[Lexicon/ܥܠܝ|ܥܠܝ]] (`alê) — he ascended ✅
 - [[Lexicon/ܥܢܟܒܬܐ|ܥܢܟܒܬܐ]] (`ankkabtâ) — spider ✅
 - [[Lexicon/ܥܦܪܐ|ܥܦܪܐ]] (`aprâ) — dust, dirt ✅

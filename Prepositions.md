@@ -13,11 +13,11 @@ Middle Semitic has eight "small" prepositions, which take pronominal suffixes an
 | [[Lexicon/ܦ\|ܦ]] | pi- | in | (בְּ־ / فِي) | [[Lexicon/ܦܢܝ\|ܦܢܝ]] *pinî* | clitic |
 | [[Lexicon/ܟ\|ܟ]] | ki- | like | כְּ־ / كَـ | [[Lexicon/ܟܢܝ\|ܟܢܝ]] *kinî* | clitic |
 | [[Lexicon/ܡܢ\|ܡܢ]] | min | from | מִן / مِن | [[Lexicon/ܡܢܢܝ\|ܡܢܢܝ]] *minnî* | free word, clitic [[Lexicon/ܡ\|ܡ-]] *mi-* |
-| [[Lexicon/ܥܠ-\|ܥܠ-]] | ʿal- | on, upon | עַל / عَلَى | [[Lexicon/ܥܠܢܝ\|ܥܠܢܝ]] *ʿalnî* | free word |
+| [[Lexicon/ܥܠ-\|ܥܠ-]] | ʿal- | on, upon | עַל / عَلَى | [[Lexicon/ܥܠܢܝ\|ܥܠܢܝ]] *ʿalnî* | free word, clitic [[Lexicon/ܥ\|ܥ-]] *ʿa-* |
 | [[Lexicon/ܥܡ\|ܥܡ]] | ʿim | with | עִם / مَعَ | [[Lexicon/ܥܡܢܝ\|ܥܡܢܝ]] *ʿimnî* | free word |
 | [[Lexicon/ܒܝܢ\|ܒܝܢ]] | bên | between | בֵּין / بَيْن | [[Lexicon/ܒܝܢܢܝ\|ܒܝܢܢܝ]] *bênnî* | free word |
 
-*min* also has a clitic form, [[Lexicon/ܡ|ܡ-]] *mi-*, with suffixed forms of its own (*minî*, *mikâ*, *mihû*...; the full word's are *minnî*, *minkâ*, *minhû*...). The clitics (*li- bi- pi- ki- mi-*) are single consonant + vowel: they attach to the following word, take no stress, and may be said with a schwa in fast speech (*ləMadrid*). The other forms (*min*, *ʿal-*, *ʿim*, *bên*) are full words with their own stress. 
+*min* and *ʿal-* also have clitic forms, [[Lexicon/ܡ|ܡ-]] *mi-* and [[Lexicon/ܥ|ܥ-]] *ʿa-*, each with suffixed forms of its own (*minî*, *mikâ*...; *ʿanî*, *ʿakâ*...; the full words' are *minnî*, *minkâ*... and *ʿalnî*, *ʿalkâ*...). The clitics (*li- bi- pi- ki- mi- ʿa-*) are single consonant + vowel: they attach to the following word, take no stress, and may be said with a schwa in fast speech (*ləMadrid*). The other forms (*min*, *ʿal-*, *ʿim*, *bên*) are full words with their own stress. 
 
 ## Contrasts
 
