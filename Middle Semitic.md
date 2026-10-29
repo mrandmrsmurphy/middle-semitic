@@ -14,7 +14,7 @@
 | Word order | SVO (VSO archaic) |
 | Morphology | Triconsonantal |
 | Alignment | Nominative–accusative |
-| Status | Work begun — own subtree in this vault |
+| Status | Own vault — all real work happens here |
 | Author | Aquatiki |
 
 **Middle Semitic** is a Universal Language for the Middle East and North Africa. It is a blend of Hebrew and Arabic, written in Syriac.
