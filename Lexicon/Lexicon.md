@@ -8,7 +8,29 @@ Imported from the [Google Sheet]([retired spreadsheet link removed]), which rema
 
 ## Entry format
 
-Title is the Syriac spelling, followed by a table with these rows (omit a row that doesn't apply):
+Title is the Syriac spelling, then YAML frontmatter carrying the entry's queryable data, then the visible table.
+
+The frontmatter makes every tradition its own property, so cognates beyond the big three (Ugaritic, Akkadian, Geʿez, Phoenician, MSA vs the dialects…) belong here — add a property whenever evidence exists, omit it when it doesn't:
+
+```yaml
+---
+root: ܡ-ܠ-ܟ
+pos: noun
+gender: masculine
+gloss: king
+hebrew: מֶלֶךְ
+arabic: مَلِك
+aramaic: ܡܰܠܟܴ݁ܐ
+ugaritic: mlk
+akkadian: malku(m)
+proto-semitic: "*malk-"
+swadesh: 100
+---
+```
+
+Core properties: `root`, `pos`, `gender` (nouns), `gloss` (verbs cited as 3ms perfect, "he ate"), `hebrew`, `arabic`, `aramaic`, `proto-semitic` (quoted, since it starts with `*`; suffix `(hypo)` = hypothetical, `invented` = no PS basis), `swadesh` (№, if any). Cognate properties are open-ended: any tradition gets its own lowercase key. New entries get frontmatter from the start; the visible table is unchanged until bulk migration.
+
+The table rows (omit a row that doesn't apply):
 
 | Row | Content |
 | --- | --- |
