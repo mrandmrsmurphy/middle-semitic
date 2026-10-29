@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lexicon/Lexicon.md",
-                "mode": "preview",
+                "file": "Lexicon/ܡܢ.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lexicon"
+              "title": "ܡܢ"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lexicon/Lexicon.md",
+                "file": "Lexicon/ܡܢ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lexicon/Lexicon.md",
+                "file": "Lexicon/ܡܢ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lexicon/Lexicon.md",
+                "file": "Lexicon/ܡܢ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,6 +190,17 @@
   },
   "active": "803df5b03acf5693",
   "lastOpenFiles": [
+    "Lexicon/ܡܗܘܡ.md",
+    "Lexicon/ܡܟܘܡ.md",
+    "Lexicon/ܡܢܘ.md",
+    "Lexicon/ܡܗܐ.md",
+    "Lexicon/ܡܗܘ.md",
+    "Lexicon/ܡܟܝ.md",
+    "Lexicon/ܡܟܐ.md",
+    "Lexicon/ܡܢܝ.md",
+    "Lexicon/ܡ.md",
+    "Prepositions.md",
+    "Lexicon/Lexicon.md",
     "Swadesh.md",
     "Anthropology.md",
     "Middle Semitic.md"

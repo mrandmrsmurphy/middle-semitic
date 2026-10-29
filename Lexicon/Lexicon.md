@@ -227,6 +227,14 @@ The table rows (omit a row that doesn't apply):
 - [[Lexicon/ܡܢܟܝ|ܡܢܟܝ]] (minkî) — from you (f) ✅
 - [[Lexicon/ܡܢܢܘ|ܡܢܢܘ]] (minnû) — from us ✅
 - [[Lexicon/ܡܢܢܝ|ܡܢܢܝ]] (minnî) — from me ✅
+- [[Lexicon/ܡܢܝ|ܡܢܝ]] (minî) — from me ✅
+- [[Lexicon/ܡܟܐ|ܡܟܐ]] (mikâ) — from you (m) ✅
+- [[Lexicon/ܡܟܝ|ܡܟܝ]] (mikî) — from you (f) ✅
+- [[Lexicon/ܡܗܘ|ܡܗܘ]] (mihû) — from him ✅
+- [[Lexicon/ܡܗܐ|ܡܗܐ]] (mihâ) — from her ✅
+- [[Lexicon/ܡܢܘ|ܡܢܘ]] (minû) — from us ✅
+- [[Lexicon/ܡܟܘܡ|ܡܟܘܡ]] (mikûm) — from y'all ✅
+- [[Lexicon/ܡܗܘܡ|ܡܗܘܡ]] (mihûm) — from them ✅
 - [[Lexicon/ܥܠܗܐ|ܥܠܗܐ]] (ʿalhâ) — upon her ✅
 - [[Lexicon/ܥܠܗܘ|ܥܠܗܘ]] (ʿalhû) — upon him ✅
 - [[Lexicon/ܥܠܗܘܡ|ܥܠܗܘܡ]] (ʿalhûm) — upon them ✅
@@ -365,6 +373,7 @@ The table rows (omit a row that doesn't apply):
 - [[Lexicon/ܡܠܟܐ|ܡܠܟܐ]] ('mal.kâ) — king ✅
 - [[Lexicon/ܡܠܟܬܐ|ܡܠܟܬܐ]] (mal.'ka.tâ) — queen ✅
 - [[Lexicon/ܡܢ|ܡܢ]] (min) — from ✅
+- [[Lexicon/ܡ|ܡ]] (mi-) — from (clitic) ✅
 - [[Lexicon/ܡܣܚ|ܡܣܚ]] (masaḥ) — he anointed ✅
 - [[Lexicon/ܡܣܟܐ|ܡܣܟܐ]] (mas.kâ) — leather, hide ✅
 - [[Lexicon/ܡܥܝ|ܡܥܝ]] (maʿê) — intestines, guts ✅
