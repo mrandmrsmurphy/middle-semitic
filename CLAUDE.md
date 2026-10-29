@@ -19,4 +19,4 @@ This vault is an Obsidian vault documenting **Middle Semitic** (ܫܡܥ ܡܪܟܙ 
 
 ## Source record
 
-- The vault's `Lexicon/` is the source record. There is no external sheet to consult; check existing entries before creating new ones.
+- The vault's `Lexicon/` is the source record; we make our own data. Check existing entries before creating new ones.
