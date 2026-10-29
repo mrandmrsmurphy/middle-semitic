@@ -13,3 +13,5 @@ Append-only. Never edit past entries.
 ## 2026-10-29
 
 - Front door added: `AIOS/facts.yaml` (machine-readable counts, Swadesh coverage, key page paths) + `AIOS/scripts/build_facts.py` to regenerate it. Gotcha hit and fixed: `git ls-files` quotes non-ASCII (Syriac) filenames — must use `-z`. UL's sibling-vaults memory now names facts.yaml as the query interface.
+
+- Google Sheet retired (user decision: everything is off the sheet): removed the link from the hub `Middle Semitic.md`; reworded `Lexicon.md`, `Swadesh.md`, and the CLAUDE.md/AGENTS.md pair (now "Source record": `Lexicon/` is it); `facts.yaml`/`build_facts.py` `source_record` now points at `Lexicon/Lexicon.md`; memories (layout, conventions, index) updated. The old "sheet wins" reconciliation rule is now historical.

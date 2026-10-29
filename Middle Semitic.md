@@ -36,4 +36,3 @@
 
 - [[Lexicon/Lexicon]] — the working lexicon, one file per word
 - [[Roots/Roots]] — one file per root, listing the words built on it
-- [Google Sheet]([retired spreadsheet link removed]) — source record the lexicon was imported from

@@ -38,7 +38,7 @@ key_pages:
   lexicon_index: Lexicon/Lexicon.md
   roots_index: Roots/Roots.md
   memory_index: AIOS/memory-index.md
-source_record: [retired spreadsheet link removed]
+source_record: Lexicon/Lexicon.md
 generated: {datetime.date.today().isoformat()}
 """
 open(os.path.join(VAULT, 'AIOS', 'facts.yaml'), 'w', encoding='utf-8').write(facts)

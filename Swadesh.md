@@ -4,7 +4,7 @@
 
 The 207-item Swadesh list with Middle Semitic forms beside five comparison languages: MSA (Modern Standard Arabic), Hebrew, Syriac (the Aramaic evidence), and the Egyptian and Palestinian vernaculars. Romanizations are omitted for width — each Middle Semitic form's romanization and evidence lives on its lexicon page. A blank MS cell means not yet coined.
 
-List source: the author's comparative table; lexicon import from the Google Sheet.
+List source: the author's comparative table.
 
 ## 1–21 Pronouns, deixis and quantifiers
 

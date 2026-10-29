@@ -4,7 +4,7 @@
 
 Dictionary of Middle Semitic words, one file per word, each derived from its Proto-Semitic source with cognate evidence (see [[Anthropology]]). The file name and title are the Syriac spelling (unvocalized); the romanization is a row in the entry. Homographs share the bare spelling for the first coinage; later ones take a numeric suffix, e.g. `ܒܢܝ.md` (banê, he built) vs `ܒܢܝ 2.md` (binî, on me).
 
-Imported from the [Google Sheet]([retired spreadsheet link removed]), which remains the source record; new words are coined here, one file per word.
+This lexicon is the source record; new words are coined here, one file per word.
 
 ## Entry format
 

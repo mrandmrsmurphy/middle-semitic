@@ -17,6 +17,6 @@ This vault is an Obsidian vault documenting **Middle Semitic** (ܫܡܥ ܡܪܟܙ 
 - Citation-confidence / evidentiary-weight flags ("plausible extension, not directly attested") are facts about the claim itself and are fine on content pages — terse and undated.
 - `AIOS/` is exempt from this rule — tracking what changed and when is its job.
 
-## External records
+## Source record
 
-- The [Google Sheet]([retired spreadsheet link removed]) remains the source record for the imported lexicon; check it before creating entries. New coinages go in this vault.
+- The vault's `Lexicon/` is the source record. There is no external sheet to consult; check existing entries before creating new ones.
