@@ -1,6 +1,6 @@
 # Phonology
 
-> Parent: [[Middle Semitic]] · Areal survey: [[Middle Semitic/Anthropology#Phonology]]
+> Parent: [[Middle Semitic]] · Areal survey: [[Anthropology#Phonology]]
 
 Middle Semitic sounds consist of 22 consonants and 5 vowels.
 

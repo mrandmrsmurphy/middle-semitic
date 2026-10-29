@@ -1,6 +1,6 @@
 # Orthography
 
-> Parent: [[Middle Semitic]] · Sounds: [[Middle Semitic/Phonology]] · Rationale: [[Middle Semitic/Anthropology#Orthography]]
+> Parent: [[Middle Semitic]] · Sounds: [[Phonology]] · Rationale: [[Anthropology#Orthography]]
 
 Syriac script, written **RTL**. Equal distance from Arabic and Israeli — Neo-Aramaic as the middle ground.
 

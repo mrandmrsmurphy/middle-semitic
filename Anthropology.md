@@ -117,7 +117,7 @@ The Begadkefat letters are supposed to soften between vowels. In transcribing fo
 
 Again in simple text, it may be necessary to distinguish between quiescent and/or *mater* alifs, and consonantal ones. As in Arabics, there is a sign for glottal stops, but it is taken from Aramaic and is a superscript alif.
 
-Detailed glyph inventory: [[Middle Semitic/Orthography]].
+Detailed glyph inventory: [[Orthography]].
 
 ## Prolegomena
 
@@ -154,7 +154,7 @@ All are noun–relative; question particles are the norm.
 
 ## Daughter languages
 
-Feature values for the main Arabic, Hebrew and Aramaic languages, in the same rows as [[Language Comparisons]]. Source: WALS (World Atlas of Language Structures); blank cells are not coded there. The Middle Semitic column is the design in [[Phonology]] and [[Morphosyntax]], with unlisted rows as in the comparison matrix.
+Feature values for the main Arabic, Hebrew and Aramaic languages, in the same rows as the UL vault's `Language Comparisons.md`. Source: WALS (World Atlas of Language Structures); blank cells are not coded there. The Middle Semitic column is the design in [[Phonology]] and [[Morphosyntax]], with unlisted rows as in the comparison matrix.
 
 | Feature | Arabic (MSA) | Arabic (Egyptian) | Arabic (Syrian) | Arabic (Gulf) | Arabic (Iraqi) | Arabic (Moroccan) | Hebrew | Neo-Aramaic (Arbel) | **Middle Semitic** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |

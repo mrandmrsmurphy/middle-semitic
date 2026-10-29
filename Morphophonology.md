@@ -1,20 +1,20 @@
 # Morphophonology
 
-> Parent: [[Middle Semitic]] · Syntax: [[Middle Semitic/Morphosyntax]]
+> Parent: [[Middle Semitic]] · Syntax: [[Morphosyntax]]
 
 - Three numbers: singular and plural, with duals only for body parts, glasses, pants. The dual is frozen, and not productive.
 - SVO word order, though others are possible with clefting or in questions.
 - No case marking
 - Two genders
-- Two states — regular and construct. Construct is frozen, not productive. The genitive clitic (cp. English *of*) is *dal* — [[Middle Semitic/Lexicon/ܕܠ|ܕܠ]]
-- Definiteness can only be achieved through proper nouns or the definite article [[Middle Semitic/Lexicon/ܗܠ|ܗܠ]] (*hal*). No indefinite article.
-- [[Middle Semitic/Lexicon/ܗ|ܗ]] (*ha*) is the sentence-initial polar question particle
+- Two states — regular and construct. Construct is frozen, not productive. The genitive clitic (cp. English *of*) is *dal* — [[Lexicon/ܕܠ|ܕܠ]]
+- Definiteness can only be achieved through proper nouns or the definite article [[Lexicon/ܗܠ|ܗܠ]] (*hal*). No indefinite article.
+- [[Lexicon/ܗ|ܗ]] (*ha*) is the sentence-initial polar question particle
 - No pausal forms
 - Adjectives
   - Agree in number, gender, (and state) with their head
   - Elatives are uninflected
   - No agreement for copulative clause
-- Only one, uninflecting relative pronoun [[Middle Semitic/Lexicon/ܠܝܕ|ܠܝܕ]] (*lîd*)
+- Only one, uninflecting relative pronoun [[Lexicon/ܠܝܕ|ܠܝܕ]] (*lîd*)
 
 Notice that we do not maintain the gender distinction in the second person plural.
 
@@ -36,7 +36,7 @@ Because three letters are used to hint at or spell out vowels, they blur the lin
 
 ### The gutturals
 
-Three consonants happen so far back in the throat that they take too long to prepare to say. /ʕ/, /ḥ/, /h/ (ayin, ḥet and he) cannot be geminated, but they can be in the coda. They are always written, in every form of the root; a guttural in the coda is written but not pronounced (see [[Middle Semitic/Phonology]]).
+Three consonants happen so far back in the throat that they take too long to prepare to say. /ʕ/, /ḥ/, /h/ (ayin, ḥet and he) cannot be geminated, but they can be in the coda. They are always written, in every form of the root; a guttural in the coda is written but not pronounced (see [[Phonology]]).
 
 ### Nun
 
@@ -103,17 +103,17 @@ The pronouns may seem strange for Indo-Europeans, but are utterly normal for Sem
 
 | | sg. | pl. |
 | --- | --- | --- |
-| 1 | [[Middle Semitic/Lexicon/ܐܢܐ\|ܐܢܐ]] *'anâ* | [[Middle Semitic/Lexicon/ܢܚܢܘ\|ܢܚܢܘ]] *naḥnû* |
-| 2 | [[Middle Semitic/Lexicon/ܐܢܬܐ\|ܐܢܬܐ]] *'antâ* m, [[Middle Semitic/Lexicon/ܐܢܬܝ\|ܐܢܬܝ]] *'antî* f | [[Middle Semitic/Lexicon/ܐܢܬܘܡ\|ܐܢܬܘܡ]] *'antûm* |
-| 3 | [[Middle Semitic/Lexicon/ܗܘܐ\|ܗܘܐ]] *huwâ* m, [[Middle Semitic/Lexicon/ܗܝܐ\|ܗܝܐ]] *hiyâ* f | [[Middle Semitic/Lexicon/ܗܘܡ\|ܗܘܡ]] *hûm* |
+| 1 | [[Lexicon/ܐܢܐ\|ܐܢܐ]] *'anâ* | [[Lexicon/ܢܚܢܘ\|ܢܚܢܘ]] *naḥnû* |
+| 2 | [[Lexicon/ܐܢܬܐ\|ܐܢܬܐ]] *'antâ* m, [[Lexicon/ܐܢܬܝ\|ܐܢܬܝ]] *'antî* f | [[Lexicon/ܐܢܬܘܡ\|ܐܢܬܘܡ]] *'antûm* |
+| 3 | [[Lexicon/ܗܘܐ\|ܗܘܐ]] *huwâ* m, [[Lexicon/ܗܝܐ\|ܗܝܐ]] *hiyâ* f | [[Lexicon/ܗܘܡ\|ܗܘܡ]] *hûm* |
 
 **Object / possessive pronouns**
 
 | | sg. | pl. |
 | --- | --- | --- |
-| 1 | -nî [[Middle Semitic/Lexicon/-ܢܝ\|-ܢܝ]] | -nû [[Middle Semitic/Lexicon/-ܢܘ\|-ܢܘ]] |
-| 2 | -kâ m [[Middle Semitic/Lexicon/-ܟܐ\|-ܟܐ]] · -kî f [[Middle Semitic/Lexicon/-ܟܝ\|-ܟܝ]] | -kûm [[Middle Semitic/Lexicon/-ܟܘܡ\|-ܟܘܡ]] |
-| 3 | -hû m [[Middle Semitic/Lexicon/-ܗܘ\|-ܗܘ]] · -hâ f [[Middle Semitic/Lexicon/-ܗܐ\|-ܗܐ]] | -hûm [[Middle Semitic/Lexicon/-ܗܘܡ\|-ܗܘܡ]] |
+| 1 | -nî [[Lexicon/-ܢܝ\|-ܢܝ]] | -nû [[Lexicon/-ܢܘ\|-ܢܘ]] |
+| 2 | -kâ m [[Lexicon/-ܟܐ\|-ܟܐ]] · -kî f [[Lexicon/-ܟܝ\|-ܟܝ]] | -kûm [[Lexicon/-ܟܘܡ\|-ܟܘܡ]] |
+| 3 | -hû m [[Lexicon/-ܗܘ\|-ܗܘ]] · -hâ f [[Lexicon/-ܗܐ\|-ܗܐ]] | -hûm [[Lexicon/-ܗܘܡ\|-ܗܘܡ]] |
 
 ## Verbs
 
@@ -165,8 +165,8 @@ The pronouns may seem strange for Indo-Europeans, but are utterly normal for Sem
 - Passive inf. *laMLûK* ܠܡܠܘܟ
 - The passive changes the vowel after the first consonant to long *û*, written with a waw, so it shows in unvocalized text. The participle and infinitive have no vowel there (*ma-* and *la-* are prefixes), so the second vowel changes instead. The imperative has no passive. All other endings follow the active.
 
-**Hollow verbs.** In a hollow root (II-waw or II-yod) the central vowel is part of the root and is always present, as a contraction (*aw* → *ô*, *ay* → *ê*) or a pure mater (*û*); which one is lexical. The CVC stem therefore persists in every form and the verb just takes prefixes and suffixes (*qôm*, *qômat*, *yaqôm*). Hollow verbs have no marked stative and no passive, so the active and passive cannot be told apart by form. Model page: [[Middle Semitic/Lexicon/ܩܘܡ]].
+**Hollow verbs.** In a hollow root (II-waw or II-yod) the central vowel is part of the root and is always present, as a contraction (*aw* → *ô*, *ay* → *ê*) or a pure mater (*û*); which one is lexical. The CVC stem therefore persists in every form and the verb just takes prefixes and suffixes (*qôm*, *qômat*, *yaqôm*). Hollow verbs have no marked stative and no passive, so the active and passive cannot be told apart by form. Model page: [[Lexicon/ܩܘܡ]].
 
-**Weak third radicals.** The third radical (ʾ, w, y) is always written. It contracts with the preceding *a* (*ay* → *ê*, *aw* → *ô*, *aʾ* → *â*), and if a vowel then follows, the first vowel wins: the template *banay* + *at* gives *banêt*, not *banayat*. Where no *a* precedes it the radical is a consonant (*banyû*). The feminine singular imperative and the 2f non-past therefore sound like the masculine (*tabnê*), and the plural non-past loses its vowel (*yabnên*); the spelling keeps every letter. Model page: [[Middle Semitic/Lexicon/ܒܢܝ]].
+**Weak third radicals.** The third radical (ʾ, w, y) is always written. It contracts with the preceding *a* (*ay* → *ê*, *aw* → *ô*, *aʾ* → *â*), and if a vowel then follows, the first vowel wins: the template *banay* + *at* gives *banêt*, not *banayat*. Where no *a* precedes it the radical is a consonant (*banyû*). The feminine singular imperative and the 2f non-past therefore sound like the masculine (*tabnê*), and the plural non-past loses its vowel (*yabnên*); the spelling keeps every letter. Model page: [[Lexicon/ܒܢܝ]].
 
-**Weak first radicals.** The three maters (ʾ, y, w) in first position fuse with the vowel of the prefix: aleph is quiescent and lengthens it (*ʾakal* → *âkal*, *yaʾkal* → *yâkal*), while *aw* contracts to *ô* and *ay* to *ê* (*yawbal* → *yôbal*, *yaynaq* → *yênaq*). In the passive non-past the mater reverts to a consonant after the *û* (aleph as a glottal stop), which keeps the passive distinct from the active: *yûʾkal*, *yûwlad*, *yûynaq*; the passive past is *ʾûkal*, *wûlad*, *yûnaq*. Model pages: [[Middle Semitic/Lexicon/ܐܟܠ]] (I-aleph), [[Middle Semitic/Lexicon/ܘܒܠ]] (I-waw), [[Middle Semitic/Lexicon/ܝܢܩ]] (I-yod). When the prefix aleph of the 1c non-past meets a root-initial aleph, the root aleph eats it, so there is a single aleph (*ʾâkal* ܐܟܠ), unlike the passive (*ʾûʾkal* ܐܘܐܟܠ), where the *û* keeps the two apart. Weak verbs have many collapsed or identical forms; that is expected.
+**Weak first radicals.** The three maters (ʾ, y, w) in first position fuse with the vowel of the prefix: aleph is quiescent and lengthens it (*ʾakal* → *âkal*, *yaʾkal* → *yâkal*), while *aw* contracts to *ô* and *ay* to *ê* (*yawbal* → *yôbal*, *yaynaq* → *yênaq*). In the passive non-past the mater reverts to a consonant after the *û* (aleph as a glottal stop), which keeps the passive distinct from the active: *yûʾkal*, *yûwlad*, *yûynaq*; the passive past is *ʾûkal*, *wûlad*, *yûnaq*. Model pages: [[Lexicon/ܐܟܠ]] (I-aleph), [[Lexicon/ܘܒܠ]] (I-waw), [[Lexicon/ܝܢܩ]] (I-yod). When the prefix aleph of the 1c non-past meets a root-initial aleph, the root aleph eats it, so there is a single aleph (*ʾâkal* ܐܟܠ), unlike the passive (*ʾûʾkal* ܐܘܐܟܠ), where the *û* keeps the two apart. Weak verbs have many collapsed or identical forms; that is expected.

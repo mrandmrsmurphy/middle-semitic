@@ -1,6 +1,6 @@
 # Swadesh
 
-> Parent: [[Middle Semitic]] · Lexicon: [[Middle Semitic/Lexicon/Lexicon]] · Cross-UL: [[Swadesh]]
+> Parent: [[Middle Semitic]] · Lexicon: [[Lexicon/Lexicon]] · Cross-UL: `Swadesh.md` in the UL vault
 
 The 207-item Swadesh list with Middle Semitic forms beside five comparison languages: MSA (Modern Standard Arabic), Hebrew, Syriac (the Aramaic evidence), and the Egyptian and Palestinian vernaculars. Romanizations are omitted for width — each Middle Semitic form's romanization and evidence lives on its lexicon page. A blank MS cell means not yet coined.
 

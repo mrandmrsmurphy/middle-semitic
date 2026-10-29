@@ -30,14 +30,14 @@ The Arabic uses *khalaqa* for 'created', not the cognate *bara'a*, and the plura
 
 | Hebrew                         | Arabic       | Aramaic       | Middle Semitic                                          |
 | ------------------------------ | ------------ | ------------- | ------------------------------------------------------- |
-| בְּרֵאשִׁית 'in the beginning' | رَأْس 'head' | ܒܪܝܫܝܬ         | [[Middle Semitic/Lexicon/ܦ\|ܦ]] + [[Middle Semitic/Lexicon/ܒܕܐܬܐ\|ܒܕܐܬܐ]] *pi badâtâ*|
-| בָּרָא 'he created'            | بَرَأَ       | ܒܪܐ           | [[Middle Semitic/Lexicon/ܒܪܐ 2\|ܒܪܐ 2]] *barâ*                                                       |
-| אֱלֹהִים 'God'                 | إِلٰه        | ܐܠܗܐ          | [[Middle Semitic/Lexicon/ܐܝܠܗܐ\|ܐܝܠܗܐ]] *êlhâ*          |
+| בְּרֵאשִׁית 'in the beginning' | رَأْس 'head' | ܒܪܝܫܝܬ         | [[Lexicon/ܦ\|ܦ]] + [[Lexicon/ܒܕܐܬܐ\|ܒܕܐܬܐ]] *pi badâtâ*|
+| בָּרָא 'he created'            | بَرَأَ       | ܒܪܐ           | [[Lexicon/ܒܪܐ 2\|ܒܪܐ 2]] *barâ*                                                       |
+| אֱלֹהִים 'God'                 | إِلٰه        | ܐܠܗܐ          | [[Lexicon/ܐܝܠܗܐ\|ܐܝܠܗܐ]] *êlhâ*          |
 | אֵת (object marker)            | —            | ܝܬ            | — (none: the object follows the verb)                                                       |
-| הַ- 'the'                      | ٱل-          | -ܐ (suffixed) | [[Middle Semitic/Lexicon/ܗܠ\|ܗܠ]] *hal*                 |
-| שָׁמַיִם 'heavens'             | سَمَاء       | ܫܡܝܐ          | [[Middle Semitic/Lexicon/ܣܡܝ\|ܣܡܝ]] *samîm* (dual, Genesis 1–6) |
-| וְ- 'and'                      | و            | ܘ-            | [[Middle Semitic/Lexicon/ܘ\|ܘ]] *wa-*                   |
-| הָאָרֶץ 'the earth'            | أَرْض        | ܐܪܥܐ          | [[Middle Semitic/Lexicon/ܐܪܨܐ\|ܐܪܨܐ]] *arṣâ*            |
+| הַ- 'the'                      | ٱل-          | -ܐ (suffixed) | [[Lexicon/ܗܠ\|ܗܠ]] *hal*                 |
+| שָׁמַיִם 'heavens'             | سَمَاء       | ܫܡܝܐ          | [[Lexicon/ܣܡܝ\|ܣܡܝ]] *samîm* (dual, Genesis 1–6) |
+| וְ- 'and'                      | و            | ܘ-            | [[Lexicon/ܘ\|ܘ]] *wa-*                   |
+| הָאָרֶץ 'the earth'            | أَرْض        | ܐܪܥܐ          | [[Lexicon/ܐܪܨܐ\|ܐܪܨܐ]] *arṣâ*            |
 
 ## Shemot
 
@@ -69,10 +69,10 @@ The Hebrew and Arabic have no copula, and the Syriac puts the pronoun ܗܘ at th
 
 | Hebrew | Arabic | Aramaic | Middle Semitic |
 | --- | --- | --- | --- |
-| שְׁמַע 'hear!' | اِسْمَعْ | ܫܡܥ | [[Middle Semitic/Lexicon/ܣܡܥ\|ܣܡܥ]] *səmaʿ!* (imperative) |
-| (vocative) | يَا | — | [[Middle Semitic/Lexicon/ܝܐ\|ܝܐ]] *yâ* |
+| שְׁמַע 'hear!' | اِسْمَعْ | ܫܡܥ | [[Lexicon/ܣܡܥ\|ܣܡܥ]] *səmaʿ!* (imperative) |
+| (vocative) | يَا | — | [[Lexicon/ܝܐ\|ܝܐ]] *yâ* |
 | יִשְׂרָאֵל 'Israel' | إِسْرَائِيل | ܝܣܪܐܝܠ | ܐܣܪܐܝܠ *isrâ'êl* (name, no entry yet) |
 | יְהוָה 'the Lord' | رَبّ | ܡܪܝܐ | ܐܕܘܢܝ *adônî* (name, no entry yet) |
-| (copula) | — | ܗܘ | [[Middle Semitic/Lexicon/ܗܘܐ\|ܗܘܐ]] *huwâ* |
-| אֱלֹהֵינוּ 'our God' | إِلٰهُنَا | ܐܠܗܢ | [[Middle Semitic/Lexicon/ܐܝܠܗܐ\|ܐܝܠܗܐ]] + [[Middle Semitic/Lexicon/-ܢܘ\|-ܢܘ]] *êlahnû* |
-| אֶחָד 'one' | وَاحِد | ܚܕ | [[Middle Semitic/Lexicon/ܘܚܕ\|ܘܚܕ]] *waḥad* |
+| (copula) | — | ܗܘ | [[Lexicon/ܗܘܐ\|ܗܘܐ]] *huwâ* |
+| אֱלֹהֵינוּ 'our God' | إِلٰهُنَا | ܐܠܗܢ | [[Lexicon/ܐܝܠܗܐ\|ܐܝܠܗܐ]] + [[Lexicon/-ܢܘ\|-ܢܘ]] *êlahnû* |
+| אֶחָד 'one' | وَاحِد | ܚܕ | [[Lexicon/ܘܚܕ\|ܘܚܕ]] *waḥad* |

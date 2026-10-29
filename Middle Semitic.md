@@ -1,6 +1,6 @@
 # Middle Semitic
 
-> Hub: [[Universal Languages]] · Compare: [[Language Comparisons]]
+> Sister vault: `../UL` (Universal Languages — the cross-UL comparison pages live there)
 
 | | |
 | --- | --- |
@@ -21,19 +21,19 @@
 
 ## Pages
 
-- [[Middle Semitic/Anthropology]]
-- [[Middle Semitic/Phonology]]
-- [[Middle Semitic/Orthography]]
-- [[Middle Semitic/Morphophonology]]
-- [[Middle Semitic/Morphosyntax]]
-- [[Middle Semitic/Swadesh]]
-- [[Middle Semitic/Dialogue]]
-- [[Middle Semitic/Torah]]
-- [[Middle Semitic/Lexicon/Lexicon]]
-- [[Middle Semitic/Roots/Roots]]
+- [[Anthropology]]
+- [[Phonology]]
+- [[Orthography]]
+- [[Morphophonology]]
+- [[Morphosyntax]]
+- [[Swadesh]]
+- [[Dialogue]]
+- [[Torah]]
+- [[Lexicon/Lexicon]]
+- [[Roots/Roots]]
 
 ## Lexicography
 
-- [[Middle Semitic/Lexicon/Lexicon]] — the working lexicon, one file per word
-- [[Middle Semitic/Roots/Roots]] — one file per root, listing the words built on it
+- [[Lexicon/Lexicon]] — the working lexicon, one file per word
+- [[Roots/Roots]] — one file per root, listing the words built on it
 - [Google Sheet]([retired spreadsheet link removed]) — source record the lexicon was imported from
