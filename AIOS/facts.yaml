@@ -10,8 +10,8 @@ swadesh:
   total: 207
 key_pages:
   swadesh: Swadesh.md
-  lexicon_index: Lexicon/Lexicon.md
+  lexicon_index: Lexicon/Words - all.base
   roots_index: Roots/Roots.md
   memory_index: AIOS/memory-index.md
-source_record: Lexicon/Lexicon.md
-generated: 2026-10-29
+source_record: Lexicon/
+generated: 2026-10-30

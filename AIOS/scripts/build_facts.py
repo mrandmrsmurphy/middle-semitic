@@ -15,7 +15,7 @@ def git_files(folder):
                          capture_output=True, text=True).stdout
     return [l for l in out.split('\x00') if l.endswith('.md')]
 
-lexicon = [f for f in git_files('Lexicon') if not f.endswith('/Lexicon.md')]
+lexicon = [f for f in git_files('Lexicon') if not f.endswith('/Lexicon.md')]  # Lexicon.md (retired index) is not an entry
 roots = [f for f in git_files('Roots') if not f.endswith('/Roots.md')]
 
 filled = 0
@@ -35,10 +35,10 @@ swadesh:
   total: 207
 key_pages:
   swadesh: Swadesh.md
-  lexicon_index: Lexicon/Lexicon.md
+  lexicon_index: Lexicon/Words - all.base
   roots_index: Roots/Roots.md
   memory_index: AIOS/memory-index.md
-source_record: Lexicon/Lexicon.md
+source_record: Lexicon/
 generated: {datetime.date.today().isoformat()}
 """
 open(os.path.join(VAULT, 'AIOS', 'facts.yaml'), 'w', encoding='utf-8').write(facts)

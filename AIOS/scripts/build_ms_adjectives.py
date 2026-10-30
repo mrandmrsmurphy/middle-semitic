@@ -40,10 +40,6 @@ def main(root, old, new, st, gloss, construct=True):
     s = re.sub(r'^(\| Gloss \|).*$', lambda m: f'| Part of speech | adjective |\n| Gloss | {gloss} |', s, count=1, flags=re.M)
     open(p, 'w').write(s + chart(st, new[:-1], construct))
     ms_frontmatter.sync(p, refresh=('latin', 'pos', 'gloss'))
-    ip = os.path.join(L, 'Lexicon.md'); t = open(ip).read()
-    t, n = re.subn(r'- \[\[Lexicon/' + old + r'\|' + old + r'\]\] \(.*?\) — .*',
-                   f'- [[Lexicon/{new}|{new}]] ({st}â) — {gloss}', t); assert n == 1
-    open(ip, 'w').write(t)
     R = os.path.join(root, 'Roots')
     for f in os.listdir(R):
         q = os.path.join(R, f); u = open(q).read()

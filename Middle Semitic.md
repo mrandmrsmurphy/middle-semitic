@@ -30,10 +30,10 @@
 - [[Swadesh]]
 - [[Dialogue]]
 - [[Torah]]
-- [[Lexicon/Lexicon]]
+- [[Lexicon/Words - all.base|Lexicon]]
 - [[Roots/Roots]]
 
 ## Lexicography
 
-- [[Lexicon/Lexicon]] — the working lexicon, one file per word
+- [[Lexicon/Words - all.base|Lexicon]] — the working lexicon, one file per word (a dynamic table; the entry format is in `AIOS/`)
 - [[Roots/Roots]] — one file per root, listing the words built on it
