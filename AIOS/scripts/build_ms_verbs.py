@@ -2,7 +2,7 @@
 """Add a strong-triliteral verb paradigm to Middle Semitic lexicon pages.
 
 Usage: python3 -I AIOS/scripts/build_ms_verbs.py "Lexicon" [--stative] ܒܣܠ ܟܬܒ ...
-The model is Lexicon/ܡܠܟ.md (its Forms section); the three radicals come
+The model is AIOS/scripts/model_strong_forms.md (a frozen copy of the old Lexicon/ܡܠܟ.md Forms section; new work uses build_ms_stem_paradigms.py); the three radicals come
 from the page's Root row. Only for strong triliteral verbs (no ʾ ʿ ḥ h w y radicals).
 """
 import os, re, sys
@@ -76,7 +76,7 @@ def stative(body):
 
 def main(L, words, is_stative=False):
     if is_stative: sys.exit("Stative verbs are built by AIOS/scripts/build_ms_stative_verbs.py (î is the second vowel: 1a2î3).")
-    tpl = open(os.path.join(L, 'ܡܠܟ.md')).read()
+    tpl = open(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'model_strong_forms.md')).read()  # frozen copy of the old ܡܠܟ Forms
     T = tpl[tpl.index('## Forms'):]
     for w in words:
         p = os.path.join(L, w + '.md'); s = open(p).read()

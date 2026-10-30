@@ -144,11 +144,14 @@ MEANING = {'ܟܬܒ': {'G': 'to write', 'Gp': 'passive of G: to be written',
                    'D': 'to inscribe', 'Dp': 'passive of D: to be inscribed',
                    'C': 'to dictate', 'Cp': 'passive of C: to be dictated',
                    'tD': 'to correspond: they corresponded, they exchanged letters (assumes a plural subject)'},
+           'ܡܠܟ': {'G': 'to reign, to rule over (x)', 'Gp': 'passive of G: to be ruled over',
+                   'C': 'to enthrone', 'Cp': 'passive of C: to be enthroned'},
            'ܐܟܠ': {'G': 'to eat', 'Gp': 'passive of G: to be eaten',
                    'D': 'to devour, to wolf', 'Dp': 'passive of D: to be devoured',
                    'C': 'to feed', 'Cp': 'passive of C: to be fed',
                    'tD': 'to be eaten away, to become corroded'}}
-VOCALIZED = {'ܟܬܒ'}  # the strong model shows the vocalized Syriac; weak pages show romanization + plain spelling only
+ABSENT = {'ܡܠܟ': {'D', 'Dp', 'tD'}}  # word -> stems it does NOT have (property false, no tables)
+VOCALIZED = {'ܟܬܒ', 'ܡܠܟ'}  # the strong model shows the vocalized Syriac; weak pages show romanization + plain spelling only
 
 
 def main(L, words):
@@ -167,24 +170,30 @@ def main(L, words):
         fm_end = head.index('\n---\n', 4)
         fm, body = head[:fm_end], head[fm_end:]
         fm = re.sub(r'^stem-[a-z]+: .*\n?', '', fm, flags=re.M)
-        add = ''.join(f"stem-{s.lower()}: true\n" for s in S)
+        absent = ABSENT.get(w, set())
+        add = ''.join(f"stem-{s.lower()}: {'false' if s in absent else 'true'}\n" for s in S)
         mm = re.search(r'^(proto-semitic|swadesh|date-last-perfect):', fm, re.M)
         fm = fm[:mm.start()] + add + fm[mm.start():]
         head = fm + body
         mean = MEANING[w]
         out = ["## Stems\n",
                "Which stems this verb has, as true/false properties (`stem-g`, `stem-gp`, `stem-d`, `stem-dp`, `stem-c`, `stem-cp`, `stem-td`). "
-               "No stem is assumed; \"not checked\" means no one has decided yet. This verb has all seven, so it is the model for the full set.\n",
+               "No stem is assumed; \"not checked\" means no one has decided yet. " + ("This verb has all seven, so it is the model for the full set." if not absent else "This verb lacks " + ", ".join(sorted(absent, key=list(S).index)) + " (false); its other stems follow.") + "\n",
                "| Stem | Exists | Past 3m | Non-past 3m | Meaning |", "| --- | --- | --- | --- | --- |"]
         for s, d in S.items():
+            if s in absent:
+                out.append(f"| {s} | ✗ | | | no {s} stem |"); continue
             pst = render(fuse(d['past']))[1:]; non = render(fuse(['ܝ', d['pre']] + d['non']))[1:]
             out.append(f"| {s} | ✓ | *{pst[0]}* {pst[1]} | *{non[0]}* {non[1]} | {mean[s]} |")
         out.append("\n### Definitions\n")
         for s, d in S.items():
+            if s in absent: continue
             pst = render(fuse(d['past']))[1:]
             out.append(f"- **{s}** *{pst[0]}* {pst[1]}: {mean[s]}.")
+        if absent:
+            out.append(f"- This verb has no {', '.join(sorted(absent, key=list(S).index))} stem{'s' if len(absent) > 1 else ''}.")
         out.append("\n### Recognizing the stems\n")
-        plain = {s2: render(fuse(d2['past']))[2] for s2, d2 in S.items()}
+        plain = {s2: render(fuse(d2['past']))[2] for s2, d2 in S.items() if s2 not in absent}
         by = {}
         for s2, pl in plain.items(): by.setdefault(pl, []).append(s2)
         out.append("In the unvocalized spelling (the gemination mark is optional and left out), the past 3m of each stem is: " +
@@ -196,6 +205,7 @@ def main(L, words):
         out.append(f"The conjugation of {klass} in each of its stems, from the templates in [[Morphophonology]]. "
                    f"The citation form is the 3m past. Each cell gives {cells}.\n")
         for s, d in S.items():
+            if s in absent: continue
             out.append(f"### {LABEL[s]}: {mean[s].split(':')[0]}\n")
             out.append(tables(s, d))
         open(p, 'w').write(head.rstrip('\n') + '\n\n' + '\n'.join(out).rstrip('\n') + '\n')

@@ -81,7 +81,7 @@ def main(L):
         p = os.path.join(L, f); t = open(p).read()
         if not re.search(r'^pos: verb', t, re.M) or '## Forms' not in t: continue
         word = f[:-3]
-        if '### Dp stem' in t: continue  # full seven-stem page (build_ms_stem_paradigms.py)
+        if '### G stem' in t: continue  # full seven-stem page (build_ms_stem_paradigms.py)
         props, table = build(word, t)
         # YAML
         fm_end = t.index('\n---\n', 4)
