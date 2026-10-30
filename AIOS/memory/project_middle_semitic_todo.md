@@ -8,6 +8,7 @@ metadata:
 Running list; remove items when done (history goes in `logs/log.md`). State as of end of 2026-10-29. See [[project-middle-semitic-lexicon-conventions]] and [[project-middle-semitic-grammar-rulings]].
 
 **Next up (user's stated direction)**
+- GitHub release: follow [[project-middle-semitic-documentation-plan]] (README drafted; Design Philosophy page, LICENSE, per-page rationale and repo hygiene still to do).
 - Cognate keys beyond Hebrew/Arabic/Aramaic: ugaritic is done for 244 entries (2026-10-30 pass); the rest, and the held doubtful ones, are listed in `logs/log.md` and need the user's ruling before any `ugaritic: none`. Still to do: akkadian, geez (any tradition gets its own lowercase key). Missing key = not checked; `none` = searched and confirmed absent. Never write `none` without an actual search.
 - Data problems found in existing rows (see the Ugaritic log entry): ܒܫܢܐ, ܢܦܣܐ (Arabic/Aramaic swapped?), ܐܠܝܐ, ܐܘܟܐ, ܐܝܣܐ, ܦܪܥܘܫܐ, ܬܗܘܡܬܐ, ܟܦܪ, ܟܒܝܪܐ, ܬܝܣܥܐ, ܩܪܨ, ܐܝܠܐ/ܐܝܠܠܐ.
 - Aramaic is still the one of the big three with gaps (124 entries lack it).
