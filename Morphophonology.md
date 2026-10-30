@@ -163,7 +163,7 @@ The pronouns may seem strange for Indo-Europeans, but are utterly normal for Sem
 
 - Passive part. *maMLûK-* ܡܡܠܘܟ
 - Passive inf. *laMLûK* ܠܡܠܘܟ
-- The passive changes the vowel after the first consonant to long *û*, written with a waw, so it shows in unvocalized text. The participle and infinitive have no vowel there (*ma-* and *la-* are prefixes), so the second vowel changes instead. The imperative has no passive. All other endings follow the active.
+- The passive changes the vowel after the first consonant of the form to long *û*, written with a waw, so it shows in unvocalized text. The first consonant is the prefix in the non-past (*yamlak* → *yûmlak*) and the first radical in the past (*malak* → *mûlak*), and the same holds for every stem. The participle and infinitive have no vowel there (*ma-* and *la-* are prefixes), so the second vowel changes instead. The imperative has no passive. All other endings follow the active.
 
 **Statives.** A stative verb ("he was good") has the vowel *î* as the second vowel of its stem: past *ḥasîn*, non-past *yaḥsîn*, imperative *ḥəsîn!*, participle *maḥsîn-*, infinitive *laḥsîn*. The *î* shows in every form, so a stative is identifiable at a glance, and it has no passive. The adjective on the same stem adds *-â* (*ṣaʿîr* "he was small", *ṣaʿîrâ* "small"). The test for a stative is transitivity, not the English gloss. Because the *î* separates the second and third radicals, a geminate root is regular (*barîr*), and a III-waw root keeps its *w* as a consonant (*ḥalîw*). Model page: [[Lexicon/ܚܣܝܢ]].
 
