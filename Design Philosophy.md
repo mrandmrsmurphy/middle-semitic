@@ -32,3 +32,27 @@ Jews, Muslims and Christians get an equal vote, and the most delicate place that
 - **Names are not common nouns.** *Allah* is a proper name. The common noun *god* is a different word, [[Lexicon/ܐܝܠܗܐ|ܐܝܠܗܐ]] *êlhâ*, which is a little bit of each of the sources and so makes a good neutral choice.
 - **The important texts of each religion are worked through.** [[Dialogue]] carries the Shahada and the Jesus Prayer; [[Torah]] carries Genesis 1:1 and the Shema. Each is a test of whether the vocabulary holds up in the text it has to serve.
 - **The hardest case is Jesus's name.** The non-Christian languages have two names for him: the polemical יֵשׁוּ and عيسى, and the historic or Christian יֵשׁוּעַ and يسوع. Middle Semitic blends all of them into ܝܣܘܥ.
+
+## Sounds and syllables
+
+The guiding meta-principle is the same as everywhere: Middle Semitic must be easier to learn than anyone else's language. For sounds, that means it is the easiest soundscape for each source community, though not necessarily rock-bottom easy.
+
+**Consonants.**
+
+- Everyone has the voiced and unvoiced stops, but the fricatives are sketchy. The common ground is the *begadkefat* principle: neither pronunciation is forced on anyone. ܦ can be /p/ or /f/, and the two are the same letter. See [[Phonology]] and [[Orthography]].
+- Some effort remains. Hebrew speakers must think of ʁ as ʿ, though they have the sound. They must also learn an alveolar r, but they would have to learn that for anyone else's language too.
+
+**Syllables.** Proto-Semitic had only CV and CVC syllables, so that is the baseline, which may be expanded later. What each tradition forbids differs, and each kind of cluster is forbidden by someone, except in the middle of a word:
+
+- Classical and Standard Arabic allow no initial clusters at all: *ktub* becomes اُكْتُبْ.
+- Hebrew allowed initial clusters, but it varied by dialect: *sfarim* may or may not have an epenthetic schwa, depending on the speaker.
+- Everyone allows medial clusters across a syllable or word boundary, as in מִכְתָּב.
+
+| Environment | Standard / Classical Arabic | Modern / Biblical Hebrew | Aramaic / Syriac | Proto-Semitic |
+| --- | --- | --- | --- | --- |
+| Word-initial (#CC-) | Forbidden (inserts *ʾu-* / *ʾi-*) | Allowed (*ktav*, *zman*) | Pervasive (*ktābā*) | Forbidden |
+| Word-medial (-CC-) | Allowed (VC.CV) | Allowed (VC.CV) | Allowed (VC.CV) | Allowed |
+| Word-medial (-CCC-) | Forbidden | Forbidden | Restricted | Forbidden |
+| Word-final (-CC#) | Pausa only (*bint*, *kalb*) | Avoided (segolation: *melech*) | Allowed, or resolved by a suffix | Restricted |
+
+Middle Semitic's syllable inventory of CV and CVC, with no onset or coda clusters, is the part every source accepts, and a cluster arises only across a syllable boundary.
