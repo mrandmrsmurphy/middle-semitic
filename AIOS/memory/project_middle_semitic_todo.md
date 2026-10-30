@@ -9,7 +9,7 @@ Running list; remove items when done (history goes in `logs/log.md`). State as o
 
 **Next up (user's stated direction)**
 - Lexicon gap: ܝܣܘܥ (Jesus) appears on Dialogue.md but has no lexicon entry; check the other proper names used there and on Torah.md (ܐܠܠܗ, ܡܚܡܕ, ܡܪܝܡ, ܝܘܣܦ, ܡܣܝܚ...) and give them entries.
-- "Old Middle Semitic" (user, 2026-10-30): a contrived ancient layer for MS, since the biggest overlap of the source languages is in the first millennia BC/AD. Nothing in the vault documents it yet: decide scope (a page? which archaisms belong to it?) — see Design Philosophy.
+- Content pages do not yet document the crypto-feminine (third) gender or the chiastic gender agreement of the numbers 3–10 (both appear only in memories, lexicon entries and the Design Philosophy page): add to Morphophonology.
 - GitHub release: follow [[project-middle-semitic-documentation-plan]] (README drafted; Design Philosophy page, LICENSE, per-page rationale and repo hygiene still to do).
 - Cognate keys beyond Hebrew/Arabic/Aramaic: ugaritic is done for 244 entries (2026-10-30 pass); the rest, and the held doubtful ones, are listed in `logs/log.md` and need the user's ruling before any `ugaritic: none`. Still to do: akkadian, geez (any tradition gets its own lowercase key). Missing key = not checked; `none` = searched and confirmed absent. Never write `none` without an actual search.
 - Data problems found in existing rows (see the Ugaritic log entry): ܒܫܢܐ, ܢܦܣܐ (Arabic/Aramaic swapped?), ܐܠܝܐ, ܐܘܟܐ, ܐܝܣܐ, ܦܪܥܘܫܐ, ܬܗܘܡܬܐ, ܟܦܪ, ܟܒܝܪܐ, ܬܝܣܥܐ, ܩܪܨ, ܐܝܠܐ/ܐܝܠܠܐ.

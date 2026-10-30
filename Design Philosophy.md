@@ -67,4 +67,13 @@ Some features of Middle Semitic are deliberately archaic: the frozen construct s
 
 The first millennia BC and AD are where much, much more unity can be found than today. The goal of a Universal Language is to promote unity and communication, and every speaker of the source languages can get better at Middle Semitic by studying the history of their own language.
 
-This leads naturally to the need for an **Old Middle Semitic**: a contrivance, but a convenience. The biggest part of the overlap in the Venn diagram of the source languages comes from the past, so Middle Semitic needs a past of its own. The archaic features above are where that older form shows through in the modern one. See [[Morphophonology]] and [[Morphosyntax]].
+This leads naturally to the idea of an **Old Middle Semitic**, a contrivance but a convenience: the biggest part of the overlap in the Venn diagram of the source languages comes from the past, so Middle Semitic needs a past of its own. A functioning Old Middle Semitic will not be developed as a separate language. It already exists in enough form in the archaic features above: VSO, the dual and the construct state. See [[Morphophonology]] and [[Morphosyntax]].
+
+## Regular, guessable forms
+
+A Universal Language is an international auxiliary language, so a certain amount of templatic layout is unavoidable, and good. The form of a word needs to be guessable from a regular pattern, like a correlative chart.
+
+- **Esperanto is the cautionary tale, but for its vocabulary.** It receives a failing grade mostly because its vocabulary is a scattershot of Western Europe with sprinkles of Eastern Europe. Its grammar is too regular, but only because none of its source languages is anywhere near as agglutinative as it is.
+- **Middle Semitic is triconsonantal like its sources, but more regular and predictable than any of them,** which are all fully natural languages. That regularity is part of the design principle of a Universal Language.
+- **There are limits to regularity.** One is the "third" gender, the crypto-feminine: nouns that are feminine in agreement but do not end in the feminine *-t*. Taking regularity to the Esperanto level, too far, would have meant making those words masculine or eliminating gender altogether.
+- **Another quasi-naturalistic feature is the chiastic gender agreement of the numbers 3 to 10,** which all of the source languages share.
