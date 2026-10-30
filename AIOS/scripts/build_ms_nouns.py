@@ -88,7 +88,7 @@ def chart(name, lat, gloss, cls):
 def main(L):
     n = 0
     for f in sorted(os.listdir(L)):
-        if not f.endswith('.md') or f in ('Lexicon.md',) or f.startswith('-'): continue
+        if not f.endswith('.md') or f.startswith('-'): continue
         name = f[:-3]
         if name in SKIP: continue
         t = open(os.path.join(L, f)).read()

@@ -79,4 +79,4 @@ def sync(path, refresh=()):
 if __name__ == '__main__':
     L = sys.argv[1]
     for f in sorted(os.listdir(L)):
-        if f.endswith('.md') and f != 'Lexicon.md': sync(os.path.join(L, f))
+        if f.endswith('.md'): sync(os.path.join(L, f))

@@ -15,7 +15,7 @@ def git_files(folder):
                          capture_output=True, text=True).stdout
     return [l for l in out.split('\x00') if l.endswith('.md')]
 
-lexicon = [f for f in git_files('Lexicon') if not f.endswith('/Lexicon.md')]  # Lexicon.md (retired index) is not an entry
+lexicon = git_files('Lexicon')
 roots = [f for f in git_files('Roots') if not f.endswith('/Roots.md')]
 
 filled = 0

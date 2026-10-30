@@ -16,9 +16,8 @@ Running list; remove items when done (history goes in `logs/log.md`). State as o
 
 - Conjugated prepositions: Aramaic (Syriac) forms for the 80 fused entries are from memory, vowels unverified; check against a Syriac grammar (Robinson §7, Younansardaroud). Aramaic missing on pi- and bên forms (not checked). Hebrew/Arabic are standard paradigms.
 
-**Retiring `Lexicon/Lexicon.md`** (user, 2026-10-30: the base `Lexicon/Words - all.base` supplants it; delete only once nothing is lost)
-- Done: its documentation lives in [[project-middle-semitic-lexicon-entry-format]]; its index lines add no data; the `> Parent:` line of all 469 entries, `Middle Semitic.md` and `Swadesh.md` now point at the base; `build_ms_adjectives.py` no longer edits it; `facts.yaml`/`build_facts.py` point at the base and `Lexicon/`.
-- Left: the base has no `latin`, `gender` or `swadesh` columns (the old index showed the romanization); `build_ms_nouns.py` and `ms_frontmatter.py` still skip `Lexicon.md` by name (harmless, remove after deletion); then delete `Lexicon.md` (the base lists it as an empty row until then).
+**Lexicon base**
+- `Lexicon/Words - all.base` has no `latin`, `gender` or `swadesh` columns (the retired index showed the romanization); add them if wanted.
 
 **Swadesh**
 - ~78 of 207 MS cells still empty (129 filled): mostly basic verbs (drink, sleep, give, say, come, sit, stand, walk, kill, swim, bite, burn, hit, cut...), adjectives (red, cold, full, new, round, dry...), and some body/nature words. Check the lexicon for an existing entry before coining.

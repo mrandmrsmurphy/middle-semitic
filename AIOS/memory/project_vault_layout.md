@@ -9,7 +9,7 @@ metadata:
 
 Middle Semitic spun out of the UL vault (`/Users/robertmarshallmurphy/Documents/UL`) into this vault on 2026-10-28 (user decision: richer lexicon entries need per-tradition YAML properties — Ugaritic, Akkadian, Geʿez — inappropriate in a shared vault).
 
-- **Flat layout** (danayo model): content pages (`Phonology.md`, `Morphophonology.md`, `Morphosyntax.md`, `Orthography.md`, `Anthropology.md`, `Swadesh.md`, `Dialogue.md`, `Torah.md`) and the hub `Middle Semitic.md` sit at vault root; `Lexicon/` (one file per word + the dynamic table `Words - all.base`; the old `Lexicon.md` index is retired or being retired) and `Roots/` (one file per root + `Roots.md` index) at root. All links were rewritten at the split: `[[Middle Semitic/X]]` → `[[X]]`. Never reintroduce the prefix.
+- **Flat layout** (danayo model): content pages (`Phonology.md`, `Morphophonology.md`, `Morphosyntax.md`, `Orthography.md`, `Anthropology.md`, `Swadesh.md`, `Dialogue.md`, `Torah.md`) and the hub `Middle Semitic.md` sit at vault root; `Lexicon/` (one file per word + the dynamic table `Words - all.base`; the old `Lexicon.md` index was deleted 2026-10-30) and `Roots/` (one file per root + `Roots.md` index) at root. All links were rewritten at the split: `[[Middle Semitic/X]]` → `[[X]]`. Never reintroduce the prefix.
 - **git**: the vault is a git repo (UL is not). Commit after any scripted bulk change.
 - `images/` holds the flag and the two maps (copies; the originals stay in UL's `files/` for the hub page there).
 - Build scripts live in `AIOS/scripts/` (`build_ms_*.py`) and take the target dir as an argument — e.g. run from the vault root as `python3 AIOS/scripts/build_ms_nouns.py Lexicon`.
