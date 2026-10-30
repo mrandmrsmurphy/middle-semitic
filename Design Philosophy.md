@@ -24,3 +24,11 @@ When Hebrew and Arabic disagree on a word, neither simply wins. Every word is re
 2. **Fall back to the modern majority.** Only when the search for a broad word or root across the region is exhausted does Middle Semitic switch to a modern majority strategy, choosing what most of the modern source languages use. The majority is counted by number of source languages, not by number of speakers. Hebrew is given a little extra weight, which keeps Arabic's many dialects from simply outvoting it; even so, this has produced several choices that lean on the Arabic dialects, such as [[Lexicon/ܪܣܘܠܐ|ܪܣܘܠܐ]] *rasûlâ* "messenger" (in place of Hebrew שלח) and [[Lexicon/ܟܡܢ|ܟܡܢ]] *kaman* "also" (from the colloquial Arabic *kamān*).
 
 See also the treatment of the proto-language in [[Anthropology]].
+
+## An equal vote for three faiths
+
+Jews, Muslims and Christians get an equal vote, and the most delicate place that shows is religious vocabulary. There is no absolutely neutral ground, so the work is finding the most neutral ground available, which is slow and painstaking.
+
+- **Names are not common nouns.** *Allah* is a proper name. The common noun *god* is a different word, [[Lexicon/ܐܝܠܗܐ|ܐܝܠܗܐ]] *êlhâ*, which is a little bit of each of the sources and so makes a good neutral choice.
+- **The important texts of each religion are worked through.** [[Dialogue]] carries the Shahada and the Jesus Prayer; [[Torah]] carries Genesis 1:1 and the Shema. Each is a test of whether the vocabulary holds up in the text it has to serve.
+- **The hardest case is Jesus's name.** The non-Christian languages have two names for him: the polemical יֵשׁוּ and عيسى, and the historic or Christian יֵשׁוּעַ and يسوع. Middle Semitic blends all of them into ܝܣܘܥ.
