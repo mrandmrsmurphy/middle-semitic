@@ -23,7 +23,7 @@ This repository is the working archive of the language: the grammar, the phonolo
 | Word order | SVO (VSO is archaic) |
 | Morphology | triconsonantal roots; productive derivation |
 | Alignment | nominative–accusative |
-| Author | Aquatiki |
+| Author | Robert Marshall Murphy |
 
 ---
 
@@ -125,10 +125,10 @@ These are the choices that recur across the pages. Each is implemented somewhere
 - **A neutral script.** Syriac, written right to left, is equally distant from the Arabic and the Hebrew scripts, with Neo-Aramaic as the middle ground. Vowels are diacritics; gemination uses the Arabic *shadda*. See [Orthography](Orthography.md).
 - **Roots are productive.** Word formation relies on the triconsonantal root, so each root has its own page listing the words built on it. See [Roots](Roots/Roots.md).
 - **Simple, predictable sounds.** 22 consonants and 5 vowels; only CV and CVC syllables, with no clusters; a marginal schwa in clitics and imperatives. Stress is predictable, counted over the whole word: a closed final syllable takes it, otherwise the penult. This is a compromise among Aramaic (penult), Hebrew (ultima) and Arabic (weight). See [Phonology](Phonology.md).
-- **The *aw* → *ô* contraction is absolute.** No word contains an *aw* sequence, so even modern Arabic *ṭawīl* surfaces as *ṭôlâ*.
-- **Clear morphology.** Verbs are cited in the 3rd masculine singular past; the passive is a long *û* after the first consonant; nouns take regular and construct states, with no dual except for body parts, glasses and pants. The construct is a frozen archaism, kept because ancient texts use it. See [Morphophonology](Morphophonology.md).
+- **The *aw* → *ô* and *ay* → *ê* contractions are absolute.** No word contains an *aw* or *ay* sequence, so even modern Arabic *ṭawīl* surfaces as *ṭôlâ*.
+- **Clear morphology.** Verbs are cited in the 3rd masculine singular past; the passive is a long *û* after the first consonant; stative verbs have a long î after the first consonant; nouns take regular and construct states, with no dual except for body parts and a few others. The construct is a frozen archaism, kept because all ancient texts use it. See [Morphophonology](Morphophonology.md).
 - **Gender by majority.** For plain *-a* nouns, gender follows the majority of the Hebrew, Arabic and Aramaic cognates. A noun without a *-t* in its spelling that is feminine in the cognates is "crypto-feminine".
-- **SVO, without case.** Word order carries the grammar and is strictly enforced; pro-drop is common because verbs inflect for person. Copulas are split into existence particles (*hô*, *yiš*) and an equality verb (*kôn*). See [Morphosyntax](Morphosyntax.md).
+- **SVO, without case.** Word order carries the grammar and is strictly enforced (VSO is the deliberately archaic form); pro-drop is common because verbs inflect for person. Copulas are split into existence particles (*hô*, *yiš*) and an equality verb (*kôn*). See [Morphosyntax](Morphosyntax.md).
 - **Eight small prepositions that conjugate.** *li-*, *bi-*, *pi-*, *ki-*, *min*, *ʿal-*, *ʿim* and *bên* take pronominal suffixes ("upon me", *ʿalnî*); every other "preposition" is a noun in the construct state. Six of them have clitic forms that may reduce to a schwa in fast speech. See [Prepositions](Prepositions.md).
 - **We make our own data.** The [lexicon](Lexicon/) is the source record. There is no external dictionary to defer to; cognate evidence is gathered per word and recorded with its strength.
 
@@ -199,6 +199,10 @@ The full entry format is documented in [`AIOS/memory/project_middle_semitic_lexi
 
 The text and data in this repository are licensed under [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0): you may share and adapt them, with credit, under the same terms.
 
+## Contributing
+
+Outside contributions are welcome. All of them are reviewed before they are merged, and contributors who have shown care can be given direct access. See [CONTRIBUTING](CONTRIBUTING.md).
+
 ## Credits
 
-Designed and written by Aquatiki, with the help of Claude (Anthropic) for lexicon coverage, cognate research and documentation. Cognate evidence draws on Wiktionary, the ORACC Ugaritic glossary, and the standard grammars of Ugaritic and Syriac. The Syriac text of the Torah page comes from the Peshitta, checked against [peshitta.eu](https://www.peshitta.eu) and the [ETCBC](https://github.com/ETCBC/peshitta) edition.
+Designed and written by Robert Marshall Murphy, with the help of several AI assistants (Claude, Kimi, Cursor, ChatGPT, Z and others) for lexicon coverage, cognate research and documentation. Cognate evidence draws on Wiktionary, the ORACC Ugaritic glossary, and the standard grammars of Ugaritic and Syriac. The Syriac text of the Torah page comes from the Peshitta, checked against [peshitta.eu](https://www.peshitta.eu) and the [ETCBC](https://github.com/ETCBC/peshitta) edition.

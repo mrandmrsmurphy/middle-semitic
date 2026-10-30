@@ -15,7 +15,7 @@
 | Morphology | Triconsonantal |
 | Alignment | Nominative–accusative |
 | Status | Own vault — all real work happens here |
-| Author | Aquatiki |
+| Author | Robert Marshall Murphy |
 
 **Middle Semitic** is a Universal Language for the Middle East and North Africa. It is a blend of Hebrew and Arabic, written in Syriac.
 

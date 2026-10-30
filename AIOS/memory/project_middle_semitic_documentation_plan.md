@@ -14,6 +14,9 @@ The vault is going public on GitHub. This is the plan for documenting it, and it
 - **Audience:** conlangers and linguists first (people who want to understand and critique the design). Contributors and agents get a short pointer to `AIOS/`.
 - **UL context:** the README carries the **full** Universal Languages case (the three goals, the fifteen, what is left out, the case, how it would be implemented, the end goal, the 1–10 development scale), so a reader never needs the sister repository. It still links to the UL repo for the other fourteen languages.
 - **Licence:** CC BY-SA 4.0 for the content. Scripts in `AIOS/scripts/` may be licensed separately (MIT) — not decided.
+- **Byline (user, 2026-10-30):** Robert Marshall Murphy (not the handle Aquatiki); the credit line says "several AI assistants" (Claude, Kimi, Cursor, ChatGPT, Z and others). The hub's Author row was changed to match.
+- **`AIOS/` is public** (user); contributions from outsiders are welcome but every one is reviewed, and vetted contributors can be given write access — see `CONTRIBUTING.md` (written).
+- **Repository:** will be created under the user's GitHub login (mrandmrsmurphy; Dan'a'yo is at github.com/mrandmrsmurphy/danayo), later today, after the pages are more presentable. The UL repo does not exist yet.
 - **Links:** the README and any new top-level documents use plain relative markdown links (they render on GitHub). The existing pages keep Obsidian wikilinks (`[[Phonology]]`, `![[img]]`); the README says so. No bulk conversion of the vault.
 
 ## Documents
@@ -26,13 +29,13 @@ The vault is going public on GitHub. This is the plan for documenting it, and it
 | Per-page rationale | Each of `Phonology`, `Orthography`, `Morphophonology`, `Morphosyntax`, `Prepositions` gets a short **Rationale** section (why this choice, what was rejected) | not started; start with Phonology and Morphosyntax |
 | Lexicon guide | A reader-facing version of the entry format (currently only in `AIOS/memory/project_middle_semitic_lexicon_entry_format.md`) | decide: a root page, or link to the AIOS file |
 | `Middle Semitic.md` (hub) | Add Design Philosophy and README pointers; keep it the Obsidian entry point | after the new pages exist |
-| `CONTRIBUTING.md` | How to propose a word or a change; the missing-vs-`none` rule; who decides | not started; the user decides whether contributions are wanted |
+| `CONTRIBUTING.md` | How to propose a word or a change; the missing-vs-`none` rule; who decides | written |
 
 ## Repo hygiene before publishing
 
 - Add a `.gitignore` (`.DS_Store`, `.obsidian/workspace.json`, other Obsidian per-machine state) and untrack `.obsidian/workspace.json`; decide whether to keep `.obsidian/` settings at all.
 - Local absolute paths with the user's username appear in `CLAUDE.md`, `AGENTS.md`, `AIOS/memory/project_vault_layout.md` and `logs/log.md`. They are harmless but personal; decide whether to genericize them. `CLAUDE.md` and `AGENTS.md` must stay byte-identical.
-- Decide whether `AIOS/` (agent memory, session log) is public. It documents decisions and is useful, but it is working notes; the README describes it as agent/maintainer material either way.
+- (Decided: `AIOS/` is public.) Before publishing, resolve the history findings below. Previously: decide whether `AIOS/` (agent memory, session log) is public. It documents decisions and is useful, but it is working notes; the README describes it as agent/maintainer material either way.
 - Pages that mention the UL vault by local path (`../UL`) need a public link or a generic phrase.
 - Repository description, topics (conlang, semitic, universal-language, obsidian), social preview image (the flag).
 - Check images for licence/provenance (`images/Semitic_Flag.png`, the two maps, the world map).
@@ -40,7 +43,12 @@ The vault is going public on GitHub. This is the plan for documenting it, and it
 
 ## Open questions for the user
 
-- The URL of the UL repository (for the README's links).
-- The byline: the hub names the author as Aquatiki; confirm that is what the README and the licence should credit.
+- The URL of the UL repository, once it exists (the README has no link to it yet).
 - Whether `UL/Development Roadmap.md` should be updated: it still lists Middle Semitic as 450 entries and 128/207 Swadesh cells (the vault now has about 470 entries and 129/207).
-- Whether contributions and corrections from outside are wanted, and how.
+
+## Security review of history (to resolve before the first push)
+
+- No tokens, keys, passwords or email addresses in any tracked file. Only local absolute paths with the username (`CLAUDE.md`, `AGENTS.md`, the layout memory, the log).
+- Git history has a commit author email, `mrandmrsmurphy@gmail.com`, on all 34 commits; it becomes public with the history unless commits use GitHub's no-reply address.
+- Git history still contains the retired Google Sheet's URL (six commits: the import, the AIOS seed, facts.yaml, the retirement commits, and the frontmatter commit), including an `?usp=sharing` link and a CSV export link. If that sheet is still link-shared it is reachable from public history.
+- Options: publish a fresh single-commit history (drops both findings; loses the commit trail), or rewrite history to remove the sheet and the email, or keep history and make the sheet private.
