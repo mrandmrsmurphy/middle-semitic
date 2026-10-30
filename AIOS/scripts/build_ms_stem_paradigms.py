@@ -98,6 +98,8 @@ def stems(c1, c2, c3):
         'tD': dict(past=['ܬ', 'I', c1, 'i', g2, 'A', c3], non=['ܬ', 'I', c1, 'i', g2, 'A', c3], pre='a'),
     }
     d.update(hollow)
+    if c2 == 'ܘ':  # aw -> ô is absolute: the C stem's 1 a w 3 contracts (šaqwam -> šaqôm); Cp šûqwam has no aw and stays
+        d['C'] = dict(past=[S, 'a', c1, X, c3], non=[S, 'a', c1, X, c3], pre='a')
     return d
 
 
@@ -164,7 +166,11 @@ MEANING = {'ܟܬܒ': {'G': 'to write', 'Gp': 'passive of G: to be written',
            'ܒܝܬ': {'G': 'to overnight, to stay one night at', 'Gp': 'passive of G: to be stayed at overnight',
                    'D': 'to lodge at, to stay repeated nights at', 'Dp': 'passive of D: to be lodged at',
                    'C': 'to host, to provide overnight lodging for', 'Cp': 'passive of C: to be hosted',
-                   'tD': 'to come to have a home, to find lodging'}}
+                   'tD': 'to come to have a home, to find lodging'},
+           'ܩܘܡ': {'G': 'to arise, to stand', 'Gp': 'passive of G: to be stood up',
+                   'D': 'to straighten, to set right', 'Dp': 'passive of D: to be straightened',
+                   'C': 'to establish', 'Cp': 'passive of C: to be established',
+                   'tD': 'to become straight'}}
 ABSENT = {'ܡܠܟ': {'D', 'Dp', 'tD'}}  # word -> stems it does NOT have (property false, no tables)
 VOCALIZED = {'ܟܬܒ', 'ܡܠܟ'}  # the strong model shows the vocalized Syriac; weak pages show romanization + plain spelling only
 
