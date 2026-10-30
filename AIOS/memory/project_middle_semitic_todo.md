@@ -16,6 +16,10 @@ Running list; remove items when done (history goes in `logs/log.md`). State as o
 
 - Conjugated prepositions: Aramaic (Syriac) forms for the 80 fused entries are from memory, vowels unverified; check against a Syriac grammar (Robinson §7, Younansardaroud). Aramaic missing on pi- and bên forms (not checked). Hebrew/Arabic are standard paradigms.
 
+**Retiring `Lexicon/Lexicon.md`** (user, 2026-10-30: the base `Lexicon/Words - all.base` supplants it; delete only once nothing is lost)
+- Done: its documentation lives in [[project-middle-semitic-lexicon-entry-format]]; its 469 index lines add no data (every one matches an entry file; 8 had stale romanization/gloss).
+- Before deleting: (1) base lacks `latin`, `gender`, `swadesh` columns that the index showed (latin); (2) repoint the `> Parent: [[Lexicon/Lexicon]]` line in all 469 entries; (3) repoint `Middle Semitic.md` (2 links) and `Swadesh.md`; (4) scripts: `build_ms_adjectives.py` appends an index line to Lexicon.md (remove), `build_facts.py` + `AIOS/facts.yaml` name it as `lexicon_index`/`source_record`, `build_ms_nouns.py` and `ms_frontmatter.py` skip it by name (harmless once deleted); (5) the header breadcrumb (Swadesh · Phonology · Orthography) must be reachable from the hub; (6) fix wording in CLAUDE.md/AGENTS.md ("Lexicon/ is the source record" stays true) and the layout memory.
+
 **Swadesh**
 - ~78 of 207 MS cells still empty (129 filled): mostly basic verbs (drink, sleep, give, say, come, sit, stand, walk, kill, swim, bite, burn, hit, cut...), adjectives (red, cold, full, new, round, dry...), and some body/nature words. Check the lexicon for an existing entry before coining.
 - Egypt column was converted from IPA to Arabic script (90 cells, spellings by Claude, unchecked): needs a native-reader pass; shakiest are №40 wife (مرات), 55 seed, 76 mouth (بق), 143 float, 145 freeze, 161 fog.
