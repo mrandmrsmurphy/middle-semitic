@@ -202,12 +202,15 @@ MEANING = {'ܟܬܒ': {'G': 'to write', 'Gp': 'passive of G: to be written',
                    'D': 'to shackle, to bind fast', 'Dp': 'passive of D: to be shackled',
                    'C': 'to have (someone) imprisoned', 'Cp': 'passive of C: to be put in prison',
                    'tD': 'to bind oneself, to be under obligation'},
+           'ܐܚܙ': {'G': 'to take, to seize', 'Gp': 'passive of G: to be taken, to be seized',
+                   'D': 'to grasp firmly, to hold fast', 'Dp': 'passive of D: to be held fast',
+                   'tD': 'to hold on to, to cling'},
            # PROVISIONAL: the user gave no meanings for ܪܥܝ; these follow the Hebrew/Arabic stems and await a ruling
            'ܪܥܝ': {'G': 'to herd, to shepherd, to pasture', 'Gp': 'passive of G: to be herded',
                    'D': 'to tend closely, to shepherd with care', 'Dp': 'passive of D: to be tended closely',
                    'C': 'to put out to pasture, to let graze', 'Cp': 'passive of C: to be put out to pasture',
                    'tD': 'to come under someone\'s care, to be looked after'}}
-ABSENT = {'ܡܠܟ': {'D', 'Dp', 'tD'}}  # word -> stems it does NOT have (property false, no tables)
+ABSENT = {'ܡܠܟ': {'D', 'Dp', 'tD'}, 'ܐܚܙ': {'C', 'Cp'}}  # word -> stems it does NOT have (property false, no tables)
 VOCALIZED = {'ܟܬܒ', 'ܡܠܟ'}  # the strong model shows the vocalized Syriac; weak pages show romanization + plain spelling only
 
 
