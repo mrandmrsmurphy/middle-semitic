@@ -15,3 +15,12 @@ Middle Semitic blends Hebrew and Arabic and gives the two relatively equal weigh
 - **The test of ease.** Middle Semitic must be easier for any one speaker to learn than any one other language is for that speaker. Arabic is hard for Hebrew speakers and Hebrew is hard for Arabic speakers; Middle Semitic is easier for each of them than the other's language.
 
 How the languages are weighed word by word is described in [[Anthropology]].
+
+## Choosing between Hebrew and Arabic: the common root first
+
+When Hebrew and Arabic disagree on a word, neither simply wins. Every word is researched: the source languages are polled and Proto-Semitic is consulted. This is why Middle Semitic needs a constant human touch and a lot of research. The decision runs in two stages.
+
+1. **Appeal to the broadest root.** If a root or word exists across the region and in Proto-Semitic, Middle Semitic uses it, even where some source languages have since moved on from it. The example is *louse* ([[Swadesh]] № 48): the root Q-M-L exists across the region and in Proto-Semitic, but Hebrew and the rest of Northwest Semitic have moved on to a different root (Hebrew כנה *kinnâ*). Middle Semitic backs up and takes the common root, even though it takes digging deep into Rabbinic literature to find the Hebrew trace of it, קַלְמָנָה.
+2. **Fall back to the modern majority.** Only when the search for a broad word or root across the region is exhausted does Middle Semitic switch to a modern majority strategy, choosing what most of the modern source languages use.
+
+See also the treatment of the proto-language in [[Anthropology]].
