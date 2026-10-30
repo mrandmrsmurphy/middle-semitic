@@ -12,18 +12,18 @@ This repository is the working archive of the language: the grammar, the phonolo
 > *pibadâtâ êlhâ barâ hal samîm wa-hal arṣâ*
 > "In the beginning God created the heavens and the earth." (Genesis 1:1)
 
-| | |
-| --- | --- |
-| Native name | ܫܡܥ ܡܪܟܙ (*šamâ markaz*) |
-| Population in the zone | about 290 million |
-| Foundation | Proto-Semitic |
-| Zone | the Semitisphere: the Middle East and North Africa |
-| Source languages | the Arabic varieties, Israeli and Biblical Hebrew, Neo-Aramaic and Classical Syriac |
-| Script | Syriac, written right to left |
-| Word order | SVO (VSO is archaic) |
-| Morphology | triconsonantal roots; productive derivation |
-| Alignment | nominative–accusative |
-| Author | Robert Marshall Murphy |
+|                        |                                                                                     |
+| ---------------------- | ----------------------------------------------------------------------------------- |
+| Native name            | ܫܡܥ ܡܪܟܙ (*šamâ markaz*)                                                            |
+| Population in the zone | about 290 million                                                                   |
+| Foundation             | Proto-Semitic                                                                       |
+| Zone                   | the Semitisphere: the Middle East and North Africa                                  |
+| Source languages       | the Arabic varieties, Israeli and Biblical Hebrew, Neo-Aramaic and Classical Syriac |
+| Script                 | Syriac, written right to left                                                       |
+| Word order             | SVO (VSO is archaic)                                                                |
+| Morphology             | triconsonantal roots; productive derivation                                         |
+| Alignment              | nominative–accusative                                                               |
+| Author                 | Robert Marshall Murphy                                                              |
 
 ---
 
@@ -126,7 +126,7 @@ These are the choices that recur across the pages. Each is implemented somewhere
 - **Roots are productive.** Word formation relies on the triconsonantal root, so each root has its own page listing the words built on it. See [Roots](Roots/Roots.md).
 - **Simple, predictable sounds.** 22 consonants and 5 vowels; only CV and CVC syllables, with no clusters; a marginal schwa in clitics and imperatives. Stress is predictable, counted over the whole word: a closed final syllable takes it, otherwise the penult. This is a compromise among Aramaic (penult), Hebrew (ultima) and Arabic (weight). See [Phonology](Phonology.md).
 - **The *aw* → *ô* contraction is absolute.** No word contains an *aw* sequence, so even modern Arabic *ṭawīl* surfaces as *ṭôlâ*.
-- **Clear morphology.** Verbs are cited in the 3rd masculine singular past; the passive is a long *û* after the first consonant; stative verbs have a long î after the first consonant; nouns take regular and construct states, with no dual except for body parts and a few others. The construct is a frozen archaism, kept because all ancient texts use it. See [Morphophonology](Morphophonology.md).
+- **Clear morphology.** Verbs are cited in the 3rd masculine singular past; the passive is a long *û* after the first consonant; stative verbs have a long *î* as the second vowel (*ḥasîn*, non-past *yaḥsîn*), so they are identifiable in every form; nouns take regular and construct states, with no dual except for body parts and a few others. The construct is a frozen archaism, kept because all ancient texts use it. See [Morphophonology](Morphophonology.md).
 - **Gender by majority.** For plain *-a* nouns, gender follows the majority of the Hebrew, Arabic and Aramaic cognates. A noun without a *-t* in its spelling that is feminine in the cognates is "crypto-feminine".
 - **SVO, without case.** Word order carries the grammar and is strictly enforced (VSO is the deliberately archaic form); pro-drop is common because verbs inflect for person. Copulas are split into existence particles (*hô*, *yiš*) and an equality verb (*kôn*). See [Morphosyntax](Morphosyntax.md).
 - **Eight small prepositions that conjugate.** *li-*, *bi-*, *pi-*, *ki-*, *min*, *ʿal-*, *ʿim* and *bên* take pronominal suffixes ("upon me", *ʿalnî*); every other "preposition" is a noun in the construct state. Six of them have clitic forms that may reduce to a schwa in fast speech. See [Prepositions](Prepositions.md).

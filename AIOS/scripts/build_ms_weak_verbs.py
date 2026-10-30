@@ -100,6 +100,7 @@ def build(root):
     return '\n'.join(t)
 
 def main(L, words, is_stative=False):
+    if is_stative: sys.exit("Stative verbs are built by AIOS/scripts/build_ms_stative_verbs.py (î is the second vowel: 1a2î3).")
     for w in words:
         p = os.path.join(L, w + '.md'); s = open(p).read()
         assert '## Forms' not in s, w

@@ -75,6 +75,7 @@ def stative(body):
     return head + '### Other forms' + rest
 
 def main(L, words, is_stative=False):
+    if is_stative: sys.exit("Stative verbs are built by AIOS/scripts/build_ms_stative_verbs.py (î is the second vowel: 1a2î3).")
     tpl = open(os.path.join(L, 'ܡܠܟ.md')).read()
     T = tpl[tpl.index('## Forms'):]
     for w in words:

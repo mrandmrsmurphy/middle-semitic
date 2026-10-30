@@ -13,7 +13,7 @@ metadata:
 1. **Guttural verbs** (roots with ʾ ʿ ḥ h, ≈35): Phonology says coda gutturals disappear (aleph excepted) — work through them one class at a time.
 2. **Weak verbs** (w/y/hollow/final-weak, ≈25) incl. geminate ܒܝܪ (BUILT), quadriliteral ܐܨܒܥ: "weird or just missing parts" — user will decide what exists.
 3. **Existing û-verbs** ܘܕܥ wûda` and ܚܘܣܒ ḥûsab, and stative ܚܝܡܨ ḥîmaṣ (î): need a ruling on how they conjugate relative to the passive.
-4. **Statives**: RULED (user, 2026-10-27) — first vowel î in finite forms, no passive; the five strong ones are done (ṭîlam mîtaq sîlam sîman qîdas). ḥîmaṣ and other guttural statives wait with the gutturals.
+4. **Statives** (SUPERSEDED 2026-10-30: the î is now the second vowel, 1a2î3 — see the grammar-rulings memory): RULED (user, 2026-10-27) — first vowel î in finite forms, no passive; the five strong ones are done (ṭîlam mîtaq sîlam sîman qîdas). ḥîmaṣ and other guttural statives wait with the gutturals.
 5. Noun questions: ALL ANSWERED (ibex respelled ܘܥܠܐ; lizard is now plain ܘܪܠܐ). Nouns are complete for this pass.
 6. Skipped on purpose: adjectives, numerals, proper names, particles, -ê/-a loan and weak nouns.
 
