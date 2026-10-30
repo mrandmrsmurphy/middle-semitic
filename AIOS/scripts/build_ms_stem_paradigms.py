@@ -58,7 +58,8 @@ def render(tokens):
 
 VOCAL = True
 HOLLOW = False
-IIIY = False  # III-yod root: the final y contracts with the preceding a (see ap)
+IIIY = False  # III-yod / III-aleph root: the final y or ʾ contracts with the preceding a (see ap)
+IIIC = ''
 
 
 def ap(stem, suf):
@@ -67,11 +68,11 @@ def ap(stem, suf):
     the 2f/plural endings keep their letters in the spelling although they are not pronounced."""
     if not IIIY:
         return list(stem) + list(suf)
-    E, silent = ('X', 'ê', 'ܝ'), lambda c: ('X', '', c)
+    E, silent = ('X', 'ê' if IIIC == 'ܝ' else 'â', IIIC), lambda c: ('X', '', c)
     lengthened = stem[-2] == 'aa'  # a guttural-compensated D-type stem keeps its aleph in the spelling
     b = list(stem[:-2]) + ([silent('ܐ')] if lengthened else [])
     if suf == ['u']:                     # 3pl past
-        return list(stem) + ['u'] if lengthened else b + ['ܝ', 'u']
+        return list(stem) + ['u'] if lengthened else b + [IIIC, 'u']
     if suf == ['a', 'ܬ']:                # 3f past: banay + at -> banêt (the first vowel wins)
         return b + [E, 'ܬ']
     if suf == ['i']:                     # 2f non-past, 2f imperative
@@ -205,6 +206,10 @@ MEANING = {'ܟܬܒ': {'G': 'to write', 'Gp': 'passive of G: to be written',
            'ܐܚܙ': {'G': 'to take, to seize', 'Gp': 'passive of G: to be taken, to be seized',
                    'D': 'to grasp firmly, to hold fast', 'Dp': 'passive of D: to be held fast',
                    'tD': 'to hold on to, to cling'},
+           'ܒܕܐ': {'G': 'to invent, to originate', 'Gp': 'passive of G: to be invented',
+                   'D': 'to innovate, to devise anew', 'Dp': 'passive of D: to be innovated',
+                   'C': 'to bring into being, to initiate', 'Cp': 'passive of C: to be initiated',
+                   'tD': 'to arise, to come into being'},
            # PROVISIONAL: the user gave no meanings for ܪܥܝ; these follow the Hebrew/Arabic stems and await a ruling
            'ܪܥܝ': {'G': 'to herd, to shepherd, to pasture', 'Gp': 'passive of G: to be herded',
                    'D': 'to tend closely, to shepherd with care', 'Dp': 'passive of D: to be tended closely',
@@ -220,12 +225,12 @@ def main(L, words):
         m = re.search(r'^\|\s*Root\s*\|\s*(.*?)\s*\|\s*$', t, re.M)
         root = re.sub(r'\[\[.*?\\\|(.*?)\]\]', r'\1', m.group(1)).replace('-', '')
         c1, c2, c3 = root
-        assert not set(c3) & set('ܐܘ') and c2 != 'ܐ' and not (c3 == 'ܝ' and c2 in 'ܘܝ'), (w, 'only strong, I-aleph, hollow and III-yod roots are supported')
+        assert c3 != 'ܘ' and c2 != 'ܐ' and not (c3 in 'ܝܐ' and c2 in 'ܘܝ'), (w, 'only strong, I-aleph, hollow and III-yod roots are supported')
         assert c1 not in 'ܘܝ', (w, 'only strong, I-aleph and hollow roots are supported')
-        global VOCAL, HOLLOW, IIIY
+        global VOCAL, HOLLOW, IIIY, IIIC
         VOCAL = w in VOCALIZED
         HOLLOW = c2 in 'ܘܝ'
-        IIIY = c3 == 'ܝ'
+        IIIY = c3 in 'ܝܐ'; IIIC = c3 if IIIY else ''
         S = stems(('R', 'ܐ') if c1 == 'ܐ' else c1, c2, c3)
         head = t[:t.index('## Stems')] if '## Stems' in t else t[:t.index('## Forms')]
         # YAML: all seven stems true
@@ -262,11 +267,11 @@ def main(L, words):
                    "; ".join(f"{s2} {pl}" for s2, pl in plain.items()) + ". " +
                    " ".join(f"{' and '.join(v)} are spelled alike unless the shadda is written, as in Hebrew and Arabic." for v in by.values() if len(v) > 1) + "\n")
         out.append("## Forms\n")
-        klass = "a III-yod verb with a guttural middle radical" if IIIY and c2 in 'ܥܚܗ' else "a III-yod verb" if IIIY else "a hollow verb" if HOLLOW else "an I-aleph verb" if c1 == 'ܐ' else "a strong triliteral verb"
+        klass = ("a III-yod verb" if c3 == 'ܝ' else "a III-aleph verb") + (" with a guttural middle radical" if c2 in 'ܥܚܗ' else "") if IIIY else "a hollow verb" if HOLLOW else "an I-aleph verb" if c1 == 'ܐ' else "a strong triliteral verb"
         cells = "the vocalized Syriac, the romanization and the plain spelling" if VOCAL else "the romanization and the plain spelling"
         out.append(f"The conjugation of {klass} in each of its stems, from the templates in [[Morphophonology]]. "
                    f"The citation form is the 3m past. Each cell gives {cells}." +
-                   (" The final y contracts with the preceding a to ê (see [[Morphophonology]]); the middle guttural cannot be geminated, so the D, Dp and tD stems lengthen the vowel after it instead, written with an aleph." if IIIY and c2 in 'ܥܚܗ' else "") + (" In the G stem the central vowel is part of the root and the stem stays CVC; in the derived stems the middle radical is a full consonant and takes its place in the template." if HOLLOW else "") + "\n")
+                   (f" The final {'y' if c3 == 'ܝ' else 'ʾ'} contracts with the preceding a to {'ê' if c3 == 'ܝ' else 'â'} (see [[Morphophonology]])." if IIIY else "") + (" The middle guttural cannot be geminated, so the D, Dp and tD stems lengthen the vowel after it instead, written with an aleph." if c2 in 'ܥܚܗ' else "") + (" In the G stem the central vowel is part of the root and the stem stays CVC; in the derived stems the middle radical is a full consonant and takes its place in the template." if HOLLOW else "") + "\n")
         for s, d in S.items():
             if s in absent: continue
             out.append(f"### {LABEL[s]}: {mean[s].split(':')[0]}\n")
