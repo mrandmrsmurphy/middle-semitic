@@ -77,3 +77,11 @@ A Universal Language is an international auxiliary language, so a certain amount
 - **Middle Semitic is triconsonantal like its sources, but more regular and predictable than any of them,** which are all fully natural languages. That regularity is part of the design principle of a Universal Language.
 - **There are limits to regularity.** One is the "third" gender, the crypto-feminine: nouns that are feminine in agreement but do not end in the feminine *-t*. Taking regularity to the Esperanto level, too far, would have meant making those words masculine or eliminating gender altogether.
 - **Another quasi-naturalistic feature is the chiastic gender agreement of the numbers 3 to 10,** which all of the source languages share.
+
+## Stress
+
+Stress is predictable, and it is a compromise by design, chosen both to be easy to learn and to give every source community something familiar. The rule takes in weight (Arabic), the ultimate syllable (Hebrew) and the penultimate syllable (Aramaic): a closed final syllable takes the stress, otherwise the penult. See [[Phonology]].
+
+- **Exceptions.** The rule has exceptions, mainly to do with the clitic prepositions. They have not all been listed yet. They also help keep the language approachable and similar to the source languages.
+- **Different texts feel different.** The Shahada, in [[Dialogue]], is a place where Middle Semitic starts to feel like Arabic stress, while the Shema, in [[Torah]], is Hebrew-adjacent.
+- **The goal** is to keep the language feeling as familiar as possible, so that everyone experiences it as "close to home", while still following regular rules, as in the principle above.
