@@ -1,0 +1,18 @@
+views:
+  - type: table
+    name: View
+    filters:
+      and:
+        - file.folder == "Lexicon"
+        - file.ext == "md"
+    order:
+      - file.name
+      - arabic
+      - aramaic
+      - gloss
+      - hebrew
+      - pos
+      - proto-semitic
+      - root
+    columnSize:
+      note.arabic: 115

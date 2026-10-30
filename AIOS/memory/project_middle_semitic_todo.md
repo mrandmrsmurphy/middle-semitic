@@ -12,6 +12,8 @@ Running list; remove items when done (history goes in `logs/log.md`). State as o
 - Maybe add `components` (list) to the YAML of the ~100 inflected/fused forms (offered, not decided).
 - Confirm the property name: `date-last-perfect` was used exactly as typed (all entries = 2026-10-28); rename if "date-last-perfected" was meant.
 
+- Conjugated prepositions: Aramaic (Syriac) forms for the 80 fused entries are from memory, vowels unverified; check against a Syriac grammar (Robinson §7, Younansardaroud). Aramaic missing on pi- and bên forms (not checked). Hebrew/Arabic are standard paradigms.
+
 **Swadesh**
 - ~78 of 207 MS cells still empty (129 filled): mostly basic verbs (drink, sleep, give, say, come, sit, stand, walk, kill, swim, bite, burn, hit, cut...), adjectives (red, cold, full, new, round, dry...), and some body/nature words. Check the lexicon for an existing entry before coining.
 - Egypt column was converted from IPA to Arabic script (90 cells, spellings by Claude, unchecked): needs a native-reader pass; shakiest are №40 wife (مرات), 55 seed, 76 mouth (بق), 143 float, 145 freeze, 161 fog.
