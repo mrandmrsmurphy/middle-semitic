@@ -85,3 +85,11 @@ Stress is predictable, and it is a compromise by design, chosen both to be easy 
 - **Exceptions.** The rule has exceptions, mainly to do with the clitic prepositions. They have not all been listed yet. They also help keep the language approachable and similar to the source languages.
 - **Different texts feel different.** The Shahada, in [[Dialogue]], is a place where Middle Semitic starts to feel like Arabic stress, while the Shema, in [[Torah]], is Hebrew-adjacent.
 - **The goal** is to keep the language feeling as familiar as possible, so that everyone experiences it as "close to home", while still following regular rules, as in the principle above.
+
+## International vocabulary
+
+There is such a thing as international vocabulary. It is sometimes English-flavoured, but that can largely be avoided. Using it is preferable to picking one source language over the others.
+
+- **A new root.** A modern word can be given a new triconsonantal root. "Wifi", for example, could come from a new root W-Y-P.
+- **Coffee as the model.** [[Lexicon/ܩܗܘܐ|ܩܗܘܐ]] (coffee) comes from Q-H-W. The core idea can be taken to be "caffeine" or "stimulate", and verbs, adjectives and more nouns can be derived from that root.
+- **The goal is to borrow so hard that the word becomes native,** minimizing the presence of foreign words while still appealing outside the disputes between the source languages that cannot be resolved.

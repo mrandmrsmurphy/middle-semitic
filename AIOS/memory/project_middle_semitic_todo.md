@@ -8,6 +8,7 @@ metadata:
 Running list; remove items when done (history goes in `logs/log.md`). State as of end of 2026-10-29. See [[project-middle-semitic-lexicon-conventions]] and [[project-middle-semitic-grammar-rulings]].
 
 **Next up (user's stated direction)**
+- REMIND THE USER: come back to verb morphology soon (user, 2026-10-30: the international-vocabulary research, i.e. giving modern words new roots and deriving verbs from them, prompted a closer look at verb morphology). Bring it up at the end of the documentation session.
 - Lexicon gap: ܝܣܘܥ (Jesus) appears on Dialogue.md but has no lexicon entry; check the other proper names used there and on Torah.md (ܐܠܠܗ, ܡܚܡܕ, ܡܪܝܡ, ܝܘܣܦ, ܡܣܝܚ...) and give them entries.
 - Content pages do not yet document the crypto-feminine (third) gender or the chiastic gender agreement of the numbers 3–10 (both appear only in memories, lexicon entries and the Design Philosophy page): add to Morphophonology.
 - Stress exceptions (mainly the clitic prepositions) are not all listed on `Phonology.md`: list them (user, 2026-10-30).
