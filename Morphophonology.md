@@ -36,7 +36,7 @@ Because three letters are used to hint at or spell out vowels, they blur the lin
 
 ### The gutturals
 
-Three consonants happen so far back in the throat that they take too long to prepare to say. /ʕ/, /ḥ/, /h/ (ayin, ḥet and he) cannot be geminated, but they can be in the coda. They are always written, in every form of the root; a guttural in the coda is written but not pronounced (see [[Phonology]]).
+Three consonants happen so far back in the throat that they take too long to prepare to say. /ʕ/, /ḥ/, /h/ (ayin, ḥet and he) cannot be geminated, but they can be in the coda. They are always written, in every form of the root; a guttural in the coda is written but not pronounced (see [[Phonology]]). Because they cannot be geminated, a guttural as the middle radical of the D, Dp and tD stems is compensated by lengthening the vowel after it, written with an aleph (the vowel before it is already long, *î* or *û*): D *rîʿâ-*, not *rîʿʿa-*; in a III-yod root the final *y* then contracts, giving *rîʿê* (ܪܝܥܐܝ). Model page: [[Lexicon/ܪܥܝ]].
 
 ### Nun
 

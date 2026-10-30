@@ -58,6 +58,27 @@ def render(tokens):
 
 VOCAL = True
 HOLLOW = False
+IIIY = False  # III-yod root: the final y contracts with the preceding a (see ap)
+
+
+def ap(stem, suf):
+    """Attach a suffix to a stem. For a III-yod root the final vowel + y contracts to ê before a
+    consonant-initial ending and before -at; the y is a consonant before the plural -û (banyû) and
+    the 2f/plural endings keep their letters in the spelling although they are not pronounced."""
+    if not IIIY:
+        return list(stem) + list(suf)
+    E, silent = ('X', 'ê', 'ܝ'), lambda c: ('X', '', c)
+    lengthened = stem[-2] == 'aa'  # a guttural-compensated D-type stem keeps its aleph in the spelling
+    b = list(stem[:-2]) + ([silent('ܐ')] if lengthened else [])
+    if suf == ['u']:                     # 3pl past
+        return list(stem) + ['u'] if lengthened else b + ['ܝ', 'u']
+    if suf == ['a', 'ܬ']:                # 3f past: banay + at -> banêt (the first vowel wins)
+        return b + [E, 'ܬ']
+    if suf == ['i']:                     # 2f non-past, 2f imperative
+        return b + [E, silent('ܝ')]
+    if suf == ['u', 'ܢ']:                # plural non-past: -ûn contracts to -ên, the waw is kept in the spelling
+        return b + [E, silent('ܘ'), 'ܢ']
+    return b + [E] + list(suf)           # no ending, -at, and the consonant-initial endings
 
 def fuse(tokens):
     """Fuse a root-initial aleph with a preceding (or following, word-initially) a."""
@@ -88,6 +109,7 @@ def stems(c1, c2, c3):
                   'Gp': dict(past=[c1, 'u', c3], non=[c1, X, c3], pre='u')}
     else:
         hollow = {}
+    G2 = 'aa' if c2 in 'ܥܚܗ' else None  # gutturals cannot be geminated: compensatory lengthening of the next vowel
     d = {
         'G':  dict(past=[c1, 'a', c2, 'A', c3], past_pl=[c1, 'a', c2, c3], non=[c1, c2, 'A', c3], pre='a'),
         'Gp': dict(past=[c1, 'u', c2, 'A', c3], past_pl=[c1, 'u', c2, c3], non=[c1, c2, 'A', c3], pre='u'),
@@ -98,6 +120,10 @@ def stems(c1, c2, c3):
         'tD': dict(past=['ܬ', 'I', c1, 'i', g2, 'A', c3], non=['ܬ', 'I', c1, 'i', g2, 'A', c3], pre='a'),
     }
     d.update(hollow)
+    if G2:
+        for k in ('D', 'Dp', 'tD'):
+            for key in ('past', 'non'):
+                t = d[k][key]; i = t.index(g2); t[i:i + 2] = [c2, G2]
     if c2 == 'ܘ':  # aw -> ô is absolute: the C stem's 1 a w 3 contracts (šaqwam -> šaqôm); Cp šûqwam has no aw and stays
         d['C'] = dict(past=[S, 'a', c1, X, c3], non=[S, 'a', c1, X, c3], pre='a')
     return d
@@ -113,9 +139,10 @@ def second_vowel_to_u(tokens):
 
 def tables(name, d):
     plural_stem = d.get('past_pl', d['past'])
-    P = {'3m': d['past'], '3f': d['past'] + ['a', 'ܬ'], '3p': plural_stem + ['u'],
-         '2m': d['past'] + ['ܬ', 'aa'], '2f': d['past'] + ['ܬ', 'i'], '2p': d['past'] + ['ܬ', 'u', 'ܡ'],
-         '1s': d['past'] + ['ܬ', 'u'], '1p': d['past'] + ['ܢ', 'aa']}
+    pa = d['past']
+    P = {'3m': ap(pa, []), '3f': ap(pa, ['a', 'ܬ']), '3p': ap(pa, ['u']) if IIIY else plural_stem + ['u'],
+         '2m': ap(pa, ['ܬ', 'aa']), '2f': ap(pa, ['ܬ', 'i']), '2p': ap(pa, ['ܬ', 'u', 'ܡ']),
+         '1s': ap(pa, ['ܬ', 'u']), '1p': ap(pa, ['ܢ', 'aa'])}
     t = ["#### Past\n", "| | singular | plural |", "| --- | --- | --- |"]
     t.append(f"| 3m | {cell(P['3m'])} | {cell(P['3p'])} |")
     t.append(f"| 3f | {cell(P['3f'])} | {cell(P['3p'])} |")
@@ -124,7 +151,7 @@ def tables(name, d):
     t.append(f"| 1c | {cell(P['1s'])} | {cell(P['1p'])} |\n")
     pv = d['pre']
     def N(pc, suf=()):
-        return [pc, pv] + d['non'] + list(suf)
+        return ap([pc, pv] + d['non'], suf)
     t += ["#### Non-past\n", "| | singular | plural |", "| --- | --- | --- |"]
     t.append(f"| 3m | {cell(N('ܝ'))} | {cell(N('ܝ', ['u', 'ܢ']))} |")
     t.append(f"| 3f | {cell(N('ܬ'))} | {cell(N('ܝ', ['u', 'ܢ']))} |")
@@ -134,8 +161,8 @@ def tables(name, d):
     # other forms
     passive = name in ('Gp', 'Dp', 'Cp')
     base = d['non']
-    part = ['ܡ', 'a'] + (second_vowel_to_u(base) if passive else base)
-    inf = ['ܠ', 'a'] + (second_vowel_to_u(base) if passive else base)
+    part = ['ܡ', 'a'] + (second_vowel_to_u(base) if passive else ap(base, []))
+    inf = ['ܠ', 'a'] + (second_vowel_to_u(base) if passive else ap(base, []))
     pr = lambda x: render(fuse(x))[1:]
     t.append("**Other forms.** " +
              f"Participle *{pr(part)[0]}-* {pr(part)[1]}; infinitive *{pr(inf)[0]}* {pr(inf)[1]}" +
@@ -146,7 +173,7 @@ def tables(name, d):
 def imperative(name, d, pr):
     base = list(d['non'])
     if name == 'G' and not HOLLOW: base = ([base[0], 'a'] if base[0] == ('R', 'ܐ') else [base[0], 'e']) + base[1:]
-    m = pr(base); f = pr(base + ['i']); pl = pr(base + ['ܢ', 'aa'])
+    m = pr(ap(base, [])); f = pr(ap(base, ['i'])); pl = pr(ap(base, ['ܢ', 'aa']))
     return f"m *{m[0]}!* {m[1]}!, f *{f[0]}!* {f[1]}!, pl *{pl[0]}!* {pl[1]}!"
 
 
@@ -170,7 +197,12 @@ MEANING = {'ܟܬܒ': {'G': 'to write', 'Gp': 'passive of G: to be written',
            'ܩܘܡ': {'G': 'to arise, to stand', 'Gp': 'passive of G: to be stood up',
                    'D': 'to straighten, to set right', 'Dp': 'passive of D: to be straightened',
                    'C': 'to establish', 'Cp': 'passive of C: to be established',
-                   'tD': 'to become straight'}}
+                   'tD': 'to become straight'},
+           # PROVISIONAL: the user gave no meanings for ܪܥܝ; these follow the Hebrew/Arabic stems and await a ruling
+           'ܪܥܝ': {'G': 'to herd, to shepherd, to pasture', 'Gp': 'passive of G: to be herded',
+                   'D': 'to tend closely, to shepherd with care', 'Dp': 'passive of D: to be tended closely',
+                   'C': 'to put out to pasture, to let graze', 'Cp': 'passive of C: to be put out to pasture',
+                   'tD': 'to come under someone\'s care, to be looked after'}}
 ABSENT = {'ܡܠܟ': {'D', 'Dp', 'tD'}}  # word -> stems it does NOT have (property false, no tables)
 VOCALIZED = {'ܟܬܒ', 'ܡܠܟ'}  # the strong model shows the vocalized Syriac; weak pages show romanization + plain spelling only
 
@@ -181,11 +213,12 @@ def main(L, words):
         m = re.search(r'^\|\s*Root\s*\|\s*(.*?)\s*\|\s*$', t, re.M)
         root = re.sub(r'\[\[.*?\\\|(.*?)\]\]', r'\1', m.group(1)).replace('-', '')
         c1, c2, c3 = root
-        assert not set(c3) & set('ܐܘܝ') and c2 != 'ܐ', (w, 'only strong, I-aleph and hollow roots are supported')
+        assert not set(c3) & set('ܐܘ') and c2 != 'ܐ' and not (c3 == 'ܝ' and c2 in 'ܘܝ'), (w, 'only strong, I-aleph, hollow and III-yod roots are supported')
         assert c1 not in 'ܘܝ', (w, 'only strong, I-aleph and hollow roots are supported')
-        global VOCAL, HOLLOW
+        global VOCAL, HOLLOW, IIIY
         VOCAL = w in VOCALIZED
         HOLLOW = c2 in 'ܘܝ'
+        IIIY = c3 == 'ܝ'
         S = stems(('R', 'ܐ') if c1 == 'ܐ' else c1, c2, c3)
         head = t[:t.index('## Stems')] if '## Stems' in t else t[:t.index('## Forms')]
         # YAML: all seven stems true
@@ -205,28 +238,28 @@ def main(L, words):
         for s, d in S.items():
             if s in absent:
                 out.append(f"| {s} | ✗ | | | no {s} stem |"); continue
-            pst = render(fuse(d['past']))[1:]; non = render(fuse(['ܝ', d['pre']] + d['non']))[1:]
+            pst = render(fuse(ap(d['past'], [])))[1:]; non = render(fuse(ap(['ܝ', d['pre']] + d['non'], [])))[1:]
             out.append(f"| {s} | ✓ | *{pst[0]}* {pst[1]} | *{non[0]}* {non[1]} | {mean[s]} |")
         out.append("\n### Definitions\n")
         for s, d in S.items():
             if s in absent: continue
-            pst = render(fuse(d['past']))[1:]
+            pst = render(fuse(ap(d['past'], [])))[1:]
             out.append(f"- **{s}** *{pst[0]}* {pst[1]}: {mean[s]}.")
         if absent:
             out.append(f"- This verb has no {', '.join(sorted(absent, key=list(S).index))} stem{'s' if len(absent) > 1 else ''}.")
         out.append("\n### Recognizing the stems\n")
-        plain = {s2: render(fuse(d2['past']))[2] for s2, d2 in S.items() if s2 not in absent}
+        plain = {s2: render(fuse(ap(d2['past'], [])))[2] for s2, d2 in S.items() if s2 not in absent}
         by = {}
         for s2, pl in plain.items(): by.setdefault(pl, []).append(s2)
         out.append("In the unvocalized spelling (the gemination mark is optional and left out), the past 3m of each stem is: " +
                    "; ".join(f"{s2} {pl}" for s2, pl in plain.items()) + ". " +
                    " ".join(f"{' and '.join(v)} are spelled alike unless the shadda is written, as in Hebrew and Arabic." for v in by.values() if len(v) > 1) + "\n")
         out.append("## Forms\n")
-        klass = "a hollow verb" if HOLLOW else "an I-aleph verb" if c1 == 'ܐ' else "a strong triliteral verb"
+        klass = "a III-yod verb with a guttural middle radical" if IIIY and c2 in 'ܥܚܗ' else "a III-yod verb" if IIIY else "a hollow verb" if HOLLOW else "an I-aleph verb" if c1 == 'ܐ' else "a strong triliteral verb"
         cells = "the vocalized Syriac, the romanization and the plain spelling" if VOCAL else "the romanization and the plain spelling"
         out.append(f"The conjugation of {klass} in each of its stems, from the templates in [[Morphophonology]]. "
                    f"The citation form is the 3m past. Each cell gives {cells}." +
-                   (" In the G stem the central vowel is part of the root and the stem stays CVC; in the derived stems the middle radical is a full consonant and takes its place in the template." if HOLLOW else "") + "\n")
+                   (" The final y contracts with the preceding a to ê (see [[Morphophonology]]); the middle guttural cannot be geminated, so the D, Dp and tD stems lengthen the vowel after it instead, written with an aleph." if IIIY and c2 in 'ܥܚܗ' else "") + (" In the G stem the central vowel is part of the root and the stem stays CVC; in the derived stems the middle radical is a full consonant and takes its place in the template." if HOLLOW else "") + "\n")
         for s, d in S.items():
             if s in absent: continue
             out.append(f"### {LABEL[s]}: {mean[s].split(':')[0]}\n")
