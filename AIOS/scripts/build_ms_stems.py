@@ -17,14 +17,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 STEMS = ['G', 'Gp', 'D', 'Dp', 'C', 'Cp', 'T']
 # word -> {stem: (past 3m, non-past 3m, meaning)}; each form is (romanization, plain spelling)
-DERIVED = {
-    'ܟܬܒ': {
-        'D': (('kattab', 'ܟܬّܒ'), ('yakattab', 'ܝܟܬّܒ'), 'he inscribed'),
-        'C': (('šaktab', 'ܫܟܬܒ'), ('yašaktab', 'ܝܫܟܬܒ'), 'he dictated'),
-        'T': (('tikattab', 'ܬܟܬّܒ'), ('yatikattab', 'ܝܬܟܬّܒ'),
-              'they corresponded, they exchanged letters (assumes a plural subject)'),
-    },
-}
+DERIVED = {}  # word -> {stem: (past 3m, non-past 3m, meaning)}. ܟܬܒ is the full seven-stem model (build_ms_stem_paradigms.py).
 
 
 def cell(row, n):
@@ -88,6 +81,7 @@ def main(L):
         p = os.path.join(L, f); t = open(p).read()
         if not re.search(r'^pos: verb', t, re.M) or '## Forms' not in t: continue
         word = f[:-3]
+        if '### Dp stem' in t: continue  # full seven-stem page (build_ms_stem_paradigms.py)
         props, table = build(word, t)
         # YAML
         fm_end = t.index('\n---\n', 4)
