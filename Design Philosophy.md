@@ -56,3 +56,15 @@ The guiding meta-principle is the same as everywhere: Middle Semitic must be eas
 | Word-final (-CC#) | Pausa only (*bint*, *kalb*) | Avoided (segolation: *melech*) | Allowed, or resolved by a suffix | Restricted |
 
 Middle Semitic's syllable inventory of CV and CVC, with no onset or coda clusters, is the part every source accepts, and a cluster arises only across a syllable boundary.
+
+## Archaisms and an Old Middle Semitic
+
+Some features of Middle Semitic are deliberately archaic: the frozen construct state, VSO as the "archaic" word order, the frozen dual. The reason is that every one of the source languages has a very ancient prestige form:
+
+- the Arabics are supposedly united in their study of Classical Arabic, in theory;
+- Aramaic has Classical Syriac;
+- Israeli has Biblical Hebrew.
+
+The first millennia BC and AD are where much, much more unity can be found than today. The goal of a Universal Language is to promote unity and communication, and every speaker of the source languages can get better at Middle Semitic by studying the history of their own language.
+
+This leads naturally to the need for an **Old Middle Semitic**: a contrivance, but a convenience. The biggest part of the overlap in the Venn diagram of the source languages comes from the past, so Middle Semitic needs a past of its own. The archaic features above are where that older form shows through in the modern one. See [[Morphophonology]] and [[Morphosyntax]].
