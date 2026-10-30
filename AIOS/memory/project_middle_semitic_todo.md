@@ -42,3 +42,4 @@ Running list; remove items when done (history goes in `logs/log.md`). State as o
 - Open citation-form question (absolute vs emphatic -â state) and suspected typo ܠܒܕܐ (kabdâ 'liver').
 - `.obsidian/workspace.json` shows as modified after every session (Obsidian churn); consider gitignoring it. Never commit it by accident (use `git add Lexicon AIOS logs ...`, not `-A`, if it's dirty).
 - HOLLOW VERBS (2026-10-30): ܕܘܣ has G and Gp (built by `build_ms_hollow_stems.py`; Gp past dûs, non-past yûdôs — user to confirm); other stems not checked. Next: decide stems for the other hollow verbs (ܩܘܡ model etc.), add to `MEANING` there; then I-yod/I-waw, III-weak, geminate classes.
+- ܒܝܬ is the full seven-stem hollow model (derived stems keep the middle y as a consonant: šabyat, bîyyat, tibîyyat; user to confirm šabyat vs contracted šabêt). Hollow roots now supported by build_ms_stem_paradigms.py; ܕܘܣ stays on build_ms_hollow_stems.py (G/Gp only).

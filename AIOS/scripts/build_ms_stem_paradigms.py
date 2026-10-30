@@ -32,6 +32,8 @@ def render(tokens):
     voc = rom = plain = ''
     prev = ''
     for t in tokens:
+        if isinstance(t, tuple) and t[0] == 'X':  # hollow-root vowel of the G stem: ('X', romanization, letter)
+            rom += t[1]; plain += t[2]; voc += t[2]; prev = t[2]; continue
         if isinstance(t, tuple) and t[0] == 'R':  # root-initial aleph, consonantal
             voc += t[1]; rom += 'ʾ'; plain += t[1]; prev = t[1]; continue
         if isinstance(t, tuple):  # geminate
@@ -55,6 +57,7 @@ def render(tokens):
 
 
 VOCAL = True
+HOLLOW = False
 
 def fuse(tokens):
     """Fuse a root-initial aleph with a preceding (or following, word-initially) a."""
@@ -79,7 +82,13 @@ def cell(tokens):
 def stems(c1, c2, c3):
     S = 'ܫ'
     g2 = ('g', c2)
-    return {
+    if c2 in 'ܘܝ':  # hollow root: the G stem has a contracted vowel; the derived stems treat the middle radical as a consonant
+        X = ('X', 'ô' if c2 == 'ܘ' else 'ê', c2)
+        hollow = {'G': dict(past=[c1, X, c3], non=[c1, X, c3], pre='a'),
+                  'Gp': dict(past=[c1, 'u', c3], non=[c1, X, c3], pre='u')}
+    else:
+        hollow = {}
+    d = {
         'G':  dict(past=[c1, 'a', c2, 'A', c3], past_pl=[c1, 'a', c2, c3], non=[c1, c2, 'A', c3], pre='a'),
         'Gp': dict(past=[c1, 'u', c2, 'A', c3], past_pl=[c1, 'u', c2, c3], non=[c1, c2, 'A', c3], pre='u'),
         'D':  dict(past=[c1, 'i', g2, 'A', c3], non=[c1, 'i', g2, 'A', c3], pre='a'),
@@ -88,12 +97,14 @@ def stems(c1, c2, c3):
         'Cp': dict(past=[S, 'u', c1, c2, 'A', c3], non=[S, 'a', c1, c2, 'A', c3], pre='u'),
         'tD': dict(past=['ܬ', 'I', c1, 'i', g2, 'A', c3], non=['ܬ', 'I', c1, 'i', g2, 'A', c3], pre='a'),
     }
+    d.update(hollow)
+    return d
 
 
 def second_vowel_to_u(tokens):
     out = list(tokens)
     for k, t in enumerate(out):
-        if t in ('a', 'A', 'i'):
+        if t in ('a', 'A', 'i') or isinstance(t, tuple) and t[0] == 'X':
             out[k] = 'u'; break
     return out
 
@@ -132,7 +143,7 @@ def tables(name, d):
 
 def imperative(name, d, pr):
     base = list(d['non'])
-    if name == 'G': base = ([base[0], 'a'] if base[0] == ('R', 'ܐ') else [base[0], 'e']) + base[1:]
+    if name == 'G' and not HOLLOW: base = ([base[0], 'a'] if base[0] == ('R', 'ܐ') else [base[0], 'e']) + base[1:]
     m = pr(base); f = pr(base + ['i']); pl = pr(base + ['ܢ', 'aa'])
     return f"m *{m[0]}!* {m[1]}!, f *{f[0]}!* {f[1]}!, pl *{pl[0]}!* {pl[1]}!"
 
@@ -149,7 +160,11 @@ MEANING = {'ܟܬܒ': {'G': 'to write', 'Gp': 'passive of G: to be written',
            'ܐܟܠ': {'G': 'to eat', 'Gp': 'passive of G: to be eaten',
                    'D': 'to devour, to wolf', 'Dp': 'passive of D: to be devoured',
                    'C': 'to feed', 'Cp': 'passive of C: to be fed',
-                   'tD': 'to be eaten away, to become corroded'}}
+                   'tD': 'to be eaten away, to become corroded'},
+           'ܒܝܬ': {'G': 'to overnight, to stay one night at', 'Gp': 'passive of G: to be stayed at overnight',
+                   'D': 'to lodge at, to stay repeated nights at', 'Dp': 'passive of D: to be lodged at',
+                   'C': 'to host, to provide overnight lodging for', 'Cp': 'passive of C: to be hosted',
+                   'tD': 'to come to have a home, to find lodging'}}
 ABSENT = {'ܡܠܟ': {'D', 'Dp', 'tD'}}  # word -> stems it does NOT have (property false, no tables)
 VOCALIZED = {'ܟܬܒ', 'ܡܠܟ'}  # the strong model shows the vocalized Syriac; weak pages show romanization + plain spelling only
 
@@ -160,10 +175,11 @@ def main(L, words):
         m = re.search(r'^\|\s*Root\s*\|\s*(.*?)\s*\|\s*$', t, re.M)
         root = re.sub(r'\[\[.*?\\\|(.*?)\]\]', r'\1', m.group(1)).replace('-', '')
         c1, c2, c3 = root
-        assert not set(c2 + c3) & set('ܐܘܝ'), (w, 'only strong and I-aleph roots are supported')
-        assert c1 not in 'ܘܝ', (w, 'only strong and I-aleph roots are supported')
-        global VOCAL
+        assert not set(c3) & set('ܐܘܝ') and c2 != 'ܐ', (w, 'only strong, I-aleph and hollow roots are supported')
+        assert c1 not in 'ܘܝ', (w, 'only strong, I-aleph and hollow roots are supported')
+        global VOCAL, HOLLOW
         VOCAL = w in VOCALIZED
+        HOLLOW = c2 in 'ܘܝ'
         S = stems(('R', 'ܐ') if c1 == 'ܐ' else c1, c2, c3)
         head = t[:t.index('## Stems')] if '## Stems' in t else t[:t.index('## Forms')]
         # YAML: all seven stems true
@@ -178,7 +194,7 @@ def main(L, words):
         mean = MEANING[w]
         out = ["## Stems\n",
                "Which stems this verb has, as true/false properties (`stem-g`, `stem-gp`, `stem-d`, `stem-dp`, `stem-c`, `stem-cp`, `stem-td`). "
-               "No stem is assumed; \"not checked\" means no one has decided yet. " + ("This verb has all seven, so it is the model for the full set." if not absent else "This verb lacks " + ", ".join(sorted(absent, key=list(S).index)) + " (false); its other stems follow.") + "\n",
+               "No stem is assumed; \"not checked\" means no one has decided yet. " + ("This verb has all seven stems." if not absent else "This verb lacks " + ", ".join(sorted(absent, key=list(S).index)) + " (false); its other stems follow.") + "\n",
                "| Stem | Exists | Past 3m | Non-past 3m | Meaning |", "| --- | --- | --- | --- | --- |"]
         for s, d in S.items():
             if s in absent:
@@ -200,10 +216,11 @@ def main(L, words):
                    "; ".join(f"{s2} {pl}" for s2, pl in plain.items()) + ". " +
                    " ".join(f"{' and '.join(v)} are spelled alike unless the shadda is written, as in Hebrew and Arabic." for v in by.values() if len(v) > 1) + "\n")
         out.append("## Forms\n")
-        klass = "an I-aleph verb" if c1 == 'ܐ' else "a strong triliteral verb"
+        klass = "a hollow verb" if HOLLOW else "an I-aleph verb" if c1 == 'ܐ' else "a strong triliteral verb"
         cells = "the vocalized Syriac, the romanization and the plain spelling" if VOCAL else "the romanization and the plain spelling"
         out.append(f"The conjugation of {klass} in each of its stems, from the templates in [[Morphophonology]]. "
-                   f"The citation form is the 3m past. Each cell gives {cells}.\n")
+                   f"The citation form is the 3m past. Each cell gives {cells}." +
+                   (" In the G stem the central vowel is part of the root and the stem stays CVC; in the derived stems the middle radical is a full consonant and takes its place in the template." if HOLLOW else "") + "\n")
         for s, d in S.items():
             if s in absent: continue
             out.append(f"### {LABEL[s]}: {mean[s].split(':')[0]}\n")
