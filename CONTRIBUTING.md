@@ -21,7 +21,7 @@ Contributions to Middle Semitic are welcome: corrections, cognate evidence, new 
 - **Missing means not checked; `none` means checked and confirmed absent.** Do not write `none` unless you actually searched, and say where you searched.
 - **Cite your evidence.** Give the source for a cognate. Do not invent a cognate to fill a gap; where a form is only supposed (for example to complete a small-corpus paradigm), say so in the Notes row.
 - **Content pages describe the current state only.** History, such as what was decided when, goes in [`logs/log.md`](logs/log.md).
-- **Check new forms against the phonotactics** in [Phonology](Phonology.md): only CV and CVC syllables, and no *aw* or *ay* sequences.
+- **Check new forms against the phonotactics** in [Phonology](Phonology.md): only CV and CVC syllables, and no *aw* sequences.
 - **Say if AI helped.** Several AI assistants helped build this archive; if you used one, note it in the pull request. Check what it gave you.
 
 ## Licence

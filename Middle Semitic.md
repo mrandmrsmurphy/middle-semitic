@@ -22,6 +22,7 @@
 ## Pages
 
 - [[Anthropology]]
+- [[Design Philosophy]]
 - [[Phonology]]
 - [[Orthography]]
 - [[Morphophonology]]

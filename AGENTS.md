@@ -2,7 +2,7 @@
 
 This file and `AGENTS.md` are duplicates — always keep them byte-identical; edit both (or edit one and copy it over the other) whenever instructions change.
 
-This vault is an Obsidian vault documenting **Middle Semitic** (ܫܡܥ ܡܪܟܙ šamâ markaz), the Semitic Universal Language: a blend of Hebrew and Arabic written in Syriac, zoned for the Middle East and North Africa. It spun out of the UL vault (`/Users/robertmarshallmurphy/Documents/UL`) on 2026-10-28; UL keeps a hub page and the cross-UL comparison pages.
+This vault is an Obsidian vault documenting **Middle Semitic** (ܫܡܥ ܡܪܟܙ šamâ markaz), the Semitic Universal Language: a blend of Hebrew and Arabic written in Syriac, zoned for the Middle East and North Africa. It spun out of the UL vault (`../UL`) on 2026-10-28; UL keeps a hub page and the cross-UL comparison pages.
 
 ## Memory system (read first)
 

@@ -125,7 +125,7 @@ These are the choices that recur across the pages. Each is implemented somewhere
 - **A neutral script.** Syriac, written right to left, is equally distant from the Arabic and the Hebrew scripts, with Neo-Aramaic as the middle ground. Vowels are diacritics; gemination uses the Arabic *shadda*. See [Orthography](Orthography.md).
 - **Roots are productive.** Word formation relies on the triconsonantal root, so each root has its own page listing the words built on it. See [Roots](Roots/Roots.md).
 - **Simple, predictable sounds.** 22 consonants and 5 vowels; only CV and CVC syllables, with no clusters; a marginal schwa in clitics and imperatives. Stress is predictable, counted over the whole word: a closed final syllable takes it, otherwise the penult. This is a compromise among Aramaic (penult), Hebrew (ultima) and Arabic (weight). See [Phonology](Phonology.md).
-- **The *aw* → *ô* and *ay* → *ê* contractions are absolute.** No word contains an *aw* or *ay* sequence, so even modern Arabic *ṭawīl* surfaces as *ṭôlâ*.
+- **The *aw* → *ô* contraction is absolute.** No word contains an *aw* sequence, so even modern Arabic *ṭawīl* surfaces as *ṭôlâ*.
 - **Clear morphology.** Verbs are cited in the 3rd masculine singular past; the passive is a long *û* after the first consonant; stative verbs have a long î after the first consonant; nouns take regular and construct states, with no dual except for body parts and a few others. The construct is a frozen archaism, kept because all ancient texts use it. See [Morphophonology](Morphophonology.md).
 - **Gender by majority.** For plain *-a* nouns, gender follows the majority of the Hebrew, Arabic and Aramaic cognates. A noun without a *-t* in its spelling that is feminine in the cognates is "crypto-feminine".
 - **SVO, without case.** Word order carries the grammar and is strictly enforced (VSO is the deliberately archaic form); pro-drop is common because verbs inflect for person. Copulas are split into existence particles (*hô*, *yiš*) and an equality verb (*kôn*). See [Morphosyntax](Morphosyntax.md).
@@ -141,6 +141,7 @@ By the scale above, Middle Semitic has a complete grammar (milestone 4) and is w
 | Page | What it is |
 | --- | --- |
 | [Middle Semitic](Middle%20Semitic.md) | The hub, with the summary table |
+| [Design Philosophy](Design%20Philosophy.md) | The principles behind the design choices, each with its reason |
 | [Anthropology](Anthropology.md) | The languages and peoples involved, the sources, the consonant correspondences, the rationale for choices |
 | [Phonology](Phonology.md) | Consonants, vowels, phonotactics, stress |
 | [Orthography](Orthography.md) | The Syriac-script writing system |
