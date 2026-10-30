@@ -7,13 +7,15 @@ Stem templates (user rulings, 2026-10-30), radicals 1 2 3:
   G  1a2a3 katab      Gp 1û2a3 kûtab
   D  1î22a3 kîttab    Dp 1û22a3 kûttab       (î first: the D-stem shows in the abjad even without a shadda)
   C  š-1 2a3 šaktab   Cp šû-1 2a3 šûktab     (š- prefix, old-school Proto-Semitic / Akkadian)
-  T  ti-1î22a3 tikîttab                       (ti- on the D stem, spelled with just ܬ)
+  tD ti-1î22a3 tikîttab                       (the reflexive of D, like Arabic stem V; ti- on the D stem, spelled with just ܬ)
 Non-past = prefix + stem: ya- ta- ʾa- na-. The passive û follows the FIRST CONSONANT OF THE FORM:
 in the non-past it replaces the prefix vowel (yûktab, yûkîttab, yûšaktab). Participle = ma- + the
 non-past stem, infinitive = la- + it; in the passives the second vowel of the form becomes û
 (maktûb-, makûttab-, mašûktab-). The imperative is the non-past stem alone (G with a schwa).
 Only G and Gp drop the stem vowel before the plural -û (katbû); the other stems cannot (it would
-make an onset cluster).
+make an onset cluster). Roots: strong, and I-aleph (ʾ-k-l): the root aleph fuses with a preceding
+a when a consonant follows it (yaʾkal -> yâkal, šaʾkal -> šâkal), and word-initially before a
+(ʾakal -> âkal); after û, î or i it stays a glottal stop (ʾûkal, yûʾkal, ʾîkkal, tiʾîkkal).
 """
 import os, re, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -30,8 +32,14 @@ def render(tokens):
     voc = rom = plain = ''
     prev = ''
     for t in tokens:
+        if isinstance(t, tuple) and t[0] == 'R':  # root-initial aleph, consonantal
+            voc += t[1]; rom += 'ʾ'; plain += t[1]; prev = t[1]; continue
         if isinstance(t, tuple):  # geminate
             voc += t[1] + SHADDA; rom += ROM[t[1]] * 2; plain += t[1]; prev = t[1]; continue
+        if t == 'aaR':  # fused root aleph + a: â (the plain spelling keeps the aleph, unless a prefix aleph is there)
+            below = prev in BELOW
+            voc += (A_DN if below else A_UP) + 'ܐ'; rom += 'â'
+            plain += '' if prev == 'ܐ' else 'ܐ'; continue
         if t in ROM:
             voc += t; rom += ROM[t]; plain += t; prev = t; continue
         below = prev in BELOW
@@ -46,9 +54,26 @@ def render(tokens):
     return voc, rom, plain
 
 
+VOCAL = True
+
+def fuse(tokens):
+    """Fuse a root-initial aleph with a preceding (or following, word-initially) a."""
+    out, i, n = [], 0, len(tokens)
+    isc = lambda x: isinstance(x, str) and x in ROM or isinstance(x, tuple) and x[0] == 'g'
+    R = ('R', 'ܐ')
+    while i < n:
+        t = tokens[i]
+        if t in ('a', 'A') and i + 2 < n + 1 and i + 1 < n and tokens[i + 1] == R and i + 2 < n and isc(tokens[i + 2]):
+            out.append('aaR'); i += 2; continue
+        if i == 0 and t == R and i + 1 < n and tokens[i + 1] in ('a', 'A'):
+            out.append('aaR'); i += 2; continue
+        out.append(t); i += 1
+    return out
+
+
 def cell(tokens):
-    v, r, p = render(tokens)
-    return f"{v} *{r}* {p}"
+    v, r, p = render(fuse(tokens))
+    return f"{v} *{r}* {p}" if VOCAL else f"*{r}* {p}"
 
 
 def stems(c1, c2, c3):
@@ -61,7 +86,7 @@ def stems(c1, c2, c3):
         'Dp': dict(past=[c1, 'u', g2, 'A', c3], non=[c1, 'i', g2, 'A', c3], pre='u'),
         'C':  dict(past=[S, 'a', c1, c2, 'A', c3], non=[S, 'a', c1, c2, 'A', c3], pre='a'),
         'Cp': dict(past=[S, 'u', c1, c2, 'A', c3], non=[S, 'a', c1, c2, 'A', c3], pre='u'),
-        'T':  dict(past=['ܬ', 'I', c1, 'i', g2, 'A', c3], non=['ܬ', 'I', c1, 'i', g2, 'A', c3], pre='a'),
+        'tD': dict(past=['ܬ', 'I', c1, 'i', g2, 'A', c3], non=['ܬ', 'I', c1, 'i', g2, 'A', c3], pre='a'),
     }
 
 
@@ -98,7 +123,7 @@ def tables(name, d):
     base = d['non']
     part = ['ܡ', 'a'] + (second_vowel_to_u(base) if passive else base)
     inf = ['ܠ', 'a'] + (second_vowel_to_u(base) if passive else base)
-    pr = lambda x: render(x)[1:]
+    pr = lambda x: render(fuse(x))[1:]
     t.append("**Other forms.** " +
              f"Participle *{pr(part)[0]}-* {pr(part)[1]}; infinitive *{pr(inf)[0]}* {pr(inf)[1]}" +
              ("" if passive else "; imperative " + imperative(name, d, pr)) + ".\n")
@@ -107,18 +132,23 @@ def tables(name, d):
 
 def imperative(name, d, pr):
     base = list(d['non'])
-    if name == 'G': base = [base[0], 'e'] + base[1:]
+    if name == 'G': base = ([base[0], 'a'] if base[0] == ('R', 'ܐ') else [base[0], 'e']) + base[1:]
     m = pr(base); f = pr(base + ['i']); pl = pr(base + ['ܢ', 'aa'])
     return f"m *{m[0]}!* {m[1]}!, f *{f[0]}!* {f[1]}!, pl *{pl[0]}!* {pl[1]}!"
 
 
 LABEL = {'G': 'G stem', 'Gp': 'Gp stem (G passive)', 'D': 'D stem', 'Dp': 'Dp stem (D passive)',
-         'C': 'C stem (causative)', 'Cp': 'Cp stem (C passive)', 'T': 'T stem (reflexive)'}
+         'C': 'C stem (causative)', 'Cp': 'Cp stem (C passive)', 'tD': 'tD stem (reflexive of D)'}
 # word -> stem -> meaning
 MEANING = {'ܟܬܒ': {'G': 'to write', 'Gp': 'passive of G: to be written',
                    'D': 'to inscribe', 'Dp': 'passive of D: to be inscribed',
                    'C': 'to dictate', 'Cp': 'passive of C: to be dictated',
-                   'T': 'to correspond: they corresponded, they exchanged letters (assumes a plural subject)'}}
+                   'tD': 'to correspond: they corresponded, they exchanged letters (assumes a plural subject)'},
+           'ܐܟܠ': {'G': 'to eat', 'Gp': 'passive of G: to be eaten',
+                   'D': 'to devour, to wolf', 'Dp': 'passive of D: to be devoured',
+                   'C': 'to feed', 'Cp': 'passive of C: to be fed',
+                   'tD': 'to be eaten away, to become corroded'}}
+VOCALIZED = {'ܟܬܒ'}  # the strong model shows the vocalized Syriac; weak pages show romanization + plain spelling only
 
 
 def main(L, words):
@@ -127,7 +157,11 @@ def main(L, words):
         m = re.search(r'^\|\s*Root\s*\|\s*(.*?)\s*\|\s*$', t, re.M)
         root = re.sub(r'\[\[.*?\\\|(.*?)\]\]', r'\1', m.group(1)).replace('-', '')
         c1, c2, c3 = root
-        S = stems(c1, c2, c3)
+        assert not set(c2 + c3) & set('ܐܘܝ'), (w, 'only strong and I-aleph roots are supported')
+        assert c1 not in 'ܘܝ', (w, 'only strong and I-aleph roots are supported')
+        global VOCAL
+        VOCAL = w in VOCALIZED
+        S = stems(('R', 'ܐ') if c1 == 'ܐ' else c1, c2, c3)
         head = t[:t.index('## Stems')] if '## Stems' in t else t[:t.index('## Forms')]
         # YAML: all seven stems true
         fm_end = head.index('\n---\n', 4)
@@ -139,22 +173,28 @@ def main(L, words):
         head = fm + body
         mean = MEANING[w]
         out = ["## Stems\n",
-               "Which stems this verb has, as true/false properties (`stem-g`, `stem-gp`, `stem-d`, `stem-dp`, `stem-c`, `stem-cp`, `stem-t`). "
+               "Which stems this verb has, as true/false properties (`stem-g`, `stem-gp`, `stem-d`, `stem-dp`, `stem-c`, `stem-cp`, `stem-td`). "
                "No stem is assumed; \"not checked\" means no one has decided yet. This verb has all seven, so it is the model for the full set.\n",
                "| Stem | Exists | Past 3m | Non-past 3m | Meaning |", "| --- | --- | --- | --- | --- |"]
         for s, d in S.items():
-            pst = render(d['past'])[1:]; non = render(['ܝ', d['pre']] + d['non'])[1:]
+            pst = render(fuse(d['past']))[1:]; non = render(fuse(['ܝ', d['pre']] + d['non']))[1:]
             out.append(f"| {s} | ✓ | *{pst[0]}* {pst[1]} | *{non[0]}* {non[1]} | {mean[s]} |")
         out.append("\n### Definitions\n")
         for s, d in S.items():
-            pst = render(d['past'])[1:]
+            pst = render(fuse(d['past']))[1:]
             out.append(f"- **{s}** *{pst[0]}* {pst[1]}: {mean[s]}.")
         out.append("\n### Recognizing the stems\n")
-        out.append("Each stem is visible in the unvocalized spelling, even when the gemination mark is left out: G ܟܬܒ; Gp ܟܘܬܒ and D ܟܝܬܒ (û or î after the first letter); "
-                   "Dp ܟܘܬܒ, spelled like Gp unless the shadda is written; C ܫܟܬܒ (š- prefix); Cp ܫܘܟܬܒ; T ܬܟܝܬܒ (ti- before the D stem).\n")
+        plain = {s2: render(fuse(d2['past']))[2] for s2, d2 in S.items()}
+        by = {}
+        for s2, pl in plain.items(): by.setdefault(pl, []).append(s2)
+        out.append("In the unvocalized spelling (the gemination mark is optional and left out), the past 3m of each stem is: " +
+                   "; ".join(f"{s2} {pl}" for s2, pl in plain.items()) + ". " +
+                   " ".join(f"{' and '.join(v)} are spelled alike unless the shadda is written, as in Hebrew and Arabic." for v in by.values() if len(v) > 1) + "\n")
         out.append("## Forms\n")
-        out.append("The conjugation of a strong triliteral verb in each of its stems, from the templates in [[Morphophonology]]. "
-                   "The citation form is the 3m past. Each cell gives the vocalized Syriac, the romanization and the plain spelling.\n")
+        klass = "an I-aleph verb" if c1 == 'ܐ' else "a strong triliteral verb"
+        cells = "the vocalized Syriac, the romanization and the plain spelling" if VOCAL else "the romanization and the plain spelling"
+        out.append(f"The conjugation of {klass} in each of its stems, from the templates in [[Morphophonology]]. "
+                   f"The citation form is the 3m past. Each cell gives {cells}.\n")
         for s, d in S.items():
             out.append(f"### {LABEL[s]}: {mean[s].split(':')[0]}\n")
             out.append(tables(s, d))

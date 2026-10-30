@@ -3,19 +3,19 @@
 
 Usage (from the vault root): python3 -I AIOS/scripts/build_ms_stems.py Lexicon
 
-Each verb gets true/false YAML properties (stem-g, stem-gp, stem-d, stem-dp, stem-c, stem-cp, stem-t)
+Each verb gets true/false YAML properties (stem-g, stem-gp, stem-d, stem-dp, stem-c, stem-cp, stem-td)
 and a "## Stems" table before "## Forms". No stem is assumed: a MISSING property means not checked.
 G and Gp are read from the page itself (Gp is true when the page has a passive section, false when
 it has none: statives, hollow verbs). The derived stems come only from DERIVED below, i.e. from
 what the user has ruled for that word; extend DERIVED as stems are decided.
 
-Templates (user, 2026-10-30): D 1a22a3 (Dp 1û22a3); C š-prefix (š a 1 2 a 3); T ti-prefix on the D stem;
+Templates (user, 2026-10-30): D 1a22a3 (Dp 1û22a3); C š-prefix (š a 1 2 a 3); tD (ti- on the D stem);
 the passive ALWAYS puts û after the first consonant of the form (the prefix in the non-past).
 """
 import os, re, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
-STEMS = ['G', 'Gp', 'D', 'Dp', 'C', 'Cp', 'T']
+STEMS = ['G', 'Gp', 'D', 'Dp', 'C', 'Cp', 'tD']
 # word -> {stem: (past 3m, non-past 3m, meaning)}; each form is (romanization, plain spelling)
 DERIVED = {}  # word -> {stem: (past 3m, non-past 3m, meaning)}. ܟܬܒ is the full seven-stem model (build_ms_stem_paradigms.py).
 
@@ -94,7 +94,7 @@ def main(L):
         # body table
         t = re.sub(r'## Stems\n.*?(?=## Forms)', '', t, flags=re.S)
         intro = ("## Stems\n\nWhich stems this verb has, as true/false properties (`stem-g`, `stem-gp`, `stem-d`, `stem-dp`, "
-                 "`stem-c`, `stem-cp`, `stem-t`). No stem is assumed; \"not checked\" means no one has decided yet. "
+                 "`stem-c`, `stem-cp`, `stem-td`). No stem is assumed; \"not checked\" means no one has decided yet. "
                  "The meaning column gives the altered meaning of each stem.\n\n")
         t = t.replace('## Forms', intro + table + '\n\n## Forms', 1)
         open(p, 'w').write(t)
