@@ -213,12 +213,15 @@ MEANING = {'ܟܬܒ': {'G': 'to write', 'Gp': 'passive of G: to be written',
            'ܒܛܠ': {'G': 'to become void, to cease', 'D': 'to nullify, to cancel', 'Dp': 'passive of D: to be nullified',
                    'C': 'to annul, to render void', 'Cp': 'passive of C: to be annulled',
                    'tD': 'to be annulled, to lapse'},
+           'ܒܢܝ': {'G': 'to build', 'Gp': 'passive of G: to be built',
+                   'C': 'to have (something) built, to commission', 'Cp': 'passive of C: to be commissioned',
+                   'tD': 'to be built up, to take shape'},
            # PROVISIONAL: the user gave no meanings for ܪܥܝ; these follow the Hebrew/Arabic stems and await a ruling
            'ܪܥܝ': {'G': 'to herd, to shepherd, to pasture', 'Gp': 'passive of G: to be herded',
                    'D': 'to tend closely, to shepherd with care', 'Dp': 'passive of D: to be tended closely',
                    'C': 'to put out to pasture, to let graze', 'Cp': 'passive of C: to be put out to pasture',
                    'tD': 'to come under someone\'s care, to be looked after'}}
-ABSENT = {'ܡܠܟ': {'D', 'Dp', 'tD'}, 'ܐܚܙ': {'C', 'Cp'}, 'ܒܛܠ': {'Gp'}}  # word -> stems it does NOT have (property false, no tables)
+ABSENT = {'ܡܠܟ': {'D', 'Dp', 'tD'}, 'ܐܚܙ': {'C', 'Cp'}, 'ܒܛܠ': {'Gp'}, 'ܒܢܝ': {'D', 'Dp'}}  # word -> stems it does NOT have (property false, no tables)
 VOCALIZED = {'ܟܬܒ', 'ܡܠܟ'}  # the strong model shows the vocalized Syriac; weak pages show romanization + plain spelling only
 
 
