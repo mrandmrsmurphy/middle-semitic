@@ -15,4 +15,5 @@ views:
       - proto-semitic
       - root
     columnSize:
+      file.name: 193
       note.arabic: 115
