@@ -93,3 +93,11 @@ There is such a thing as international vocabulary. It is sometimes English-flavo
 - **A new root.** A modern word can be given a new triconsonantal root. "Wifi", for example, could come from a new root W-Y-P.
 - **Coffee as the model.** [[Lexicon/ܩܗܘܐ|ܩܗܘܐ]] (coffee) comes from Q-H-W. The core idea can be taken to be "caffeine" or "stimulate", and verbs, adjectives and more nouns can be derived from that root.
 - **The goal is to borrow so hard that the word becomes native,** minimizing the presence of foreign words while still appealing outside the disputes between the source languages that cannot be resolved.
+
+## A language is its words plus its grammar
+
+A language **is** its words plus its grammar, and this vault documents all of both. With a newly invented language there is nothing extant to appeal to, so all of it has to be created from scratch. There is no corpus of texts in Middle Semitic; the Peshitta and other Syriac documents come closest, but they are in another language.
+
+- **A finished entry.** A lexical entry needs all of its etymology documented, its derivational morphology, all the possible inflections of the word, cross-language comparisons, and it needs to be woven into the fabric of Middle Semitic.
+- **The Lexipedia.** The next phase is the Lexipedia project, taken from the book of the same name by Mark Rosenberg. It divides the vocabulary into dozens of semantic domains, so that there are words for all basic needs and so that subtle differences among the words are distinguished. This phase is marked by words having their own life in the language, and not just existing as glosses of terms in the source languages.
+- **Keeping entries current.** The `date-last-perfect` property records when everything on an entry's page was last brought up to date. As the standards develop and improve, it is the sign to update the page and document the new requirements.

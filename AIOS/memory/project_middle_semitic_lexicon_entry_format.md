@@ -37,9 +37,13 @@ swadesh: 100
 ---
 ```
 
-Core properties: `latin` (romanization), `root`, `pos`, `gender` (nouns), `gloss` (verbs cited as 3ms perfect, "he ate"), `hebrew`, `arabic`, `aramaic`, `proto-semitic` (quoted, since it starts with `*`; suffix `(hypo)` = hypothetical, `invented` = no PS basis), `swadesh` (№, if any), `date-last-perfect` (the date the entry was last brought to its final form). Cognate properties are open-ended: any tradition gets its own lowercase key.
+Core properties: `latin` (romanization), `root`, `pos`, `gender` (nouns), `gloss` (verbs cited as 3ms perfect, "he ate"), `hebrew`, `arabic`, `aramaic`, `proto-semitic` (quoted, since it starts with `*`; suffix `(hypo)` = hypothetical, `invented` = no PS basis), `swadesh` (№, if any), `date-last-perfect` (the date everything on the entry's page was last brought up to date; as the standards improve it is the sign to update the page and document the new requirements). Cognate properties are open-ended: any tradition gets its own lowercase key.
 
 **A missing property means not checked; `none` means checked and confirmed absent** (`ugaritic: none` = someone looked and found no cognate; no `ugaritic` key = no one has looked). Never write `none` without an actual search. Every entry carries frontmatter, derived from its table (a `ø` cell becomes `none`; a `-->` cell is left out); the visible table stays. `AIOS/scripts/ms_frontmatter.py` fills any missing keys and never overwrites existing values unless named in `refresh`; the build scripts call it after they change an entry. When you hand-edit a table row, update the YAML too. Rows not mirrored to YAML: Notes, Components, Full, Compare, Example.
+
+## What a finished entry has
+
+All of its etymology documented; its derivational morphology; every possible inflection of the word; cross-language comparisons; and it is woven into the fabric of Middle Semitic (linked from the pages that use it, on its root page). The Lexipedia phase (semantic domains from Mark Rosenberg's book *Lexipedia*) adds words that have a life of their own in the language, not just glosses of source-language terms.
 
 ## Table rows
 
