@@ -14,6 +14,9 @@ views:
       - pos
       - proto-semitic
       - root
+    sort:
+      - property: hebrew
+        direction: ASC
     columnSize:
       file.name: 193
       note.arabic: 115
