@@ -41,3 +41,4 @@ Running list; remove items when done (history goes in `logs/log.md`). State as o
 - Palm ܪܚܬܐ dual?; red/blue/brown not coined; retrofit stress marks (syllable dots + ˈ) to existing Latin rows; ~25–30 Language Comparisons mismatches (Zens first) in the UL vault.
 - Open citation-form question (absolute vs emphatic -â state) and suspected typo ܠܒܕܐ (kabdâ 'liver').
 - `.obsidian/workspace.json` shows as modified after every session (Obsidian churn); consider gitignoring it. Never commit it by accident (use `git add Lexicon AIOS logs ...`, not `-A`, if it's dirty).
+- HOLLOW VERBS (2026-10-30): ܕܘܣ has G and Gp (built by `build_ms_hollow_stems.py`; Gp past dûs, non-past yûdôs — user to confirm); other stems not checked. Next: decide stems for the other hollow verbs (ܩܘܡ model etc.), add to `MEANING` there; then I-yod/I-waw, III-weak, geminate classes.
