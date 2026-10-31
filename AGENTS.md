@@ -8,7 +8,7 @@ This vault is an Obsidian vault documenting **Middle Semitic** (ܫܡܥ ܡܪܟܙ 
 
 - Read `AIOS/memory-index.md` first, every session, before touching anything. It points to every durable memory (vault layout, lexicon conventions, grammar rulings). Do not skip it and re-derive things from scratch.
 - Everything meant to survive across sessions goes in `AIOS/memory/`, indexed in `AIOS/memory-index.md`. Session-by-session history of what was created/changed/decided goes in `logs/log.md` (append-only).
-- The vault is a git repo; commit after scripted bulk changes.
+- The vault is a git repo. Obsidian commits and pushes automatically, so do not commit or push yourself.
 
 ## Content pages vs. log — the rule that matters most
 

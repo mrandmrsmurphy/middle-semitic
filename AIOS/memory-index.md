@@ -8,6 +8,7 @@ Read this first, every session, before touching vault content. Each line points 
 - [Grammar rulings](memory/project_middle_semitic_grammar_rulings.md) — copulas, adjectives, geminates, III-yod nouns, homographs, Torah page, stress; what is still open
 - [Paradigms tracker](memory/project_middle_semitic_paradigms_midtask.md) — history of the paradigm pass; lexicon paradigms complete; ✅ marks since removed
 - [Documentation plan](memory/project_middle_semitic_documentation_plan.md) — README / design-philosophy / licence plan for the GitHub release, decisions made, repo-hygiene list, open questions
+- [No manual commits](memory/feedback_no_manual_commits.md) — Obsidian commits and pushes automatically; do not git commit or push
 - [To-do list](memory/project_middle_semitic_todo.md) — running open items (Swadesh gaps, YAML cognate keys, prepositions/clitics, verification passes); read at session start
 
 This index grows as the vault does — add a line here for every new file placed in `AIOS/memory/`.
