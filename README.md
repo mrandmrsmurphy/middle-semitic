@@ -206,4 +206,4 @@ Outside contributions are welcome. All of them are reviewed before they are merg
 
 ## Credits
 
-Designed and written by Robert Marshall Murphy, with the help of several AI assistants (Claude, Kimi, Cursor, ChatGPT, Z and others) for lexicon coverage, cognate research and documentation. Cognate evidence draws on Wiktionary, the ORACC Ugaritic glossary, and the standard grammars of Ugaritic and Syriac. The Syriac text of the Torah page comes from the Peshitta, checked against [peshitta.eu](https://www.peshitta.eu) and the [ETCBC](https://github.com/ETCBC/peshitta) edition.
+The flag (`images/Semitic_Flag.png`) was a gift from a friend of the author, shared under Creative Commons. Designed and written by Robert Marshall Murphy, with the help of several AI assistants (Claude, Kimi, Cursor, ChatGPT, Z and others) for lexicon coverage, cognate research and documentation. Cognate evidence draws on Wiktionary, the ORACC Ugaritic glossary, and the standard grammars of Ugaritic and Syriac. The Syriac text of the Torah page comes from the Peshitta, checked against [peshitta.eu](https://www.peshitta.eu) and the [ETCBC](https://github.com/ETCBC/peshitta) edition.
