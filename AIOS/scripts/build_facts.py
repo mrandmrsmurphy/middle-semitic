@@ -16,7 +16,7 @@ def git_files(folder):
     return [l for l in out.split('\x00') if l.endswith('.md')]
 
 lexicon = git_files('Lexicon')
-roots = [f for f in git_files('Roots') if not f.endswith('/Roots.md')]
+roots = git_files('Roots')
 
 filled = 0
 for line in open(os.path.join(VAULT, 'Swadesh.md'), encoding='utf-8'):
@@ -36,7 +36,7 @@ swadesh:
 key_pages:
   swadesh: Swadesh.md
   lexicon_index: Lexicon/Words - all.base
-  roots_index: Roots/Roots.md
+  roots_index: Roots/Roots.base
   memory_index: AIOS/memory-index.md
 source_record: Lexicon/
 generated: {datetime.date.today().isoformat()}

@@ -11,7 +11,7 @@ swadesh:
 key_pages:
   swadesh: Swadesh.md
   lexicon_index: Lexicon/Words - all.base
-  roots_index: Roots/Roots.md
+  roots_index: Roots/Roots.base
   memory_index: AIOS/memory-index.md
 source_record: Lexicon/
 generated: 2026-10-31

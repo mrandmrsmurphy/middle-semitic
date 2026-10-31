@@ -1,0 +1,76 @@
+filters:
+  and:
+    - file.folder == "Roots"
+    - file.ext == "md"
+properties:
+  note.size:
+    displayName: Words
+  note.latin:
+    displayName: Root
+views:
+  - type: table
+    name: All roots
+    order:
+      - file.name
+      - latin
+      - size
+      - first
+      - second
+      - third
+      - fourth
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Most productive
+    order:
+      - file.name
+      - latin
+      - size
+      - tags
+    sort:
+      - property: size
+        direction: DESC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: No coinages
+    filters:
+      and:
+        - size == 0
+    order:
+      - file.name
+      - latin
+      - tags
+  - type: table
+    name: Weak and guttural
+    filters:
+      or:
+        - file.hasTag("I-aleph")
+        - file.hasTag("II-aleph")
+        - file.hasTag("III-aleph")
+        - file.hasTag("I-mater")
+        - file.hasTag("II-mater")
+        - file.hasTag("III-mater")
+        - file.hasTag("I-guttural")
+        - file.hasTag("II-guttural")
+        - file.hasTag("III-guttural")
+        - file.hasTag("geminate")
+    order:
+      - file.name
+      - latin
+      - size
+      - tags
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Strong
+    filters:
+      and:
+        - file.hasTag("strong")
+    order:
+      - file.name
+      - latin
+      - size

@@ -32,9 +32,9 @@
 - [[Dialogue]]
 - [[Torah]]
 - [[Lexicon/Words - all.base|Lexicon]]
-- [[Roots/Roots]]
+- [[Roots/Roots.base|Roots]]
 
 ## Lexicography
 
 - [[Lexicon/Words - all.base|Lexicon]] — the working lexicon, one file per word (a dynamic table; the entry format is in `AIOS/`)
-- [[Roots/Roots]] — one file per root, listing the words built on it
+- [[Roots/Roots.base|Roots]] — one file per root, listing the words built on it (a dynamic table)
