@@ -357,12 +357,16 @@ MEANING = {'ܟܬܒ': {'G': 'to write', 'Gp': 'passive of G: to be written',
                    'D': 'to pelt, to hurl repeatedly',
                    'Dp': 'passive of D: to be pelted',
                    'tD': 'to throw oneself, to hurl oneself, to rush'},
+           'ܚܨܕ': {'G': 'to reap, to harvest, to mow',
+                   'Gp': 'passive of G: to be reaped',
+                   'D': 'to reap thoroughly, to harvest in quantity',
+                   'Dp': 'passive of D: to be harvested in quantity'},
            # PROVISIONAL: the user gave no meanings for ܪܥܝ; these follow the Hebrew/Arabic stems and await a ruling
            'ܪܥܝ': {'G': 'to herd, to shepherd, to pasture', 'Gp': 'passive of G: to be herded',
                    'D': 'to tend closely, to shepherd with care', 'Dp': 'passive of D: to be tended closely',
                    'C': 'to put out to pasture, to let graze', 'Cp': 'passive of C: to be put out to pasture',
                    'tD': 'to come under someone\'s care, to be looked after'}}
-ABSENT = {'ܡܠܟ': {'D', 'Dp', 'tD'}, 'ܐܚܙ': {'C', 'Cp'}, 'ܒܛܠ': {'Gp'}, 'ܒܢܝ': {'D', 'Dp'}, 'ܒܣܠ': ['D', 'Dp'], 'ܒܥܠ': ['D', 'Dp'], 'ܘܠܕ': ['D', 'Dp', 'tD'], 'ܝܢܩ': ['D', 'Dp', 'tD'], 'ܚܪܫ': ['tD'], 'ܚܨܢ': ['C', 'Cp'], 'ܒܪܩ': ['Gp', 'D', 'Dp', 'tD'], 'ܠܘܫ': ['C', 'Cp'], 'ܢܚܪ': ['Gp', 'D', 'Dp', 'C', 'Cp', 'tD'], 'ܡܘܬ': ['Gp', 'D', 'Dp', 'tD'], 'ܛܡܐ': ['Gp', 'C', 'Cp', 'tD'], 'ܥܠܝ': ['D', 'Dp'], 'ܚܠܦ': ['C', 'Cp'], 'ܘܒܠ': ['D', 'Dp', 'tD'], 'ܩܪܒ': ['Gp', 'D', 'Dp'], 'ܚܪܐ': ['Gp', 'D', 'Dp', 'C', 'Cp', 'tD'], 'ܦܬܠ': ['C', 'Cp'], 'ܫܟܪ': ['C', 'Cp'], 'ܒܪܐ 2': ['tD'], 'ܗܠܟ': ['Gp', 'Dp'], 'ܘܪܕ': ['Gp', 'D', 'Dp', 'tD'], 'ܩܪܨ': ['C', 'Cp'], 'ܪܡܝ': ['C', 'Cp']}  # word -> stems it does NOT have (property false, no tables)
+ABSENT = {'ܡܠܟ': {'D', 'Dp', 'tD'}, 'ܐܚܙ': {'C', 'Cp'}, 'ܒܛܠ': {'Gp'}, 'ܒܢܝ': {'D', 'Dp'}, 'ܒܣܠ': ['D', 'Dp'], 'ܒܥܠ': ['D', 'Dp'], 'ܘܠܕ': ['D', 'Dp', 'tD'], 'ܝܢܩ': ['D', 'Dp', 'tD'], 'ܚܪܫ': ['tD'], 'ܚܨܢ': ['C', 'Cp'], 'ܒܪܩ': ['Gp', 'D', 'Dp', 'tD'], 'ܠܘܫ': ['C', 'Cp'], 'ܢܚܪ': ['Gp', 'D', 'Dp', 'C', 'Cp', 'tD'], 'ܡܘܬ': ['Gp', 'D', 'Dp', 'tD'], 'ܛܡܐ': ['Gp', 'C', 'Cp', 'tD'], 'ܥܠܝ': ['D', 'Dp'], 'ܚܠܦ': ['C', 'Cp'], 'ܘܒܠ': ['D', 'Dp', 'tD'], 'ܩܪܒ': ['Gp', 'D', 'Dp'], 'ܚܪܐ': ['Gp', 'D', 'Dp', 'C', 'Cp', 'tD'], 'ܦܬܠ': ['C', 'Cp'], 'ܫܟܪ': ['C', 'Cp'], 'ܒܪܐ 2': ['tD'], 'ܗܠܟ': ['Gp', 'Dp'], 'ܘܪܕ': ['Gp', 'D', 'Dp', 'tD'], 'ܩܪܨ': ['C', 'Cp'], 'ܪܡܝ': ['C', 'Cp'], 'ܚܨܕ': ['C', 'Cp', 'tD']}  # word -> stems it does NOT have (property false, no tables)
 VOCALIZED = {'ܟܬܒ', 'ܡܠܟ'}  # the strong model shows the vocalized Syriac; weak pages show romanization + plain spelling only
 
 
