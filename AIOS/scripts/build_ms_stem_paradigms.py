@@ -90,8 +90,9 @@ def fuse(tokens):
         t = tokens[i]
         if t in ('a', 'A') and i + 2 < n + 1 and i + 1 < n and tokens[i + 1] == R and i + 2 < n and isc(tokens[i + 2]):
             out.append('aaR'); i += 2; continue
-        if t in ('a', 'A') and i + 2 < n and tokens[i + 1] == 'ܘ' and isc(tokens[i + 2]):
-            out.append(('X', 'ô', 'ܘ')); i += 2; continue  # aw -> ô before a consonant (absolute): yawlad -> yôlad
+        if t in ('a', 'A') and i + 2 < n and tokens[i + 1] in ('ܘ', 'ܝ') and isc(tokens[i + 2]):
+            w = tokens[i + 1]  # aw -> ô (absolute) and ay -> ê before a consonant: yawlad -> yôlad, yaynaq -> yênaq
+            out.append(('X', 'ô' if w == 'ܘ' else 'ê', w)); i += 2; continue
         if i == 0 and t == R and i + 1 < n and tokens[i + 1] in ('a', 'A'):
             out.append('aaR'); i += 2; continue
         out.append(t); i += 1
@@ -173,7 +174,7 @@ def tables(name, d):
 
 def imperative(name, d, pr):
     base = list(d['non'])
-    if name == 'G' and base[0] == 'ܘ': base = [('X', 'ô', 'ܘ')] + base[1:]  # I-waw: the imperative is yôlad minus its prefix: ôlad
+    if name == 'G' and isinstance(base[0], str) and base[0] in 'ܘܝ': base = [('X', 'ô' if base[0] == 'ܘ' else 'ê', base[0])] + base[1:]  # I-waw/I-yod: yôlad minus its prefix: ôlad
     elif name == 'G' and not HOLLOW: base = ([base[0], 'a'] if base[0] == ('R', 'ܐ') else [base[0], 'e']) + base[1:]
     m = pr(ap(base, [])); f = pr(ap(base, ['i'])); pl = pr(ap(base, ['ܢ', 'aa']))
     return f"m *{m[0]}!* {m[1]}!, f *{f[0]}!* {f[1]}!, pl *{pl[0]}!* {pl[1]}!"
@@ -231,12 +232,16 @@ MEANING = {'ܟܬܒ': {'G': 'to write', 'Gp': 'passive of G: to be written',
                    'Gp': 'passive of G: to be born',
                    'C': 'to beget, to deliver (a child)',
                    'Cp': 'passive of C: to be begotten, to be delivered'},
+           'ܝܢܩ': {'G': 'to suck, to suckle',
+                   'Gp': 'passive of G: to be suckled',
+                   'C': 'to nurse, to give suck to',
+                   'Cp': 'passive of C: to be nursed'},
            # PROVISIONAL: the user gave no meanings for ܪܥܝ; these follow the Hebrew/Arabic stems and await a ruling
            'ܪܥܝ': {'G': 'to herd, to shepherd, to pasture', 'Gp': 'passive of G: to be herded',
                    'D': 'to tend closely, to shepherd with care', 'Dp': 'passive of D: to be tended closely',
                    'C': 'to put out to pasture, to let graze', 'Cp': 'passive of C: to be put out to pasture',
                    'tD': 'to come under someone\'s care, to be looked after'}}
-ABSENT = {'ܡܠܟ': {'D', 'Dp', 'tD'}, 'ܐܚܙ': {'C', 'Cp'}, 'ܒܛܠ': {'Gp'}, 'ܒܢܝ': {'D', 'Dp'}, 'ܒܣܠ': ['D', 'Dp'], 'ܒܥܠ': ['D', 'Dp'], 'ܘܠܕ': ['D', 'Dp', 'tD']}  # word -> stems it does NOT have (property false, no tables)
+ABSENT = {'ܡܠܟ': {'D', 'Dp', 'tD'}, 'ܐܚܙ': {'C', 'Cp'}, 'ܒܛܠ': {'Gp'}, 'ܒܢܝ': {'D', 'Dp'}, 'ܒܣܠ': ['D', 'Dp'], 'ܒܥܠ': ['D', 'Dp'], 'ܘܠܕ': ['D', 'Dp', 'tD'], 'ܝܢܩ': ['D', 'Dp', 'tD']}  # word -> stems it does NOT have (property false, no tables)
 VOCALIZED = {'ܟܬܒ', 'ܡܠܟ'}  # the strong model shows the vocalized Syriac; weak pages show romanization + plain spelling only
 
 
@@ -247,7 +252,7 @@ def main(L, words):
         root = re.sub(r'\[\[.*?\\\|(.*?)\]\]', r'\1', m.group(1)).replace('-', '')
         c1, c2, c3 = root
         assert c3 != 'ܘ' and c2 != 'ܐ' and not (c3 in 'ܝܐ' and c2 in 'ܘܝ'), (w, 'only strong, I-aleph, hollow and III-yod roots are supported')
-        assert c1 != 'ܝ', (w, 'I-yod roots are not supported yet')
+        pass
         global VOCAL, HOLLOW, IIIY, IIIC
         VOCAL = w in VOCALIZED
         HOLLOW = c2 in 'ܘܝ'
@@ -288,7 +293,7 @@ def main(L, words):
                    "; ".join(f"{s2} {pl}" for s2, pl in plain.items()) + ". " +
                    " ".join(f"{' and '.join(v)} are spelled alike unless the shadda is written, as in Hebrew and Arabic." for v in by.values() if len(v) > 1) + "\n")
         out.append("## Forms\n")
-        klass = "an I-waw verb" if c1 == 'ܘ' and not IIIY else ("a III-yod verb" if c3 == 'ܝ' else "a III-aleph verb") + (" with a guttural middle radical" if c2 in 'ܥܚܗ' else "") if IIIY else "a hollow verb" if HOLLOW else "an I-aleph verb" if c1 == 'ܐ' else "a strong triliteral verb"
+        klass = "an I-yod verb" if c1 == 'ܝ' and not IIIY else "an I-waw verb" if c1 == 'ܘ' and not IIIY else ("a III-yod verb" if c3 == 'ܝ' else "a III-aleph verb") + (" with a guttural middle radical" if c2 in 'ܥܚܗ' else "") if IIIY else "a hollow verb" if HOLLOW else "an I-aleph verb" if c1 == 'ܐ' else "a strong triliteral verb"
         cells = "the vocalized Syriac, the romanization and the plain spelling" if VOCAL else "the romanization and the plain spelling"
         out.append(f"The conjugation of {klass} in each of its stems, from the templates in [[Morphophonology]]. "
                    f"The citation form is the 3m past. Each cell gives {cells}." +
