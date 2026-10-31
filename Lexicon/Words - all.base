@@ -10,6 +10,11 @@ views:
       - arabic
       - aramaic
       - gloss
+      - gloss-d
+      - gloss-dp
+      - gloss-c
+      - gloss-cp
+      - gloss-td
       - hebrew
       - pos
       - proto-semitic

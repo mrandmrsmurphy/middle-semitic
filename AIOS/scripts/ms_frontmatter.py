@@ -7,6 +7,11 @@ sync() fills keys that are missing and never touches keys it did not derive
 key is named in `refresh` -- build scripts pass the keys they just changed
 (e.g. latin, pos, gloss) so the YAML does not go stale.
 
+Multiple senses are YAML lists. A table cell `gloss` with `;` between senses becomes a list. The stems of a verb
+get one property each -- gloss-gp, gloss-d, gloss-dp, gloss-c, gloss-cp, gloss-td (a list of senses) -- derived from
+the Meaning column of the `## Stems` table; they are always re-derived, so the table is the source of truth and the
+YAML never goes stale. (`gloss` stays the G gloss.)
+
 CLI: python3 AIOS/scripts/ms_frontmatter.py Lexicon        # fill every entry
 """
 import os, re, sys, json
@@ -26,6 +31,23 @@ def clean(v):
 def scalar(v, force_quote=False):
     plain = re.match(r'^[^\W_][^:#]*$', v) and not re.fullmatch(r'[\d.]+', v) and v.lower() not in RESERVED and not v.endswith(' ')
     return v if plain and not force_quote else json.dumps(v, ensure_ascii=False)
+
+def sense_list(v):
+    items = [x.strip() for x in v.split(';') if x.strip()]
+    return '\n' + '\n'.join('  - ' + scalar(x) for x in items)
+
+STEMS = ['Gp', 'D', 'Dp', 'C', 'Cp', 'tD']
+
+def stem_glosses(body):
+    """gloss-<stem> lists from the Meaning column of the Stems table (existing stems only)."""
+    out = {}
+    if '## Stems' not in body: return out
+    for l in body[body.index('## Stems'):].split('\n')[:40]:
+        c = [x.strip() for x in l.strip().strip('|').split('|')]
+        if l.startswith('|') and len(c) >= 5 and c[0] in STEMS and c[1] == '✓' and c[4]:
+            m = re.sub(r'^passive of [A-Za-z]+:\s*', '', clean(c[4]))
+            out['gloss-' + c[0].lower()] = sense_list(m)
+    return out
 
 def table(body):
     out, started = {}, False
@@ -50,7 +72,7 @@ def derive(rows):
         v = clean(v)
         if v == 'ø' and key in ('hebrew', 'arabic', 'aramaic'): d[key] = 'none'; continue
         if not v or v in ('ø', '-->'): continue
-        d[key] = scalar(v, force_quote=(key == 'proto-semitic'))
+        d[key] = sense_list(v) if key == 'gloss' and ';' in v else scalar(v, force_quote=(key == 'proto-semitic'))
     return d
 
 def sync(path, refresh=()):
@@ -58,21 +80,30 @@ def sync(path, refresh=()):
     old = {}
     if t.startswith('---\n'):
         end = t.index('\n---\n', 4)
+        last = None
         for l in t[4:end].split('\n'):
+            if l.startswith('  - ') and last:        # a list item belongs to the previous key
+                old[last] += '\n' + l; continue
             k, _, v = l.partition(': ')
+            if not _ and k.endswith(':'): k, v = k[:-1], ''
             assert k and not l.startswith(' '), (path, l)
-            old[k] = v
+            old[k] = v if v else ''
+            last = k
         body = t[end + 5:]
     else:
         body = t
     new = derive(table(body))
+    sg = stem_glosses(body)
+    for k in [k for k in old if k.startswith('gloss-') and k not in sg]: del old[k]   # a stem that no longer exists
+    new.update(sg)
+    refresh = tuple(refresh) + tuple(sg)
     for k, v in new.items():
         if k not in old or k in refresh: old[k] = v
     for k in refresh:
         if k not in new: old.pop(k, None)
     extras = [k for k in old if k not in HEAD and k not in TAIL]
     order = [k for k in HEAD if k in old] + extras + [k for k in TAIL if k in old]
-    fm = '---\n' + ''.join(f'{k}: {old[k]}\n' for k in order) + '---\n'
+    fm = '---\n' + ''.join(f"{k}:{old[k]}\n" if old[k].startswith('\n') else f'{k}: {old[k]}\n' for k in order) + '---\n'
     if fm + body != t:
         open(path, 'w', encoding='utf-8').write(fm + body)
 
