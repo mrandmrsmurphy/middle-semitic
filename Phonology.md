@@ -51,9 +51,8 @@ Stress is predictable and falls on one syllable of the word, counted over the wh
 - If the **final syllable is closed** (CVC), it takes the stress: *ma.ˈlak*, *ba.ˈraq*, *ma.la.ˈkat*, *mal.ˈkîn*.
 - Otherwise the **penultimate syllable** takes the stress: *ˈmal.kâ*, *ˈba.râ*, *ba.ˈhî.mâ*, *ma.ˈlak.nî*.
 - A one-syllable word carries its own stress.
-- **Schwa** (the imperative and clitic vowel) is never stressed: the stress moves to the next syllable (*mə.ˈlak!*, *mə.ˈlak.nâ!*, *bə.ˈnê!*).
 
-There are two exceptions to the rule, and both keep the stress off a syllable that the rule would otherwise choose:
+There are two exceptions to the rule. Schwa is never stressed, and both exceptions keep the stress off a syllable that the rule would otherwise choose:
 
 - **The imperative.** The first syllable of an imperative holds the schwa (*mə.lak!*) and can never be stressed. When the rule would stress it, which happens in a two-syllable imperative with an open final syllable, the stress moves to the next syllable: *bə.ˈnê!* (from *banê*), not *ˈbə.nê!*. Where the stress already falls elsewhere, nothing changes (*mə.ˈlak!*, *mə.ˈlak.nâ!*).
 - **The prefixing prepositions.** The clitic prepositions *li- bi- pi- ki- mi- ʿa-* attach to the following word and never take the stress on their own syllable, whether they are said in full (*bi-*) or with a schwa in fast speech (*bə-*). They are not counted in finding the stress of the word they join (*pi-ˈbêt*, *li-ˈmal.kâ*), so the stress is always that of the host word. The free prepositions (*min*, *ʿal-*, *ʿim*, *bên*) are words with stress of their own.
