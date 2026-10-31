@@ -1,6 +1,6 @@
 # Middle Semitic
 
-> Sister vault: `../UL` (Universal Languages — the cross-UL comparison pages live there)
+> Sister repository: [Universal Languages](https://github.com/mrandmrsmurphy/universal-languages) (the cross-UL comparison pages live there)
 
 | | |
 | --- | --- |

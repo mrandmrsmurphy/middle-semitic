@@ -1,0 +1,9 @@
+.DS_Store
+__pycache__/
+*.pyc
+
+# Obsidian per-user state (keep shared settings)
+.obsidian/workspace.json
+.obsidian/workspaces.json
+.obsidian/cache
+.trash/

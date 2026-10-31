@@ -29,7 +29,7 @@ This repository is the working archive of the language: the grammar, the phonolo
 
 ## Part I. The Universal Languages project
 
-Middle Semitic belongs to a larger project, so its design choices make most sense against that background. This section sets out the project's case in full; the other fourteen languages live in the sister *UL* repository.
+Middle Semitic belongs to a larger project, so its design choices make most sense against that background. This section sets out the project's case in full; the other fourteen languages live in the sister [Universal Languages repository](https://github.com/mrandmrsmurphy/universal-languages).
 
 ### The problem and the lessons
 
