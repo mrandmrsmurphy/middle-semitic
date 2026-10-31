@@ -16,9 +16,19 @@ Middle Semitic blends Hebrew and Arabic and gives the two relatively equal weigh
 
 How the languages are weighed word by word is described in [[Anthropology]].
 
+## Syriac as the script
+
+Syriac is the script because it is the neutral common ground (see above). The reasons for the other choices, and what it costs the reader:
+
+- **Why not Latin.** Latin is the script of the West and of colonial influence in the region, so adopting it would pick a side. Latin appears only as an aid: the Latin row on each lexicon entry is a transliteration for learners, never the script of the language.
+- **Why an abjad.** A consonantal script shows the triconsonantal root, as the scripts of all the sources do, so the root stays visible in every derived word.
+- **Why right-to-left.** Syriac is written RTL, so Hebrew and Arabic readers keep their direction of reading and their handwriting habits.
+- **The learning cost.** Everyone learns the same small alphabet, so the cost is equal for Hebrew and Arabic speakers, and many letter shapes are already familiar from one or the other. This is part of the test of ease above.
+- **Vowels.** True vowels are diacritics, as in Syriac. Like the sources' pointed and unpointed writing, they are optional: learners and unfamiliar words carry them, and experienced readers may drop them. The begadkefat dots likewise appear only in full spelling. See [[Orthography]].
+
 ## Choosing between Hebrew and Arabic: the common root first
 
-When Hebrew and Arabic disagree on a word, neither simply wins. Every word is researched: the source languages are polled and Proto-Semitic is consulted. This is why Middle Semitic needs a constant human touch and a lot of research. The decision runs in two stages.
+When Hebrew and Arabic disagree on a word, neither simply wins. Every word is researched: the source languages are polled and Proto-Semitic is consulted. This is why Middle Semitic needs a constant human touch and a lot of research. Proto-Semitic comes first because an appeal to the most ancient is an authority above the modern warring factions, without picking a favorite among today's parties. The decision runs in two stages.
 
 1. **Appeal to the broadest root.** If a root or word exists across the region and in Proto-Semitic, Middle Semitic uses it, even where some source languages have since moved on from it. The example is *louse* ([[Swadesh]] № 48): the root Q-M-L exists across the region and in Proto-Semitic, but Hebrew and the rest of Northwest Semitic have moved on to a different root (Hebrew כנה *kinnâ*). Middle Semitic backs up and takes the common root, even though it takes digging deep into Rabbinic literature to find the Hebrew trace of it, קַלְמָנָה.
 2. **Fall back to the modern majority.** Only when the search for a broad word or root across the region is exhausted does Middle Semitic switch to a modern majority strategy, choosing what most of the modern source languages use. The majority is counted by number of source languages, not by number of speakers. Hebrew is given a little extra weight, which keeps Arabic's many dialects from simply outvoting it; even so, this has produced several choices that lean on the Arabic dialects, such as [[Lexicon/ܪܣܘܠܐ|ܪܣܘܠܐ]] *rasûlâ* "messenger" (in place of Hebrew שלח) and [[Lexicon/ܟܡܢ|ܟܡܢ]] *kaman* "also" (from the colloquial Arabic *kamān*).
@@ -75,6 +85,7 @@ A Universal Language is an international auxiliary language, so a certain amount
 
 - **Esperanto is the cautionary tale, but for its vocabulary.** It receives a failing grade mostly because its vocabulary is a scattershot of Western Europe with sprinkles of Eastern Europe. Its grammar is too regular, but only because none of its source languages is anywhere near as agglutinative as it is.
 - **Middle Semitic is triconsonantal like its sources, but more regular and predictable than any of them,** which are all fully natural languages. That regularity is part of the design principle of a Universal Language.
+- **The rule of thumb is fidelity unless confusing.** A source irregularity is kept by default. It is regularized only when it breaks a learnable pattern, when the sources split on it (so the regular form is the neutral ground), or when it would need a per-word lookup with no payoff in familiarity for any source.
 - **There are limits to regularity.** One is the "third" gender, the crypto-feminine: nouns that are feminine in agreement but do not end in the feminine *-t*. Taking regularity to the Esperanto level, too far, would have meant making those words masculine or eliminating gender altogether.
 - **Another quasi-naturalistic feature is the chiastic gender agreement of the numbers 3 to 10,** which all of the source languages share.
 
