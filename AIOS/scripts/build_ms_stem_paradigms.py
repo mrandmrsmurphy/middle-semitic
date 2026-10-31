@@ -110,7 +110,7 @@ def cell(tokens):
     return f"{v} *{r}* {p}" if VOCAL else f"*{r}* {p}"
 
 
-def stems(c1, c2, c3, c2t=None, c3t=None):
+def stems(c1, c2, c3, c2t=None, c3t=None, stative=False):
     c2t = c2t or c2; c3t = c3t or c3
     C2, C3 = c2, c3  # letters for the class tests; c2t / c3t are the tokens used in the forms
     S = 'ܫ'
@@ -132,6 +132,8 @@ def stems(c1, c2, c3, c2t=None, c3t=None):
         'tD': dict(past=['ܬ', 'I', c1, 'i', g2, 'A', c3t], non=['ܬ', 'I', c1, 'i', g2, 'A', c3t], pre='a'),
     }
     d.update(hollow)
+    if stative:  # stative G: the î is the second vowel of the stem in the past and non-past (qadîs, yaqdîs); no passive
+        d['G'] = dict(past=[c1, 'a', c2t, 'i', c3t], non=[c1, c2t, 'i', c3t], pre='a')
     if G2:
         for k in ('D', 'Dp', 'tD'):
             for key in ('past', 'non'):
@@ -195,6 +197,9 @@ MEANING = {'ܟܬܒ': {'G': 'to write', 'Gp': 'passive of G: to be written',
                    'D': 'to inscribe', 'Dp': 'passive of D: to be inscribed',
                    'C': 'to dictate', 'Cp': 'passive of C: to be dictated',
                    'tD': 'to correspond: they corresponded, they exchanged letters (assumes a plural subject)'},
+           'ܩܕܝܣ': {'G': 'to be holy', 'D': 'to sanctify, to make holy', 'Dp': 'passive of D: to be sanctified',
+                   'C': 'to consecrate, to dedicate', 'Cp': 'passive of C: to be consecrated, to be dedicated',
+                   'tD': 'to be hallowed, to sanctify oneself'},
            'ܡܠܟ': {'G': 'to reign, to rule over (x)', 'Gp': 'passive of G: to be ruled over',
                    'C': 'to enthrone', 'Cp': 'passive of C: to be enthroned'},
            'ܐܟܠ': {'G': 'to eat', 'Gp': 'passive of G: to be eaten',
@@ -540,7 +545,7 @@ MEANING = {'ܟܬܒ': {'G': 'to write', 'Gp': 'passive of G: to be written',
                    'D': 'to tend closely, to shepherd with care', 'Dp': 'passive of D: to be tended closely',
                    'C': 'to put out to pasture, to let graze', 'Cp': 'passive of C: to be put out to pasture',
                    'tD': 'to come under someone\'s care, to be looked after'}}
-ABSENT = {'ܡܠܟ': {'D', 'Dp', 'tD'}, 'ܐܚܙ': {'C', 'Cp'}, 'ܒܛܠ': {'Gp'}, 'ܒܢܝ': {'D', 'Dp'}, 'ܒܣܠ': ['D', 'Dp'], 'ܒܥܠ': ['D', 'Dp'], 'ܘܠܕ': ['D', 'Dp', 'tD'], 'ܝܢܩ': ['D', 'Dp', 'tD'], 'ܚܪܫ': ['tD'], 'ܚܨܢ': ['C', 'Cp'], 'ܒܪܩ': ['Gp', 'D', 'Dp', 'tD'], 'ܠܘܫ': ['C', 'Cp'], 'ܢܚܪ': ['Gp', 'D', 'Dp', 'C', 'Cp', 'tD'], 'ܡܘܬ': ['Gp', 'D', 'Dp', 'tD'], 'ܛܡܐ': ['Gp', 'C', 'Cp', 'tD'], 'ܥܠܝ': ['D', 'Dp'], 'ܚܠܦ': ['C', 'Cp'], 'ܘܒܠ': ['D', 'Dp', 'tD'], 'ܩܪܒ': ['Gp', 'D', 'Dp'], 'ܚܪܐ': ['Gp', 'D', 'Dp', 'C', 'Cp', 'tD'], 'ܦܬܠ': ['C', 'Cp'], 'ܫܟܪ': ['C', 'Cp'], 'ܒܪܐ 2': ['tD'], 'ܗܠܟ': ['Gp', 'Dp'], 'ܘܪܕ': ['Gp', 'D', 'Dp', 'tD'], 'ܩܪܨ': ['C', 'Cp'], 'ܪܡܝ': ['C', 'Cp'], 'ܚܨܕ': ['C', 'Cp', 'tD'], 'ܢܥܡ': ['C', 'Cp'], 'ܫܒܪ': ['C', 'Cp'], 'ܨܝܕ': ['C', 'Cp'], 'ܚܕܫ': ['Gp', 'C', 'Cp'], 'ܛܚܢ': ['C', 'Cp'], 'ܚܦܫ': ['C', 'Cp'], 'ܩܪܐ': ['D', 'Dp', 'tD'], 'ܚܦܪ': ['C', 'Cp'], 'ܣܚܢ': ['C', 'Cp'], 'ܙܡܪ': ['tD'], 'ܟܘܢ': ['Gp'], 'ܟܦܪ': ['C', 'Cp'], 'ܒܪܟ': ['Gp'], 'ܪܘܚ': ['Gp'], 'ܢܦܚ': ['C', 'Cp'], 'ܡܣܚ': ['C', 'Cp'], 'ܘܕܥ': ['D', 'Dp'], 'ܨܒܥ': ['C', 'Cp'], 'ܨܒܥ 2': ['C', 'Cp', 'tD'], 'ܙܪܥ': ['tD'], 'ܦܬܚ': ['C', 'Cp'], 'ܕܪܘ': ['C', 'Cp'], 'ܢܕܘ': ['C', 'Cp']}  # word -> stems it does NOT have (property false, no tables)
+ABSENT = {'ܩܕܝܣ': {'Gp'}, 'ܡܠܟ': {'D', 'Dp', 'tD'}, 'ܐܚܙ': {'C', 'Cp'}, 'ܒܛܠ': {'Gp'}, 'ܒܢܝ': {'D', 'Dp'}, 'ܒܣܠ': ['D', 'Dp'], 'ܒܥܠ': ['D', 'Dp'], 'ܘܠܕ': ['D', 'Dp', 'tD'], 'ܝܢܩ': ['D', 'Dp', 'tD'], 'ܚܪܫ': ['tD'], 'ܚܨܢ': ['C', 'Cp'], 'ܒܪܩ': ['Gp', 'D', 'Dp', 'tD'], 'ܠܘܫ': ['C', 'Cp'], 'ܢܚܪ': ['Gp', 'D', 'Dp', 'C', 'Cp', 'tD'], 'ܡܘܬ': ['Gp', 'D', 'Dp', 'tD'], 'ܛܡܐ': ['Gp', 'C', 'Cp', 'tD'], 'ܥܠܝ': ['D', 'Dp'], 'ܚܠܦ': ['C', 'Cp'], 'ܘܒܠ': ['D', 'Dp', 'tD'], 'ܩܪܒ': ['Gp', 'D', 'Dp'], 'ܚܪܐ': ['Gp', 'D', 'Dp', 'C', 'Cp', 'tD'], 'ܦܬܠ': ['C', 'Cp'], 'ܫܟܪ': ['C', 'Cp'], 'ܒܪܐ 2': ['tD'], 'ܗܠܟ': ['Gp', 'Dp'], 'ܘܪܕ': ['Gp', 'D', 'Dp', 'tD'], 'ܩܪܨ': ['C', 'Cp'], 'ܪܡܝ': ['C', 'Cp'], 'ܚܨܕ': ['C', 'Cp', 'tD'], 'ܢܥܡ': ['C', 'Cp'], 'ܫܒܪ': ['C', 'Cp'], 'ܨܝܕ': ['C', 'Cp'], 'ܚܕܫ': ['Gp', 'C', 'Cp'], 'ܛܚܢ': ['C', 'Cp'], 'ܚܦܫ': ['C', 'Cp'], 'ܩܪܐ': ['D', 'Dp', 'tD'], 'ܚܦܪ': ['C', 'Cp'], 'ܣܚܢ': ['C', 'Cp'], 'ܙܡܪ': ['tD'], 'ܟܘܢ': ['Gp'], 'ܟܦܪ': ['C', 'Cp'], 'ܒܪܟ': ['Gp'], 'ܪܘܚ': ['Gp'], 'ܢܦܚ': ['C', 'Cp'], 'ܡܣܚ': ['C', 'Cp'], 'ܘܕܥ': ['D', 'Dp'], 'ܨܒܥ': ['C', 'Cp'], 'ܨܒܥ 2': ['C', 'Cp', 'tD'], 'ܙܪܥ': ['tD'], 'ܦܬܚ': ['C', 'Cp'], 'ܕܪܘ': ['C', 'Cp'], 'ܢܕܘ': ['C', 'Cp']}  # word -> stems it does NOT have (property false, no tables)
 VOCALIZED = {'ܟܬܒ', 'ܡܠܟ', 'ܣܡܥ'}  # extra words shown vocalized; otherwise every root without ܐ ܘ ܝ is vocalized and weak roots show romanization + plain spelling only
 
 
@@ -566,7 +571,8 @@ def main(L, words):
             if ml:
                 if c2 == 'ܒ' and ml.group(2) == 'v' or c2 == 'ܦ' and ml.group(2) == 'f': c2t = ('L', c2, ml.group(2))
                 if c3 == 'ܒ' and ml.group(3) == 'v' or c3 == 'ܦ' and ml.group(3) == 'f': c3t = ('L', c3, ml.group(3))
-        S = stems(('R', 'ܐ') if c1 == 'ܐ' else c1, c2, c3, c2t, c3t)
+        stative = 'stative' in re.search(r'^\|\s*Part of speech\s*\|\s*(.*?)\s*\|\s*$', t, re.M).group(1)
+        S = stems(('R', 'ܐ') if c1 == 'ܐ' else c1, c2, c3, c2t, c3t, stative)
         head = t[:t.index('## Stems')] if '## Stems' in t else t[:t.index('## Forms')]
         # YAML: all seven stems true
         fm_end = head.index('\n---\n', 4)
@@ -602,11 +608,11 @@ def main(L, words):
                    "; ".join(f"{s2} {pl}" for s2, pl in plain.items()) + ". " +
                    " ".join(f"{' and '.join(v)} are spelled alike unless the shadda is written, as in Hebrew and Arabic." for v in by.values() if len(v) > 1) + "\n")
         out.append("## Forms\n")
-        klass = "an I-yod verb" if c1 == 'ܝ' and not IIIY else "an I-waw verb" if c1 == 'ܘ' and not IIIY else ({'ܝ': "a III-yod verb", 'ܘ': "a III-waw verb", 'ܐ': "a III-aleph verb"}[c3]) + (" with a guttural middle radical" if c2 in 'ܥܚܗ' else "") if IIIY else "a hollow verb" if HOLLOW else "an I-aleph verb" if c1 == 'ܐ' else "a strong triliteral verb"
+        klass = "an I-yod verb" if c1 == 'ܝ' and not IIIY else "an I-waw verb" if c1 == 'ܘ' and not IIIY else ({'ܝ': "a III-yod verb", 'ܘ': "a III-waw verb", 'ܐ': "a III-aleph verb"}[c3]) + (" with a guttural middle radical" if c2 in 'ܥܚܗ' else "") if IIIY else "a hollow verb" if HOLLOW else "an I-aleph verb" if c1 == 'ܐ' else "a stative verb" if stative else "a stative verb" if stative else "a strong triliteral verb"
         cells = "the vocalized Syriac, the romanization and the plain spelling" if VOCAL else "the romanization and the plain spelling"
         out.append(f"The conjugation of {klass} in each of its stems, from the templates in [[Morphophonology]]. "
                    f"The citation form is the 3m past. Each cell gives {cells}." +
-                   (f" The final {({'ܝ': 'y', 'ܘ': 'w', 'ܐ': 'ʾ'})[c3]} contracts with the preceding a to {({'ܝ': 'ê', 'ܘ': 'ô', 'ܐ': 'â'})[c3]} (see [[Morphophonology]])." if IIIY else "") + (" The middle guttural cannot be geminated, so the D, Dp and tD stems lengthen the vowel after it instead, written with an aleph." if c2 in 'ܥܚܗ' else "") + (" In the G stem the central vowel is part of the root and the stem stays CVC; in the derived stems the middle radical is a full consonant and takes its place in the template." if HOLLOW else "") + "\n")
+                   (f" The final {({'ܝ': 'y', 'ܘ': 'w', 'ܐ': 'ʾ'})[c3]} contracts with the preceding a to {({'ܝ': 'ê', 'ܘ': 'ô', 'ܐ': 'â'})[c3]} (see [[Morphophonology]])." if IIIY else "") + (" In the G stem the vowel *î* is the second vowel of the stem and stays in every finite form; a stative has no passive, so it has no Gp. The derived stems are those of a strong verb." if stative else "") + (" The middle guttural cannot be geminated, so the D, Dp and tD stems lengthen the vowel after it instead, written with an aleph." if c2 in 'ܥܚܗ' else "") + (" In the G stem the central vowel is part of the root and the stem stays CVC; in the derived stems the middle radical is a full consonant and takes its place in the template." if HOLLOW else "") + "\n")
         for s, d in S.items():
             if s in absent: continue
             out.append(f"### {LABEL[s]}: {mean[s].split(':')[0]}\n")
