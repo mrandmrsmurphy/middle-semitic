@@ -60,6 +60,7 @@ VOCAL = True
 HOLLOW = False
 IIIY = False  # III-yod / III-aleph root: the final y or ʾ contracts with the preceding a (see ap)
 IIIC = ''
+HOLLOW_V = None  # the G-stem vowel of a hollow root, read from the page's Latin row (ô, ê or û)
 
 
 def ap(stem, suf):
@@ -108,7 +109,7 @@ def stems(c1, c2, c3):
     S = 'ܫ'
     g2 = ('g', c2)
     if c2 in 'ܘܝ':  # hollow root: the G stem has a contracted vowel; the derived stems treat the middle radical as a consonant
-        X = ('X', 'ô' if c2 == 'ܘ' else 'ê', c2)
+        X = ('X', HOLLOW_V or ('ô' if c2 == 'ܘ' else 'ê'), c2)
         hollow = {'G': dict(past=[c1, X, c3], non=[c1, X, c3], pre='a'),
                   'Gp': dict(past=[c1, 'u', c3], non=[c1, X, c3], pre='u')}
     else:
@@ -471,9 +472,12 @@ def main(L, words):
         c1, c2, c3 = root
         assert c3 != 'ܘ' and c2 != 'ܐ' and not (c3 in 'ܝܐ' and c2 in 'ܘܝ'), (w, 'only strong, I-aleph, hollow and III-yod roots are supported')
         pass
-        global VOCAL, HOLLOW, IIIY, IIIC
+        global VOCAL, HOLLOW, IIIY, IIIC, HOLLOW_V
         VOCAL = w in VOCALIZED
         HOLLOW = c2 in 'ܘܝ'
+        lat = re.search(r'^\|\s*Latin\s*\|\s*(.*?)\s*\|\s*$', t, re.M).group(1)
+        mv = re.search('[ôêûî]', lat)
+        HOLLOW_V = mv.group(0) if HOLLOW and mv else None
         IIIY = c3 in 'ܝܐ'; IIIC = c3 if IIIY else ''
         S = stems(('R', 'ܐ') if c1 == 'ܐ' else c1, c2, c3)
         head = t[:t.index('## Stems')] if '## Stems' in t else t[:t.index('## Forms')]
