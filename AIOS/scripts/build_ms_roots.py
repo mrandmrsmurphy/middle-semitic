@@ -7,7 +7,7 @@ or roots. Other frontmatter keys on a root page are kept.
 
 Classes of radical: aleph = ʾ; mater = W Y; guttural = ʿ Ḥ H (Morphophonology); anything else is plain.
 Tags: <position>-<class> for each aleph/mater/guttural radical (positions I II III IV); `geminate` when the last two
-radicals of a triliteral are equal; `strong` when a triliteral has no tagged radical and is not geminate;
+radicals of a triliteral are equal (a geminate root is not weak); `strong` when a triliteral has no tagged radical, geminate or not;
 `biliteral` / `triliteral` / `quadriliteral`.
 
 CLI: python3 AIOS/scripts/build_ms_roots.py [vault]
@@ -42,8 +42,8 @@ def main(vault):
         assert 2 <= len(L) <= 4, name
         tags = [f'{NUM[i]}-{klass(l)}' for i, l in enumerate(L) if klass(l)]
         geminate = len(L) == 3 and L[1] == L[2]
+        if len(L) == 3 and not tags: tags.append('strong')  # a geminate root is strong
         if geminate: tags.append('geminate')
-        if len(L) == 3 and not tags: tags.append('strong')
         tags.append(KIND[len(L)])
         fm, body = split_front(open(f, encoding='utf-8').read())
         # keep foreign keys

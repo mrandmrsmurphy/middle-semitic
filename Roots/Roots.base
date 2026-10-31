@@ -56,7 +56,6 @@ views:
         - file.hasTag("I-guttural")
         - file.hasTag("II-guttural")
         - file.hasTag("III-guttural")
-        - file.hasTag("geminate")
     order:
       - file.name
       - latin
