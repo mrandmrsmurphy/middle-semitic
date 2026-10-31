@@ -127,8 +127,6 @@ def stems(c1, c2, c3):
         for k in ('D', 'Dp', 'tD'):
             for key in ('past', 'non'):
                 t = d[k][key]; i = t.index(g2); t[i:i + 2] = [c2, G2]
-    if c2 == 'ܘ':  # aw -> ô is absolute: the C stem's 1 a w 3 contracts (šaqwam -> šaqôm); Cp šûqwam has no aw and stays
-        d['C'] = dict(past=[S, 'a', c1, X, c3], non=[S, 'a', c1, X, c3], pre='a')
     return d
 
 
