@@ -10,11 +10,10 @@ Running list; remove items when done (history goes in `logs/log.md`). State as o
 **Next up (user's stated direction)**
 - VERB MORPHOLOGY (user, 2026-10-30): DONE — the stative is now 1a2î3 / ya1 2î3 (11 verbs regenerated and renamed; confirm the ܚܠܝܘ ḥalîw inference). DONE since: stem true/false properties and the Stems table exist on all 83 verbs (G/Gp filled; D/Dp/C/Cp/tD not checked except the ܟܬܒ and ܐܟܠ models); the passive û rule is clarified. MODELS DONE: ܟܬܒ (strong), ܐܟܠ (I-aleph) and ܡܠܟ (strong, with D/Dp/tD absent) have their stems (14 tables + definitions each), approved in principle by the user ("your ܟܬܒ tables are amazing"); next, generalize `build_ms_stem_paradigms.py` to every strong verb that has the stems, then the weak/hollow classes. STILL TO DO: (a) (superseded by the mockup) build the derived stems D (1a22a3), Dp (1û22a3), C (š- prefix: ša1 2a3), Cp, tD (ti- prefix) — decide the exact templates for the non-past, imperative, participle and infinitive of each; (b) go through the verbs and decide which derived stems each has, with the altered meanings (add to `DERIVED` in `build_ms_stems.py`); (c) write a generator for the full paradigms of D, Dp, C, Cp, tD (the 3m past/non-past are in the Stems table only); (d) document the stems in Morphophonology; (e) update the README line on the passive/stems if needed.
 - REMIND THE USER: come back to verb morphology soon (user, 2026-10-30: the international-vocabulary research, i.e. giving modern words new roots and deriving verbs from them, prompted a closer look at verb morphology). Bring it up at the end of the documentation session.
-- Lexicon gap: ܝܣܘܥ (Jesus) appears on Dialogue.md but has no lexicon entry; check the other proper names used there and on Torah.md (ܐܠܠܗ, ܡܚܡܕ, ܡܪܝܡ, ܝܘܣܦ, ܡܣܝܚ...) and give them entries.
 - Lexipedia project (Mark Rosenberg's book: semantic domains; basic vocabulary for every domain and the subtle distinctions among words) is the next lexicon phase; this is roadmap milestone 8. Dan'a'yo is already at this stage.
 - GitHub release: follow [[project-middle-semitic-documentation-plan]] (README drafted; Design Philosophy page, LICENSE, per-page rationale and repo hygiene still to do).
 - Cognate keys beyond Hebrew/Arabic/Aramaic: ugaritic is done for 244 entries (2026-10-30 pass); the rest, and the held doubtful ones, are listed in `logs/log.md` and need the user's ruling before any `ugaritic: none`. Still to do: akkadian, geez (any tradition gets its own lowercase key). Missing key = not checked; `none` = searched and confirmed absent. Never write `none` without an actual search.
-- Data problems found in existing rows (see the Ugaritic log entry): ܒܫܢܐ, ܢܦܣܐ (Arabic/Aramaic swapped?), ܐܠܝܐ, ܐܘܟܐ, ܐܝܣܐ, ܦܪܥܘܫܐ, ܬܗܘܡܬܐ, ܟܦܪ, ܟܒܝܪܐ, ܬܝܣܥܐ, ܩܪܨ, ܐܝܠܐ/ܐܝܠܠܐ.
+- Data problems found in existing rows (see the Ugaritic log entry): ܒܫܢܐ, ܢܦܣܐ (Arabic/Aramaic swapped?), ܐܠܝܐ, ܐܘܟܐ, ܐܝܣܐ, ܦܪܥܘܫܐ, ܬܗܘܡܬܐ, ܟܦܪ, ܟܒܝܪܐ, ܬܝܣܥܐ, ܩܪܨ, ܐܝܠܐ/ܐܝܠܐ 2.
 - Aramaic is still the one of the big three with gaps (124 entries lack it).
 - Maybe add `components` (list) to the YAML of the ~100 inflected/fused forms (offered, not decided).
 - Confirm the property name: `date-last-perfect` was used exactly as typed (all entries = 2026-10-28); rename if "date-last-perfected" was meant.
@@ -31,7 +30,7 @@ Running list; remove items when done (history goes in `logs/log.md`). State as o
 **Prepositions / clitics**
 - Morphosyntax conjugation chart still has only the original 8 rows; add rows for mi- and ʿa- (not yet asked for).
 - Prepositions.md: the functional contrasts (pi-/bi-/ʿal-, ʿim/ki-/bên, min/li-) are Claude's synthesis, not user rulings — confirm. Extended uses (possession with li-, comparison with min, instrument with bi-) are unruled.
-- ܐܝܠܐ (preposition 'except', if+not) vs ܐܝܠܠܐ (conjunction 'except, but') look like near-duplicates: merge or differentiate.
+- ܐܝܠܐ (preposition 'except', if+not) vs ܐܝܠܐ 2 (conjunction 'except, but') look like near-duplicates: merge or differentiate.
 - Construct-state-noun "prepositions" (before, after, under, until, around, without) not yet coined.
 - ܥܠܐܢ ʿal.ˈʾan 'because' rests on dialect facts from memory (ʿašān < ʿalā šaʾn; li-ʾan purpose reading in Arabic): verify against a source.
 

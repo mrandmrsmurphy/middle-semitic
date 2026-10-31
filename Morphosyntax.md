@@ -17,7 +17,7 @@ Existence is expressed by two particles that do not inflect for person or number
 
 ## Prepositions
 
-There are eight “small” prepositions which “conjugate”. All other “prepositions” are actually nouns in the construct state. See [[Prepositions]] for the contrasts among them.
+There are eight “small” prepositions which “conjugate”. All other “prepositions” are actually nouns in the construct state. The rows for *mi-* and *ʿa-* are the clitic forms of *min* and *ʿal*. See [[Prepositions]] for the contrasts among them.
 
 | | 1cs | 2ms | 2fs | 3ms | 3fs | 1cp | 2cp | 3cp |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -25,8 +25,10 @@ There are eight “small” prepositions which “conjugate”. All other “pre
 | [[Lexicon/ܒ\|ܒ]] / *bi* | [[Lexicon/ܒܢܝ 2\|ܒܢܝ]] *on me* | [[Lexicon/ܒܟܐ\|ܒܟܐ]] *on you* | [[Lexicon/ܒܟܝ\|ܒܟܝ]] *on you* | [[Lexicon/ܒܗܘ\|ܒܗܘ]] *on him* | [[Lexicon/ܒܗܐ\|ܒܗܐ]] *on her* | [[Lexicon/ܒܢܘ\|ܒܢܘ]] *on us* | [[Lexicon/ܒܟܘܡ\|ܒܟܘܡ]] *on y'all* | [[Lexicon/ܒܗܘܡ\|ܒܗܘܡ]] *on them* |
 | [[Lexicon/ܠ-\|ܠ]] / *li* | [[Lexicon/ܠܢܝ\|ܠܢܝ]] *for me* | [[Lexicon/ܠܟܐ\|ܠܟܐ]] *for you* | [[Lexicon/ܠܟܝ\|ܠܟܝ]] *for you* | [[Lexicon/ܠܗܘ\|ܠܗܘ]] *for him* | [[Lexicon/ܠܗܐ\|ܠܗܐ]] *for her* | [[Lexicon/ܠܢܘ\|ܠܢܘ]] *for us* | [[Lexicon/ܠܟܘܡ\|ܠܟܘܡ]] *for y'all* | [[Lexicon/ܠܗܘܡ\|ܠܗܘܡ]] *for them* |
 | [[Lexicon/ܥܠ-\|ܥܠ]] / *ʿal* | [[Lexicon/ܥܠܢܝ\|ܥܠܢܝ]] *upon me* | [[Lexicon/ܥܠܟܐ\|ܥܠܟܐ]] *upon you* | [[Lexicon/ܥܠܟܝ\|ܥܠܟܝ]] *upon you* | [[Lexicon/ܥܠܗܘ\|ܥܠܗܘ]] *upon him* | [[Lexicon/ܥܠܗܐ\|ܥܠܗܐ]] *upon her* | [[Lexicon/ܥܠܢܘ\|ܥܠܢܘ]] *upon us* | [[Lexicon/ܥܠܟܘܡ\|ܥܠܟܘܡ]] *upon y'all* | [[Lexicon/ܥܠܗܘܡ\|ܥܠܗܘܡ]] *upon them* |
+| [[Lexicon/ܥ\|ܥ]] / *ʿa* | [[Lexicon/ܥܢܝ\|ܥܢܝ]] *upon me* | [[Lexicon/ܥܟܐ\|ܥܟܐ]] *upon you* | [[Lexicon/ܥܟܝ\|ܥܟܝ]] *upon you* | [[Lexicon/ܥܗܘ\|ܥܗܘ]] *upon him* | [[Lexicon/ܥܗܐ\|ܥܗܐ]] *upon her* | [[Lexicon/ܥܢܘ\|ܥܢܘ]] *upon us* | [[Lexicon/ܥܟܘܡ\|ܥܟܘܡ]] *upon y'all* | [[Lexicon/ܥܗܘܡ\|ܥܗܘܡ]] *upon them* |
 | [[Lexicon/ܥܡ\|ܥܡ]] / *ʿim* | [[Lexicon/ܥܡܢܝ\|ܥܡܢܝ]] *with me* | [[Lexicon/ܥܡܟܐ\|ܥܡܟܐ]] *with you* | [[Lexicon/ܥܡܟܝ\|ܥܡܟܝ]] *with you* | [[Lexicon/ܥܡܗܘ\|ܥܡܗܘ]] *with him* | [[Lexicon/ܥܡܗܐ\|ܥܡܗܐ]] *with her* | [[Lexicon/ܥܡܢܘ\|ܥܡܢܘ]] *with us* | [[Lexicon/ܥܡܟܘܡ\|ܥܡܟܘܡ]] *with y'all* | [[Lexicon/ܥܡܗܘܡ\|ܥܡܗܘܡ]] *with them* |
 | [[Lexicon/ܡܢ\|ܡܢ]] / *min* | [[Lexicon/ܡܢܢܝ\|ܡܢܢܝ]] *from me* | [[Lexicon/ܡܢܟܐ\|ܡܢܟܐ]] *from you* | [[Lexicon/ܡܢܟܝ\|ܡܢܟܝ]] *from you* | [[Lexicon/ܡܢܗܘ\|ܡܢܗܘ]] *from him* | [[Lexicon/ܡܢܗܐ\|ܡܢܗܐ]] *from her* | [[Lexicon/ܡܢܢܘ\|ܡܢܢܘ]] *from us* | [[Lexicon/ܡܢܟܘܡ\|ܡܢܟܘܡ]] *from y'all* | [[Lexicon/ܡܢܗܘܡ\|ܡܢܗܘܡ]] *from them* |
+| [[Lexicon/ܡ\|ܡ]] / *mi* | [[Lexicon/ܡܢܝ\|ܡܢܝ]] *from me* | [[Lexicon/ܡܟܐ\|ܡܟܐ]] *from you* | [[Lexicon/ܡܟܝ\|ܡܟܝ]] *from you* | [[Lexicon/ܡܗܘ\|ܡܗܘ]] *from him* | [[Lexicon/ܡܗܐ\|ܡܗܐ]] *from her* | [[Lexicon/ܡܢܘ\|ܡܢܘ]] *from us* | [[Lexicon/ܡܟܘܡ\|ܡܟܘܡ]] *from y'all* | [[Lexicon/ܡܗܘܡ\|ܡܗܘܡ]] *from them* |
 | [[Lexicon/ܟ\|ܟ]] / *ki* | [[Lexicon/ܟܢܝ\|ܟܢܝ]] *like me* | [[Lexicon/ܟܟܐ\|ܟܟܐ]] *like you* | [[Lexicon/ܟܟܝ\|ܟܟܝ]] *like you* | [[Lexicon/ܟܗܘ\|ܟܗܘ]] *like him* | [[Lexicon/ܟܗܐ\|ܟܗܐ]] *like her* | [[Lexicon/ܟܢܘ\|ܟܢܘ]] *like us* | [[Lexicon/ܟܟܘܡ\|ܟܟܘܡ]] *like y'all* | [[Lexicon/ܟܗܘܡ\|ܟܗܘܡ]] *like them* |
 | [[Lexicon/ܒܝܢ\|ܒܝܢ]] / *bên* | [[Lexicon/ܒܝܢܢܝ\|ܒܝܢܢܝ]] *between me* | [[Lexicon/ܒܝܢܟܐ\|ܒܝܢܟܐ]] *between you* | [[Lexicon/ܒܝܢܟܝ\|ܒܝܢܟܝ]] *between you* | [[Lexicon/ܒܝܢܗܘ\|ܒܝܢܗܘ]] *between him* | [[Lexicon/ܒܝܢܗܐ\|ܒܝܢܗܐ]] *between her* | [[Lexicon/ܒܝܢܢܘ\|ܒܝܢܢܘ]] *between us* | [[Lexicon/ܒܝܢܟܘܡ\|ܒܝܢܟܘܡ]] *between y'all* | [[Lexicon/ܒܝܢܗܘܡ\|ܒܝܢܗܘܡ]] *between them* |
 
