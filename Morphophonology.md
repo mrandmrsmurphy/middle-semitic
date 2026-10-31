@@ -117,6 +117,22 @@ The pronouns may seem strange for Indo-Europeans, but are utterly normal for Sem
 
 ## Verbs
 
+A verb has up to seven **stems**, named G, Gp, D, Dp, C, Cp and tD. G is the basic stem; D intensifies or specializes it; C is causative; tD is reflexive or reciprocal; the "p" stems are the passives. Each lexical entry says which stems it has: **no stem is assumed**, and a verb may lack any of them (*malak* has no D, Dp or tD). The entry's Stems table gives each stem's meaning, which is lexical, not predictable from the template. Every stem has a past, a non-past, a participle and an infinitive, and the active stems have an imperative; the tables below show the strong root *C₁C₂C₃* with the model verb ܟܬܒ.
+
+| Stem | Past 3m | Non-past 3m | Participle | Infinitive | Template |
+| --- | --- | --- | --- | --- | --- |
+| G | *katab* | *yaktab* | *maktab-* | *laktab* | C₁aC₂aC₃ |
+| Gp | *kûtab* | *yûktab* | *maktûb-* | *laktûb* | û after the first consonant of the form |
+| D | *kîttab* | *yakîttab* | *makîttab-* | *lakîttab* | C₁îC₂C₂aC₃ |
+| Dp | *kûttab* | *yûkîttab* | *makûttab-* | *lakûttab* | C₁ûC₂C₂aC₃ |
+| C | *šaktab* | *yašaktab* | *mašaktab-* | *lašaktab* | š- + C₁C₂aC₃ |
+| Cp | *šûktab* | *yûšaktab* | *mašûktab-* | *lašûktab* | š- + the passive of G |
+| tD | *tikîttab* | *yatikîttab* | *matikîttab-* | *latikîttab* | ti- + the D stem |
+
+The participle is *ma-* plus the non-past stem and the infinitive is *la-* plus it; in the passives the second vowel of the stem becomes *û* instead, since the prefix leaves no vowel to change. The imperative is the second-person non-past without its prefix, so it exists for G, D, C and tD only. The paragraphs below set out the G stem and its passive on the model ܡܠܟ, then each derived stem.
+
+**G stem**
+
 **Past**
 
 |     | Sing.                    | Pl.                      |
@@ -141,7 +157,7 @@ The pronouns may seem strange for Indo-Europeans, but are utterly normal for Sem
 - Inf. *laMLaK* ܠܡܠܟ
 - Imp. the second-person non-past without its prefix: *məLaK!* ܡܠܟ! (m sg), *məLaKî!* ܡܠܟܝ! (f sg), *məLaKnâ!* ܡܠܟܢܐ! (pl). The schwa fills the first syllable (CV.CVC) and the stress is on the next syllable. Every imperative is written with an exclamation mark; the m sg is spelled like the 3m past.
 
-**Passive past** ("was reigned") 
+**Gp stem (G passive).** Past ("was reigned")
 
 | | Sing. | Pl. |
 | --- | --- | --- |
@@ -151,7 +167,7 @@ The pronouns may seem strange for Indo-Europeans, but are utterly normal for Sem
 | 2f | ܡܽܘܠܱܟܬܻܝ *MûLaKtî* ܡܘܠܟܬܝ | ܡܽܘܠܱܟܬܾܘܡ *MûLaKtûm* ܡܘܠܟܬܘܡ |
 | 1c | ܡܽܘܠܱܟܬܾܘ *MûLaKtû* ܡܘܠܟܬܘ | ܡܽܘܠܱܟܢܰܐ *MûLaKnâ* ܡܘܠܟܢܐ |
 
-**Passive non-past**
+**Gp non-past**
 
 | | Sing. | Pl. |
 | --- | --- | --- |
@@ -164,6 +180,18 @@ The pronouns may seem strange for Indo-Europeans, but are utterly normal for Sem
 - Passive part. *maMLûK-* ܡܡܠܘܟ
 - Passive inf. *laMLûK* ܠܡܠܘܟ
 - The passive changes the vowel after the first consonant of the form to long *û*, written with a waw, so it shows in unvocalized text. The first consonant is the prefix in the non-past (*yamlak* → *yûmlak*) and the first radical in the past (*malak* → *mûlak*), and the same holds for every stem. The participle and infinitive have no vowel there (*ma-* and *la-* are prefixes), so the second vowel changes instead. The imperative has no passive. All other endings follow the active.
+
+**The derived stems.** Each is built on the G stem and keeps the same endings and prefixes, so only the stem changes. The model for all seven is [[Lexicon/ܟܬܒ]] (G write, D inscribe, C dictate, tD correspond).
+
+- **D** puts the long vowel *î* after the first radical and doubles the second: *kîttab*, non-past *yakîttab*, participle *makîttab-*, imperative *kîttab!*. The *î* shows in the unvocalized spelling (ܟܝܬܒ), because the gemination mark is optional and is left out; this is the same job as the *i* of Hebrew *piʿel*.
+- **Dp** is the passive of D. In the past *û* takes the place of the *î* (*kûttab*); in the non-past the prefix vowel becomes *û* and the stem keeps its *î* (*yûkîttab*). The participle is *makûttab-*.
+- **C** (causative) prefixes *š-* to the root, as Akkadian does with its Š stem: *šaktab*, non-past *yašaktab*, imperative *šaktab!*. No other *š-* prefix exists in the language, so the stem is recognizable at a glance.
+- **Cp** is the passive of C: *û* follows the first consonant of the form, which is the *š-* in the past (*šûktab*) and the prefix in the non-past (*yûšaktab*, where *û* replaces the prefix vowel and the *š-* stays on the stem). The participle is *mašûktab-*.
+- **tD** is *ti-* (written with just ܬ, a short *i*, distinct from the *ta-* of the non-past) plus the D stem: *tikîttab*, non-past *yatikîttab*, imperative *tikîttab!*. It is reflexive or reciprocal, and where reciprocal it assumes a plural subject. Naming it tD (not T) lets Arabic speakers read it as stem V.
+
+Gp and Dp are spelled alike in the unvocalized script unless the *shadda* is written (ܟܘܬܒ for both *kûtab* and *kûttab*), as in Hebrew and Arabic; the same overlap exists elsewhere in the system and is accepted. Stative verbs have no passives.
+
+**Derived stems of weak and guttural roots.** The contractions given for G apply in every stem (*aw* → *ô*, *ay* → *ê*, *aʾ* → *â*), and the first vowel wins when two meet. Gutturals (ʿ ḥ h) are always written; a middle guttural cannot double, so in D, Dp and tD the following vowel is lengthened instead (see [[#The gutturals]]). A middle aleph, by contrast, is a full consonant and doubles: D *sîʾʾal*, Dp *sûʾʾal*, tD *tisîʾʾal* (model: [[Lexicon/ܣܐܠ]]), and in a III-yod root as well (D *rîʾʾê*, [[Lexicon/ܪܐܝ]]). A III-yod or III-waw root has the same endings in every stem as in G (*banê*, C *šabnê*, [[Lexicon/ܒܢܝ]]). In a hollow root the middle *w* or *y* is a consonant in the derived stems, so it doubles in D (*bîyyat*) and the root is otherwise regular.
 
 **Statives.** A stative verb ("he was good") has the vowel *î* as the second vowel of its stem: past *ḥasîn*, non-past *yaḥsîn*, imperative *ḥəsîn!*, participle *maḥsîn-*, infinitive *laḥsîn*. The *î* shows in every form, so a stative is identifiable at a glance, and it has no passive. The adjective on the same stem adds *-â* (*ṣaʿîr* "he was small", *ṣaʿîrâ* "small"). The test for a stative is transitivity, not the English gloss. Because the *î* separates the second and third radicals, a geminate root is regular (*barîr*), and a III-waw root keeps its *w* as a consonant (*ḥalîw*). Model page: [[Lexicon/ܚܣܝܢ]].
 
