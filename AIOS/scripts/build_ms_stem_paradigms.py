@@ -208,6 +208,18 @@ MEANING = {'ܟܬܒ': {'G': 'to write', 'Gp': 'passive of G: to be written',
                    'tD': 'to improve, to become better'},
            'ܚܡܝܨ': {'G': 'to be sour', 'D': 'to make sour, to acidify', 'Dp': 'passive of D: to be made sour',
                    'tD': 'to go sour, to become embittered'},
+           'ܚܪܝܡ': {'G': 'to be forbidden, to be sacred', 'D': 'to forbid, to declare sacred or taboo', 'Dp': 'passive of D: to be forbidden, to be declared taboo',
+                   'C': 'to excommunicate, to confiscate, to boycott', 'Cp': 'passive of C: to be excommunicated, to be boycotted',
+                   'tD': 'to become taboo, to be held sacred'},
+           'ܡܬܝܩ': {'G': 'to be sweet, to be delicious', 'D': 'to sweeten', 'Dp': 'passive of D: to be sweetened',
+                   'C': 'to make delicious', 'Cp': 'passive of C: to be made delicious',
+                   'tD': 'to become sweet, to sweeten up'},
+           'ܣܠܝܡ': {'G': 'to be at peace, to be safe', 'D': 'to deliver, to hand over, to greet', 'Dp': 'passive of D: to be delivered, to be handed over',
+                   'C': 'to submit, to complete', 'Cp': 'passive of C: to be completed',
+                   'tD': 'to receive, to be fulfilled'},
+           'ܣܡܝܢ': {'G': 'to be fat', 'D': 'to fatten, to make plump', 'Dp': 'passive of D: to be fattened',
+                   'C': 'to fatten up, to enrich', 'Cp': 'passive of C: to be fattened up',
+                   'tD': 'to put on weight, to grow fat'},
            'ܡܠܟ': {'G': 'to reign, to rule over (x)', 'Gp': 'passive of G: to be ruled over',
                    'C': 'to enthrone', 'Cp': 'passive of C: to be enthroned'},
            'ܐܟܠ': {'G': 'to eat', 'Gp': 'passive of G: to be eaten',
@@ -553,7 +565,7 @@ MEANING = {'ܟܬܒ': {'G': 'to write', 'Gp': 'passive of G: to be written',
                    'D': 'to tend closely, to shepherd with care', 'Dp': 'passive of D: to be tended closely',
                    'C': 'to put out to pasture, to let graze', 'Cp': 'passive of C: to be put out to pasture',
                    'tD': 'to come under someone\'s care, to be looked after'}}
-ABSENT = {'ܚܡܝܨ': {'Gp', 'C', 'Cp'}, 'ܚܣܝܢ': {'Gp'}, 'ܒܪܝܪ': {'Gp'}, 'ܩܕܝܣ': {'Gp'}, 'ܡܠܟ': {'D', 'Dp', 'tD'}, 'ܐܚܙ': {'C', 'Cp'}, 'ܒܛܠ': {'Gp'}, 'ܒܢܝ': {'D', 'Dp'}, 'ܒܣܠ': ['D', 'Dp'], 'ܒܥܠ': ['D', 'Dp'], 'ܘܠܕ': ['D', 'Dp', 'tD'], 'ܝܢܩ': ['D', 'Dp', 'tD'], 'ܚܪܫ': ['tD'], 'ܚܨܢ': ['C', 'Cp'], 'ܒܪܩ': ['Gp', 'D', 'Dp', 'tD'], 'ܠܘܫ': ['C', 'Cp'], 'ܢܚܪ': ['Gp', 'D', 'Dp', 'C', 'Cp', 'tD'], 'ܡܘܬ': ['Gp', 'D', 'Dp', 'tD'], 'ܛܡܐ': ['Gp', 'C', 'Cp', 'tD'], 'ܥܠܝ': ['D', 'Dp'], 'ܚܠܦ': ['C', 'Cp'], 'ܘܒܠ': ['D', 'Dp', 'tD'], 'ܩܪܒ': ['Gp', 'D', 'Dp'], 'ܚܪܐ': ['Gp', 'D', 'Dp', 'C', 'Cp', 'tD'], 'ܦܬܠ': ['C', 'Cp'], 'ܫܟܪ': ['C', 'Cp'], 'ܒܪܐ 2': ['tD'], 'ܗܠܟ': ['Gp', 'Dp'], 'ܘܪܕ': ['Gp', 'D', 'Dp', 'tD'], 'ܩܪܨ': ['C', 'Cp'], 'ܪܡܝ': ['C', 'Cp'], 'ܚܨܕ': ['C', 'Cp', 'tD'], 'ܢܥܡ': ['C', 'Cp'], 'ܫܒܪ': ['C', 'Cp'], 'ܨܝܕ': ['C', 'Cp'], 'ܚܕܫ': ['Gp', 'C', 'Cp'], 'ܛܚܢ': ['C', 'Cp'], 'ܚܦܫ': ['C', 'Cp'], 'ܩܪܐ': ['D', 'Dp', 'tD'], 'ܚܦܪ': ['C', 'Cp'], 'ܣܚܢ': ['C', 'Cp'], 'ܙܡܪ': ['tD'], 'ܟܘܢ': ['Gp'], 'ܟܦܪ': ['C', 'Cp'], 'ܒܪܟ': ['Gp'], 'ܪܘܚ': ['Gp'], 'ܢܦܚ': ['C', 'Cp'], 'ܡܣܚ': ['C', 'Cp'], 'ܘܕܥ': ['D', 'Dp'], 'ܨܒܥ': ['C', 'Cp'], 'ܨܒܥ 2': ['C', 'Cp', 'tD'], 'ܙܪܥ': ['tD'], 'ܦܬܚ': ['C', 'Cp'], 'ܕܪܘ': ['C', 'Cp'], 'ܢܕܘ': ['C', 'Cp']}  # word -> stems it does NOT have (property false, no tables)
+ABSENT = {'ܣܡܝܢ': {'Gp'}, 'ܣܠܝܡ': {'Gp'}, 'ܡܬܝܩ': {'Gp'}, 'ܚܪܝܡ': {'Gp'}, 'ܚܡܝܨ': {'Gp', 'C', 'Cp'}, 'ܚܣܝܢ': {'Gp'}, 'ܒܪܝܪ': {'Gp'}, 'ܩܕܝܣ': {'Gp'}, 'ܡܠܟ': {'D', 'Dp', 'tD'}, 'ܐܚܙ': {'C', 'Cp'}, 'ܒܛܠ': {'Gp'}, 'ܒܢܝ': {'D', 'Dp'}, 'ܒܣܠ': ['D', 'Dp'], 'ܒܥܠ': ['D', 'Dp'], 'ܘܠܕ': ['D', 'Dp', 'tD'], 'ܝܢܩ': ['D', 'Dp', 'tD'], 'ܚܪܫ': ['tD'], 'ܚܨܢ': ['C', 'Cp'], 'ܒܪܩ': ['Gp', 'D', 'Dp', 'tD'], 'ܠܘܫ': ['C', 'Cp'], 'ܢܚܪ': ['Gp', 'D', 'Dp', 'C', 'Cp', 'tD'], 'ܡܘܬ': ['Gp', 'D', 'Dp', 'tD'], 'ܛܡܐ': ['Gp', 'C', 'Cp', 'tD'], 'ܥܠܝ': ['D', 'Dp'], 'ܚܠܦ': ['C', 'Cp'], 'ܘܒܠ': ['D', 'Dp', 'tD'], 'ܩܪܒ': ['Gp', 'D', 'Dp'], 'ܚܪܐ': ['Gp', 'D', 'Dp', 'C', 'Cp', 'tD'], 'ܦܬܠ': ['C', 'Cp'], 'ܫܟܪ': ['C', 'Cp'], 'ܒܪܐ 2': ['tD'], 'ܗܠܟ': ['Gp', 'Dp'], 'ܘܪܕ': ['Gp', 'D', 'Dp', 'tD'], 'ܩܪܨ': ['C', 'Cp'], 'ܪܡܝ': ['C', 'Cp'], 'ܚܨܕ': ['C', 'Cp', 'tD'], 'ܢܥܡ': ['C', 'Cp'], 'ܫܒܪ': ['C', 'Cp'], 'ܨܝܕ': ['C', 'Cp'], 'ܚܕܫ': ['Gp', 'C', 'Cp'], 'ܛܚܢ': ['C', 'Cp'], 'ܚܦܫ': ['C', 'Cp'], 'ܩܪܐ': ['D', 'Dp', 'tD'], 'ܚܦܪ': ['C', 'Cp'], 'ܣܚܢ': ['C', 'Cp'], 'ܙܡܪ': ['tD'], 'ܟܘܢ': ['Gp'], 'ܟܦܪ': ['C', 'Cp'], 'ܒܪܟ': ['Gp'], 'ܪܘܚ': ['Gp'], 'ܢܦܚ': ['C', 'Cp'], 'ܡܣܚ': ['C', 'Cp'], 'ܘܕܥ': ['D', 'Dp'], 'ܨܒܥ': ['C', 'Cp'], 'ܨܒܥ 2': ['C', 'Cp', 'tD'], 'ܙܪܥ': ['tD'], 'ܦܬܚ': ['C', 'Cp'], 'ܕܪܘ': ['C', 'Cp'], 'ܢܕܘ': ['C', 'Cp']}  # word -> stems it does NOT have (property false, no tables)
 VOCALIZED = {'ܟܬܒ', 'ܡܠܟ', 'ܣܡܥ'}  # extra words shown vocalized; otherwise every root without ܐ ܘ ܝ is vocalized and weak roots show romanization + plain spelling only
 
 
