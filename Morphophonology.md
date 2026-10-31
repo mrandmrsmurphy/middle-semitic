@@ -5,7 +5,7 @@
 - Three numbers: singular and plural, with duals only for body parts, glasses, pants. The dual is frozen, and not productive.
 - SVO word order, though others are possible with clefting or in questions.
 - No case marking
-- Two genders
+- Two genders in agreement, three noun declensions (see [[#Nouns]]); numerals 3–10 agree chiastically (see [[#Numerals]])
 - Two states — regular and construct. Construct is frozen, not productive. The genitive clitic (cp. English *of*) is *dal* — [[Lexicon/ܕܠ|ܕܠ]]
 - Definiteness can only be achieved through proper nouns or the definite article [[Lexicon/ܗܠ|ܗܠ]] (*hal*). No indefinite article.
 - [[Lexicon/ܗ|ܗ]] (*ha*) is the sentence-initial polar question particle
@@ -49,6 +49,8 @@ Nouns come in three declensions:
 1. masculine
 2. true feminine (f² below)
 3. feminine-appearing / masculine-in-the-singular (f¹ below)
+
+The third declension is a "third gender" in all but name. Agreement has only two genders (adjectives, verbs and numerals see masculine or feminine), but the crypto-feminine nouns are a class of their own: they *agree* as feminine yet have no feminine ending in the singular (*ʿenâ*, not *ʿenatâ*), and their plural and construct are the feminine ones. A crypto-feminine noun therefore takes feminine adjectives, verbs and numerals while looking masculine in the singular. The class is decided by the gender of the Hebrew, Arabic and Aramaic cognates (majority), when the noun has no *-t* of its own; the dual, where there is one, is for body parts. Examples: *ʿenâ* "eye", *ʾarṣâ* "earth", *katpâ* "shoulder".
 
 **Masculine** — *day* ܝܘܡܐ, which still occurs in the dual.
 
@@ -114,6 +116,29 @@ The pronouns may seem strange for Indo-Europeans, but are utterly normal for Sem
 | 1 | -nî [[Lexicon/-ܢܝ\|-ܢܝ]] | -nû [[Lexicon/-ܢܘ\|-ܢܘ]] |
 | 2 | -kâ m [[Lexicon/-ܟܐ\|-ܟܐ]] · -kî f [[Lexicon/-ܟܝ\|-ܟܝ]] | -kûm [[Lexicon/-ܟܘܡ\|-ܟܘܡ]] |
 | 3 | -hû m [[Lexicon/-ܗܘ\|-ܗܘ]] · -hâ f [[Lexicon/-ܗܐ\|-ܗܐ]] | -hûm [[Lexicon/-ܗܘܡ\|-ܗܘܡ]] |
+
+## Numerals
+
+The numbers 3 to 10 show **chiastic** (reverse) agreement, a feature all of the source languages share: the numeral takes the opposite gender from the noun it counts. The counted noun is plural.
+
+| counting | feminine noun | masculine noun |
+| --- | --- | --- |
+| *šalaš* ܫܠܫ | *šalašâ* ܫܠܫܐ | *šalašatâ* ܫܠܫܬܐ |
+
+So the lexical form (*-â*, like a masculine adjective) goes with a feminine noun, and a masculine noun takes the form in *-atâ*, built like a feminine singular noun. The crypto-feminine nouns count as feminine: *šalašâ ʿenût* "three eyes" (the lexical form), but *šalašatâ yômîn* "three days" (the *-atâ* form). A true feminine takes the lexical form too: *šalašâ malkût* "three queens".
+
+| | counting | feminine noun | masculine noun |
+| --- | --- | --- | --- |
+| 3 | *šalaš* | *šalašâ* | *šalašatâ* |
+| 4 | *arbaʿ* | *arbaʿâ* | *arbaʿatâ* |
+| 5 | *ḥamsâ* | *ḥamsâ* | *ḥamsatâ* |
+| 6 | *sêš* | *sêšâ* | *sêšatâ* |
+| 7 | *sabʿâ* | *sabʿâ* | *sabʿatâ* |
+| 8 | *šamnâ* | *šamnâ* | *šamnatâ* |
+| 9 | *têsʿâ* | *têsʿâ* | *têsʿatâ* |
+| 10 | *ʿašrâ* | *ʿašrâ* | *ʿašratâ* |
+
+The bare counting form (arithmetic, counting on the fingers) drops the final *-â* unless the bare form would end in an illegal cluster, which is why *ḥamsâ* and *sabʿâ* keep it. The other numbers do not reverse: *one* agrees with its noun (m *waḥad*, f *waḥdâ*), *two* is a dual with a single form for both genders (*šanyîm*), and above ten the counted noun is singular. See [[Morphosyntax]] for the syntax.
 
 ## Verbs
 
