@@ -134,7 +134,7 @@ These are the choices that recur across the pages. Each is implemented somewhere
 
 ### Status
 
-By the scale above, Middle Semitic has a complete grammar (milestone 4) and is working on milestone 5, the core lexicon. As of this writing the lexicon has about 470 entries, there are about 280 root pages, and just over half of the 207 Swadesh cells are filled. Exact counts are kept in [`AIOS/facts.yaml`](AIOS/facts.yaml). Open items include the remaining Swadesh cells (mostly basic verbs and adjectives), the conlanger's 218 sentences, and checking the Aramaic cognates against a Syriac grammar.
+By the scale above, Middle Semitic has a complete grammar (milestone 4) and is working on milestone 5, the core lexicon. As of this writing the lexicon has about 470 entries, there are about 280 root pages, and about three fifths of the 207 Swadesh cells are filled. Exact counts are kept in [`AIOS/facts.yaml`](AIOS/facts.yaml). Open items include the remaining Swadesh cells (mostly basic verbs and adjectives), the conlanger's 218 sentences, and checking the Aramaic cognates against a Syriac grammar.
 
 ### What is in this repository
 
