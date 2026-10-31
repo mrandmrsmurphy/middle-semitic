@@ -17,6 +17,7 @@ Contributions to Middle Semitic are welcome: corrections, cognate evidence, new 
 
 ## Standards
 
+- **Mark the stress.** The Latin row of a new entry shows syllable dots and *ˈ* before the stressed syllable (see [Phonology](Phonology.md#Stress)); keep the `latin` property identical.
 - **Follow the entry format** in [the lexicon entry-format reference](AIOS/memory/project_middle_semitic_lexicon_entry_format.md): one file per word, named by the unvocalized Syriac spelling, a table and matching YAML properties.
 - **Missing means not checked; `none` means checked and confirmed absent.** Do not write `none` unless you actually searched, and say where you searched.
 - **Cite your evidence.** Give the source for a cognate. Do not invent a cognate to fill a gap; where a form is only supposed (for example to complete a small-corpus paradigm), say so in the Notes row.

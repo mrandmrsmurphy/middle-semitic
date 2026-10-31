@@ -56,7 +56,7 @@ Omit a row that doesn't apply.
 | Row | Content |
 | --- | --- |
 | Full | Vocalized spelling, when it matters |
-| Latin | Romanization, with syllable dots and *ˈ* before the stressed syllable on new entries (see [[Phonology]]) |
+| Latin | Romanization, with syllable dots and *ˈ* before the stressed syllable on every new or edited entry (see [[Phonology]]); one-syllable words unmarked |
 | Root | Triconsonantal root (function words have none); links to `Roots/` as `[[Roots/X\|X]]` |
 | Part of speech | |
 | Gender | For nouns |

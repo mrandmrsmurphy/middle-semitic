@@ -20,3 +20,4 @@ This vault is an Obsidian vault documenting **Middle Semitic** (ܫܡܥ ܡܪܟܙ 
 ## Source record
 
 - The vault's `Lexicon/` is the source record; we make our own data. Check existing entries before creating new ones.
+- Every new or edited lexicon entry's Latin row shows syllable dots and `ˈ` before the stressed syllable (see `Phonology.md`): the stress rule, with the exceptions that a schwa-able syllable (the imperative's first syllable and the clitic prepositions *li- bi- pi- ki- mi- ʿa-*, fused or not) never takes the stress (*pi.ˈnî*). One-syllable words are unmarked; paradigm cells are not marked. Keep the `latin` YAML identical to the Latin row.
