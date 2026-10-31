@@ -536,17 +536,17 @@ def main(L, words):
         m = re.search(r'^\|\s*Root\s*\|\s*(.*?)\s*\|\s*$', t, re.M)
         root = re.sub(r'\[\[.*?\\\|(.*?)\]\]', r'\1', m.group(1)).replace('-', '')
         c1, c2, c3 = root
-        assert c2 != 'ܐ' and not (c3 in 'ܝܐ' and c2 in 'ܘܝ'), (w, 'only strong, I-aleph, hollow and III-yod roots are supported')
+        assert not (c3 in 'ܝܐܘ' and c2 in 'ܘܝ'), (w, 'only strong, I-aleph, hollow and III-yod roots are supported')
         pass
         global VOCAL, HOLLOW, IIIY, IIIC, HOLLOW_V
-        VOCAL = w in VOCALIZED or not (set(root) & set('ܐܘܝ'))  # strong roots show the vocalized Syriac (as the old strong pages did)
+        VOCAL = w in VOCALIZED or not (c1 in 'ܐܘܝ' or c2 in 'ܘܝ' or c3 in 'ܐܘܝ')  # strong roots show the vocalized Syriac (as the old strong pages did)
         HOLLOW = c2 in 'ܘܝ'
         lat = re.search(r'^\|\s*Latin\s*\|\s*(.*?)\s*\|\s*$', t, re.M).group(1)
         mv = re.search('[ôêûî]', lat)
         HOLLOW_V = mv.group(0) if HOLLOW and mv else None
         IIIY = c3 in 'ܝܐܘ'; IIIC = c3 if IIIY else ''
         c2t, c3t = c2, c3
-        if not set(root) & set('ܐܘܝ'):  # strong root: take v / f for ܒ / ܦ from the Latin row (zavaḥ, ḥafar)
+        if not (c1 in 'ܐܘܝ' or c2 in 'ܘܝ' or c3 in 'ܐܘܝ'):  # strong root: take v / f for ܒ / ܦ from the Latin row (zavaḥ, ḥafar)
             import unicodedata
             ml = re.match(r'^(.+?)a(.+?)a(.+)$', unicodedata.normalize('NFC', lat.replace('ˈ', '').replace('.', '')))
             if ml:
