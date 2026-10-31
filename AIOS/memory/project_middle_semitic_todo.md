@@ -24,6 +24,7 @@ Running list; remove items when done (history goes in `logs/log.md`). State as o
 - `Lexicon/Words - all.base` has no `latin`, `gender` or `swadesh` columns (the retired index showed the romanization); add them if wanted.
 
 **Swadesh**
+- №122 'come': DONE (2026-10-31) — ܐܬܝ ˈâ.tê coined on root ʾ-T-Y with G, C (to bring), Cp; no Gp/D/Dp/tD (user's choice). Proto-Semitic row not checked.
 - ~78 of 207 MS cells still empty (129 filled): mostly basic verbs (drink, sleep, give, say, come, sit, stand, walk, kill, swim, bite, burn, hit, cut...), adjectives (red, cold, full, new, round, dry...), and some body/nature words. Check the lexicon for an existing entry before coining.
 - Egypt column was converted from IPA to Arabic script (90 cells, spellings by Claude, unchecked): needs a native-reader pass; shakiest are №40 wife (مرات), 55 seed, 76 mouth (بق), 143 float, 145 freeze, 161 fog.
 
