@@ -15,9 +15,14 @@ views:
       - proto-semitic
       - root
       - ugaritic
+      - latin
     sort:
+      - property: pos
+        direction: ASC
+      - property: file.name
+        direction: ASC
       - property: hebrew
         direction: ASC
     columnSize:
-      file.name: 193
+      file.name: 93
       note.arabic: 115
