@@ -31,7 +31,12 @@ BELOW = {'ܬ'}
 def render(tokens):
     voc = rom = plain = ''
     prev = ''
+    after_vowel = False
     for t in tokens:
+        if not (isinstance(t, tuple) and t[0] == 'L'):
+            after_vowel = isinstance(t, str) and t not in ROM or isinstance(t, tuple) and t[0] == 'X'
+        if isinstance(t, tuple) and t[0] == 'L':  # a root ܒ / ܦ that is spirant (v, f) after a vowel and a stop after a consonant: ('L', letter, rom)
+            voc += t[1]; rom += t[2] if after_vowel else ROM[t[1]]; plain += t[1]; prev = t[1]; after_vowel = False; continue
         if isinstance(t, tuple) and t[0] == 'X':  # hollow-root vowel of the G stem: ('X', romanization, letter)
             rom += t[1]; plain += t[2]; voc += t[2]; prev = t[2]; continue
         if isinstance(t, tuple) and t[0] == 'R':  # root-initial aleph, consonantal
@@ -47,9 +52,9 @@ def render(tokens):
         below = prev in BELOW
         if t == 'a':  voc += A_DN if below else A_UP; rom += 'a'
         elif t == 'A': voc += A_DN; rom += 'a'
-        elif t == 'i': voc += I_DN + 'ܝ'; rom += 'î'; plain += 'ܝ'
+        elif t == 'i': voc += (I_DN if below else I_UP) + 'ܝ'; rom += 'î'; plain += 'ܝ'
         elif t == 'I': voc += I_DN if below else I_UP; rom += 'i'
-        elif t == 'u': voc += (U_DN if below else U_UP) + 'ܘ'; rom += 'û'; plain += 'ܘ'
+        elif t == 'u': voc += (U_DN if below and voc != 'ܬ' else U_UP) + 'ܘ'; rom += 'û'; plain += 'ܘ'
         elif t == 'aa': voc += (A_DN if below else A_UP) + 'ܐ'; rom += 'â'; plain += 'ܐ'
         elif t == 'e': rom += 'ə'
         else: raise ValueError(t)
@@ -85,7 +90,7 @@ def ap(stem, suf):
 def fuse(tokens):
     """Fuse a root-initial aleph with a preceding (or following, word-initially) a."""
     out, i, n = [], 0, len(tokens)
-    isc = lambda x: isinstance(x, str) and x in ROM or isinstance(x, tuple) and x[0] == 'g'
+    isc = lambda x: isinstance(x, str) and x in ROM or isinstance(x, tuple) and x[0] in ('g', 'L')
     R = ('R', 'ܐ')
     while i < n:
         t = tokens[i]
@@ -105,7 +110,9 @@ def cell(tokens):
     return f"{v} *{r}* {p}" if VOCAL else f"*{r}* {p}"
 
 
-def stems(c1, c2, c3):
+def stems(c1, c2, c3, c2t=None, c3t=None):
+    c2t = c2t or c2; c3t = c3t or c3
+    C2, C3 = c2, c3  # letters for the class tests; c2t / c3t are the tokens used in the forms
     S = 'ܫ'
     g2 = ('g', c2)
     if c2 in 'ܘܝ':  # hollow root: the G stem has a contracted vowel; the derived stems treat the middle radical as a consonant
@@ -116,19 +123,19 @@ def stems(c1, c2, c3):
         hollow = {}
     G2 = 'aa' if c2 in 'ܥܚܗ' else None  # gutturals cannot be geminated: compensatory lengthening of the next vowel
     d = {
-        'G':  dict(past=[c1, 'a', c2, 'A', c3], past_pl=[c1, 'a', c2, c3], non=[c1, c2, 'A', c3], pre='a'),
-        'Gp': dict(past=[c1, 'u', c2, 'A', c3], past_pl=[c1, 'u', c2, c3], non=[c1, c2, 'A', c3], pre='u'),
-        'D':  dict(past=[c1, 'i', g2, 'A', c3], non=[c1, 'i', g2, 'A', c3], pre='a'),
-        'Dp': dict(past=[c1, 'u', g2, 'A', c3], non=[c1, 'i', g2, 'A', c3], pre='u'),
-        'C':  dict(past=[S, 'a', c1, c2, 'A', c3], non=[S, 'a', c1, c2, 'A', c3], pre='a'),
-        'Cp': dict(past=[S, 'u', c1, c2, 'A', c3], non=[S, 'a', c1, c2, 'A', c3], pre='u'),
-        'tD': dict(past=['ܬ', 'I', c1, 'i', g2, 'A', c3], non=['ܬ', 'I', c1, 'i', g2, 'A', c3], pre='a'),
+        'G':  dict(past=[c1, 'a', c2t, 'A', c3t], past_pl=[c1, 'a', c2t, c3t], non=[c1, c2t, 'A', c3t], pre='a'),
+        'Gp': dict(past=[c1, 'u', c2t, 'A', c3t], past_pl=[c1, 'u', c2t, c3t], non=[c1, c2t, 'A', c3t], pre='u'),
+        'D':  dict(past=[c1, 'i', g2, 'A', c3t], non=[c1, 'i', g2, 'A', c3t], pre='a'),
+        'Dp': dict(past=[c1, 'u', g2, 'A', c3t], non=[c1, 'i', g2, 'A', c3t], pre='u'),
+        'C':  dict(past=[S, 'a', c1, c2t, 'A', c3t], non=[S, 'a', c1, c2t, 'A', c3t], pre='a'),
+        'Cp': dict(past=[S, 'u', c1, c2t, 'A', c3t], non=[S, 'a', c1, c2t, 'A', c3t], pre='u'),
+        'tD': dict(past=['ܬ', 'I', c1, 'i', g2, 'A', c3t], non=['ܬ', 'I', c1, 'i', g2, 'A', c3t], pre='a'),
     }
     d.update(hollow)
     if G2:
         for k in ('D', 'Dp', 'tD'):
             for key in ('past', 'non'):
-                t = d[k][key]; i = t.index(g2); t[i:i + 2] = [c2, G2]
+                t = d[k][key]; i = t.index(g2); t[i:i + 2] = [c2t, G2]
     return d
 
 
@@ -469,13 +476,43 @@ MEANING = {'ܟܬܒ': {'G': 'to write', 'Gp': 'passive of G: to be written',
                    'C': 'to make hear, to announce',
                    'Cp': 'passive of C: to be announced',
                    'tD': 'to listen closely, to eavesdrop'},
+           'ܢܦܚ': {'G': 'to blow, to exhale, to breathe',
+                   'Gp': 'passive of G: to be blown',
+                   'D': 'to inflate, to blow up, to puff up',
+                   'Dp': 'passive of D: to be inflated',
+                   'tD': 'to swell up, to puff up'},
+           'ܡܣܚ': {'G': 'to anoint, to rub with oil',
+                   'Gp': 'passive of G: to be anointed',
+                   'D': 'to wipe off, to rub down, to anoint solemnly',
+                   'Dp': 'passive of D: to be wiped off, to be anointed solemnly',
+                   'tD': 'to rub oneself, to anoint oneself'},
+           'ܘܕܥ': {'G': 'to know',
+                   'Gp': 'passive of G: to be known',
+                   'C': 'to inform, to announce, to make known',
+                   'Cp': 'passive of C: to be informed',
+                   'tD': 'to become acquainted, to introduce oneself, to become known'},
+           'ܨܒܥ': {'G': 'to paint, to dye',
+                   'Gp': 'passive of G: to be painted, to be dyed',
+                   'D': 'to tint, to paint in detail, to colour thoroughly',
+                   'Dp': 'passive of D: to be tinted',
+                   'tD': 'to take on colour, to be dyed, to put on make-up'},
+           'ܨܒܥ 2': {'G': 'to point, to indicate',
+                   'Gp': 'passive of G: to be pointed out',
+                   'D': 'to point out in detail, to designate one by one',
+                   'Dp': 'passive of D: to be designated'},
+           'ܙܪܥ': {'G': 'to sow, to plant',
+                   'Gp': 'passive of G: to be sown',
+                   'D': 'to sow widely, to scatter, to disseminate',
+                   'Dp': 'passive of D: to be scattered, to be disseminated',
+                   'C': 'to make fertile, to have (someone) sow',
+                   'Cp': 'passive of C: to be made fertile'},
            # PROVISIONAL: the user gave no meanings for ܪܥܝ; these follow the Hebrew/Arabic stems and await a ruling
            'ܪܥܝ': {'G': 'to herd, to shepherd, to pasture', 'Gp': 'passive of G: to be herded',
                    'D': 'to tend closely, to shepherd with care', 'Dp': 'passive of D: to be tended closely',
                    'C': 'to put out to pasture, to let graze', 'Cp': 'passive of C: to be put out to pasture',
                    'tD': 'to come under someone\'s care, to be looked after'}}
-ABSENT = {'ܡܠܟ': {'D', 'Dp', 'tD'}, 'ܐܚܙ': {'C', 'Cp'}, 'ܒܛܠ': {'Gp'}, 'ܒܢܝ': {'D', 'Dp'}, 'ܒܣܠ': ['D', 'Dp'], 'ܒܥܠ': ['D', 'Dp'], 'ܘܠܕ': ['D', 'Dp', 'tD'], 'ܝܢܩ': ['D', 'Dp', 'tD'], 'ܚܪܫ': ['tD'], 'ܚܨܢ': ['C', 'Cp'], 'ܒܪܩ': ['Gp', 'D', 'Dp', 'tD'], 'ܠܘܫ': ['C', 'Cp'], 'ܢܚܪ': ['Gp', 'D', 'Dp', 'C', 'Cp', 'tD'], 'ܡܘܬ': ['Gp', 'D', 'Dp', 'tD'], 'ܛܡܐ': ['Gp', 'C', 'Cp', 'tD'], 'ܥܠܝ': ['D', 'Dp'], 'ܚܠܦ': ['C', 'Cp'], 'ܘܒܠ': ['D', 'Dp', 'tD'], 'ܩܪܒ': ['Gp', 'D', 'Dp'], 'ܚܪܐ': ['Gp', 'D', 'Dp', 'C', 'Cp', 'tD'], 'ܦܬܠ': ['C', 'Cp'], 'ܫܟܪ': ['C', 'Cp'], 'ܒܪܐ 2': ['tD'], 'ܗܠܟ': ['Gp', 'Dp'], 'ܘܪܕ': ['Gp', 'D', 'Dp', 'tD'], 'ܩܪܨ': ['C', 'Cp'], 'ܪܡܝ': ['C', 'Cp'], 'ܚܨܕ': ['C', 'Cp', 'tD'], 'ܢܥܡ': ['C', 'Cp'], 'ܫܒܪ': ['C', 'Cp'], 'ܨܝܕ': ['C', 'Cp'], 'ܚܕܫ': ['Gp', 'C', 'Cp'], 'ܛܚܢ': ['C', 'Cp'], 'ܚܦܫ': ['C', 'Cp'], 'ܩܪܐ': ['D', 'Dp', 'tD'], 'ܚܦܪ': ['C', 'Cp'], 'ܣܚܢ': ['C', 'Cp'], 'ܙܡܪ': ['tD'], 'ܟܘܢ': ['Gp'], 'ܟܦܪ': ['C', 'Cp'], 'ܒܪܟ': ['Gp'], 'ܪܘܚ': ['Gp']}  # word -> stems it does NOT have (property false, no tables)
-VOCALIZED = {'ܟܬܒ', 'ܡܠܟ', 'ܣܡܥ'}  # the strong model shows the vocalized Syriac; weak pages show romanization + plain spelling only
+ABSENT = {'ܡܠܟ': {'D', 'Dp', 'tD'}, 'ܐܚܙ': {'C', 'Cp'}, 'ܒܛܠ': {'Gp'}, 'ܒܢܝ': {'D', 'Dp'}, 'ܒܣܠ': ['D', 'Dp'], 'ܒܥܠ': ['D', 'Dp'], 'ܘܠܕ': ['D', 'Dp', 'tD'], 'ܝܢܩ': ['D', 'Dp', 'tD'], 'ܚܪܫ': ['tD'], 'ܚܨܢ': ['C', 'Cp'], 'ܒܪܩ': ['Gp', 'D', 'Dp', 'tD'], 'ܠܘܫ': ['C', 'Cp'], 'ܢܚܪ': ['Gp', 'D', 'Dp', 'C', 'Cp', 'tD'], 'ܡܘܬ': ['Gp', 'D', 'Dp', 'tD'], 'ܛܡܐ': ['Gp', 'C', 'Cp', 'tD'], 'ܥܠܝ': ['D', 'Dp'], 'ܚܠܦ': ['C', 'Cp'], 'ܘܒܠ': ['D', 'Dp', 'tD'], 'ܩܪܒ': ['Gp', 'D', 'Dp'], 'ܚܪܐ': ['Gp', 'D', 'Dp', 'C', 'Cp', 'tD'], 'ܦܬܠ': ['C', 'Cp'], 'ܫܟܪ': ['C', 'Cp'], 'ܒܪܐ 2': ['tD'], 'ܗܠܟ': ['Gp', 'Dp'], 'ܘܪܕ': ['Gp', 'D', 'Dp', 'tD'], 'ܩܪܨ': ['C', 'Cp'], 'ܪܡܝ': ['C', 'Cp'], 'ܚܨܕ': ['C', 'Cp', 'tD'], 'ܢܥܡ': ['C', 'Cp'], 'ܫܒܪ': ['C', 'Cp'], 'ܨܝܕ': ['C', 'Cp'], 'ܚܕܫ': ['Gp', 'C', 'Cp'], 'ܛܚܢ': ['C', 'Cp'], 'ܚܦܫ': ['C', 'Cp'], 'ܩܪܐ': ['D', 'Dp', 'tD'], 'ܚܦܪ': ['C', 'Cp'], 'ܣܚܢ': ['C', 'Cp'], 'ܙܡܪ': ['tD'], 'ܟܘܢ': ['Gp'], 'ܟܦܪ': ['C', 'Cp'], 'ܒܪܟ': ['Gp'], 'ܪܘܚ': ['Gp'], 'ܢܦܚ': ['C', 'Cp'], 'ܡܣܚ': ['C', 'Cp'], 'ܘܕܥ': ['D', 'Dp'], 'ܨܒܥ': ['C', 'Cp'], 'ܨܒܥ 2': ['C', 'Cp', 'tD'], 'ܙܪܥ': ['tD']}  # word -> stems it does NOT have (property false, no tables)
+VOCALIZED = {'ܟܬܒ', 'ܡܠܟ', 'ܣܡܥ'}  # extra words shown vocalized; otherwise every root without ܐ ܘ ܝ is vocalized and weak roots show romanization + plain spelling only
 
 
 def main(L, words):
@@ -487,13 +524,20 @@ def main(L, words):
         assert c3 != 'ܘ' and c2 != 'ܐ' and not (c3 in 'ܝܐ' and c2 in 'ܘܝ'), (w, 'only strong, I-aleph, hollow and III-yod roots are supported')
         pass
         global VOCAL, HOLLOW, IIIY, IIIC, HOLLOW_V
-        VOCAL = w in VOCALIZED
+        VOCAL = w in VOCALIZED or not (set(root) & set('ܐܘܝ'))  # strong roots show the vocalized Syriac (as the old strong pages did)
         HOLLOW = c2 in 'ܘܝ'
         lat = re.search(r'^\|\s*Latin\s*\|\s*(.*?)\s*\|\s*$', t, re.M).group(1)
         mv = re.search('[ôêûî]', lat)
         HOLLOW_V = mv.group(0) if HOLLOW and mv else None
         IIIY = c3 in 'ܝܐ'; IIIC = c3 if IIIY else ''
-        S = stems(('R', 'ܐ') if c1 == 'ܐ' else c1, c2, c3)
+        c2t, c3t = c2, c3
+        if not set(root) & set('ܐܘܝ'):  # strong root: take v / f for ܒ / ܦ from the Latin row (zavaḥ, ḥafar)
+            import unicodedata
+            ml = re.match(r'^(.+?)a(.+?)a(.+)$', unicodedata.normalize('NFC', lat.replace('ˈ', '').replace('.', '')))
+            if ml:
+                if c2 == 'ܒ' and ml.group(2) == 'v' or c2 == 'ܦ' and ml.group(2) == 'f': c2t = ('L', c2, ml.group(2))
+                if c3 == 'ܒ' and ml.group(3) == 'v' or c3 == 'ܦ' and ml.group(3) == 'f': c3t = ('L', c3, ml.group(3))
+        S = stems(('R', 'ܐ') if c1 == 'ܐ' else c1, c2, c3, c2t, c3t)
         head = t[:t.index('## Stems')] if '## Stems' in t else t[:t.index('## Forms')]
         # YAML: all seven stems true
         fm_end = head.index('\n---\n', 4)
