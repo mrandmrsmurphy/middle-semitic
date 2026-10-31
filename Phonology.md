@@ -56,6 +56,7 @@ There are two exceptions to the rule. Schwa is never stressed, and both exceptio
 
 - **The imperative.** The first syllable of an imperative holds the schwa (*mə.lak!*) and can never be stressed. When the rule would stress it, which happens in a two-syllable imperative with an open final syllable, the stress moves to the next syllable: *bə.ˈnê!* (from *banê*), not *ˈbə.nê!*. Where the stress already falls elsewhere, nothing changes (*mə.ˈlak!*, *mə.ˈlak.nâ!*).
 - **The prefixing prepositions.** The clitic prepositions *li- bi- pi- ki- mi- ʿa-* attach to the following word and never take the stress on their own syllable, whether they are said in full (*bi-*) or with a schwa in fast speech (*bə-*). They are not counted in finding the stress of the word they join (*pi-ˈbêt*, *li-ˈmal.kâ*), so the stress is always that of the host word. The free prepositions (*min*, *ʿal-*, *ʿim*, *bên*) are words with stress of their own.
+- **Schwa-able syllables stay unstressed even when fused.** The same holds when the clitic preposition is fused with a pronoun suffix: the clitic syllable is schwa-able, so it is excluded from stress and the stress goes to the next syllable (*pi.ˈnî* "in me", *ki.ˈnî*, *ʿa.ˈnî*, not *ˈpi.nî*). This is the deep schwa-avoidance rule: a syllable that can reduce to schwa never carries the stress.
 
 The rule is a compromise among the sources: Aramaic puts stress on the penult, Hebrew on the last syllable, and Arabic follows syllable weight.
 
