@@ -78,6 +78,8 @@ The table may be column-padded (Obsidian reformats it), so any script reading ro
 
 ## Cognate spelling conventions
 
+- **A cognate row holds an etymologically related word only** (user, 2026-10-31): same root, any part of speech, even a drifted sense (Aramaic ܚܡܪܐ 'wine' on 'red'), with a Notes sentence saying how it differs. A functional equivalent from a different root does NOT go in the row (the old ܣܘܡܩܐ on ܚܡܪܐ was a mistake); if no related word exists the value is `none`, set only after Syriac, Jastrow, Neo-Aramaic and Biblical Aramaic were checked.
+
 - **Hebrew:** pointed (niqqud). Suffix and clitic values carry the maqqef or hyphen (`־נִי`, `בְּ־`); quote YAML values that start with a hyphen or maqqef.
 - **Arabic:** vocalized (harakat); verbs cited in the 3ms perfect, nouns in the citation form.
 - **Aramaic:** Syriac script, vocalized where known; suffix values begin with a hyphen (quoted in YAML).
