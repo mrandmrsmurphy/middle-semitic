@@ -14,7 +14,7 @@ Running list; remove items when done (history goes in `logs/log.md`). State as o
 - GitHub release: follow [[project-middle-semitic-documentation-plan]] (README drafted; Design Philosophy page, LICENSE, repo hygiene still to do; the per-page rationale sections are done).
 - Cognate keys beyond Hebrew/Arabic/Aramaic: ugaritic is done for 244 entries (2026-10-30 pass); the rest, and the held doubtful ones, are listed in `logs/log.md` and need the user's ruling before any `ugaritic: none`. Still to do: akkadian, geez (any tradition gets its own lowercase key). Missing key = not checked; `none` = searched and confirmed absent. Never write `none` without an actual search.
 - Data problems found in existing rows (see the Ugaritic log entry): ܒܫܢܐ, ܢܦܣܐ (Arabic/Aramaic swapped?), ܐܠܝܐ, ܐܘܟܐ, ܐܝܣܐ, ܦܪܥܘܫܐ, ܬܗܘܡܬܐ, ܟܦܪ, ܟܒܝܪܐ, ܬܝܣܥܐ, ܩܪܨ, ܐܝܠܐ/ܐܝܠܐ 2.
-- Aramaic is still the one of the big three with gaps (124 entries lack it).
+- ARAMAIC PASS (user, 2026-10-31, large job, in progress): every entry needs an Aramaic/Syriac cognate or an explicit `aramaic: none` (only after Syriac, Jastrow, Neo-Aramaic and Biblical Aramaic show nothing). Round 1 filled 30; 52 non-prepositions plus the 22 fused prepositions still lack it (list: entries without an `aramaic` key). Method in the log (Wiktionary batch API + Sefaria Jastrow); report doubtful ones per batch.
 - Maybe add `components` (list) to the YAML of the ~100 inflected/fused forms (offered, not decided).
 - Confirm the property name: `date-last-perfect` was used exactly as typed (all entries = 2026-10-28); rename if "date-last-perfected" was meant.
 
