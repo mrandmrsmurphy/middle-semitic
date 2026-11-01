@@ -27,4 +27,4 @@ Contributions to Middle Semitic are welcome: corrections, cognate evidence, new 
 
 ## Licence
 
-By contributing you agree that your contribution is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), like the rest of the repository.
+By contributing you agree that your contribution is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/), like the rest of the repository, except for changes to the scripts in `AIOS/scripts/`, which are under the MIT License (see the `LICENSE` file there).

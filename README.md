@@ -198,7 +198,7 @@ The full entry format is documented in [`AIOS/memory/project_middle_semitic_lexi
 
 ## Licence
 
-The text and data in this repository are licensed under [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0): you may share and adapt them, with credit, under the same terms.
+The text and data in this repository are licensed under [Creative Commons Attribution–ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) (CC BY-SA 4.0): you may share and adapt them, with credit, under the same terms. The scripts in `AIOS/scripts/` are code, not content, and are licensed separately under the [MIT License](AIOS/scripts/LICENSE).
 
 ## Contributing
 

@@ -13,7 +13,7 @@ The vault is going public on GitHub. This is the plan for documenting it, and it
 
 - **Audience:** conlangers and linguists first (people who want to understand and critique the design). Contributors and agents get a short pointer to `AIOS/`.
 - **UL context:** the README carries the **full** Universal Languages case (the three goals, the fifteen, what is left out, the case, how it would be implemented, the end goal, the 1–10 development scale), so a reader never needs the sister repository. It still links to the UL repo for the other fourteen languages.
-- **Licence:** CC BY-SA 4.0 for the content. Scripts in `AIOS/scripts/` may be licensed separately (MIT) — not decided.
+- **Licence:** CC BY-SA 4.0 for the content. Scripts in `AIOS/scripts/` are MIT (decided 2026-10-31; `AIOS/scripts/LICENSE`, plus a `.md` copy so Obsidian shows it).
 - **Byline (user, 2026-10-30):** Robert Marshall Murphy (not the handle Aquatiki); the credit line says "several AI assistants" (Claude, Kimi, Cursor, ChatGPT, Z and others). The hub's Author row was changed to match.
 - **`AIOS/` is public** (user); contributions from outsiders are welcome but every one is reviewed, and vetted contributors can be given write access — see `CONTRIBUTING.md` (written).
 - **Repository:** will be created under the user's GitHub login (mrandmrsmurphy; Dan'a'yo is at github.com/mrandmrsmurphy/danayo), later today, after the pages are more presentable. The UL repo does not exist yet.
@@ -37,14 +37,13 @@ The vault is going public on GitHub. This is the plan for documenting it, and it
 - Local absolute paths with the user's username appear in `CLAUDE.md`, `AGENTS.md`, `AIOS/memory/project_vault_layout.md` and `logs/log.md`. They are harmless but personal; decide whether to genericize them. `CLAUDE.md` and `AGENTS.md` must stay byte-identical.
 - (Decided: `AIOS/` is public.) Before publishing, resolve the history findings below. Previously: decide whether `AIOS/` (agent memory, session log) is public. It documents decisions and is useful, but it is working notes; the README describes it as agent/maintainer material either way.
 - (Done for README and the hub page, which now link the UL GitHub repo; `CLAUDE.md`/`AGENTS.md` keep `../UL` as a working-copy instruction.) Pages that mention the UL vault by local path (`../UL`) need a public link or a generic phrase.
-- Repository description, topics (conlang, semitic, universal-language, obsidian), social preview image (the flag).
+- Repository description, topics (conlang, semitic, universal-language, obsidian), social preview image (the flag; done by the user).
 - Check images for licence/provenance (`images/Semitic_Flag.png`, the two maps, the world map).
 - Check README numbers against `AIOS/facts.yaml`; prose counts in content pages should be approximate.
 
 ## Open questions for the user
 
 - The URL of the UL repository, once it exists (the README has no link to it yet).
-- Whether `UL/Development Roadmap.md` should be updated: it still lists Middle Semitic as 450 entries and 128/207 Swadesh cells (the vault now has about 470 entries and 129/207).
 
 ## Security review of history (to resolve before the first push)
 

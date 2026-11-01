@@ -14,7 +14,6 @@ Running list; remove items when done (history goes in `logs/log.md`). State as o
 - GitHub release: follow [[project-middle-semitic-documentation-plan]] (README drafted; Design Philosophy page, LICENSE, repo hygiene still to do; the per-page rationale sections are done).
 - Cognate keys beyond Hebrew/Arabic/Aramaic: ugaritic is done for 244 entries (2026-10-30 pass); the rest, and the held doubtful ones, are listed in `logs/log.md` and need the user's ruling before any `ugaritic: none`. Still to do: akkadian, geez (any tradition gets its own lowercase key). Missing key = not checked; `none` = searched and confirmed absent. Never write `none` without an actual search.
 - Data problems found in existing rows (see the Ugaritic log entry): ܒܫܢܐ, ܢܦܣܐ (Arabic/Aramaic swapped?), ܐܠܝܐ, ܐܘܟܐ, ܐܝܣܐ, ܦܪܥܘܫܐ, ܬܗܘܡܬܐ, ܟܦܪ, ܟܒܝܪܐ, ܬܝܣܥܐ, ܩܪܨ, ܐܝܠܐ/ܐܝܠܐ 2.
-- ARAMAIC PASS (user, 2026-10-31, large job, in progress): every entry needs an Aramaic/Syriac cognate or an explicit `aramaic: none` (only after Syriac, Jastrow, Neo-Aramaic and Biblical Aramaic show nothing). Round 1 filled 30; 52 non-prepositions plus the 22 fused prepositions still lack it (list: entries without an `aramaic` key). Method in the log (Wiktionary batch API + Sefaria Jastrow); report doubtful ones per batch.
 - Maybe add `components` (list) to the YAML of the ~100 inflected/fused forms (offered, not decided).
 - Confirm the property name: `date-last-perfect` was used exactly as typed (all entries = 2026-10-28); rename if "date-last-perfected" was meant.
 
@@ -25,18 +24,17 @@ Running list; remove items when done (history goes in `logs/log.md`). State as o
 
 **Swadesh**
 - №122 'come': DONE (2026-10-31) — ܐܬܝ ˈâ.tê coined on root ʾ-T-Y with G, C (to bring), Cp; no Gp/D/Dp/tD (user's choice). Proto-Semitic row not checked.
-- ~78 of 207 MS cells still empty (129 filled): mostly basic verbs (drink, sleep, give, say, come, sit, stand, walk, kill, swim, bite, burn, hit, cut...), adjectives (cold, full, new, round, dry...), and some body/nature words. Check the lexicon for an existing entry before coining.
+- ~76 of 207 MS cells still empty (131 filled): mostly basic verbs (drink, sleep, give, say, come, sit, stand, walk, kill, swim, bite, burn, hit, cut...), adjectives (cold, full, new, round, dry...), and some body/nature words. Check the lexicon for an existing entry before coining.
 - Egypt column was converted from IPA to Arabic script (90 cells, spellings by Claude, unchecked): needs a native-reader pass; shakiest are №40 wife (مرات), 55 seed, 76 mouth (بق), 143 float, 145 freeze, 161 fog.
 
 **Prepositions / clitics**
-- Morphosyntax conjugation chart still has only the original 8 rows; add rows for mi- and ʿa- (not yet asked for).
 - Prepositions.md: the functional contrasts (pi-/bi-/ʿal-, ʿim/ki-/bên, min/li-) are Claude's synthesis, not user rulings — confirm. Extended uses (possession with li-, comparison with min, instrument with bi-) are unruled.
 - ܐܝܠܐ (preposition 'except', if+not) vs ܐܝܠܐ 2 (conjunction 'except, but') look like near-duplicates: merge or differentiate.
 - Construct-state-noun "prepositions" (before, after, under, until, around, without) not yet coined.
 - ܥܠܐܢ ʿal.ˈʾan 'because' rests on dialect facts from memory (ʿašān < ʿalā šaʾn; li-ʾan purpose reading in Arabic): verify against a source.
 
 **Older open items**
-- Colours done (red ܚܡܪܐ, blue ܙܪܩܐ, brown ܣܡܪܐ, dark ܚܘܡܐ); retrofit stress marks (syllable dots + ˈ) to existing Latin rows; ~25–30 Language Comparisons mismatches (Zens first) in the UL vault.
+- Colours done (red ܚܡܪܐ, blue ܙܪܩܐ, brown ܣܡܪܐ, dark ܚܘܡܐ); retrofit stress marks (syllable dots + ˈ) to existing Latin rows.
 - Open citation-form question (absolute vs emphatic -â state) and suspected typo ܠܒܕܐ (kabdâ 'liver').
 - `.obsidian/workspace.json` shows as modified after every session (Obsidian churn); consider gitignoring it. Never commit it by accident (use `git add Lexicon AIOS logs ...`, not `-A`, if it's dirty).
 
