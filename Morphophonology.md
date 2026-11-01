@@ -68,12 +68,19 @@ The third declension is a "third gender" in all but name. Agreement has only two
 | regular | *ʿenâ* ܥܝܢܐ | *ʿenîm* ܥܝܢܝܡ | *ʿenût* ܥܝܢܘܬ |
 | *construct* | *ʿenat* ܥܝܢܬ | *ʿenû* ܥܝܢܘ | *ʿenû* ܥܝܢܘ |
 
-**True feminine** (f²) — *queen* ܡܠܟܬܐ, which has no dual.
+**True feminine** (f²) — *queen* ܡܠܟܬܐ, which has no dual because it is not a body part.
 
 | | singular | plural |
 | --- | --- | --- |
 | regular | *malkatâ* ܡܠܟܬܐ | *malkût* ܡܠܟܘܬ |
 | *construct* | *malkat* ܡܠܟܬ | *malkû* ܡܠܟܘ |
+
+A true-feminine body part has a dual too, built on the feminine stem with *-îm*, like the Hebrew *-atayim* and Arabic *-atān*; its construct is *-atû*, distinct from the plural construct. *Palm* ܪܚܬܐ:
+
+| | singular | dual | plural |
+| --- | --- | --- | --- |
+| regular | *raḥtâ* ܪܚܬܐ | *raḥatîm* ܪܚܬܝܡ | *raḥût* ܪܚܘܬ |
+| *construct* | *raḥat* ܪܚܬ | *raḥatû* ܪܚܬܘ | *raḥû* ܪܚܘ |
 
 The dual is frozen: only body parts, glasses and pants have one, apart from a few frozen words such as *day*. Other nouns use the plural for two. The vowel of the stem varies from word to word (*malkâ*, *ʿenâ*, *ʾarṣâ*), and may be **u**, **a** or **i** (or **e** or **o** in foreign-based words, or by contraction: *yawm* contracts to *yôm*). For example, *king* is **malkâ, malkîn** (construct **malak, malkî**), *earth* is **ʾarṣâ, ʾarṣût** (construct **ʾarṣat, ʾarṣû**).
 

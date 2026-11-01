@@ -36,7 +36,7 @@ Running list; remove items when done (history goes in `logs/log.md`). State as o
 - ܥܠܐܢ ʿal.ˈʾan 'because' rests on dialect facts from memory (ʿašān < ʿalā šaʾn; li-ʾan purpose reading in Arabic): verify against a source.
 
 **Older open items**
-- Palm ܪܚܬܐ dual?; colours done (red ܚܡܪܐ, blue ܙܪܩܐ, brown ܣܡܪܐ, dark ܚܘܡܐ); retrofit stress marks (syllable dots + ˈ) to existing Latin rows; ~25–30 Language Comparisons mismatches (Zens first) in the UL vault.
+- Colours done (red ܚܡܪܐ, blue ܙܪܩܐ, brown ܣܡܪܐ, dark ܚܘܡܐ); retrofit stress marks (syllable dots + ˈ) to existing Latin rows; ~25–30 Language Comparisons mismatches (Zens first) in the UL vault.
 - Open citation-form question (absolute vs emphatic -â state) and suspected typo ܠܒܕܐ (kabdâ 'liver').
 - `.obsidian/workspace.json` shows as modified after every session (Obsidian churn); consider gitignoring it. Never commit it by accident (use `git add Lexicon AIOS logs ...`, not `-A`, if it's dirty).
 
