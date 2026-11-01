@@ -37,7 +37,7 @@ swadesh: 100
 ---
 ```
 
-Core properties: `latin` (romanization), `root`, `pos`, `gender` (nouns), `gloss` (verbs cited as 3ms perfect, "he ate"), `hebrew`, `arabic`, `aramaic`, `proto-semitic` (quoted, since it starts with `*`; suffix `(hypo)` = hypothetical, `invented` = no PS basis), `swadesh` (№, if any), `date-last-perfect` (the date everything on the entry's page was last brought up to date; as the standards improve it is the sign to update the page and document the new requirements). Cognate properties are open-ended: any tradition gets its own lowercase key.
+Core properties: `latin` (romanization), `root`, `pos`, `gender` (nouns), `gloss` (verbs glossed as infinitives, "to eat"), `hebrew`, `arabic`, `aramaic`, `proto-semitic` (quoted, since it starts with `*`; suffix `(hypo)` = hypothetical, `invented` = no PS basis), `swadesh` (№, if any), `date-last-perfect` (the date everything on the entry's page was last brought up to date; as the standards improve it is the sign to update the page and document the new requirements). Cognate properties are open-ended: any tradition gets its own lowercase key.
 
 **A missing property means not checked; `none` means checked and confirmed absent** (`ugaritic: none` = someone looked and found no cognate; no `ugaritic` key = no one has looked). Never write `none` without an actual search. Every entry carries frontmatter, derived from its table (a `ø` cell becomes `none`; a `-->` cell is left out); the visible table stays. `AIOS/scripts/ms_frontmatter.py` fills any missing keys and never overwrites existing values unless named in `refresh`; the build scripts call it after they change an entry. When you hand-edit a table row, update the YAML too. Rows not mirrored to YAML: Notes, Components, Full, Compare, Example.
 
@@ -45,9 +45,9 @@ Core properties: `latin` (romanization), `root`, `pos`, `gender` (nouns), `gloss
 
 Every verb entry carries true/false properties for its stems: `stem-g`, `stem-gp`, `stem-d`, `stem-dp`, `stem-c`, `stem-cp`, `stem-td` (Obsidian shows them as checkboxes), and a `## Stems` table before `## Forms` with columns Stem, Exists, Past 3m, Non-past 3m, Meaning, then full paradigms per existing stem (`### G stem` … `### tD stem`). **No stem is assumed:** a missing property means not checked, `true` means the verb has the stem, `false` means it has none. Built by `AIOS/scripts/build_ms_stem_paradigms.py` from its `MEANING` and `ABSENT` dicts (all 72 non-stative verbs are done; the 11 statives still have none). Templates: G 1a2a3, D 1î22a3, C š-prefix (šaktab), tD ti- + D stem; the passive always puts û after the first consonant of the form; a middle guttural cannot geminate so D-type stems lengthen the next vowel (rîʿâ-), a middle aleph geminates; the aw → ô and ay → ê contractions are general; ܒ/ܦ are v/f after a vowel; derived stems of a hollow root keep the middle w/y as a consonant. Strong roots show vocalized Syriac in the cells, weak roots romanization + plain spelling.
 
-## Glosses: several senses, per stem
+## Glosses: one list per lexeme
 
-(User, 2026-10-31.) One English gloss cannot cover a word whose stems differ (Hebrew *bôʾ*: G 'to come', C 'to bring'). **Senses are YAML lists**; in a table cell they are separated by semicolons (`;`), while commas stay for near-synonyms within one sense ('to take, to seize'). `gloss` is the G gloss (a list when the table cell has `;`). Each derived stem that exists has its own list property: `gloss-gp`, `gloss-d`, `gloss-dp`, `gloss-c`, `gloss-cp`, `gloss-td`, derived by `ms_frontmatter.py` from the Meaning column of the `## Stems` table (the "passive of X:" prefix is dropped; a stem that does not exist has no property). They are always re-derived, so edit the Meaning cell (or the `MEANING` dict in `build_ms_stem_paradigms.py`), never the YAML. `Words - all.base` shows the derived-stem columns.
+(User, 2026-10-31; replaces the short-lived per-stem `gloss-*` properties, which were hard to search.) One English gloss cannot cover a word whose stems differ (Hebrew *bôʾ*: G 'to come', C 'to bring'), so **`gloss` is ONE YAML list on every entry**, and one property is all you need to search. Order: the senses of the table's Gloss row (the G sense for a verb, always an infinitive: 'to eat', not 'he ate'; equal to the G Meaning in the Stems table; senses separated by `;` in the cell, while commas stay for near-synonyms within one sense), then, for a verb, the senses of every existing derived stem from the Meaning column of the `## Stems` table, each tagged with its stem: `to bless (D)`, `to be blessed (Dp)`. Derived automatically by `ms_frontmatter.py` and always re-derived, so edit the table (the Gloss row, or the Meaning cell / the `MEANING` dict in `build_ms_stem_paradigms.py`), never the YAML. The list type is used everywhere, even for one sense, because Obsidian gives a property one type vault-wide.
 
 ## What a finished entry has
 
@@ -64,7 +64,7 @@ Omit a row that doesn't apply.
 | Root | Triconsonantal root (function words have none); links to `Roots/` as `[[Roots/X\|X]]` |
 | Part of speech | |
 | Gender | For nouns |
-| Gloss | English meaning; verbs cited as 3ms perfect ("he ate") |
+| Gloss | English meaning; verbs as infinitives ("to eat"), the G sense; several senses separated by `;` |
 | Hebrew | Cognate |
 | Arabic | Cognate |
 | Aramaic | Cognate |

@@ -7,10 +7,11 @@ sync() fills keys that are missing and never touches keys it did not derive
 key is named in `refresh` -- build scripts pass the keys they just changed
 (e.g. latin, pos, gloss) so the YAML does not go stale.
 
-Multiple senses are YAML lists. A table cell `gloss` with `;` between senses becomes a list. The stems of a verb
-get one property each -- gloss-gp, gloss-d, gloss-dp, gloss-c, gloss-cp, gloss-td (a list of senses) -- derived from
-the Meaning column of the `## Stems` table; they are always re-derived, so the table is the source of truth and the
-YAML never goes stale. (`gloss` stays the G gloss.)
+`gloss` is ONE YAML list per lexeme, so a single property holds every English sense and is easy to search: the
+senses of the table's Gloss row (split on `;`; the G sense for a verb), then, for a verb, the senses of each
+derived stem from the Meaning column of the `## Stems` table, each tagged with its stem -- "to bless (D)",
+"to be blessed (Dp)". The list is always re-derived, so the table is the source of truth. A lexeme with no
+Gloss row has no `gloss`. (There are no per-stem gloss-* properties any more; stale ones are deleted.)
 
 CLI: python3 AIOS/scripts/ms_frontmatter.py Lexicon        # fill every entry
 """
@@ -32,22 +33,21 @@ def scalar(v, force_quote=False):
     plain = re.match(r'^[^\W_][^:#]*$', v) and not re.fullmatch(r'[\d.]+', v) and v.lower() not in RESERVED and not v.endswith(' ')
     return v if plain and not force_quote else json.dumps(v, ensure_ascii=False)
 
-def sense_list(v):
-    items = [x.strip() for x in v.split(';') if x.strip()]
-    return '\n' + '\n'.join('  - ' + scalar(x) for x in items)
+def senses(v):
+    return [x.strip() for x in v.split(';') if x.strip()]
 
 STEMS = ['Gp', 'D', 'Dp', 'C', 'Cp', 'tD']
 
-def stem_glosses(body):
-    """gloss-<stem> lists from the Meaning column of the Stems table (existing stems only)."""
-    out = {}
-    if '## Stems' not in body: return out
-    for l in body[body.index('## Stems'):].split('\n')[:40]:
-        c = [x.strip() for x in l.strip().strip('|').split('|')]
-        if l.startswith('|') and len(c) >= 5 and c[0] in STEMS and c[1] == '✓' and c[4]:
-            m = re.sub(r'^passive of [A-Za-z]+:\s*', '', clean(c[4]))
-            out['gloss-' + c[0].lower()] = sense_list(m)
-    return out
+def gloss_list(rows, body):
+    """The lexeme's one gloss list: table Gloss senses, then each existing derived stem's senses tagged (D) (Dp) ..."""
+    items = senses(clean(rows.get('Gloss', '')))
+    if '## Stems' in body:
+        for l in body[body.index('## Stems'):].split('\n')[:40]:
+            c = [x.strip() for x in l.strip().strip('|').split('|')]
+            if l.startswith('|') and len(c) >= 5 and c[0] in STEMS and c[1] == '✓' and c[4]:
+                m = re.sub(r'^passive of [A-Za-z]+:\s*', '', clean(c[4]))
+                items += [f'{x} ({c[0]})' for x in senses(m)]
+    return '\n' + '\n'.join('  - ' + scalar(x) for x in items) if items else None
 
 def table(body):
     out, started = {}, False
@@ -72,7 +72,8 @@ def derive(rows):
         v = clean(v)
         if v == 'ø' and key in ('hebrew', 'arabic', 'aramaic'): d[key] = 'none'; continue
         if not v or v in ('ø', '-->'): continue
-        d[key] = sense_list(v) if key == 'gloss' and ';' in v else scalar(v, force_quote=(key == 'proto-semitic'))
+        if key == 'gloss': continue        # built by gloss_list()
+        d[key] = scalar(v, force_quote=(key == 'proto-semitic'))
     return d
 
 def sync(path, refresh=()):
@@ -93,10 +94,11 @@ def sync(path, refresh=()):
     else:
         body = t
     new = derive(table(body))
-    sg = stem_glosses(body)
-    for k in [k for k in old if k.startswith('gloss-') and k not in sg]: del old[k]   # a stem that no longer exists
-    new.update(sg)
-    refresh = tuple(refresh) + tuple(sg)
+    for k in [k for k in old if k.startswith('gloss-')]: del old[k]   # retired per-stem properties
+    g = gloss_list(table(body), body)
+    if g: new['gloss'] = g
+    else: old.pop('gloss', None)
+    refresh = tuple(refresh) + ('gloss',)
     for k, v in new.items():
         if k not in old or k in refresh: old[k] = v
     for k in refresh:
