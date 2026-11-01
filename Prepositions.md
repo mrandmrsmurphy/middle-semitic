@@ -2,6 +2,8 @@
 
 > Parent: [[Middle Semitic]] · See also: [[Morphosyntax]] (the conjugation table and subordinate clauses)
 
+*Rationale: Hebrew, Arabic and Aramaic all inflect a core set of short prepositions with pronominal suffixes, so those eight are the shared core and are the only ones that conjugate. Every other preposition is a noun in the construct state, which reuses a pattern learners already know, keeps the system regular and keeps the conjugating set small; the construct state is also the frozen archaic feature of Old Middle Semitic. See [[Design Philosophy#Word order and prepositions]].*
+
 Middle Semitic has eight "small" prepositions, which take pronominal suffixes and so "conjugate" (*ʿalnî* 'upon me'). Every other "preposition" is really a noun in the construct state. Each inflected form is a lexicon entry of its own; the full paradigms are in [[Morphosyntax]].
 
 ## The eight

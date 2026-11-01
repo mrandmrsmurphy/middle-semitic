@@ -2,6 +2,8 @@
 
 > Parent: [[Middle Semitic]] · Syntax: [[Morphosyntax]]
 
+*Rationale: the forms are meant to be guessable from a regular template, more regular than any source language, since a Universal Language needs that. Where the sources share an irregularity it is kept (the crypto-feminine nouns, the chiastic agreement of the numerals 3 to 10) rather than flattened Esperanto-style. The frozen construct state and frozen dual are deliberate archaisms: every source has an ancient prestige form, and the first millennia BC and AD are where the languages overlap most. See [[Design Philosophy#Regular, guessable forms]] and [[Design Philosophy#Archaisms and an Old Middle Semitic]].*
+
 - Three numbers: singular and plural, with duals only for body parts, glasses, pants. The dual is frozen, and not productive.
 - SVO word order, though others are possible with clefting or in questions.
 - No case marking

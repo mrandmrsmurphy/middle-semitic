@@ -2,6 +2,8 @@
 
 > Parent: [[Middle Semitic]]
 
+*Rationale: SVO is the strict default because there is no case marking, so a fixed order has to carry subject and object; it is also the modern majority among the sources and the easiest order for each community. VSO is kept as the archaic order because every source language has an ancient prestige form (Classical Arabic, Classical Syriac, Biblical Hebrew) and the early first millennia are where the languages overlap most; together with the frozen construct state and dual it gives Middle Semitic an Old Middle Semitic without a separate language. Regularity follows the same rule as the forms: guessable from a pattern, but faithful to the sources where they agree. See [[Design Philosophy#Word order and prepositions]], [[Design Philosophy#Archaisms and an Old Middle Semitic]] and [[Design Philosophy#Regular, guessable forms]].*
+
 Word order is **SVO** and without case, this is rather strictly enforced. **VSO** is “archaic”. Pro-drop is common due to verbal inflection.
 
 ## Copula

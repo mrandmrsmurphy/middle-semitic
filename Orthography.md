@@ -2,6 +2,8 @@
 
 > Parent: [[Middle Semitic]] · Sounds: [[Phonology]] · Rationale: [[Anthropology#Orthography]]
 
+*Rationale: the script is Syriac, the classical written form of Aramaic and the existing common ground between Hebrew and Arabic; choosing either one's alphabet would upset their equal footing. Latin would signal the West and colonial influence, so it appears only as a transliteration aid. An abjad shows the triconsonantal root, writing runs right to left as in both source scripts, and everyone learns the same small alphabet, so the cost is equal and many shapes are already familiar. Vowel marks and the begadkefat dots are optional, as pointing is in the sources. See [[Design Philosophy#Syriac as the script]].*
+
 Syriac script, written **RTL**. Equal distance from Arabic and Israeli — Neo-Aramaic as the middle ground.
 
 ## Map

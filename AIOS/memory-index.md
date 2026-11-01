@@ -10,5 +10,6 @@ Read this first, every session, before touching vault content. Each line points 
 - [Documentation plan](memory/project_middle_semitic_documentation_plan.md) — README / design-philosophy / licence plan for the GitHub release, decisions made, repo-hygiene list, open questions
 - [No manual commits](memory/feedback_no_manual_commits.md) — Obsidian commits and pushes automatically; do not git commit or push
 - [To-do list](memory/project_middle_semitic_todo.md) — running open items (Swadesh gaps, YAML cognate keys, prepositions/clitics, verification passes); read at session start
+- [Sefaria lexicon API](memory/reference_sefaria_lexicon_api.md) — read BDB/Klein/Jastrow from the Sefaria JSON API with curl (the web pages are JS-rendered); user's preferred Hebrew source
 
 This index grows as the vault does — add a line here for every new file placed in `AIOS/memory/`.

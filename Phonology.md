@@ -2,6 +2,8 @@
 
 > Parent: [[Middle Semitic]] · Areal survey: [[Anthropology#Phonology]]
 
+*Rationale: the sounds are meant to be the easiest soundscape for each source community, though not rock-bottom easy. The begadkefat letters stay free between stop and fricative so that neither pronunciation is forced on anyone; Hebrew speakers must learn to think of ʁ as ʿ and to say an alveolar r, but they would have to for any other language too. Syllables are CV and CVC, the Proto-Semitic baseline and the part every source accepts, so clusters appear only across a syllable boundary. Stress is a compromise, weight (Arabic), final syllable (Hebrew) and penult (Aramaic), so that every community hears something familiar. See [[Design Philosophy#Sounds and syllables]] and [[Design Philosophy#Stress]].*
+
 Middle Semitic sounds consist of 22 consonants and 5 vowels.
 
 ## Consonants

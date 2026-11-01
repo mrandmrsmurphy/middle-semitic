@@ -79,6 +79,11 @@ The first millennia BC and AD are where much, much more unity can be found than 
 
 This leads naturally to the idea of an **Old Middle Semitic**, a contrivance but a convenience: the biggest part of the overlap in the Venn diagram of the source languages comes from the past, so Middle Semitic needs a past of its own. A functioning Old Middle Semitic will not be developed as a separate language. It already exists in enough form in the archaic features above: VSO, the dual and the construct state. See [[Morphophonology]] and [[Morphosyntax]].
 
+## Word order and prepositions
+
+- **SVO is the strict default.** Three reasons point the same way: Middle Semitic has no case marking, so a fixed order has to carry who did what to whom and SVO is the clearest; SVO is the modern majority among the source languages; and it is the order that is easiest for each community (Hebrew speakers use it daily, and Arabic speakers use it in the dialects and as an option in Standard Arabic). VSO survives as the archaic order (see the section above). See [[Morphosyntax]].
+- **Eight small prepositions conjugate; the rest are nouns.** Hebrew, Arabic and Aramaic all inflect a core set of short prepositions with pronominal suffixes, so that set is the shared core. Every other "preposition" is a noun in the construct state, which reuses a pattern learners already know, keeps the system regular and keeps the conjugating set small. The construct state is also the frozen archaic feature, so this ties prepositions to the Old Middle Semitic idea. See [[Prepositions]].
+
 ## Regular, guessable forms
 
 A Universal Language is an international auxiliary language, so a certain amount of templatic layout is unavoidable, and good. The form of a word needs to be guessable from a regular pattern, like a correlative chart.

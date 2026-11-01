@@ -62,7 +62,7 @@ Omit a row that doesn't apply.
 | Full | Vocalized spelling, when it matters |
 | Latin | Romanization, with syllable dots and *ˈ* before the stressed syllable on every new or edited entry (see [[Phonology]]); one-syllable words unmarked |
 | Root | Triconsonantal root (function words have none); links to `Roots/` as `[[Roots/X\|X]]` |
-| Part of speech | |
+| Part of speech | Verbs are always exactly one of `verb (transitive)`, `verb (intransitive)`, `verb (stative)` (no ambitransitives in an auxlang; the user's ruling, 2026-10-31); intransitive and stative behave alike but are spelled differently. Gp exists only for a transitive G |
 | Gender | For nouns |
 | Gloss | English meaning; verbs as infinitives ("to eat"), the G sense; several senses separated by `;` |
 | Hebrew | Cognate |
