@@ -31,6 +31,7 @@
 - [[Swadesh]]
 - [[Dialogue]]
 - [[Torah]]
+- [[Lessons]]
 - [[Lexicon/Words - all.base|Lexicon]]
 - [[Roots/Roots.base|Roots]]
 
