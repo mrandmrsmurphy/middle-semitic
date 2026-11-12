@@ -9,7 +9,7 @@ Each lesson uses only what earlier lessons introduce.
 ## Unit I — Sound and script
 
 **1. The alphabet**
-The Syriac letters, right-to-left, the abjad logic (consonants carry the word, vowels are optional marks), the root visible in the spelling. Begadkefat: one letter for p/f, b/v, etc.
+The Syriac letters, right-to-left, the abjad logic (consonants carry the word, vowels are optional marks). Begadkefat: one letter for p/f, b/v, etc.
 
 **2. Vowels and stress**
 The five vowels and their optional marks. The stress rule (weight, then ultima/penult) and its one great exception: a schwa-able syllable — imperatives, the clitic prepositions — never takes the stress.
@@ -25,55 +25,61 @@ Masculine, feminine and crypto-feminine; plurals; the absolute and construct sta
 **5. The eight small prepositions**
 li- bi- pi- ki- mi- ʿa- ʿim bên, with pronominal suffixes (ʿalnî 'upon me'). Clitic vs free forms; the stress exception in action (pi.ˈnî).
 
+**6. Roots and patterns**
+The triconsonantal root as the skeleton of a word: the same root surfacing in a verb, a noun and an adjective (K-T-B: to write, a book, a scribe). Templates (patterns) as the vowel-and-affix frames laid over the root; the templates already met in nouns and prepositions. Strong roots vs weak roots (a guttural, hollow or final-weak radical), and why geminate roots count as strong. How the lexicon and [[Roots/Roots.base|Roots]] pages are organized, so every new word can be looked up by its root.
+
 ## Unit III — The verb core
 
-**6. The G stem: past**
-The strong verb, past-tense paradigm, the triconsonantal template idea.
+**7. The G stem: past**
+The strong verb, past-tense paradigm, the root-and-template idea applied to verbs.
 
-**7. The G stem: non-past and the rest**
-Non-past, imperative, infinitive, participle.
+**8. The G stem: non-past**
+The non-past paradigm; the G imperative at recognition level for classroom commands.
 
-**8. The Gp passive**
+**9. The Gp passive**
 û after the first consonant of the form; recognizing the passive in unpointed text.
 
-**9. The D stem and its passive**
+**10. The D stem and its passive**
 Intensive/factitive meanings; î and the doubled middle radical; gutturals that cannot double.
 
-**10. The C stem and its passive**
+**11. The C stem and its passive**
 Causatives with the š- prefix.
 
-**11. The tD stem**
+**12. The tD stem**
 Reflexives and reciprocals with the ti- prefix.
 
 ## Unit IV — Weak roots and statives
 
-**12. Hollow and I-weak verbs**
+**13. Hollow and I-weak verbs**
 The contractions (aw → ô, ay → ê); hollow G vs derived stems.
 
-**13. III-weak and guttural roots**
+**14. III-weak and guttural roots**
 III-yod/waw/aleph; the middle-guttural lengthening; aleph as a consonant that geminates.
 
-**14. Statives**
+**15. Statives**
 "To be X" verbs (1a2î3); no passive; their derived stems as ordinary strong forms.
 
 ## Unit V — The noun expanded
 
-**15. The construct state**
+**16. The construct state**
 Possession and compounding; the construct-noun "prepositions" (before, after, under…).
 
-**16. Adjectives**
+**17. Adjectives**
 The four forms; agreement with the three gender classes.
 
-**17. Numerals and the dual**
+**18. Numerals and the dual**
 Chiastic agreement for 3–10; the body-part dual, including true-feminine -atîm.
 
 ## Unit VI — Clauses and style
 
-**18. Subordination, questions, and the texts**
+**19. Subordination, questions, and the texts**
 ʾan, kî, ʿalʾan 'because'; interrogatives; guided reading of [[Dialogue]] and [[Torah]]; VSO and the archaic register (Old Middle Semitic).
+
+**20. Participles, infinitives and imperatives**
+The non-finite forms across the whole system: the participle, infinitive and imperative of every stem, strong and weak, gathered in one place now that all the stems and root classes are known. The participle as adjective and as noun; the infinitive with li-; imperatives and the schwa-syllable stress exception.
 
 ## Open items before authoring
 
 - Swadesh coverage: roughly 75 basic words still uncoined (drink, sleep, give, say, sit, walk, cold, new, dry…), most of them needed by Units II–IV.
-- The construct-state "prepositions" (before, after, under, until, around, without) are not yet coined; lesson 15 needs them.
+- The construct-state "prepositions" (before, after, under, until, around, without) are not yet coined; lesson 16 needs them.
 - Example sentences will draw on the lexicon as it stands; lessons should not coin vocabulary on the fly.

@@ -108,7 +108,7 @@ Technically, there are construct forms of all of these, but they are not product
 
 ### Pronouns
 
-The pronouns may seem strange for Indo-Europeans, but are utterly normal for Semitic speakers. There are independent forms which can only serve as the subject of a clause. Another set of forms serves two functions: they attach to verbs to mark direct objects, or they attach to nouns to indicate genitival possession.
+The pronouns may seem strange for Indo-Europeans, but are utterly normal for Semitic speakers. There are independent forms which can only serve as the subject of a clause. Another set of forms serves three functions: they attach to verbs to mark direct objects, to nouns to indicate genitival possession, and to the small prepositions (*ʿalnî* 'upon me' — see [[Prepositions]] and [[Morphosyntax]] for the paradigms). All three source languages use one suffix set for all three jobs.
 
 **Subject pronouns**
 
