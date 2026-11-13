@@ -26,7 +26,8 @@ Running list; remove items when done (history goes in `logs/log.md`). State as o
 - №122 'come': DONE (2026-10-31) — ܐܬܝ ˈâ.tê coined on root ʾ-T-Y with G, C (to bring), Cp; no Gp/D/Dp/tD (user's choice). Proto-Semitic row not checked.
 - №46 'bird': DONE (2026-11-01) — ܨܦܘܪܐ ṣip.ˈpû.râ, masculine, root ܨ-ܦ-ܪ (user's choice over ṭ-Y-R, ʿ-W-P, ʿ-Ṣ-R).
 - №50 'worm': DONE (2026-11-12) — ܬܘܠܥܬܐ tô.la.ˈʿa.tâ, feminine, quadriliteral root ܬ-ܘ-ܠ-ܥ (aw → ô matches Hebrew), PLUS the collective ܕܘܕ dûd on root ܕ-ܘ-ܕ (user's split: T-W-L-ʿ = one worm, D-W-D = the mass; first lexicalized collective in MS). Not checked: tôlaʿatâ arabic/ugaritic/proto-semitic (Arabic cognate is likely `none` — needs a search and a ruling); ܕܘܕ hebrew/aramaic/ugaritic (likely `none` likewise).
-- ~74 of 207 MS cells still empty (133 filled): mostly basic verbs (drink, sleep, give, say, sit, stand, walk, kill, swim, bite, burn, hit, cut...), adjectives (cold, full, new, round, dry...), and some body/nature words. Check the lexicon for an existing entry before coining.
+- №56 'leaf': DONE (2026-11-12) — ܘܪܩܬܐ wa.ˈraq.tâ, feminine, on the existing root ܘ-ܪ-ܩ (user's choice over ʿ-L-Y and Ṭ-R-P): leaf and green ([[ܘܪܩܐ]]) are one Proto-Semitic family *waraḳ-. No collective split. Open: Ge'ez warq 'gold' recalled from memory, unverified.
+- ~73 of 207 MS cells still empty (134 filled): mostly basic verbs (drink, sleep, give, say, sit, stand, walk, kill, swim, bite, burn, hit, cut...), adjectives (cold, full, new, round, dry...), and some body/nature words. Check the lexicon for an existing entry before coining.
 - Egypt column was converted from IPA to Arabic script (90 cells, spellings by Claude, unchecked): needs a native-reader pass; shakiest are №40 wife (مرات), 55 seed, 76 mouth (بق), 143 float, 145 freeze, 161 fog.
 
 **Prepositions / clitics**
