@@ -86,7 +86,7 @@ The dual is frozen: only body parts, glasses and pants have one, apart from a fe
 
 Nouns from **III-yod roots** (*gadê* 'kid') end in long *ê* in the singular, because the root's final *y* contracts with the ending. Before the plural ending it shows as *î*: **gadê, gadîn** (construct **gadi**, **gadî**). In the plain spelling the yod is written once.
 
-**The diminutive.** A noun forms its diminutive with *-ôna* (masculine nouns) or *-ôta* (feminine nouns), added to the stem, after the Syriac diminutive in *-ōnā* (ܒܪܘܢܐ *brōnā* "little son"). A diminutive declines by its own gender like any other noun. Example: *baḥrâ* "sea" (masculine) → *baḥrôtâ* "lake", literally "little sea", with the feminine ending because *lake* is feminine in the sources (Arabic *buḥayra* is likewise the diminutive of *baḥr*). Model page: [[Lexicon/ܒܚܪܘܬܐ]].
+**The diminutive.** A noun forms its diminutive with *-ôna* (masculine nouns) or *-ôta* (feminine nouns), added to the stem, after the Syriac diminutive in *-ōnā* (ܒܪܘܢܐ *brōnā* "little son"). A diminutive declines by its own gender like any other noun. Examples: *baḥrâ* "sea" (masculine) → *baḥrôtâ* "lake", literally "little sea", with the feminine ending because *lake* is feminine in the sources (Arabic *buḥayra* is likewise the diminutive of *baḥr*); *ḥôlâ* "sand" → *ḥôlōnâ* "a grain of sand". Model pages: [[Lexicon/ܒܚܪܘܬܐ]], [[Lexicon/ܚܘܠܘܢܐ]].
 
 ### Adjectives
 
