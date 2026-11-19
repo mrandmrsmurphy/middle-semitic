@@ -47,7 +47,7 @@ Middle Semitic has no separate wish mood: no jussive and no cohortative. A secon
 
 ## Possession between nouns
 
-The genitive is made with [[Lexicon/ܕܠ|ܕܠ]] *dal*, not the construct state: *ṣûrtâ dal êlhâ* "the image of God", *bênâ dal êlhâ* "the son of God". The construct forms in the paradigms are rare, virtually archaisms: they survive in stock phrases and the frozen prepositional nouns and are not built freely. A pronoun possessor is the suffix on the noun (*ṣûrtâhû*), not *dal*.
+The genitive is made with [[Lexicon/ܕܠ|ܕܠ]] *dal*, not the construct state: *ṣûrtâ dal êlhâ* "the image of God", *bênâ dal êlhâ* "the son of God". The construct forms in the paradigms are rare, virtually archaisms: they survive in stock phrases and the frozen prepositional nouns and are not built freely. A pronoun possessor is the pronominal suffix on the noun (*ṣûrtâhû*), not *dal*. Suffixes, on nouns, verbs and prepositions, attach straight onto the lexical form with no change to the stem (*ṣûrtâhû*, *barâhû*, *barâhûm*). A closed list of sixteen old nouns is the exception and keeps its archaic stem before a suffix (*abhû*, *êlahhû*, *malkhâ*); see each page's table.
 
 ## Numerals
 

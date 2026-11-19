@@ -82,7 +82,7 @@ def chart(name, lat, gloss, cls):
         rows = ["| | singular noun | plural noun |", "| --- | --- | --- |"]
         for p, r, x, w in S:
             rows.append(f"| {p} | *{csg}{r}* {pcsg}{x} '{w} {g}' | *{cpl}{r}* {pcpl}{x} '{w} {gp}' |")
-        out += ("\n### With pronominal suffixes\n\nThe pronominal suffixes attach to the construct state, with nothing dropped.\n\n" + '\n'.join(rows) + '\n')
+        out += ("\n### With pronominal suffixes\n\nThese suffixes attach to the archaic stem of this word, a stock exception; ordinary nouns take them straight onto the lexical form.\n\n" + '\n'.join(rows) + '\n')
     return out
 
 def main(L):

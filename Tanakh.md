@@ -74,9 +74,9 @@ MS has no wish form: a wish in the first or third person is the ordinary non-pas
 
 *So God created man in his own image, in the image of God he created him; male and female he created them.*
 
-**Middle Semitic:** ܘܒܪܐ ܐܝܠܗܐ ܗܠ ܐܕܡܐ ܦ+ܨܘܪܬܐ+ܗܘ ܦ+ܨܘܪܬܐ ܕܠ ܐܝܠܗܐ ܒܪܐ ? ܙܟܪܐ ܘܐܢܫܐ ܒܪܐ ?
+**Middle Semitic:** ܘܒܪܐ ܐܝܠܗܐ ܗܠ ܐܕܡܐ ܦܨܘܪܬܐܗܘ ܦܨܘܪܬܐ ܕܠ ܐܝܠܗܐ ܒܪܐܗܘ ܙܟܪܐ ܘܐܢܫܐ ܒܪܐܗܘܡ
 
-*wa-barâ êlhâ hal admâ ṣûrtâ ṣûrtâ dal êlhâ barâ ? zakrâ wa-ʾinšâ barâ ?*
+*wa-barâ êlhâ hal admâ pi-ṣûrtâhû pi-ṣûrtâ dal êlhâ barâhû zakrâ wa-ʾinšâ barâhûm*
 
 **Aramaic (Syriac Peshitta):** ܘܒܪܐ ܐܠܗܐ ܠܐܕܡ ܒܨܠܡܗ. ܒܨܠܡ ܐܠܗܐ ܒܪܝܗܝ. ܕܟܪ ܘܢܩܒܐ ܒܪܐ ܐܢܘܢ ([ETCBC](https://github.com/ETCBC/peshitta/blob/master/plain/0.1/Genesis.txt), vowel points removed)
 
@@ -86,7 +86,7 @@ MS has no wish form: a wish in the first or third person is the ordinary non-pas
 
 *fa-khalaqa llāhu l-insāna ʿalā ṣūratihi. ʿalā ṣūrati llāhi khalaqahu. dhakaran wa-unthā khalaqahum* (text quoted from memory, unverified against the printed edition)
 
-Only coined words are used; each `?` is a decision still to make, and the components of each are in the table. Joined with + are words whose joining is still undecided. The Syriac marks the object with ܠ (*l-*), where Hebrew has אֶת־ and MS has none. Arabic uses *khalaqa* and *al-insān*, not the cognates ܒܪܐ and ܐܕܡܐ, and *ṣūra* where Hebrew has צֶלֶם; MS follows Arabic, not Hebrew or the Peshitta (ܨܠܡܐ), in using [[Lexicon/ܨܘܪܬܐ|ܨܘܪܬܐ]] *ṣûrtâ* "form, image, picture" for the image of God, while [[Lexicon/ܨܠܡܐ|ܨܠܡܐ]] is the cult image. MS ܐܢܫܐ "female" is the cognate of Arabic أُنْثَى; Hebrew and Syriac here use נְקֵבָה / ܢܩܒܐ, a different root. The open decisions: (1) how a possessive suffix joins a noun ("in his image"); (2) how an object suffix joins a verb ("created him", "created them"). "The image of God" is *ṣûrtâ dal êlhâ*: the genitive is made with *dal*, not the construct state.
+Every word is an existing MS entry; the components of each compound are in the table. The Syriac marks the object with ܠ (*l-*), where Hebrew has אֶת־ and MS has none. Arabic uses *khalaqa* and *al-insān*, not the cognates ܒܪܐ and ܐܕܡܐ, and *ṣūra* where Hebrew has צֶלֶם; MS follows Arabic, not Hebrew or the Peshitta (ܨܠܡܐ), in using [[Lexicon/ܨܘܪܬܐ|ܨܘܪܬܐ]] *ṣûrtâ* "form, image, picture" for the image of God, while [[Lexicon/ܨܠܡܐ|ܨܠܡܐ]] is the cult image. MS ܐܢܫܐ "female" is the cognate of Arabic أُنْثَى; Hebrew and Syriac here use נְקֵבָה / ܢܩܒܐ, a different root. "The image of God" is *ṣûrtâ dal êlhâ*: the genitive is made with *dal*, not the construct state.
 
 | Hebrew | Arabic | Aramaic | Middle Semitic |
 | --- | --- | --- | --- |
@@ -94,13 +94,47 @@ Only coined words are used; each `?` is a decision still to make, and the compon
 | אֱלֹהִים 'God' | إِلٰه | ܐܠܗܐ | [[Lexicon/ܐܝܠܗܐ\|ܐܝܠܗܐ]] *êlhâ* |
 | אֶת־ (object marker) | — | ܠ- | — (none: the object follows the verb) |
 | הָאָדָם 'the man, the human' | آدم | ܐܕܡ | [[Lexicon/ܗܠ\|ܗܠ]] *hal* + [[Lexicon/ܐܕܡܐ\|ܐܕܡܐ]] *admâ* |
-| בְּצַלְמוֹ 'in his image' | صَنَم | ܒܨܠܡܗ | = [[Lexicon/ܦ\|ܦ]] *pi-* + [[Lexicon/ܨܘܪܬܐ\|ܨܘܪܬܐ]] *ṣûrtâ* + [[Lexicon/-ܗܘ\|-ܗܘ]] *-hû* (joining undecided) |
-| בְּצֶלֶם אֱלֹהִים 'in the image of God' | صَنَم | ܒܨܠܡ ܐܠܗܐ | = [[Lexicon/ܦ\|ܦ]] *pi-* + [[Lexicon/ܨܘܪܬܐ\|ܨܘܪܬܐ]] *ṣûrtâ* + [[Lexicon/ܕܠ\|ܕܠ]] *dal* + [[Lexicon/ܐܝܠܗܐ\|ܐܝܠܗܐ]] *êlhâ* (*pi-* joining undecided) |
-| בָּרָא אֹתוֹ 'he created him' | بَرَأَ | ܒܪܝܗܝ | [[Lexicon/ܒܪܐ 2\|ܒܪܐ 2]] *barâ* + [[Lexicon/-ܗܘ\|-ܗܘ]] *-hû* (joining undecided) |
+| בְּצַלְמוֹ 'in his image' | صَنَم | ܒܨܠܡܗ | [[Lexicon/ܦ\|ܦ]] *pi-* + [[Lexicon/ܨܘܪܬܐ\|ܨܘܪܬܐ]] *ṣûrtâ* + [[Lexicon/-ܗܘ\|-ܗܘ]] *-hû* = *pi-ṣûrtâhû* |
+| בְּצֶלֶם אֱלֹהִים 'in the image of God' | صَنَم | ܒܨܠܡ ܐܠܗܐ | = [[Lexicon/ܦ\|ܦ]] *pi-* + [[Lexicon/ܨܘܪܬܐ\|ܨܘܪܬܐ]] *ṣûrtâ* + [[Lexicon/ܕܠ\|ܕܠ]] *dal* + [[Lexicon/ܐܝܠܗܐ\|ܐܝܠܗܐ]] *êlhâ* = *pi-ṣûrtâ dal êlhâ* |
+| בָּרָא אֹתוֹ 'he created him' | بَرَأَ | ܒܪܝܗܝ | [[Lexicon/ܒܪܐ 2\|ܒܪܐ 2]] *barâ* + [[Lexicon/-ܗܘ\|-ܗܘ]] *-hû* = *barâhû* |
 | זָכָר 'male' | ذَكَر | ܕܟܪ | [[Lexicon/ܙܟܪܐ\|ܙܟܪܐ]] *zakrâ* |
 | וּ- 'and' | و | ܘ- | [[Lexicon/ܘ\|ܘ]] *wa-* |
 | נְקֵבָה 'female' | أُنْثَى | ܢܩܒܐ | [[Lexicon/ܐܢܫܐ\|ܐܢܫܐ]] *ʾinšâ* (different root from the Hebrew) |
-| בָּרָא אֹתָם 'he created them' | بَرَأَ | ܒܪܐ ܐܢܘܢ | [[Lexicon/ܒܪܐ 2\|ܒܪܐ 2]] *barâ* + [[Lexicon/-ܗܘܡ\|-ܗܘܡ]] *-hûm* (joining undecided) |
+| בָּרָא אֹתָם 'he created them' | بَرَأَ | ܒܪܐ ܐܢܘܢ | [[Lexicon/ܒܪܐ 2\|ܒܪܐ 2]] *barâ* + [[Lexicon/-ܗܘܡ\|-ܗܘܡ]] *-hûm* = *barâhûm* |
+
+### Genesis 1:28
+
+וַיְבָרֶךְ אֹתָם אֱלֹהִים וַיֹּאמֶר לָהֶם אֱלֹהִים פְּרוּ וּרְבוּ וּמִלְאוּ אֶת־הָאָרֶץ וְכִבְשֻׁהָ וּרְדוּ בִּדְגַת הַיָּם וּבְעוֹף הַשָּׁמַיִם וּבְכָל־חַיָּה הָרֹמֶשֶׂת עַל־הָאָרֶץ
+
+*And God blessed them, and God said to them, "Be fruitful and multiply and fill the earth and subdue it, and rule over the fish of the sea and over the birds of the sky and over every living thing that creeps on the earth."*
+
+**Middle Semitic:** ܘܒܝܪܟܗܘܡ ܐܝܠܗܐ ܘܐܡܪ ܠܗܘܡ ܐܝܠܗܐ ? ? ܘܡܠܐܢܐ ܗܠ ܐܪܨܐ ܘ?ܗܐ ܘܡܠܟܢܐ ܗܠ ܚܘܬܐ ܕܠ ܗܠ ܒܚܪܐ ܘܗܠ ܨܦܘܪܐ ܕܠ ܗܠ ܣܡܝ ܘܟܘܠ ܒܗܝܡܐ ܠܝܕ ? ܥܠ ܗܠ ܐܪܨܐ
+
+*wa-bîrrakhûm êlhâ wa-âmar lihûm êlhâ ? ? wa-məlânâ hal arṣâ wa-?hâ wa-məlaknâ hal ḥûtâ dal hal baḥrâ wa-hal ṣippûrâ dal hal samê wa-kôl bahîmâ lîd ? ʿal hal arṣâ*
+
+**Aramaic (Syriac Peshitta):** ܘܒܪܟ ܐܢܘܢ ܐܠܗܐ ܘܐܡܪ ܠܗܘܢ ܐܠܗܐ. ܦܪܘ ܘܣܓܘ ܘܡܠܘ ܐܪܥܐ ܘܟܘܒܫܘܗ. ܘܫܠܛܘ ܒܢܘܢܝ ܝܡܐ ܘܒܦܪܚܬܐ ܕܫܡܝܐ ܘܒܒܥܝܪܐ. ܘܒܟܠܗ ܚܝܘܬܐ ܕܪܚܫܐ ܥܠ ܐܪܥܐ ([ETCBC](https://github.com/ETCBC/peshitta/blob/master/plain/0.1/Genesis.txt), vowel points removed)
+
+**Arabic (Smith–Van Dyck):** وَبَارَكَهُمُ ٱللهُ وَقَالَ لَهُمْ: «أَثْمِرُوا وَٱكْثُرُوا وَٱمْلأُوا ٱلأَرْضَ وَأَخْضِعُوهَا، وَتَسَلَّطُوا عَلَى سَمَكِ ٱلْبَحْرِ وَعَلَى طَيْرِ ٱلسَّمَاءِ وَعَلَى كُلِّ حَيَوَانٍ يَدِبُّ عَلَى ٱلأَرْضِ» (text quoted from memory, unverified against the printed edition)
+
+Only existing MS words are used; each `?` is a word still to decide: "be fruitful" (Hebrew פָּרָה, Syriac ܦܪܐ; the vault has only [[Lexicon/ܦܝܪܐ|ܦܝܪܐ]] "fruit"), "multiply" (Hebrew רָבָה; Syriac here uses ܣܓܐ, a different root), "subdue" (Hebrew כָּבַשׁ, shared by Syriac), and "creeps" (Hebrew רָמַשׂ; Syriac ܪܚܫ, Arabic دَبَّ, different roots). The Hebrew "living thing" חַיָּה is rendered by the Swadesh "animal" word [[Lexicon/ܒܗܝܡܐ|ܒܗܝܡܐ]] "beast, livestock", which is a different Hebrew word (בְּהֵמָה); a separate word for the wild animal is a possible later split. "Fish" is [[Lexicon/ܚܘܬܐ|ܚܘܬܐ]] (not ܢܘܢܐ, which is "eel, tadpole"). ܡܠܟ takes its object directly ("rule over x"), where Hebrew, like Syriac, has the preposition בְּ. The commands are plural imperatives; blessing is the D stem of ܒܪܟ.
+
+| Hebrew | Arabic | Aramaic | Middle Semitic |
+| --- | --- | --- | --- |
+| וַיְבָרֶךְ אֹתָם 'and he blessed them' | بَارَكَهُمُ | ܘܒܪܟ ܐܢܘܢ | [[Lexicon/ܘ\|ܘ]] *wa-* + [[Lexicon/ܒܪܟ\|ܒܪܟ]] D *bîrrak* + [[Lexicon/-ܗܘܡ\|-ܗܘܡ]] *-hûm* = *bîrrakhûm* |
+| אֱלֹהִים 'God' | ٱللهُ | ܐܠܗܐ | [[Lexicon/ܐܝܠܗܐ\|ܐܝܠܗܐ]] *êlhâ* |
+| וַיֹּאמֶר 'and he said' | قَالَ | ܘܐܡܪ | [[Lexicon/ܘ\|ܘ]] *wa-* + [[Lexicon/ܐܡܪ\|ܐܡܪ]] *âmar* |
+| לָהֶם 'to them' | لَهُمْ | ܠܗܘܢ | [[Lexicon/ܠܗܘܡ\|ܠܗܘܡ]] *lihûm* |
+| פְּרוּ 'be fruitful' | أَثْمِرُوا | ܦܪܘ | ? (P-R-Y; not in the vault) |
+| וּרְבוּ 'and multiply' | وَٱكْثُرُوا | ܘܣܓܘ | ? (R-B-Y or S-G-Y; not in the vault) |
+| וּמִלְאוּ 'and fill' | وَٱمْلأُوا | ܘܡܠܘ | [[Lexicon/ܘ\|ܘ]] *wa-* + [[Lexicon/ܡܠܐ\|ܡܠܐ]] plural imperative *məlânâ* |
+| אֶת־הָאָרֶץ 'the earth' | ٱلأَرْضَ | ܐܪܥܐ | [[Lexicon/ܗܠ\|ܗܠ]] *hal* + [[Lexicon/ܐܪܨܐ\|ܐܪܨܐ]] *arṣâ* |
+| וְכִבְשֻׁהָ 'and subdue it' | وَأَخْضِعُوهَا | ܘܟܘܒܫܘܗ | [[Lexicon/ܘ\|ܘ]] *wa-* + ? (K-B-Š; not in the vault) + [[Lexicon/-ܗܐ\|-ܗܐ]] *-hâ* |
+| וּרְדוּ 'and rule over' | وَتَسَلَّطُوا عَلَى | ܘܫܠܛܘ ܒ | [[Lexicon/ܘ\|ܘ]] *wa-* + [[Lexicon/ܡܠܟ\|ܡܠܟ]] plural imperative *məlaknâ* |
+| דְּגַת הַיָּם 'the fish of the sea' | سَمَكِ ٱلْبَحْرِ | ܢܘܢܝ ܝܡܐ | [[Lexicon/ܗܠ\|ܗܠ]] *hal* + [[Lexicon/ܚܘܬܐ\|ܚܘܬܐ]] *ḥûtâ* + [[Lexicon/ܕܠ\|ܕܠ]] *dal* + *hal* + [[Lexicon/ܒܚܪܐ\|ܒܚܪܐ]] *baḥrâ* |
+| וּבְעוֹף הַשָּׁמַיִם 'and the birds of the sky' | وَعَلَى طَيْرِ ٱلسَّمَاءِ | ܘܒܦܪܚܬܐ ܕܫܡܝܐ | *wa-* + *hal* + [[Lexicon/ܨܦܘܪܐ\|ܨܦܘܪܐ]] *ṣippûrâ* + *dal* + *hal* + [[Lexicon/ܣܡܝ\|ܣܡܝ]] *samê* |
+| וּבְכָל־חַיָּה 'and every living thing' | وَعَلَى كُلِّ حَيَوَانٍ | ܘܒܟܠܗ ܚܝܘܬܐ | *wa-* + [[Lexicon/ܟܘܠ\|ܟܘܠ]] *kôl* + [[Lexicon/ܒܗܝܡܐ\|ܒܗܝܡܐ]] *bahîmâ* |
+| הָרֹמֶשֶׂת 'that creeps' | يَدِبُّ | ܕܪܚܫܐ | [[Lexicon/ܠܝܕ\|ܠܝܕ]] *lîd* + ? (R-M-Š; not in the vault) |
+| עַל־הָאָרֶץ 'on the earth' | عَلَى ٱلأَرْضِ | ܥܠ ܐܪܥܐ | [[Lexicon/ܥܠ-\|ܥܠ-]] *ʿal* + *hal* + *arṣâ* |
 
 ## Shemot
 
