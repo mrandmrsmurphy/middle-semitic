@@ -13,5 +13,6 @@ Read this first, every session, before touching vault content. Each line points 
 - [Sefaria lexicon API](memory/reference_sefaria_lexicon_api.md) — read BDB/Klein/Jastrow from the Sefaria JSON API with curl (the web pages are JS-rendered); user's preferred Hebrew source
 - [Don't track sister projects](memory/feedback_dont_track_sister_projects.md) — no to-do items about UL pages or other languages; UL tracks those
 - [Use the consonant chart](memory/feedback_use_consonant_chart.md) — derive MS roots from PS via the Anthropology.md correspondence table, not from Arabic/Hebrew spelling
+- [Branch-vote protocol](memory/project_branch_vote_protocol.md) — Hebrew+Aramaic vs Arabic: count branches, outgroups tiebreak, split senses, fixed Notes sentence
 
 This index grows as the vault does — add a line here for every new file placed in `AIOS/memory/`.
