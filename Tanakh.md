@@ -57,13 +57,13 @@ The Arabic uses *khalaqa* for 'created', not the cognate *bara'a*, and the plura
 
 *wa-qāla llāhu: li-yakun nūrun, fa-kāna nūrun* (text quoted from memory, unverified against the printed edition)
 
-One place is open: "let there be" is a wish, and MS has no ruling for it. The existence particles are ܗܘ *hô* (past) and ܝܫ *yiš* (non-past), so ܝܫ is a provisional stand-in. The Hebrew, Syriac and Arabic all use the jussive of "to be" here and then the past of the same verb ("and there was"), which MS spells with the particle ܗܘ. Hebrew אוֹר *ʾôr* is the light-root ʾ-W-R, while the existing [[Lexicon/ܢܘܪܐ|ܢܘܪܐ]] "fire, light" is Arabic *nūr* and Hebrew נוּר, with Syriac ܢܘܗܪܐ from N-H-R.
+MS has no wish form: a wish in the first or third person is the ordinary non-past (see [[Morphosyntax]]), so ܝܫ *yiš* is both "there is" and "let there be", as Syriac *nehwê* is. The Hebrew, Syriac and Arabic all use the jussive of "to be" here and then the past of the same verb ("and there was"), which MS spells with the particle ܗܘ. Hebrew אוֹר *ʾôr* is the light-root ʾ-W-R, while the existing [[Lexicon/ܢܘܪܐ|ܢܘܪܐ]] "fire, light" is Arabic *nūr* and Hebrew נוּר, with Syriac ܢܘܗܪܐ from N-H-R.
 
 | Hebrew | Arabic | Aramaic | Middle Semitic |
 | --- | --- | --- | --- |
 | וַיֹּאמֶר 'and he said' | وَقَالَ | ܘܐܡܪ | [[Lexicon/ܘ\|ܘ]] *wa-* + [[Lexicon/ܐܡܪ\|ܐܡܪ]] *âmar* |
 | אֱלֹהִים 'God' | ٱللهُ | ܐܠܗܐ | [[Lexicon/ܐܝܠܗܐ\|ܐܝܠܗܐ]] *êlhâ* |
-| יְהִי 'let there be' | لِيَكُنْ | ܢܗܘܐ | [[Lexicon/ܝܫ\|ܝܫ]] *yiš* (provisional: no wish form ruled) |
+| יְהִי 'let there be' | لِيَكُنْ | ܢܗܘܐ | [[Lexicon/ܝܫ\|ܝܫ]] *yiš* (non-past, as a wish) |
 | אוֹר 'light' | نُورٌ | ܢܘܗܪܐ | [[Lexicon/ܢܘܪܐ\|ܢܘܪܐ]] *nûrâ* |
 | וַיְהִי 'and there was' | فَكَانَ | ܘܗܘܐ | [[Lexicon/ܘ\|ܘ]] *wa-* + [[Lexicon/ܗܘ\|ܗܘ]] *hô* |
 | אוֹר 'light' | نُورٌ | ܢܘܗܪܐ | [[Lexicon/ܢܘܪܐ\|ܢܘܪܐ]] *nûrâ* |
