@@ -144,9 +144,9 @@ Every word is an existing MS entry. "Creeps" is ܪܡܫ, the swarming creep of He
 
 *And God spoke all these words, saying:*
 
-**Middle Semitic:** ܘ? ܐܝܠܗܐ ܟܘܠ ܗܠ ? ܗܙܝܢ ܠܐܡܪ
+**Middle Semitic:** ܘܐܡܪ ܐܝܠܗܐ ܟܘܠ ܗܠ ܟܠܡܝܢ ܗܙܝܢ ܠܐܡܪ
 
-*wa-? êlhâ kôl hal ? hazîn lâmar*
+*wa-âmar êlhâ kôl hal kalmîn hazîn lâmar*
 
 **Aramaic (Syriac Peshitta):** ܘܐܡܪ ܐܠܗܐ ܟܠܗܘܢ ܦܬܓܡܐ ܗܠܝܢ ([ETCBC](https://github.com/ETCBC/peshitta/blob/master/plain/0.1/Exodus.txt), vowel points removed)
 
@@ -156,15 +156,15 @@ Every word is an existing MS entry. "Creeps" is ܪܡܫ, the swarming creep of He
 
 *thumma takallama llāhu bi-jamīʿi hādhihi l-kalimāti qāʾilan*
 
-Only existing MS words are used; each `?` is a word still to decide: "spoke" (Hebrew דִּבֵּר; Arabic *takallama*; the Peshitta uses the plain "said", ܐܡܪ, once for both verbs, and drops "saying") and "words" (Hebrew דְּבָרִים, also "things"; Arabic *kalimāt*; Syriac ܦܬܓܡܐ, a different word). The Hebrew has no object marker in MS, and the Arabic opens with *thumma* "then", which Hebrew does not have. "These" follows its noun as an adjective, like Gen 1:27's pattern for adjectives; *kôl* before a plural noun is my reading of the rules. The next verse, "I am the LORD your God", brings the divine name, which needs its own decision.
+Every word is an existing MS entry. The generic speech verb is the plain ܐܡܪ for both Hebrew verbs, "spoke" (דִּבֵּר) and "saying" (לֵאמֹר); the Peshitta likewise uses one "said" and drops "saying". "Words" is the elevated ܟܠܡܐ (Arabic *kalimāt*, from the root of *kalām*), not the plain ܐܡܪܬܐ "word" or the command-word ܐܡܪܐ, because here God addresses the people. The Hebrew has no object marker in MS, and the Arabic opens with *thumma* "then", which Hebrew does not have. "These" follows its noun as an adjective, like other adjectives; *kôl* before a plural noun is my reading of the rules. The next verse, "I am the LORD your God", brings the divine name, which needs its own decision.
 
 | Hebrew | Arabic | Aramaic | Middle Semitic |
 | --- | --- | --- | --- |
-| וַיְדַבֵּר 'and he spoke' | تَكَلَّمَ | ܘܐܡܪ | [[Lexicon/ܘ\|ܘ]] *wa-* + ? (the verb "speak"; not decided) |
+| וַיְדַבֵּר 'and he spoke' | تَكَلَّمَ | ܘܐܡܪ | [[Lexicon/ܘ\|ܘ]] *wa-* + [[Lexicon/ܐܡܪ\|ܐܡܪ]] *âmar* |
 | אֱלֹהִים 'God' | ٱللهُ | ܐܠܗܐ | [[Lexicon/ܐܝܠܗܐ\|ܐܝܠܗܐ]] *êlhâ* |
 | אֵת (object marker) | بِ | — | — (none: the object follows the verb) |
 | כָּל־ 'all' | جَمِيعِ | ܟܠܗܘܢ | [[Lexicon/ܟܘܠ\|ܟܘܠ]] *kôl* |
-| הַדְּבָרִים 'the words' | ٱلْكَلِمَاتِ | ܦܬܓܡܐ | [[Lexicon/ܗܠ\|ܗܠ]] *hal* + ? (the noun "words"; not decided) |
+| הַדְּבָרִים 'the words' | ٱلْكَلِمَاتِ | ܦܬܓܡܐ | [[Lexicon/ܗܠ\|ܗܠ]] *hal* + [[Lexicon/ܟܠܡܐ\|ܟܠܡܐ]] plural *kalmîn* |
 | הָאֵלֶּה 'these' | هَذِهِ | ܗܠܝܢ | [[Lexicon/ܗܙܐ\|ܗܙܐ]] plural *hazîn* |
 | לֵאמֹר 'saying' | قَائِلًا | — | [[Lexicon/ܐܡܪ\|ܐܡܪ]] infinitive *lâmar* |
 
