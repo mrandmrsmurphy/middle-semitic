@@ -45,6 +45,10 @@ Two words introduce subordinate clauses, and they do different jobs.
 
 Middle Semitic has no separate wish mood: no jussive and no cohortative. A second-person command is the imperative. A wish or command in the first or third person is the ordinary non-past, as in Aramaic (Syriac *nehwê* "let there be") and in Hebrew's strong verbs, where the jussive and cohortative look like the imperfect. "Let's go" is the first-person plural non-past (*nanpaḥ*). The existence particle ܝܫ *yiš* is itself a non-past, so *yiš nûrâ!* is "let there be light!" with the same word as "there is light". A prohibition is ܠܐ plus the non-past: *lâ tanpaḥ!* "do not blow!".
 
+## Possession between nouns
+
+The genitive is made with [[Lexicon/ܕܠ|ܕܠ]] *dal*, not the construct state: *ṣûrtâ dal êlhâ* "the image of God", *bênâ dal êlhâ* "the son of God". The construct forms in the paradigms are rare, virtually archaisms: they survive in stock phrases and the frozen prepositional nouns and are not built freely. A pronoun possessor is the suffix on the noun (*ṣûrtâhû*), not *dal*.
+
 ## Numerals
 
 - **One** ([[Lexicon/ܘܚܕ|ܘܚܕ]] m, [[Lexicon/ܘܚܕܐ|ܘܚܕܐ]] f) agrees with its noun, which is singular.

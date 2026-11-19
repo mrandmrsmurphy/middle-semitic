@@ -3,8 +3,8 @@ vault: middle-semitic
 language: Middle Semitic
 hub: Middle Semitic.md
 counts:
-  lexicon_entries: 505
-  roots: 312
+  lexicon_entries: 509
+  roots: 314
 swadesh:
   filled: 151
   total: 207
