@@ -108,15 +108,15 @@ Every word is an existing MS entry; the components of each compound are in the t
 
 *And God blessed them, and God said to them, "Be fruitful and multiply and fill the earth and subdue it, and rule over the fish of the sea and over the birds of the sky and over every living thing that creeps on the earth."*
 
-**Middle Semitic:** ܘܒܝܪܟܗܘܡ ܐܝܠܗܐ ܘܐܡܪ ܠܗܘܡ ܐܝܠܗܐ ܫܡܪܢܐ ܘܪܒܝܒܢܐ ܘܡܠܐܢܐ ܗܠ ܐܪܨܐ ܘ?ܗܐ ܘܡܠܟܢܐ ܗܠ ܚܘܬܐ ܕܠ ܗܠ ܒܚܪܐ ܘܗܠ ܨܦܘܪܐ ܕܠ ܗܠ ܣܡܝ ܘܟܘܠ ܒܗܝܡܐ ܠܝܕ ? ܥܠ ܗܠ ܐܪܨܐ
+**Middle Semitic:** ܘܒܝܪܟܗܘܡ ܐܝܠܗܐ ܘܐܡܪ ܠܗܘܡ ܐܝܠܗܐ ܫܡܪܢܐ ܘܪܒܝܒܢܐ ܘܡܠܐܢܐ ܗܠ ܐܪܨܐ ܘܟܒܣܢܐܗܐ ܘܡܠܟܢܐ ܗܠ ܚܘܬܐ ܕܠ ܗܠ ܒܚܪܐ ܘܗܠ ܨܦܘܪܐ ܕܠ ܗܠ ܣܡܝ ܘܟܘܠ ܒܗܝܡܐ ܠܝܕ ? ܥܠ ܗܠ ܐܪܨܐ
 
-*wa-bîrrakhûm êlhâ wa-âmar lihûm êlhâ šəmarnâ wa-rəbîbnâ wa-məlânâ hal arṣâ wa-?hâ wa-məlaknâ hal ḥûtâ dal hal baḥrâ wa-hal ṣippûrâ dal hal samê wa-kôl bahîmâ lîd ? ʿal hal arṣâ*
+*wa-bîrrakhûm êlhâ wa-âmar lihûm êlhâ šəmarnâ wa-rəbîbnâ wa-məlânâ hal arṣâ wa-kəbasnâhâ wa-məlaknâ hal ḥûtâ dal hal baḥrâ wa-hal ṣippûrâ dal hal samê wa-kôl bahîmâ lîd ? ʿal hal arṣâ*
 
 **Aramaic (Syriac Peshitta):** ܘܒܪܟ ܐܢܘܢ ܐܠܗܐ ܘܐܡܪ ܠܗܘܢ ܐܠܗܐ. ܦܪܘ ܘܣܓܘ ܘܡܠܘ ܐܪܥܐ ܘܟܘܒܫܘܗ. ܘܫܠܛܘ ܒܢܘܢܝ ܝܡܐ ܘܒܦܪܚܬܐ ܕܫܡܝܐ ܘܒܒܥܝܪܐ. ܘܒܟܠܗ ܚܝܘܬܐ ܕܪܚܫܐ ܥܠ ܐܪܥܐ ([ETCBC](https://github.com/ETCBC/peshitta/blob/master/plain/0.1/Genesis.txt), vowel points removed)
 
 **Arabic (Smith–Van Dyck):** وَبَارَكَهُمُ ٱللهُ وَقَالَ لَهُمْ: «أَثْمِرُوا وَٱكْثُرُوا وَٱمْلأُوا ٱلأَرْضَ وَأَخْضِعُوهَا، وَتَسَلَّطُوا عَلَى سَمَكِ ٱلْبَحْرِ وَعَلَى طَيْرِ ٱلسَّمَاءِ وَعَلَى كُلِّ حَيَوَانٍ يَدِبُّ عَلَى ٱلأَرْضِ» (text quoted from memory, unverified against the printed edition)
 
-Only existing MS words are used; each `?` is a word still to decide: "subdue" (Hebrew כָּבַשׁ, shared by Syriac), and "creeps" (Hebrew רָמַשׂ; Syriac ܪܚܫ, Arabic دَبَّ, different roots). The Hebrew "living thing" חַיָּה is rendered by the Swadesh "animal" word [[Lexicon/ܒܗܝܡܐ|ܒܗܝܡܐ]] "beast, livestock", which is a different Hebrew word (בְּהֵמָה); a separate word for the wild animal is a possible later split. "Fish" is [[Lexicon/ܚܘܬܐ|ܚܘܬܐ]] (not ܢܘܢܐ, which is "eel, tadpole"). ܡܠܟ takes its object directly ("rule over x"), where Hebrew, like Syriac, has the preposition בְּ. The commands are plural imperatives; blessing is the D stem of ܒܪܟ.
+Only existing MS words are used; the `?` is a word still to decide: "creeps" (Hebrew רָמַשׂ; Syriac ܪܚܫ, Arabic دَبَّ, different roots). The Hebrew "living thing" חַיָּה is rendered by the Swadesh "animal" word [[Lexicon/ܒܗܝܡܐ|ܒܗܝܡܐ]] "beast, livestock", which is a different Hebrew word (בְּהֵמָה); a separate word for the wild animal is a possible later split. "Fish" is [[Lexicon/ܚܘܬܐ|ܚܘܬܐ]] (not ܢܘܢܐ, which is "eel, tadpole"). ܡܠܟ takes its object directly ("rule over x"), where Hebrew, like Syriac, has the preposition בְּ. The commands are plural imperatives; blessing is the D stem of ܒܪܟ.
 
 | Hebrew | Arabic | Aramaic | Middle Semitic |
 | --- | --- | --- | --- |
@@ -128,7 +128,7 @@ Only existing MS words are used; each `?` is a word still to decide: "subdue" (H
 | וּרְבוּ 'and multiply' | وَٱكْثُرُوا | ܘܣܓܘ | [[Lexicon/ܘ\|ܘ]] *wa-* + [[Lexicon/ܪܒܒ\|ܪܒܒ]] plural imperative *rəbîbnâ* (the verb of the root of [[Lexicon/ܪܒܐ\|ܪܒܐ]] and [[Lexicon/ܪܒܐܢܐ\|ܪܒܐܢܐ]]) |
 | וּמִלְאוּ 'and fill' | وَٱمْلأُوا | ܘܡܠܘ | [[Lexicon/ܘ\|ܘ]] *wa-* + [[Lexicon/ܡܠܐ\|ܡܠܐ]] plural imperative *məlânâ* |
 | אֶת־הָאָרֶץ 'the earth' | ٱلأَرْضَ | ܐܪܥܐ | [[Lexicon/ܗܠ\|ܗܠ]] *hal* + [[Lexicon/ܐܪܨܐ\|ܐܪܨܐ]] *arṣâ* |
-| וְכִבְשֻׁהָ 'and subdue it' | وَأَخْضِعُوهَا | ܘܟܘܒܫܘܗ | [[Lexicon/ܘ\|ܘ]] *wa-* + ? (K-B-Š; not in the vault) + [[Lexicon/-ܗܐ\|-ܗܐ]] *-hâ* |
+| וְכִבְשֻׁהָ 'and subdue it' | وَأَخْضِعُوهَا | ܘܟܘܒܫܘܗ | [[Lexicon/ܘ\|ܘ]] *wa-* + [[Lexicon/ܟܒܣ\|ܟܒܣ]] plural imperative *kəbasnâ* + [[Lexicon/-ܗܐ\|-ܗܐ]] *-hâ* = *kəbasnâhâ* |
 | וּרְדוּ 'and rule over' | وَتَسَلَّطُوا عَلَى | ܘܫܠܛܘ ܒ | [[Lexicon/ܘ\|ܘ]] *wa-* + [[Lexicon/ܡܠܟ\|ܡܠܟ]] plural imperative *məlaknâ* |
 | דְּגַת הַיָּם 'the fish of the sea' | سَمَكِ ٱلْبَحْرِ | ܢܘܢܝ ܝܡܐ | [[Lexicon/ܗܠ\|ܗܠ]] *hal* + [[Lexicon/ܚܘܬܐ\|ܚܘܬܐ]] *ḥûtâ* + [[Lexicon/ܕܠ\|ܕܠ]] *dal* + *hal* + [[Lexicon/ܒܚܪܐ\|ܒܚܪܐ]] *baḥrâ* |
 | וּבְעוֹף הַשָּׁמַיִם 'and the birds of the sky' | وَعَلَى طَيْرِ ٱلسَّمَاءِ | ܘܒܦܪܚܬܐ ܕܫܡܝܐ | *wa-* + *hal* + [[Lexicon/ܨܦܘܪܐ\|ܨܦܘܪܐ]] *ṣippûrâ* + *dal* + *hal* + [[Lexicon/ܣܡܝ\|ܣܡܝ]] *samê* |
