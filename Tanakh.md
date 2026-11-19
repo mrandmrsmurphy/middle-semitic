@@ -138,6 +138,36 @@ Every word is an existing MS entry. "Creeps" is ܪܡܫ, the swarming creep of He
 
 ## Shemot
 
+### Exodus 20:1
+
+וַיְדַבֵּר אֱלֹהִים אֵת כָּל־הַדְּבָרִים הָאֵלֶּה לֵאמֹר
+
+*And God spoke all these words, saying:*
+
+**Middle Semitic:** ܘ? ܐܝܠܗܐ ܟܘܠ ܗܠ ? ܗܙܝܢ ܠܐܡܪ
+
+*wa-? êlhâ kôl hal ? hazîn lâmar*
+
+**Aramaic (Syriac Peshitta):** ܘܐܡܪ ܐܠܗܐ ܟܠܗܘܢ ܦܬܓܡܐ ܗܠܝܢ ([ETCBC](https://github.com/ETCBC/peshitta/blob/master/plain/0.1/Exodus.txt), vowel points removed)
+
+*wa-ʾemar alâhâ kullhûn pitgâmê hânên* (approximate transliteration)
+
+**Arabic (Smith–Van Dyck):** ثُمَّ تَكَلَّمَ ٱللهُ بِجَمِيعِ هَذِهِ ٱلْكَلِمَاتِ قَائِلًا: ([getBible](https://api.getbible.net/v2/arabicsv/2/20.json))
+
+*thumma takallama llāhu bi-jamīʿi hādhihi l-kalimāti qāʾilan*
+
+Only existing MS words are used; each `?` is a word still to decide: "spoke" (Hebrew דִּבֵּר; Arabic *takallama*; the Peshitta uses the plain "said", ܐܡܪ, once for both verbs, and drops "saying") and "words" (Hebrew דְּבָרִים, also "things"; Arabic *kalimāt*; Syriac ܦܬܓܡܐ, a different word). The Hebrew has no object marker in MS, and the Arabic opens with *thumma* "then", which Hebrew does not have. "These" follows its noun as an adjective, like Gen 1:27's pattern for adjectives; *kôl* before a plural noun is my reading of the rules. The next verse, "I am the LORD your God", brings the divine name, which needs its own decision.
+
+| Hebrew | Arabic | Aramaic | Middle Semitic |
+| --- | --- | --- | --- |
+| וַיְדַבֵּר 'and he spoke' | تَكَلَّمَ | ܘܐܡܪ | [[Lexicon/ܘ\|ܘ]] *wa-* + ? (the verb "speak"; not decided) |
+| אֱלֹהִים 'God' | ٱللهُ | ܐܠܗܐ | [[Lexicon/ܐܝܠܗܐ\|ܐܝܠܗܐ]] *êlhâ* |
+| אֵת (object marker) | بِ | — | — (none: the object follows the verb) |
+| כָּל־ 'all' | جَمِيعِ | ܟܠܗܘܢ | [[Lexicon/ܟܘܠ\|ܟܘܠ]] *kôl* |
+| הַדְּבָרִים 'the words' | ٱلْكَلِمَاتِ | ܦܬܓܡܐ | [[Lexicon/ܗܠ\|ܗܠ]] *hal* + ? (the noun "words"; not decided) |
+| הָאֵלֶּה 'these' | هَذِهِ | ܗܠܝܢ | [[Lexicon/ܗܙܐ\|ܗܙܐ]] plural *hazîn* |
+| לֵאמֹר 'saying' | قَائِلًا | — | [[Lexicon/ܐܡܪ\|ܐܡܪ]] infinitive *lâmar* |
+
 ## Vayikra
 
 ## Bemidbar
