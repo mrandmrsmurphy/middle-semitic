@@ -142,11 +142,11 @@ Every word is an existing MS entry. "Creeps" is ܪܡܫ, the swarming creep of He
 
 וַיְדַבֵּר אֱלֹהִים אֵת כָּל־הַדְּבָרִים הָאֵלֶּה לֵאמֹר
 
-*And God spoke all these words, saying:*
+*And God spoke all these words, saying:* (MS: "And God said all these words"; "saying" is left out, as in the Peshitta)
 
-**Middle Semitic:** ܘܐܡܪ ܐܝܠܗܐ ܟܘܠ ܗܠ ܟܠܡܝܢ ܗܙܝܢ ܠܐܡܪ
+**Middle Semitic:** ܘܐܡܪ ܐܝܠܗܐ ܟܘܠ ܗܠ ܟܠܡܝܢ ܗܙܝܢ
 
-*wa-âmar êlhâ kôl hal kalmîn hazîn lâmar*
+*wa-âmar êlhâ kôl hal kalmîn hazîn*
 
 **Aramaic (Syriac Peshitta):** ܘܐܡܪ ܐܠܗܐ ܟܠܗܘܢ ܦܬܓܡܐ ܗܠܝܢ ([ETCBC](https://github.com/ETCBC/peshitta/blob/master/plain/0.1/Exodus.txt), vowel points removed)
 
@@ -156,7 +156,7 @@ Every word is an existing MS entry. "Creeps" is ܪܡܫ, the swarming creep of He
 
 *thumma takallama llāhu bi-jamīʿi hādhihi l-kalimāti qāʾilan*
 
-Every word is an existing MS entry. The generic speech verb is the plain ܐܡܪ for both Hebrew verbs, "spoke" (דִּבֵּר) and "saying" (לֵאמֹר); the Peshitta likewise uses one "said" and drops "saying". "Words" is the elevated ܟܠܡܐ (Arabic *kalimāt*, from the root of *kalām*), not the plain ܐܡܪܬܐ "word" or the command-word ܐܡܪܐ, because here God addresses the people. The Hebrew has no object marker in MS, and the Arabic opens with *thumma* "then", which Hebrew does not have. "These" follows its noun as an adjective, like other adjectives; *kôl* before a plural noun is my reading of the rules. The next verse, "I am the LORD your God", brings the divine name, which needs its own decision.
+Every word is an existing MS entry. The generic speech verb is the plain ܐܡܪ for the Hebrew "spoke" (דִּבֵּר). Hebrew לֵאמֹר "saying" is not translated: MS has no infinitive construct and no marker for introducing speech, and the Peshitta likewise uses one "said" and drops it. "Words" is the elevated ܟܠܡܐ (Arabic *kalimāt*, from the root of *kalām*), not the plain ܐܡܪܬܐ "word" or the command-word ܐܡܪܐ, because here God addresses the people. The Hebrew has no object marker in MS, and the Arabic opens with *thumma* "then", which Hebrew does not have. "These" follows its noun as an adjective, like other adjectives; *kôl* before a plural noun is my reading of the rules. The next verse, "I am the LORD your God", brings the divine name, which needs its own decision.
 
 | Hebrew | Arabic | Aramaic | Middle Semitic |
 | --- | --- | --- | --- |
@@ -166,7 +166,7 @@ Every word is an existing MS entry. The generic speech verb is the plain ܐܡܪ 
 | כָּל־ 'all' | جَمِيعِ | ܟܠܗܘܢ | [[Lexicon/ܟܘܠ\|ܟܘܠ]] *kôl* |
 | הַדְּבָרִים 'the words' | ٱلْكَلِمَاتِ | ܦܬܓܡܐ | [[Lexicon/ܗܠ\|ܗܠ]] *hal* + [[Lexicon/ܟܠܡܐ\|ܟܠܡܐ]] plural *kalmîn* |
 | הָאֵלֶּה 'these' | هَذِهِ | ܗܠܝܢ | [[Lexicon/ܗܙܐ\|ܗܙܐ]] plural *hazîn* |
-| לֵאמֹר 'saying' | قَائِلًا | — | [[Lexicon/ܐܡܪ\|ܐܡܪ]] infinitive *lâmar* |
+| לֵאמֹר 'saying' | قَائِلًا | — | — (none: not translated; MS has no infinitive construct) |
 
 ## Vayikra
 
