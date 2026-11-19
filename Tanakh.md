@@ -82,9 +82,9 @@ MS has no wish form: a wish in the first or third person is the ordinary non-pas
 
 *wa-brâ alâhâ l-âdam b-ṣalmeh. b-ṣalm alâhâ brêh. dakar wa-nqêbâ brâ ʾenûn* (approximate transliteration)
 
-**Arabic (Smith–Van Dyck):** فَخَلَقَ ٱللهُ ٱلْإِنْسَانَ عَلَى صُورَتِهِ. عَلَى صُورَةِ ٱللهِ خَلَقَهُ. ذَكَرًا وَأُنْثَى خَلَقَهُمْ
+**Arabic (Smith–Van Dyck):** فَخَلَقَ ٱللهُ ٱلْإِنْسَانَ عَلَى صُورَتِهِ. عَلَى صُورَةِ ٱللهِ خَلَقَهُ. ذَكَرًا وَأُنْثَى خَلَقَهُمْ. ([getBible](https://api.getbible.net/v2/arabicsv/1/1.json))
 
-*fa-khalaqa llāhu l-insāna ʿalā ṣūratihi. ʿalā ṣūrati llāhi khalaqahu. dhakaran wa-unthā khalaqahum* (text quoted from memory, unverified against the printed edition)
+*fa-khalaqa llāhu l-insāna ʿalā ṣūratihi. ʿalā ṣūrati llāhi khalaqahu. dhakaran wa-unthā khalaqahum*
 
 Every word is an existing MS entry; the components of each compound are in the table. The Syriac marks the object with ܠ (*l-*), where Hebrew has אֶת־ and MS has none. Arabic uses *khalaqa* and *al-insān*, not the cognates ܒܪܐ and ܐܕܡܐ, and *ṣūra* where Hebrew has צֶלֶם; MS follows Arabic, not Hebrew or the Peshitta (ܨܠܡܐ), in using [[Lexicon/ܨܘܪܬܐ|ܨܘܪܬܐ]] *ṣûrtâ* "form, image, picture" for the image of God, while [[Lexicon/ܨܠܡܐ|ܨܠܡܐ]] is the cult image. MS ܐܢܫܐ "female" is the cognate of Arabic أُنْثَى; Hebrew and Syriac here use נְקֵבָה / ܢܩܒܐ, a different root. "The image of God" is *ṣûrtâ dal êlhâ*: the genitive is made with *dal*, not the construct state.
 
@@ -114,7 +114,7 @@ Every word is an existing MS entry; the components of each compound are in the t
 
 **Aramaic (Syriac Peshitta):** ܘܒܪܟ ܐܢܘܢ ܐܠܗܐ ܘܐܡܪ ܠܗܘܢ ܐܠܗܐ. ܦܪܘ ܘܣܓܘ ܘܡܠܘ ܐܪܥܐ ܘܟܘܒܫܘܗ. ܘܫܠܛܘ ܒܢܘܢܝ ܝܡܐ ܘܒܦܪܚܬܐ ܕܫܡܝܐ ܘܒܒܥܝܪܐ. ܘܒܟܠܗ ܚܝܘܬܐ ܕܪܚܫܐ ܥܠ ܐܪܥܐ ([ETCBC](https://github.com/ETCBC/peshitta/blob/master/plain/0.1/Genesis.txt), vowel points removed)
 
-**Arabic (Smith–Van Dyck):** وَبَارَكَهُمُ ٱللهُ وَقَالَ لَهُمْ: «أَثْمِرُوا وَٱكْثُرُوا وَٱمْلأُوا ٱلأَرْضَ وَأَخْضِعُوهَا، وَتَسَلَّطُوا عَلَى سَمَكِ ٱلْبَحْرِ وَعَلَى طَيْرِ ٱلسَّمَاءِ وَعَلَى كُلِّ حَيَوَانٍ يَدِبُّ عَلَى ٱلأَرْضِ» (text quoted from memory, unverified against the printed edition)
+**Arabic (Smith–Van Dyck):** وَبَارَكَهُمُ ٱللهُ وَقَالَ لَهُمْ: «أَثْمِرُوا وَٱكْثُرُوا وَٱمْلَأُوا ٱلْأَرْضَ، وَأَخْضِعُوهَا، وَتَسَلَّطُوا عَلَى سَمَكِ ٱلْبَحْرِ وَعَلَى طَيْرِ ٱلسَّمَاءِ وَعَلَى كُلِّ حَيَوَانٍ يَدِبُّ عَلَى ٱلْأَرْضِ». ([getBible](https://api.getbible.net/v2/arabicsv/1/1.json))
 
 Only existing MS words are used; the `?` is a word still to decide: "creeps" (Hebrew רָמַשׂ; Syriac ܪܚܫ, Arabic دَبَّ, different roots). The Hebrew "living thing" חַיָּה is rendered by the Swadesh "animal" word [[Lexicon/ܒܗܝܡܐ|ܒܗܝܡܐ]] "beast, livestock", which is a different Hebrew word (בְּהֵמָה); a separate word for the wild animal is a possible later split. "Fish" is [[Lexicon/ܚܘܬܐ|ܚܘܬܐ]] (not ܢܘܢܐ, which is "eel, tadpole"). ܡܠܟ takes its object directly ("rule over x"), where Hebrew, like Syriac, has the preposition בְּ. The commands are plural imperatives; blessing is the D stem of ܒܪܟ.
 
@@ -126,15 +126,15 @@ Only existing MS words are used; the `?` is a word still to decide: "creeps" (He
 | לָהֶם 'to them' | لَهُمْ | ܠܗܘܢ | [[Lexicon/ܠܗܘܡ\|ܠܗܘܡ]] *lihûm* |
 | פְּרוּ 'be fruitful' | أَثْمِرُوا | ܦܪܘ | [[Lexicon/ܫܡܪ\|ܫܡܪ]] plural imperative *šəmarnâ* (the verb of [[Lexicon/ܫܡܪܐ\|ܫܡܪܐ]] "fruit") |
 | וּרְבוּ 'and multiply' | وَٱكْثُرُوا | ܘܣܓܘ | [[Lexicon/ܘ\|ܘ]] *wa-* + [[Lexicon/ܪܒܒ\|ܪܒܒ]] plural imperative *rəbîbnâ* (the verb of the root of [[Lexicon/ܪܒܐ\|ܪܒܐ]] and [[Lexicon/ܪܒܐܢܐ\|ܪܒܐܢܐ]]) |
-| וּמִלְאוּ 'and fill' | وَٱمْلأُوا | ܘܡܠܘ | [[Lexicon/ܘ\|ܘ]] *wa-* + [[Lexicon/ܡܠܐ\|ܡܠܐ]] plural imperative *məlânâ* |
-| אֶת־הָאָרֶץ 'the earth' | ٱلأَرْضَ | ܐܪܥܐ | [[Lexicon/ܗܠ\|ܗܠ]] *hal* + [[Lexicon/ܐܪܨܐ\|ܐܪܨܐ]] *arṣâ* |
+| וּמִלְאוּ 'and fill' | وَٱمْلَأُوا | ܘܡܠܘ | [[Lexicon/ܘ\|ܘ]] *wa-* + [[Lexicon/ܡܠܐ\|ܡܠܐ]] plural imperative *məlânâ* |
+| אֶת־הָאָרֶץ 'the earth' | ٱلْأَرْضَ | ܐܪܥܐ | [[Lexicon/ܗܠ\|ܗܠ]] *hal* + [[Lexicon/ܐܪܨܐ\|ܐܪܨܐ]] *arṣâ* |
 | וְכִבְשֻׁהָ 'and subdue it' | وَأَخْضِعُوهَا | ܘܟܘܒܫܘܗ | [[Lexicon/ܘ\|ܘ]] *wa-* + [[Lexicon/ܟܒܣ\|ܟܒܣ]] plural imperative *kəbasnâ* + [[Lexicon/-ܗܐ\|-ܗܐ]] *-hâ* = *kəbasnâhâ* |
 | וּרְדוּ 'and rule over' | وَتَسَلَّطُوا عَلَى | ܘܫܠܛܘ ܒ | [[Lexicon/ܘ\|ܘ]] *wa-* + [[Lexicon/ܡܠܟ\|ܡܠܟ]] plural imperative *məlaknâ* |
 | דְּגַת הַיָּם 'the fish of the sea' | سَمَكِ ٱلْبَحْرِ | ܢܘܢܝ ܝܡܐ | [[Lexicon/ܗܠ\|ܗܠ]] *hal* + [[Lexicon/ܚܘܬܐ\|ܚܘܬܐ]] *ḥûtâ* + [[Lexicon/ܕܠ\|ܕܠ]] *dal* + *hal* + [[Lexicon/ܒܚܪܐ\|ܒܚܪܐ]] *baḥrâ* |
 | וּבְעוֹף הַשָּׁמַיִם 'and the birds of the sky' | وَعَلَى طَيْرِ ٱلسَّمَاءِ | ܘܒܦܪܚܬܐ ܕܫܡܝܐ | *wa-* + *hal* + [[Lexicon/ܨܦܘܪܐ\|ܨܦܘܪܐ]] *ṣippûrâ* + *dal* + *hal* + [[Lexicon/ܣܡܝ\|ܣܡܝ]] *samê* |
 | וּבְכָל־חַיָּה 'and every living thing' | وَعَلَى كُلِّ حَيَوَانٍ | ܘܒܟܠܗ ܚܝܘܬܐ | *wa-* + [[Lexicon/ܟܘܠ\|ܟܘܠ]] *kôl* + [[Lexicon/ܒܗܝܡܐ\|ܒܗܝܡܐ]] *bahîmâ* |
 | הָרֹמֶשֶׂת 'that creeps' | يَدِبُّ | ܕܪܚܫܐ | [[Lexicon/ܠܝܕ\|ܠܝܕ]] *lîd* + ? (R-M-Š; not in the vault) |
-| עַל־הָאָרֶץ 'on the earth' | عَلَى ٱلأَرْضِ | ܥܠ ܐܪܥܐ | [[Lexicon/ܥܠ-\|ܥܠ-]] *ʿal* + *hal* + *arṣâ* |
+| עַל־הָאָרֶץ 'on the earth' | عَلَى ٱلْأَرْضِ | ܥܠ ܐܪܥܐ | [[Lexicon/ܥܠ-\|ܥܠ-]] *ʿal* + *hal* + *arṣâ* |
 
 ## Shemot
 
