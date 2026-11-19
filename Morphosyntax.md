@@ -41,6 +41,8 @@ Two words introduce subordinate clauses, and they do different jobs.
 - [[Lexicon/ܠܝܕ|ܠܝܕ]] (*lîd*) is the relative pronoun. It stands for a noun and never inflects: *Please go meet Rachel, who is arriving now.*
 - [[Lexicon/ܐܢ|ܐܢ]] (*an*) is the complementizer 'that'. It introduces the complement of a verb and stands for no noun: *He said that she is coming.*
 
+**Quoted speech.** Direct speech has no introducer: the verb of saying is followed directly by the quotation, which the writing marks with punctuation, as in modern Arabic, Hebrew and English (*wa-âmar êlhâ: …* "And God said: …"). MS has nothing like Biblical Hebrew לֵאמֹר, Biblical Aramaic לְמֵימַר or Syriac ܕ-, which did the work of a quotation mark; those are left untranslated in [[Tanakh]]. Indirect speech uses ܐܢ (*He said that she is coming*).
+
 ## Wishes and commands
 
 Middle Semitic has no separate wish mood: no jussive and no cohortative. A second-person command is the imperative. A wish or command in the first or third person is the ordinary non-past, as in Aramaic (Syriac *nehwê* "let there be") and in Hebrew's strong verbs, where the jussive and cohortative look like the imperfect. "Let's go" is the first-person plural non-past (*nanpaḥ*). The existence particle ܝܫ *yiš* is itself a non-past, so *yiš nûrâ!* is "let there be light!" with the same word as "there is light". A prohibition is ܠܐ plus the non-past: *lâ tanpaḥ!* "do not blow!".
