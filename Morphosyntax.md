@@ -49,6 +49,10 @@ Middle Semitic has no separate wish mood: no jussive and no cohortative. A secon
 
 The genitive is made with [[Lexicon/ܕܠ|ܕܠ]] *dal*, not the construct state: *ṣûrtâ dal êlhâ* "the image of God", *bênâ dal êlhâ* "the son of God". The construct forms in the paradigms are rare, virtually archaisms: they survive in stock phrases and the frozen prepositional nouns and are not built freely. A pronoun possessor is the pronominal suffix on the noun (*ṣûrtâhû*), not *dal*. Suffixes, on nouns, verbs and prepositions, attach straight onto the lexical form with no change to the stem (*ṣûrtâhû*, *barâhû*, *barâhûm*). A closed list of sixteen old nouns is the exception and keeps its archaic stem before a suffix (*abhû*, *êlahhû*, *malkhâ*); see each page's table.
 
+## The infinitive
+
+The infinitive is the verb's verbal noun, a form of the conjugation with a bare *l-* (no schwa) in place of the non-past's *y-*: *lahîllak* "walking, to walk" (D of [[Lexicon/ܗܠܟ|ܗܠܟ]]). It is a noun, so it can be the object of another verb or follow a preposition. As an object: *anâ ʾarḥam lahîllak* "I love walking" (= "I love to walk"; [[Lexicon/ܪܚܡ|ܪܚܡ]] non-past 1c *ʾarḥam*). After a preposition, the preposition is *li-*, a separate word that reduces to a schwa, so "for walking" is *li-lahîllak*, written ܠܠܗܝܠܟ in Syriac (the preposition ܠ, then the infinitive ܠܗܝܠܟ). The Latin is always *li-*; in fast speech the *li-* may be said as a schwa (*lə-lahîllak*). It is not the preposition *li-* plus a word, and no verbal paradigm has *l* + schwa. MS has no infinitive construct and no quotative infinitive ("saying").
+
 ## Numerals
 
 - **One** ([[Lexicon/ܘܚܕ|ܘܚܕ]] m, [[Lexicon/ܘܚܕܐ|ܘܚܕܐ]] f) agrees with its noun, which is singular.
