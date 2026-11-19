@@ -1,8 +1,8 @@
-# Torah
+# Tanakh
 
 > Parent: [[Middle Semitic]]
 
-The Five Books of Moses, word by word, with the Hebrew, an Arabic cognate, the Aramaic (Syriac) and the Middle Semitic parallel. A `?` marks a Middle Semitic word that has no lexicon entry yet. Aramaic readings are from the Syriac Peshitta ([peshitta.eu](https://www.peshitta.eu/ot/genesis/1.html), [ETCBC](https://github.com/ETCBC/peshitta/blob/master/plain/0.1/Genesis.txt)).
+The Hebrew Bible (Tanakh), word by word, so far the Torah (the Five Books of Moses), with the Hebrew, an Arabic cognate, the Aramaic (Syriac) and the Middle Semitic parallel. A `?` marks a Middle Semitic word that has no lexicon entry yet. Aramaic readings are from the Syriac Peshitta ([peshitta.eu](https://www.peshitta.eu/ot/genesis/1.html), [ETCBC](https://github.com/ETCBC/peshitta/blob/master/plain/0.1/Genesis.txt)).
 
 ## Bereshit
 
@@ -38,6 +38,35 @@ The Arabic uses *khalaqa* for 'created', not the cognate *bara'a*, and the plura
 | שָׁמַיִם 'heavens'             | سَمَاء       | ܫܡܝܐ          | [[Lexicon/ܣܡܝ\|ܣܡܝ]] *samîm* (dual, Genesis 1–6) |
 | וְ- 'and'                      | و            | ܘ-            | [[Lexicon/ܘ\|ܘ]] *wa-*                   |
 | הָאָרֶץ 'the earth'            | أَرْض        | ܐܪܥܐ          | [[Lexicon/ܐܪܨܐ\|ܐܪܨܐ]] *arṣâ*            |
+
+### Genesis 1:3
+
+וַיֹּאמֶר אֱלֹהִים יְהִי אוֹר וַיְהִי אוֹר
+
+*And God said, "Let there be light," and there was light.*
+
+**Middle Semitic:** ܘ? ܐܝܠܗܐ: ܝܫ ܢܘܪܐ! ܘܗܘ ܢܘܪܐ
+
+*wa-? êlhâ: yiš nûrâ! wa-hô nûrâ*
+
+**Aramaic (Syriac Peshitta):** ܘܐܡܪ ܐܠܗܐ ܢܗܘܐ ܢܘܗܪܐ ܘܗܘܐ ܢܘܗܪܐ ([ETCBC](https://github.com/ETCBC/peshitta/blob/master/plain/0.1/Genesis.txt), vowel points removed)
+
+*wa-ʾmar alâhâ nehwê nuhrâ wa-hwâ nuhrâ* (approximate transliteration)
+
+**Arabic (Smith–Van Dyck):** وَقَالَ ٱللهُ: «لِيَكُنْ نُورٌ» فَكَانَ نُورٌ
+
+*wa-qāla llāhu: li-yakun nūrun, fa-kāna nūrun* (text quoted from memory, unverified against the printed edition)
+
+Two places are open. The verb "said" has no lexicon entry yet (Hebrew and Aramaic *ʾ-M-R*, Arabic *q-w-l*: [[Swadesh]] № 140 is still blank), so it is a `?`. "Let there be" is a wish, and MS has no ruling for it: the existence particles are ܗܘ *hô* (past) and ܝܫ *yiš* (non-past), so ܝܫ is a provisional stand-in. The Hebrew, Syriac and Arabic all use the jussive of "to be" here and then the past of the same verb ("and there was"), which MS spells with the particle ܗܘ. Hebrew אוֹר *ʾôr* is the light-root ʾ-W-R, while the existing [[Lexicon/ܢܘܪܐ|ܢܘܪܐ]] "fire, light" is Arabic *nūr* and Hebrew נוּר, with Syriac ܢܘܗܪܐ from N-H-R.
+
+| Hebrew | Arabic | Aramaic | Middle Semitic |
+| --- | --- | --- | --- |
+| וַיֹּאמֶר 'and he said' | وَقَالَ | ܘܐܡܪ | ܘ + ? *wa-?* (say, no entry yet) |
+| אֱלֹהִים 'God' | ٱللهُ | ܐܠܗܐ | [[Lexicon/ܐܝܠܗܐ\|ܐܝܠܗܐ]] *êlhâ* |
+| יְהִי 'let there be' | لِيَكُنْ | ܢܗܘܐ | [[Lexicon/ܝܫ\|ܝܫ]] *yiš* (provisional: no wish form ruled) |
+| אוֹר 'light' | نُورٌ | ܢܘܗܪܐ | [[Lexicon/ܢܘܪܐ\|ܢܘܪܐ]] *nûrâ* |
+| וַיְהִי 'and there was' | فَكَانَ | ܘܗܘܐ | [[Lexicon/ܘ\|ܘ]] *wa-* + [[Lexicon/ܗܘ\|ܗܘ]] *hô* |
+| אוֹר 'light' | نُورٌ | ܢܘܗܪܐ | [[Lexicon/ܢܘܪܐ\|ܢܘܪܐ]] *nûrâ* |
 
 ## Shemot
 

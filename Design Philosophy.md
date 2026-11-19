@@ -44,7 +44,7 @@ See also the treatment of the proto-language in [[Anthropology]].
 Jews, Muslims and Christians get an equal vote, and the most delicate place that shows is religious vocabulary. There is no absolutely neutral ground, so the work is finding the most neutral ground available, which is slow and painstaking.
 
 - **Names are not common nouns.** *Allah* is a proper name. The common noun *god* is a different word, [[Lexicon/ܐܝܠܗܐ|ܐܝܠܗܐ]] *êlhâ*, which is a little bit of each of the sources and so makes a good neutral choice.
-- **The important texts of each religion are worked through.** [[Dialogue]] carries the Shahada and the Jesus Prayer; [[Torah]] carries Genesis 1:1 and the Shema. Each is a test of whether the vocabulary holds up in the text it has to serve.
+- **The important texts of each religion are worked through.** [[Dialogue]] carries the Shahada and the Jesus Prayer; [[Tanakh]] carries Genesis 1:1 and the Shema. Each is a test of whether the vocabulary holds up in the text it has to serve.
 - **The hardest case is Jesus's name.** The non-Christian languages have two names for him: the polemical יֵשׁוּ and عيسى, and the historic or Christian יֵשׁוּעַ and يسوع. Middle Semitic blends all of them into ܝܣܘܥ.
 
 ## Sounds and syllables
@@ -103,7 +103,7 @@ A Universal Language is an international auxiliary language, so a certain amount
 Stress is predictable, and it is a compromise by design, chosen both to be easy to learn and to give every source community something familiar. The rule takes in weight (Arabic), the ultimate syllable (Hebrew) and the penultimate syllable (Aramaic): a closed final syllable takes the stress, otherwise the penult. See [[Phonology]].
 
 - **Exceptions.** The rule has exceptions, mainly to do with the clitic prepositions. They have not all been listed yet. They also help keep the language approachable and similar to the source languages.
-- **Different texts feel different.** The Shahada, in [[Dialogue]], is a place where Middle Semitic starts to feel like Arabic stress, while the Shema, in [[Torah]], is Hebrew-adjacent.
+- **Different texts feel different.** The Shahada, in [[Dialogue]], is a place where Middle Semitic starts to feel like Arabic stress, while the Shema, in [[Tanakh]], is Hebrew-adjacent.
 - **The goal** is to keep the language feeling as familiar as possible, so that everyone experiences it as "close to home", while still following regular rules, as in the principle above.
 
 ## International vocabulary

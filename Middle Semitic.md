@@ -30,7 +30,7 @@
 - [[Prepositions]]
 - [[Swadesh]]
 - [[Dialogue]]
-- [[Torah]]
+- [[Tanakh]]
 - [[Lessons]]
 - [[Lexicon/Words - all.base|Lexicon]]
 - [[Roots/Roots.base|Roots]]

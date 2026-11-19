@@ -12,7 +12,7 @@ Contributions to Middle Semitic are welcome: corrections, cognate evidence, new 
 
 - **Checking cognates.** Aramaic (Syriac) forms of the conjugated prepositions and pronominal suffixes were written from memory and need checking against a Syriac grammar. Hebrew, Arabic, Ugaritic, Akkadian and Geʿez cognates for any word are welcome, with a source.
 - **The Swadesh list.** More than a third of the 207 cells still need a Middle Semitic form; see [Swadesh](Swadesh.md). The Egyptian and Palestinian columns want a native-reader check.
-- **Sentences and texts.** Translations for [Dialogue](Dialogue.md) and [Torah](Torah.md).
+- **Sentences and texts.** Translations for [Dialogue](Dialogue.md) and [Tanakh](Tanakh.md).
 - **Errors.** A wrong cognate, a broken paradigm, a form that breaks the phonotactics.
 
 ## Standards

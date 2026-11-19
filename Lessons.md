@@ -73,7 +73,7 @@ Chiastic agreement for 3–10; the body-part dual, including true-feminine -atî
 ## Unit VI — Clauses and style
 
 **19. Subordination, questions, and the texts**
-ʾan, kî, ʿalʾan 'because'; interrogatives; guided reading of [[Dialogue]] and [[Torah]]; VSO and the archaic register (Old Middle Semitic).
+ʾan, kî, ʿalʾan 'because'; interrogatives; guided reading of [[Dialogue]] and [[Tanakh]]; VSO and the archaic register (Old Middle Semitic).
 
 **20. Participles, infinitives and imperatives**
 The non-finite forms across the whole system: the participle, infinitive and imperative of every stem, strong and weak, gathered in one place now that all the stems and root classes are known. The participle as adjective and as noun; the infinitive with li-; imperatives and the schwa-syllable stress exception.

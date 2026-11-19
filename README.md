@@ -150,7 +150,7 @@ By the scale above, Middle Semitic has a complete grammar (milestone 4) and is w
 | [Prepositions](Prepositions.md) | The eight small prepositions and their contrasts |
 | [Swadesh](Swadesh.md) | The 207-item comparative list across Arabic, Hebrew, Syriac and the dialects, with the Middle Semitic form |
 | [Dialogue](Dialogue.md) | Sample conversations and texts, such as the Shahada |
-| [Torah](Torah.md) | The Five Books word by word: Hebrew, an Arabic cognate, the Peshitta and Middle Semitic |
+| [Tanakh](Tanakh.md) | The Hebrew Bible word by word (so far the Torah): Hebrew, an Arabic cognate, the Peshitta and Middle Semitic |
 | [`Lexicon/`](Lexicon/) | One file per word (about 470), each with a table and queryable cognate properties |
 | [`Roots/`](Roots/) | One file per root, listing the words built on it |
 | [`AIOS/`](AIOS/) | Maintainer and agent material: conventions, rulings, build scripts, machine-readable facts |
