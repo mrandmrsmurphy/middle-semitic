@@ -6,7 +6,7 @@ counts:
   lexicon_entries: 501
   roots: 307
 swadesh:
-  filled: 148
+  filled: 149
   total: 207
 key_pages:
   swadesh: Swadesh.md
@@ -14,4 +14,4 @@ key_pages:
   roots_index: Roots/Roots.base
   memory_index: AIOS/memory-index.md
 source_record: Lexicon/
-generated: 2026-11-18
+generated: 2026-11-19
