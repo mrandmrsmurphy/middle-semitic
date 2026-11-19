@@ -68,6 +68,40 @@ MS has no wish form: a wish in the first or third person is the ordinary non-pas
 | וַיְהִי 'and there was' | فَكَانَ | ܘܗܘܐ | [[Lexicon/ܘ\|ܘ]] *wa-* + [[Lexicon/ܗܘ\|ܗܘ]] *hô* |
 | אוֹר 'light' | نُورٌ | ܢܘܗܪܐ | [[Lexicon/ܢܘܪܐ\|ܢܘܪܐ]] *nûrâ* |
 
+### Genesis 1:27
+
+וַיִּבְרָא אֱלֹהִים אֶת־הָאָדָם בְּצַלְמוֹ בְּצֶלֶם אֱלֹהִים בָּרָא אֹתוֹ זָכָר וּנְקֵבָה בָּרָא אֹתָם
+
+*So God created man in his own image, in the image of God he created him; male and female he created them.*
+
+**Middle Semitic:** ܘܒܪܐ ܐܝܠܗܐ ܗܠ ܐܕܡܐ ? ? ܒܪܐ ? ܙܟܪܐ ܘܐܢܫܐ ܒܪܐ ?
+
+*wa-barâ êlhâ hal admâ ? ? barâ ? zakrâ wa-ʾinšâ barâ ?*
+
+**Aramaic (Syriac Peshitta):** ܘܒܪܐ ܐܠܗܐ ܠܐܕܡ ܒܨܠܡܗ. ܒܨܠܡ ܐܠܗܐ ܒܪܝܗܝ. ܕܟܪ ܘܢܩܒܐ ܒܪܐ ܐܢܘܢ ([ETCBC](https://github.com/ETCBC/peshitta/blob/master/plain/0.1/Genesis.txt), vowel points removed)
+
+*wa-brâ alâhâ l-âdam b-ṣalmeh. b-ṣalm alâhâ brêh. dakar wa-nqêbâ brâ ʾenûn* (approximate transliteration)
+
+**Arabic (Smith–Van Dyck):** فَخَلَقَ ٱللهُ ٱلْإِنْسَانَ عَلَى صُورَتِهِ. عَلَى صُورَةِ ٱللهِ خَلَقَهُ. ذَكَرًا وَأُنْثَى خَلَقَهُمْ
+
+*fa-khalaqa llāhu l-insāna ʿalā ṣūratihi. ʿalā ṣūrati llāhi khalaqahu. dhakaran wa-unthā khalaqahum* (text quoted from memory, unverified against the printed edition)
+
+Only coined words are used; each `?` is a decision still to make, and the components of each are in the table. The Syriac marks the object with ܠ (*l-*), where Hebrew has אֶת־ and MS has none. Arabic uses *khalaqa* and *al-insān*, not the cognates ܒܪܐ and ܐܕܡܐ, and *ṣūra* where Hebrew has צֶלֶם. MS ܐܢܫܐ "female" is the cognate of Arabic أُنْثَى; Hebrew and Syriac here use נְקֵבָה / ܢܩܒܐ, a different root. The open decisions: (1) how a possessive suffix joins a noun ("in his image"); (2) how an object suffix joins a verb ("created him", "created them"); (3) how a noun governs a following noun ("the image of God").
+
+| Hebrew | Arabic | Aramaic | Middle Semitic |
+| --- | --- | --- | --- |
+| וַיִּבְרָא 'and he created' | بَرَأَ | ܘܒܪܐ | [[Lexicon/ܘ\|ܘ]] *wa-* + [[Lexicon/ܒܪܐ 2\|ܒܪܐ 2]] *barâ* |
+| אֱלֹהִים 'God' | إِلٰه | ܐܠܗܐ | [[Lexicon/ܐܝܠܗܐ\|ܐܝܠܗܐ]] *êlhâ* |
+| אֶת־ (object marker) | — | ܠ- | — (none: the object follows the verb) |
+| הָאָדָם 'the man, the human' | آدم | ܐܕܡ | [[Lexicon/ܗܠ\|ܗܠ]] *hal* + [[Lexicon/ܐܕܡܐ\|ܐܕܡܐ]] *admâ* |
+| בְּצַלְמוֹ 'in his image' | صَنَم | ܒܨܠܡܗ | ? = [[Lexicon/ܦ\|ܦ]] *pi-* + [[Lexicon/ܨܠܡܐ\|ܨܠܡܐ]] *ṣalmâ* + [[Lexicon/-ܗܘ\|-ܗܘ]] *-hû* (joining undecided) |
+| בְּצֶלֶם אֱלֹהִים 'in the image of God' | صَنَم | ܒܨܠܡ ܐܠܗܐ | ? = [[Lexicon/ܦ\|ܦ]] *pi-* + [[Lexicon/ܨܠܡܐ\|ܨܠܡܐ]] + [[Lexicon/ܐܝܠܗܐ\|ܐܝܠܗܐ]] (noun + noun undecided) |
+| בָּרָא אֹתוֹ 'he created him' | بَرَأَ | ܒܪܝܗܝ | [[Lexicon/ܒܪܐ 2\|ܒܪܐ 2]] *barâ* + [[Lexicon/-ܗܘ\|-ܗܘ]] *-hû* (joining undecided) |
+| זָכָר 'male' | ذَكَر | ܕܟܪ | [[Lexicon/ܙܟܪܐ\|ܙܟܪܐ]] *zakrâ* |
+| וּ- 'and' | و | ܘ- | [[Lexicon/ܘ\|ܘ]] *wa-* |
+| נְקֵבָה 'female' | أُنْثَى | ܢܩܒܐ | [[Lexicon/ܐܢܫܐ\|ܐܢܫܐ]] *ʾinšâ* (different root from the Hebrew) |
+| בָּרָא אֹתָם 'he created them' | بَرَأَ | ܒܪܐ ܐܢܘܢ | [[Lexicon/ܒܪܐ 2\|ܒܪܐ 2]] *barâ* + [[Lexicon/-ܗܘܡ\|-ܗܘܡ]] *-hûm* (joining undecided) |
+
 ## Shemot
 
 ## Vayikra
