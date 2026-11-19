@@ -176,8 +176,11 @@ def tables(name, d):
     part = ['ܡ', 'a'] + (second_vowel_to_u(base) if passive else ap(base, []))
     inf = ['ܠ', 'a'] + (second_vowel_to_u(base) if passive else ap(base, []))
     pr = lambda x: render(fuse(x))[1:]
+    inf_latin = pr(inf)[0]
+    if name in ('G', 'Gp') and inf_latin.startswith('lâ'):   # la- is a clitic: it does not fuse with a I-aleph (ləʾâmar)
+        inf_latin = 'ləʾâ' + inf_latin[2:]
     t.append("**Other forms.** " +
-             f"Participle *{pr(part)[0]}-* {pr(part)[1]}; infinitive *{pr(inf)[0]}* {pr(inf)[1]}" +
+             f"Participle *{pr(part)[0]}-* {pr(part)[1]}; infinitive *{inf_latin}* {pr(inf)[1]}" +
              ("" if passive else "; imperative " + imperative(name, d, pr)) + ".\n")
     return '\n'.join(t)
 
