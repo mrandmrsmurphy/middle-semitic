@@ -352,3 +352,9 @@ Append-only. Never edit past entries.
 
 ## 2026-11-19 — Exodus 20:4 (with blanks)
 - Added Exodus 20:4 to Tanakh.md with Hebrew, verified Arabic (getBible) and Peshitta (ETCBC). Blanks left: verb "make" (Hebrew ʿ-Ś-H, Arabic ṣ-n-ʿ, Aramaic ʿ-B-D), "likeness" (תְּמוּנָה; candidates ܨܘܪܬܐ, ܕܡܝ, ܡܫܠܐ), "from above" (ܥܠ- needs an object; no adverb/noun for "above"). Known words used: ܠܐ, ܠܟܐ, ܨܠܡܐ, ܘܟܘܠ, ܠܝܕ, ܝܫ, pi-+hal (ܦܗܠ), ܣܡܝ, ܐܪܨܐ, ܬܚܬܐ, ܡܝܐ, ܬܚܬ. Unruled readings flagged in the page: bare lîd "that which", kôl + singular, pi-hal fusion, sky/water number.
+
+## 2026-11-19 — "make": ܦܥܠ (P-ʿ-L)
+- Survey of "make" roots shown (P-ʿ-L, ʿ-B-D, ʿ-Ś-Y, Ṣ-N-ʿ, ʿ-M-L, J-ʿ-L; vault B-N-Y, B-R-ʾ, Ṣ-W-R); user chose option 1 (P-ʿ-L as the general verb). Created verb ܦܥܠ pa.ˈʿal "to do, to make, to act" (Hebrew פָּעַל, Arabic فَعَلَ, Aramaic פעל, PS *paʕala) with root ܦ-ܥ-ܠ, via build_ms_stem_paradigms.py (MEANING and ABSENT entries added). Stems are Claude's proposal, not yet approved: G, Gp, D ("carry out, put into action, activate", after Arabic faʿʿala), Dp; no C, Cp, tD. ʿ-B-D kept for a future "to serve, to work" verb on the "slave" noun. Exodus 20:4 now reads ܠܐ ܬܦܥܠ …; two blanks remain ("likeness", "from above").
+
+## 2026-11-19 — stacking prepositions: "from above" = min ʿalâ
+- User asked whether two prepositions can combine for "from above" (Hebrew mēʿal/mittaḥat do); ruled that the second preposition reverts to its noun form, with final -â. Recorded as "Stacking" in Morphosyntax.md and Prepositions.md. Created noun ܥܠܐ ˈʿa.lâ "the above, the upper side, the top" (masc., root ܥ-ܠ-ܝ; Hebrew מַעַל, Arabic عُلُوّ, Aramaic ܥܠܐ; plain stem + -â, without the III-yod y — Claude's reading of "final a", to confirm). Exodus 20:4 now has ܡܢ ܥܠܐ and ܡܢ ܬܚܬܐ; one blank left ("likeness"). Consequence flagged: prepositions without a noun (ܩܕܡ, ܐܚܪ, ܥܕ, ܚܘܠ, ܛܘܠ, ܒܠܐ, ʿim, bên, the clitics) cannot yet be stacked.

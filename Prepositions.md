@@ -15,7 +15,7 @@ Middle Semitic has eight "small" prepositions, which take pronominal suffixes an
 | [[Lexicon/ܦ\|ܦ]]     | pi-   | in       | (בְּ־ / فِي)  | [[Lexicon/ܦܢܝ\|ܦܢܝ]] *pinî*      | clitic                                    |
 | [[Lexicon/ܟ\|ܟ]]     | ki-   | like, as, according to | כְּ־ / كَـ    | [[Lexicon/ܟܢܝ\|ܟܢܝ]] *kinî*      | clitic                                    |
 | [[Lexicon/ܡܢ\|ܡܢ]]   | min   | from     | מִן / مِن     | [[Lexicon/ܡܢܢܝ\|ܡܢܢܝ]] *minnî*   | free word, clitic [[Lexicon/ܡ\|ܡ-]] *mi-* |
-| [[Lexicon/ܥܠ-\|ܥܠ-]] | ʿal-  | on, upon, over, above | עַל / عَلَى   | [[Lexicon/ܥܠܢܝ\|ܥܠܢܝ]] *ʿalnî*   | free word, clitic [[Lexicon/ܥ\|ܥ-]] *ʿa-* |
+| [[Lexicon/ܥܠ-\|ܥܠ-]] | ʿal-  | on, upon, over, above | עַל / عَلَى   | [[Lexicon/ܥܠܢܝ\|ܥܠܢܝ]] *ʿalnî*   | free word, clitic [[Lexicon/ܥ\|ܥ-]] *ʿa-*; noun [[Lexicon/ܥܠܐ\|ܥܠܐ]] *ʿalâ* 'the above' |
 | [[Lexicon/ܥܡ\|ܥܡ]]   | ʿim   | with     | עִם / مَعَ    | [[Lexicon/ܥܡܢܝ\|ܥܡܢܝ]] *ʿimnî*   | free word                                 |
 | [[Lexicon/ܒܝܢ\|ܒܝܢ]] | bên   | between  | בֵּין / بَيْن | [[Lexicon/ܒܝܢܢܝ\|ܒܝܢܢܝ]] *bênnî* | free word                                 |
 
@@ -37,6 +37,8 @@ The place words are free words with their own stress. Each takes the suffixes st
 | [[Lexicon/ܩܪܒ 2\|ܩܪܒ]] | qurab | near, beside | קָרוֹב / قُرْبَ | [[Lexicon/ܩܪܒܢܝ\|ܩܪܒܢܝ]] *qurabnî* | [[Lexicon/ܩܪܒܐ\|ܩܪܒܐ]] *qurbâ* 'nearness' |
 | [[Lexicon/ܥܒܪ 2\|ܥܒܪ]] | ʿabar | across, beyond, through | עֵבֶר / عَبْرَ | [[Lexicon/ܥܒܪܢܝ\|ܥܒܪܢܝ]] *ʿabarnî* | [[Lexicon/ܥܒܪܐ\|ܥܒܪܐ]] *ʿabrâ* 'the other side' |
 | [[Lexicon/ܛܘܠ\|ܛܘܠ]] | ṭawâl | throughout, during, for the length of | — / طَوَالَ | [[Lexicon/ܛܘܠܢܝ\|ܛܘܠܢܝ]] *ṭawâlnî* | none (ܛܘܠܐ is 'long') |
+
+**Stacking.** After another preposition ('from above', 'from beneath'), the second reverts to its noun, with final *-â*: *min ʿalâ*, *min taḥtâ*. This works for the prepositions that have a noun ([[Lexicon/ܥܠܐ|ܥܠܐ]], [[Lexicon/ܬܚܬܐ|ܬܚܬܐ]], [[Lexicon/ܩܪܒܐ|ܩܪܒܐ]], [[Lexicon/ܒܥܕܐ|ܒܥܕܐ]], [[Lexicon/ܥܒܪܐ|ܥܒܪܐ]]).
 
 ## Contrasts
 
