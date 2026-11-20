@@ -168,6 +168,37 @@ Every word is an existing MS entry. The generic speech verb is the plain ܐܡܪ 
 | הָאֵלֶּה 'these' | هَذِهِ | ܗܠܝܢ | [[Lexicon/ܗܙܐ\|ܗܙܐ]] plural *hazîn* |
 | לֵאמֹר 'saying' | قَائِلًا | — | — (none: not translated; MS has no infinitive construct) |
 
+### Exodus 20:2
+
+אָנֹכִי יְהוָה אֱלֹהֶיךָ אֲשֶׁר הוֹצֵאתִיךָ מֵאֶרֶץ מִצְרַיִם מִבֵּית עֲבָדִים
+
+*I am the LORD your God, who brought you out of the land of Egypt, out of the house of slaves.*
+
+**Middle Semitic:** ܐܢܐ ܐܕܘܢܝ ܐܝܠܗܟܐ ܠܝܕ ?ܟܐ ܡܢ ܐܪܨܐ ܕܠ ܡܨܪ ܡܢ ܒܝܬܐ ܕܠ ܥܒܕܝܢ
+
+*anâ adônî êlahkâ lîd ?-kâ min arṣâ dal miṣr min bêtâ dal ʿabdîn*
+
+**Aramaic (Syriac Peshitta):** ܐܢܐ ܐܢܐ ܡܪܝܐ ܐܠܗܟ. ܕܐܣܩܬܟ ܡܢ ܐܪܥܐ ܕܡܨܪܝܢ. ܡܢ ܒܝܬ ܥܒܕܘܬܐ ([ETCBC](https://github.com/ETCBC/peshitta/blob/master/plain/0.1/Exodus.txt), vowel points removed)
+
+*anâ anâ maryā alâhak. d-asqetak men arʿā d-meṣrayn. men bêt ʿbadūtā* (approximate transliteration)
+
+**Arabic (Smith–Van Dyck):** «أَنَا ٱلرَّبُّ إِلَهُكَ ٱلَّذِي أَخْرَجَكَ مِنْ أَرْضِ مِصْرَ مِنْ بَيْتِ ٱلْعُبُودِيَّةِ. ([getBible](https://api.getbible.net/v2/arabicsv/2/20.json))
+
+*anā r-rabbu ilāhuka llaḏī aḵrajaka min arḍi miṣra min bayti l-ʿubūdiyyati*
+
+Every word but one is an existing MS entry; the `?` is the verb "brought out" (Hebrew הוֹצִיא, Hiphil of יצא; Arabic *akhraja*; the Peshitta has ܐܣܩ "brought up", a different verb), still to decide. The divine name is ܐܕܘܢܝ *adônî*, the substitute Jewish tradition reads for יְהוָה (Arabic *ar-rabb*; Syriac ܡܪܝܐ); "Egypt" is ܡܨܪ *miṣr*, the root all the languages share. The Hebrew has no copula and the Syriac doubles the pronoun; MS uses the pronoun alone with a noun predicate, as in *hiyâ malkatâ*, so "I am the LORD" is *anâ* + the name. *êlahkâ* is the suffixed form of the noun class that keeps its old stem. The Peshitta and Arabic say "house of bondage"; MS keeps the Hebrew "house of slaves", with the plural of ܥܒܕܐ. The relative *lîd* and the *dal* genitive follow the earlier verses.
+
+| Hebrew | Arabic | Aramaic | Middle Semitic |
+| --- | --- | --- | --- |
+| אָנֹכִי 'I' | أَنَا | ܐܢܐ | [[Lexicon/ܐܢܐ\|ܐܢܐ]] *anâ* |
+| יְהוָה 'the LORD' | ٱلرَّبُّ | ܡܪܝܐ | [[Lexicon/ܐܕܘܢܝ\|ܐܕܘܢܝ]] *adônî* |
+| אֱלֹהֶיךָ 'your God' | إِلَهُكَ | ܐܠܗܟ | [[Lexicon/ܐܝܠܗܐ\|ܐܝܠܗܐ]] + [[Lexicon/-ܟܐ\|-ܟܐ]] *êlahkâ* |
+| אֲשֶׁר 'who' | ٱلَّذِي | ܕ | [[Lexicon/ܠܝܕ\|ܠܝܕ]] *lîd* |
+| הוֹצֵאתִיךָ 'I brought you out' | أَخْرَجَكَ | ܕܐܣܩܬܟ | ? (the verb "bring out", past 1s; not decided) + [[Lexicon/-ܟܐ\|-ܟܐ]] *-kâ* |
+| מֵאֶרֶץ 'from the land of' | مِنْ أَرْضِ | ܡܢ ܐܪܥܐ | [[Lexicon/ܡܢ\|ܡܢ]] *min* + [[Lexicon/ܐܪܨܐ\|ܐܪܨܐ]] *arṣâ* + [[Lexicon/ܕܠ\|ܕܠ]] *dal* |
+| מִצְרַיִם 'Egypt' | مِصْرَ | ܡܨܪܝܢ | [[Lexicon/ܡܨܪ\|ܡܨܪ]] *miṣr* |
+| מִבֵּית עֲבָדִים 'from the house of slaves' | مِنْ بَيْتِ ٱلْعُبُودِيَّةِ | ܡܢ ܒܝܬ ܥܒܕܘܬܐ | *min* + [[Lexicon/ܒܝܬܐ\|ܒܝܬܐ]] *bêtâ* + *dal* + [[Lexicon/ܥܒܕܐ\|ܥܒܕܐ]] plural *ʿabdîn* |
+
 ## Vayikra
 
 ## Bemidbar
@@ -192,14 +223,14 @@ Every word is an existing MS entry. The generic speech verb is the plain ܐܡܪ 
 
 *ismaʿ yā isrāʾīlu: ar-rabbu ilāhunā rabbun wāḥidun* (text quoted from memory, unverified against the printed edition)
 
-The Hebrew and Arabic have no copula, and the Syriac puts the pronoun ܗܘ at the end. MS uses the pronoun *huwâ* as the linker after a noun subject, in both clauses. Names are not coined yet: *isrâ'êl* and *adônî* have no lexicon entries.
+The Hebrew and Arabic have no copula, and the Syriac puts the pronoun ܗܘ at the end. MS uses the pronoun *huwâ* as the linker after a noun subject, in both clauses. The name *isrâ'êl* has no lexicon entry yet; *adônî* is [[Lexicon/ܐܕܘܢܝ|ܐܕܘܢܝ]].
 
 | Hebrew | Arabic | Aramaic | Middle Semitic |
 | --- | --- | --- | --- |
 | שְׁמַע 'hear!' | اِسْمَعْ | ܫܡܥ | [[Lexicon/ܣܡܥ\|ܣܡܥ]] *səmaʿ!* (imperative) |
 | (vocative) | يَا | — | [[Lexicon/ܝܐ\|ܝܐ]] *yâ* |
 | יִשְׂרָאֵל 'Israel' | إِسْرَائِيل | ܝܣܪܐܝܠ | ܐܣܪܐܝܠ *isrâ'êl* (name, no entry yet) |
-| יְהוָה 'the Lord' | رَبّ | ܡܪܝܐ | ܐܕܘܢܝ *adônî* (name, no entry yet) |
+| יְהוָה 'the Lord' | رَبّ | ܡܪܝܐ | [[Lexicon/ܐܕܘܢܝ\|ܐܕܘܢܝ]] *adônî* |
 | (copula) | — | ܗܘ | [[Lexicon/ܗܘܐ\|ܗܘܐ]] *huwâ* |
 | אֱלֹהֵינוּ 'our God' | إِلٰهُنَا | ܐܠܗܢ | [[Lexicon/ܐܝܠܗܐ\|ܐܝܠܗܐ]] + [[Lexicon/-ܢܘ\|-ܢܘ]] *êlahnû* |
 | אֶחָד 'one' | وَاحِد | ܚܕ | [[Lexicon/ܘܚܕ\|ܘܚܕ]] *waḥad* |
