@@ -334,3 +334,6 @@ Append-only. Never edit past entries.
 
 ## 2026-11-19 — "around"
 - Survey shown (S-B-B savîv, Ḥ-W-L ḥawla, Ḥ-D-R, D-W-R); user approved Ḥ-W-L ("a little bit of conflict, but worth it": the root already holds ܚܘܠܐ "sand"). Created long preposition ܚܘܠ ḥa.ˈwal "around" (Arabic حَوْلَ; Hebrew חוּל verb) with 8 suffixed forms (ܚܘܠܢܝ…ܚܘܠܗܘܡ), added to root ܚ-ܘ-ܠ. No noun: the regular "surroundings" form would be spelled ܚܘܠܐ, same as "sand". Sand/around link not established. Tables updated; to-coin list now: without.
+
+## 2026-11-19 — "without"
+- Survey shown (bil'adê/blaʿad, bi-+lâ, dūna, ġayr, Ḥ-S-R); user chose option 2 (bi- + lâ) "but allow it to take suffixes". Created ܒܠܐ bi.ˈlâ "without" (Hebrew בְּלֹא, Arabic بِلَا; Components ܒ- + ܠܐ; stress on lâ) with 8 suffixed forms (ܒܠܐܢܝ…ܒܠܐܗܘܡ, e.g. bi.ˈlâ.nî), suffixes straight on like the long prepositions though not a place word. No root (compound). Syriac blā, Ugaritic bl, Akkadian balu(m) from memory, not entered. Prepositions.md and Morphosyntax.md updated; the to-coin list is empty. Lessons.md line 84 (planned content) still says these are uncoined.

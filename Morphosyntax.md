@@ -19,7 +19,7 @@ Existence is expressed by two particles that do not inflect for person or number
 
 ## Prepositions
 
-There are eight “small” prepositions which “conjugate”, and a growing set of **long prepositions**, the place words ([[Lexicon/ܩܕܡ|ܩܕܡ]] *qadam* “before”, [[Lexicon/ܬܚܬ|ܬܚܬ]] *taḥat* “under”, [[Lexicon/ܐܚܪ|ܐܚܪ]] *ʾaḥar* “behind”, [[Lexicon/ܒܥܕ|ܒܥܕ]] *baʿad* “after”, [[Lexicon/ܥܕ|ܥܕ]] *ʿad* “until”, [[Lexicon/ܚܘܠ|ܚܘܠ]] *ḥawal* “around”), which are free words that take the same suffixes. Each long preposition has a matching noun where one exists (ܬܚܬܐ *taḥtâ* “the underside”). The construct state is not used for prepositions. The rows for *mi-* and *ʿa-* are the clitic forms of *min* and *ʿal*. See [[Prepositions]] for the contrasts among them.
+There are eight “small” prepositions which “conjugate”, and a growing set of **long prepositions**, the place words ([[Lexicon/ܩܕܡ|ܩܕܡ]] *qadam* “before”, [[Lexicon/ܬܚܬ|ܬܚܬ]] *taḥat* “under”, [[Lexicon/ܐܚܪ|ܐܚܪ]] *ʾaḥar* “behind”, [[Lexicon/ܒܥܕ|ܒܥܕ]] *baʿad* “after”, [[Lexicon/ܥܕ|ܥܕ]] *ʿad* “until”, [[Lexicon/ܚܘܠ|ܚܘܠ]] *ḥawal* “around”, [[Lexicon/ܒܠܐ|ܒܠܐ]] *bilâ* “without”), which are free words that take the same suffixes. Each long preposition has a matching noun where one exists (ܬܚܬܐ *taḥtâ* “the underside”). The construct state is not used for prepositions. The rows for *mi-* and *ʿa-* are the clitic forms of *min* and *ʿal*. See [[Prepositions]] for the contrasts among them.
 
 | | 1cs | 2ms | 2fs | 3ms | 3fs | 1cp | 2cp | 3cp |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -39,6 +39,7 @@ There are eight “small” prepositions which “conjugate”, and a growing se
 | [[Lexicon/ܒܥܕ\|ܒܥܕ]] / *baʿad* | [[Lexicon/ܒܥܕܢܝ\|ܒܥܕܢܝ]] *after me* | [[Lexicon/ܒܥܕܟܐ\|ܒܥܕܟܐ]] *after you (m)* | [[Lexicon/ܒܥܕܟܝ\|ܒܥܕܟܝ]] *after you (f)* | [[Lexicon/ܒܥܕܗܘ\|ܒܥܕܗܘ]] *after him* | [[Lexicon/ܒܥܕܗܐ\|ܒܥܕܗܐ]] *after her* | [[Lexicon/ܒܥܕܢܘ\|ܒܥܕܢܘ]] *after us* | [[Lexicon/ܒܥܕܟܘܡ\|ܒܥܕܟܘܡ]] *after y'all* | [[Lexicon/ܒܥܕܗܘܡ\|ܒܥܕܗܘܡ]] *after them* |
 | [[Lexicon/ܥܕ\|ܥܕ]] / *ʿad* | [[Lexicon/ܥܕܢܝ\|ܥܕܢܝ]] *until me* | [[Lexicon/ܥܕܟܐ\|ܥܕܟܐ]] *until you (m)* | [[Lexicon/ܥܕܟܝ\|ܥܕܟܝ]] *until you (f)* | [[Lexicon/ܥܕܗܘ\|ܥܕܗܘ]] *until him* | [[Lexicon/ܥܕܗܐ\|ܥܕܗܐ]] *until her* | [[Lexicon/ܥܕܢܘ\|ܥܕܢܘ]] *until us* | [[Lexicon/ܥܕܟܘܡ\|ܥܕܟܘܡ]] *until y'all* | [[Lexicon/ܥܕܗܘܡ\|ܥܕܗܘܡ]] *until them* |
 | [[Lexicon/ܚܘܠ\|ܚܘܠ]] / *ḥawal* | [[Lexicon/ܚܘܠܢܝ\|ܚܘܠܢܝ]] *around me* | [[Lexicon/ܚܘܠܟܐ\|ܚܘܠܟܐ]] *around you (m)* | [[Lexicon/ܚܘܠܟܝ\|ܚܘܠܟܝ]] *around you (f)* | [[Lexicon/ܚܘܠܗܘ\|ܚܘܠܗܘ]] *around him* | [[Lexicon/ܚܘܠܗܐ\|ܚܘܠܗܐ]] *around her* | [[Lexicon/ܚܘܠܢܘ\|ܚܘܠܢܘ]] *around us* | [[Lexicon/ܚܘܠܟܘܡ\|ܚܘܠܟܘܡ]] *around y'all* | [[Lexicon/ܚܘܠܗܘܡ\|ܚܘܠܗܘܡ]] *around them* |
+| [[Lexicon/ܒܠܐ\|ܒܠܐ]] / *bilâ* | [[Lexicon/ܒܠܐܢܝ\|ܒܠܐܢܝ]] *without me* | [[Lexicon/ܒܠܐܟܐ\|ܒܠܐܟܐ]] *without you (m)* | [[Lexicon/ܒܠܐܟܝ\|ܒܠܐܟܝ]] *without you (f)* | [[Lexicon/ܒܠܐܗܘ\|ܒܠܐܗܘ]] *without him* | [[Lexicon/ܒܠܐܗܐ\|ܒܠܐܗܐ]] *without her* | [[Lexicon/ܒܠܐܢܘ\|ܒܠܐܢܘ]] *without us* | [[Lexicon/ܒܠܐܟܘܡ\|ܒܠܐܟܘܡ]] *without y'all* | [[Lexicon/ܒܠܐܗܘܡ\|ܒܠܐܗܘܡ]] *without them* |
 
 ## Subordinate clauses
 
