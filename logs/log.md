@@ -337,3 +337,6 @@ Append-only. Never edit past entries.
 
 ## 2026-11-19 — "without"
 - Survey shown (bil'adê/blaʿad, bi-+lâ, dūna, ġayr, Ḥ-S-R); user chose option 2 (bi- + lâ) "but allow it to take suffixes". Created ܒܠܐ bi.ˈlâ "without" (Hebrew בְּלֹא, Arabic بِلَا; Components ܒ- + ܠܐ; stress on lâ) with 8 suffixed forms (ܒܠܐܢܝ…ܒܠܐܗܘܡ, e.g. bi.ˈlâ.nî), suffixes straight on like the long prepositions though not a place word. No root (compound). Syriac blā, Ugaritic bl, Akkadian balu(m) from memory, not entered. Prepositions.md and Morphosyntax.md updated; the to-coin list is empty. Lessons.md line 84 (planned content) still says these are uncoined.
+
+## 2026-11-19 — "near" (Q-R-B)
+- User: make the QRB preposition. Created long preposition ܩܪܒ 2 (file "ܩܪܒ 2", homograph of the verb ܩܪܒ) qu.ˈrab "near, close to, beside" (Arabic قُرْبَ verified; Hebrew gives the adjective קָרוֹב + li- and noun קֶרֶב "midst"), with 8 suffixed forms (ܩܪܒܢܝ…ܩܪܒܗܘܡ, e.g. qu.ˈrab.nî) and noun ܩܪܒܐ ˈqur.bâ "nearness, the vicinity"; root ܩ-ܪ-ܒ now 4 words. Competing ʾēṣel, ʿinda, ladā, bi-jānib not used. Prepositions.md and Morphosyntax.md tables updated. No changes made to ܐܢ or ʿad ʾan fusion (user: leave as is).

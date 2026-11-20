@@ -4,7 +4,7 @@
 
 *Rationale: Hebrew, Arabic and Aramaic all inflect a core set of short prepositions with pronominal suffixes, so those eight small prepositions are the shared core. They also inflect their place words (Hebrew *taḥtāy*, Arabic *taḥtī*, "under me"), because each is a noun used as a preposition; MS makes those place words long prepositions that take the same suffixes, each with a matching noun where one exists, which keeps the system regular. The construct state is not used for them. See [[Design Philosophy#Word order and prepositions]].*
 
-Middle Semitic has eight "small" prepositions, which take pronominal suffixes and so "conjugate" (*ʿalnî* 'upon me'), and a set of **long prepositions**, the place words ([[Lexicon/ܩܕܡ|ܩܕܡ]] *qadam* 'before', [[Lexicon/ܬܚܬ|ܬܚܬ]] *taḥat* 'under', [[Lexicon/ܐܚܪ|ܐܚܪ]] *ʾaḥar* 'behind', [[Lexicon/ܒܥܕ|ܒܥܕ]] *baʿad* 'after', [[Lexicon/ܥܕ|ܥܕ]] *ʿad* 'until', [[Lexicon/ܚܘܠ|ܚܘܠ]] *ḥawal* 'around', [[Lexicon/ܒܠܐ|ܒܠܐ]] *bilâ* 'without'), which are free words that conjugate the same way. Each inflected form is a lexicon entry of its own; the full paradigms are in [[Morphosyntax]].
+Middle Semitic has eight "small" prepositions, which take pronominal suffixes and so "conjugate" (*ʿalnî* 'upon me'), and a set of **long prepositions**, the place words ([[Lexicon/ܩܕܡ|ܩܕܡ]] *qadam* 'before', [[Lexicon/ܬܚܬ|ܬܚܬ]] *taḥat* 'under', [[Lexicon/ܐܚܪ|ܐܚܪ]] *ʾaḥar* 'behind', [[Lexicon/ܒܥܕ|ܒܥܕ]] *baʿad* 'after', [[Lexicon/ܥܕ|ܥܕ]] *ʿad* 'until', [[Lexicon/ܚܘܠ|ܚܘܠ]] *ḥawal* 'around', [[Lexicon/ܒܠܐ|ܒܠܐ]] *bilâ* 'without', [[Lexicon/ܩܪܒ 2|ܩܪܒ]] *qurab* 'near'), which are free words that conjugate the same way. Each inflected form is a lexicon entry of its own; the full paradigms are in [[Morphosyntax]].
 
 ## The eight
 
@@ -34,6 +34,7 @@ The place words are free words with their own stress. Each takes the suffixes st
 | [[Lexicon/ܥܕ\|ܥܕ]] | ʿad | until, up to | עַד / عَتَّى | [[Lexicon/ܥܕܢܝ\|ܥܕܢܝ]] *ʿadnî* | none yet |
 | [[Lexicon/ܚܘܠ\|ܚܘܠ]] | ḥawal | around | חוּל (verb) / حَوْلَ | [[Lexicon/ܚܘܠܢܝ\|ܚܘܠܢܝ]] *ḥawalnî* | none (ܚܘܠܐ is 'sand') |
 | [[Lexicon/ܒܠܐ\|ܒܠܐ]] | bilâ | without | בְּלֹא / بِلَا | [[Lexicon/ܒܠܐܢܝ\|ܒܠܐܢܝ]] *bilânî* | none (*bi-* + *lâ*) |
+| [[Lexicon/ܩܪܒ 2\|ܩܪܒ]] | qurab | near, beside | קָרוֹב / قُرْبَ | [[Lexicon/ܩܪܒܢܝ\|ܩܪܒܢܝ]] *qurabnî* | [[Lexicon/ܩܪܒܐ\|ܩܪܒܐ]] *qurbâ* 'nearness' |
 
 ## Contrasts
 
