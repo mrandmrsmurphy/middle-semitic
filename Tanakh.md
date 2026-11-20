@@ -233,9 +233,9 @@ Every word is an existing MS entry. "Before me" is the long preposition ܩܕܡ *
 
 *You shall not make for yourself a carved image, or any likeness of what is in the heavens above, or on the earth beneath, or in the waters under the earth.*
 
-**Middle Semitic:** ܠܐ ܬܦܥܠ ܠܟܐ ܨܠܡܐ ܘܟܘܠ ___ ܠܝܕ ܝܫ ܦܗܠ ܣܡܝ ܡܢ ܥܠܐ ܘܠܝܕ ܝܫ ܦܗܠ ܐܪܨܐ ܡܢ ܬܚܬܐ ܘܠܝܕ ܝܫ ܦܗܠ ܡܝܐ ܬܚܬ ܗܠ ܐܪܨܐ
+**Middle Semitic:** ܠܐ ܬܦܥܠ ܠܟܐ ܨܠܡܐ ܘܟܘܠ ܨܘܪܬܐ ܠܝܕ ܝܫ ܦܗܠ ܣܡܝ ܡܢ ܥܠܐ ܘܠܝܕ ܝܫ ܦܗܠ ܐܪܨܐ ܡܢ ܬܚܬܐ ܘܠܝܕ ܝܫ ܦܗܠ ܡܝܐ ܬܚܬ ܗܠ ܐܪܨܐ
 
-*lâ tapʿal likâ ṣalmâ wa-kôl ___ lîd yiš pi-hal samê min ʿalâ wa-lîd yiš pi-hal arṣâ min taḥtâ wa-lîd yiš pi-hal mayâ taḥat hal arṣâ*
+*lâ tapʿal likâ ṣalmâ wa-kôl ṣûrtâ lîd yiš pi-hal samê min ʿalâ wa-lîd yiš pi-hal arṣâ min taḥtâ wa-lîd yiš pi-hal mayâ taḥat hal arṣâ*
 
 **Aramaic (Syriac Peshitta):** ܠܐ ܬܥܒܕ ܠܟ ܟܠ ܨܠܡ ܘܟܠ ܕܡܘ. ܕܐܝܬ ܒܫܡܝܐ ܡܢ ܠܥܠ ܘܕܐܝܬ ܒܐܪܥܐ ܡܢ ܠܬܚܬ. ܘܕܐܝܬ ܒܡܝܐ ܠܬܚܬ ܡܢ ܐܪܥܐ ([ETCBC](https://github.com/ETCBC/peshitta/blob/master/plain/0.1/Exodus.txt), vowel points removed)
 
@@ -243,14 +243,14 @@ Every word is an existing MS entry. "Before me" is the long preposition ܩܕܡ *
 
 *lā taṣnaʿ laka timthālan manḥūtan, wa-lā ṣūratan mā mimmā fī s-samāʾi min fawqu, wa-mā fī l-arḍi min taḥtu, wa-mā fī l-māʾi min taḥti l-arḍi*
 
-One blank is left for a decision; every other word is an existing MS entry. "Make" is ܦܥܠ *paʿal* (Hebrew עָשָׂה, Arabic *ṣanaʿa*, the Peshitta's ܥܒܕ; the root P-ʿ-L is the one that means "do, make" across the branches); the prohibition is ܠܐ + the non-past 2ms *tapʿal*. The blank is "likeness" (Hebrew תְּמוּנָה); the candidates already in the lexicon are ܨܘܪܬܐ "form, image", ܕܡܝ "effigy, statue" and ܡܫܠܐ "representation". "Above" is the noun ܥܠܐ *ʿalâ* after *min* (*min ʿalâ*, "from above"), and "beneath" is ܬܚܬܐ *taḥtâ* (*min taḥtâ*): a preposition that follows another preposition reverts to its noun form, with final *-â*. The Hebrew "carved image" (פֶסֶל) is ܨܠܡܐ, whose gloss includes it. "What is in the sky" has no verb in the Hebrew; MS uses the existence particle *yiš* as the Peshitta uses ܐܝܬ. The relative *lîd* standing alone for "that which" is my reading of the rules, as is *kôl* before a singular noun and the clitic *pi-* fused to *hal* (*pi-hal*). "Sky" is the singular ܣܡܝ as in Gen 1:28, "water" the singular ܡܝܐ as in the Arabic, and "under the earth" is the long preposition ܬܚܬ with a noun object. "The heavens" is plural in Hebrew; Gen 1:1 uses the plural ܣܡܝܡ.
+Every word is an existing MS entry. "Make" is ܦܥܠ *paʿal* (Hebrew עָשָׂה, Arabic *ṣanaʿa*, the Peshitta's ܥܒܕ; the root P-ʿ-L is the one that means "do, make" across the branches); the prohibition is ܠܐ + the non-past 2ms *tapʿal*. "Likeness" (Hebrew תְּמוּנָה) is ܨܘܪܬܐ *ṣûrtâ* "form, image": the Peshitta's ܕܡܘ (D-M-Y) is Aramaic only, Arabic's *timthāl* is M-Ṯ-L, and Ṣ-W-R is the one candidate root found in all three Exodus texts (Arabic *ṣūra* in this verse; Hebrew *wayyāṣar*, Aramaic *ṣar* and Arabic *ṣawwarahu* "fashioned" at 32:4, where Hebrew's root is spelled Y-Ṣ-R and the relation is not verified). "Above" is the noun ܥܠܐ *ʿalâ* after *min* (*min ʿalâ*, "from above"), and "beneath" is ܬܚܬܐ *taḥtâ* (*min taḥtâ*): a preposition that follows another preposition reverts to its noun form, with final *-â*. The Hebrew "carved image" (פֶסֶל) is ܨܠܡܐ, whose gloss includes it. "What is in the sky" has no verb in the Hebrew; MS uses the existence particle *yiš* as the Peshitta uses ܐܝܬ. The relative *lîd* standing alone for "that which" is my reading of the rules, as is *kôl* before a singular noun and the clitic *pi-* fused to *hal* (*pi-hal*). "Sky" is the singular ܣܡܝ as in Gen 1:28, "water" the singular ܡܝܐ as in the Arabic, and "under the earth" is the long preposition ܬܚܬ with a noun object. "The heavens" is plural in Hebrew; Gen 1:1 uses the plural ܣܡܝܡ.
 
 | Hebrew | Arabic | Aramaic | Middle Semitic |
 | --- | --- | --- | --- |
 | לֹא־תַעֲשֶׂה 'you shall not make' | لَا تَصْنَعْ | ܠܐ ܬܥܒܕ | [[Lexicon/ܠܐ\|ܠܐ]] *lâ* + [[Lexicon/ܦܥܠ\|ܦܥܠ]] non-past 2ms *tapʿal* |
 | לְךָ 'for yourself' | لَكَ | ܠܟ | [[Lexicon/ܠܟܐ\|ܠܟܐ]] *likâ* |
 | פֶסֶל 'carved image' | تِمْثَالًا مَنْحُوتًا | ܨܠܡ | [[Lexicon/ܨܠܡܐ\|ܨܠܡܐ]] *ṣalmâ* |
-| וְכָל־תְּמוּנָה 'and any likeness' | وَلَا صُورَةً | ܘܟܠ ܕܡܘ | [[Lexicon/ܘ\|ܘ]] *wa-* + [[Lexicon/ܟܘܠ\|ܟܘܠ]] *kôl* + ___ (blank: "likeness") |
+| וְכָל־תְּמוּנָה 'and any likeness' | وَلَا صُورَةً | ܘܟܠ ܕܡܘ | [[Lexicon/ܘ\|ܘ]] *wa-* + [[Lexicon/ܟܘܠ\|ܟܘܠ]] *kôl* + [[Lexicon/ܨܘܪܬܐ\|ܨܘܪܬܐ]] *ṣûrtâ* |
 | אֲשֶׁר 'that which' | مِمَّا | ܕ | [[Lexicon/ܠܝܕ\|ܠܝܕ]] *lîd* |
 | (is) | فِي | ܐܝܬ | [[Lexicon/ܝܫ\|ܝܫ]] *yiš* |
 | בַּשָּׁמַיִם 'in the heavens' | فِي ٱلسَّمَاءِ | ܒܫܡܝܐ | [[Lexicon/ܦ\|ܦ]] *pi-* + [[Lexicon/ܗܠ\|ܗܠ]] *hal* + [[Lexicon/ܣܡܝ\|ܣܡܝ]] *samê* |
@@ -259,6 +259,39 @@ One blank is left for a decision; every other word is an existing MS entry. "Mak
 | מִתָּחַת 'from beneath' | مِنْ تَحْتُ | ܡܢ ܠܬܚܬ | [[Lexicon/ܡܢ\|ܡܢ]] *min* + [[Lexicon/ܬܚܬܐ\|ܬܚܬܐ]] *taḥtâ* |
 | בַּמַּיִם 'in the water' | فِي ٱلْمَاءِ | ܒܡܝܐ | [[Lexicon/ܦ\|ܦ]] *pi-* + [[Lexicon/ܗܠ\|ܗܠ]] *hal* + [[Lexicon/ܡܝܐ\|ܡܝܐ]] *mayâ* |
 | מִתַּחַת לָאָרֶץ 'under the earth' | مِنْ تَحْتِ ٱلْأَرْضِ | ܠܬܚܬ ܡܢ ܐܪܥܐ | [[Lexicon/ܬܚܬ\|ܬܚܬ]] *taḥat* + [[Lexicon/ܗܠ\|ܗܠ]] *hal* + [[Lexicon/ܐܪܨܐ\|ܐܪܨܐ]] *arṣâ* |
+
+### Exodus 20:5
+
+לֹא־תִשְׁתַּחֲוֶה לָהֶם וְלֹא תָעָבְדֵם כִּי אָנֹכִי יְהוָה אֱלֹהֶיךָ אֵל קַנָּא פֹּקֵד עֲוֺן אָבֹת עַל־בָּנִים עַל־שִׁלֵּשִׁים וְעַל־רִבֵּעִים לְשֹׂנְאָי
+
+*You shall not bow down to them or serve them. For I the LORD your God am a jealous God, visiting the guilt of the fathers upon the children, upon the third and upon the fourth generations of those who hate me,*
+
+**Middle Semitic:** ܠܐ ___ ܠܗܘܡ ܘܠܐ ___ܗܘܡ ܥܠܐܢ ܐܢܐ ܐܕܘܢܝ ܐܝܠܗܟܐ ܐܝܠܗܐ ___ ___ ___ ܕܠ ܐܒܝܢ ܥܠ ܒܝܢܝܢ ܥܠ ___ ܘܥܠ ___ ___ ܠ___
+
+*lâ ___ lahûm wa-lâ ___hûm ʿal.ʾan anâ adônî êlahkâ êlhâ ___ ___ ___ dal abîn ʿal bênîn ʿal ___ wa-ʿal ___ ___ li-___*
+
+**Aramaic (Syriac Peshitta):** ܠܐ ܬܣܓܘܕ ܠܗܘܢ ܘܠܐ ܬܦܠܘܚ ܐܢܘܢ . ܡܛܠ ܕܐܢܐ ܐܢܐ ܡܪܝܐ ܐܠܗܟ. ܐܠܗܐ ܛܢܢܐ. ܦܪܥ ܚܘܒܐ ܕܐܒܗܐ ܥܠ ܒܢܝܐ. ܥܠ ܬܠܬܐ ܘܥܠ ܐܪܒܥܐ ܕܪܝܢ ܠܣܢܐܝ ([ETCBC](https://github.com/ETCBC/peshitta/blob/master/plain/0.1/Exodus.txt), vowel points removed)
+
+**Arabic (Smith–Van Dyck):** لَا تَسْجُدْ لَهُنَّ وَلَا تَعْبُدْهُنَّ، لِأَنِّي أَنَا ٱلرَّبَّ إِلَهَكَ إِلَهٌ غَيُورٌ، أَفْتَقِدُ ذُنُوبَ ٱلْآبَاءِ فِي ٱلْأَبْنَاءِ فِي ٱلْجِيلِ ٱلثَّالِثِ وَٱلرَّابِعِ مِنْ مُبْغِضِيَّ، ([getBible](https://api.getbible.net/v2/arabicsv/2/20.json))
+
+Known words are filled in; the rest are blanks for decisions. "To them" is ܠܗܘܡ and "because" is the conjunction ܥܠܐܢ (Hebrew כִּי, Peshitta ܡܛܠ ܕ-). The Hebrew copula-less "I am the LORD your God" is as in 20:2, and "the fathers" is the plural ܐܒܝܢ, "the children" the plural ܒܝܢܝܢ of ܒܝܢܐ "son", joined by the *dal* genitive and ܥܠ- "upon". The blanks are: (1) "bow down" (Hebrew שָׁחָה in the Hishtaphel; Aramaic and Arabic share S-G-D / S-J-D, *sajada*, which also occurs in Hebrew as סָגַד in Isaiah and Daniel); (2) "serve" (Hebrew and Arabic ʿ-B-D; the Peshitta has ܦܠܚ *pləḥ*; ʿ-B-D is the root of the noun ܥܒܕܐ "slave"), with the object suffix *-hûm* on the verb; (3) "jealous" (Hebrew קַנָּא Q-N-ʾ, Aramaic ܛܢܢܐ Ṭ-N-N, Arabic غَيُور Ġ-Y-R); (4) "visiting" (Hebrew פָּקַד P-Q-D, Arabic *ʾaftaqidu*, from F-Q-D; the Peshitta has ܦܪܥ "repays"), here a participle; (5) "guilt, iniquity" (Hebrew עָוֺן, Arabic *ḏunūb* "sins", Aramaic ܚܘܒܐ "debts"; the lexicon's ܚܛܐܐ "sin" is a candidate, as the Arabic does); (6) "third" and "fourth" (Hebrew שִׁלֵּשִׁים and רִבֵּעִים are ordinal plurals; the Peshitta uses the cardinals ܬܠܬܐ and ܐܪܒܥܐ; Arabic has the ordinals; MS has no ordinal rule yet) and (7) "generation" (Aramaic ܕܪܝܢ, Arabic *jīl*; MS has no word; the Hebrew has none here and leaves it implied); (8) "those who hate me" (Hebrew שֹׂנְאָי, Arabic *mubghiḍī*, Peshitta ܣܢܐܝ), a participle with a suffix and *li-*. Reading flagged as mine: "God" ܐܝܠܗܐ followed by its adjective, the adjective after its noun as elsewhere.
+
+| Hebrew | Arabic | Aramaic | Middle Semitic |
+| --- | --- | --- | --- |
+| לֹא־תִשְׁתַּחֲוֶה 'you shall not bow down' | لَا تَسْجُدْ | ܠܐ ܬܣܓܘܕ | [[Lexicon/ܠܐ\|ܠܐ]] *lâ* + ___ (blank: "bow down") |
+| לָהֶם 'to them' | لَهُنَّ | ܠܗܘܢ | [[Lexicon/ܠܗܘܡ\|ܠܗܘܡ]] *lahûm* |
+| וְלֹא תָעָבְדֵם 'and you shall not serve them' | وَلَا تَعْبُدْهُنَّ | ܘܠܐ ܬܦܠܘܚ ܐܢܘܢ | [[Lexicon/ܘ\|ܘ]] *wa-* + [[Lexicon/ܠܐ\|ܠܐ]] *lâ* + ___ (blank: "serve") + [[Lexicon/-ܗܘܡ\|-ܗܘܡ]] *-hûm* |
+| כִּי 'because' | لِأَنِّي | ܡܛܠ ܕ | [[Lexicon/ܥܠܐܢ\|ܥܠܐܢ]] *ʿal.ˈʾan* |
+| אָנֹכִי יְהוָה אֱלֹהֶיךָ 'I the LORD your God' | أَنَا ٱلرَّبَّ إِلَهَكَ | ܐܢܐ ܡܪܝܐ ܐܠܗܟ | [[Lexicon/ܐܢܐ\|ܐܢܐ]] *anâ* + [[Lexicon/ܐܕܘܢܝ\|ܐܕܘܢܝ]] *adônî* + [[Lexicon/ܐܝܠܗܐ\|ܐܝܠܗܐ]] + [[Lexicon/-ܟܐ\|-ܟܐ]] *êlahkâ* |
+| אֵל 'God' | إِلَهٌ | ܐܠܗܐ | [[Lexicon/ܐܝܠܗܐ\|ܐܝܠܗܐ]] *êlhâ* |
+| קַנָּא 'jealous' | غَيُورٌ | ܛܢܢܐ | ___ (blank: "jealous") |
+| פֹּקֵד 'visiting' | أَفْتَقِدُ | ܦܪܥ | ___ (blank: "visits", participle) |
+| עֲוֺן 'guilt' | ذُنُوبَ | ܚܘܒܐ | ___ (blank: "guilt, iniquity"; candidate [[Lexicon/ܚܛܐܐ\|ܚܛܐܐ]] *ḥaṭʾâ* "sin") |
+| אָבֹת 'of the fathers' | ٱلْآبَاءِ | ܕܐܒܗܐ | [[Lexicon/ܕܠ\|ܕܠ]] *dal* + [[Lexicon/ܐܒܐ\|ܐܒܐ]] plural *abîn* |
+| עַל־בָּנִים 'upon the children' | فِي ٱلْأَبْنَاءِ | ܥܠ ܒܢܝܐ | [[Lexicon/ܥܠ-\|ܥܠ-]] *ʿal* + [[Lexicon/ܒܝܢܐ\|ܒܝܢܐ]] plural *bênîn* |
+| עַל־שִׁלֵּשִׁים 'upon the third (generation)' | فِي ٱلْجِيلِ ٱلثَّالِثِ | ܥܠ ܬܠܬܐ | ܥܠ + ___ (blank: "third") |
+| וְעַל־רִבֵּעִים 'and upon the fourth' | وَٱلرَّابِعِ | ܘܥܠ ܐܪܒܥܐ ܕܪܝܢ | ܘܥܠ + ___ (blank: "fourth"), ___ (blank: "generation") |
+| לְשֹׂנְאָי 'of those who hate me' | مِنْ مُبْغِضِيَّ | ܠܣܢܐܝ | [[Lexicon/ܠ-\|ܠ-]] *li-* + ___ (blank: "those who hate me") |
 
 ## Vayikra
 

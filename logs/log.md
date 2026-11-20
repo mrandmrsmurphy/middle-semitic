@@ -358,3 +358,9 @@ Append-only. Never edit past entries.
 
 ## 2026-11-19 — stacking prepositions: "from above" = min ʿalâ
 - User asked whether two prepositions can combine for "from above" (Hebrew mēʿal/mittaḥat do); ruled that the second preposition reverts to its noun form, with final -â. Recorded as "Stacking" in Morphosyntax.md and Prepositions.md. Created noun ܥܠܐ ˈʿa.lâ "the above, the upper side, the top" (masc., root ܥ-ܠ-ܝ; Hebrew מַעַל, Arabic عُلُوّ, Aramaic ܥܠܐ; plain stem + -â, without the III-yod y — Claude's reading of "final a", to confirm). Exodus 20:4 now has ܡܢ ܥܠܐ and ܡܢ ܬܚܬܐ; one blank left ("likeness"). Consequence flagged: prepositions without a noun (ܩܕܡ, ܐܚܪ, ܥܕ, ܚܘܠ, ܛܘܠ, ܒܠܐ, ʿim, bên, the clitics) cannot yet be stacked.
+
+## 2026-11-19 — Exodus 20:4: "likeness" = ܨܘܪܬܐ
+- Searched all of Exodus (Hebrew, Peshitta, Arabic SVD) for ܨ-ܘ-ܪ, ܕ-ܡ-ܝ, ܡ-ܫ-ܠ: Ṣ-W-R is the only one in all three (Arabic ṣūra 20:4, ṣawwarahu 32:4; Peshitta ṣayyār 28:39 etc., ṣar 32:4; Hebrew has Y-Ṣ-R in 32:4, relation unverified); D-M-Y is the Peshitta's (20:4, 25:9, 25:40, 30:32, 30:37); M-Ṯ-L is Arabic's (timthāl 20:4, mithāl 25:9/40, mithl "like"). Hebrew uses təmûnâ (T-M-N, no MS word) and tavnît (25:9, 25:40). User approved ܨܘܪܬܐ. Exodus 20:4 now has no blanks.
+
+## 2026-11-19 — Exodus 20:5 (with blanks)
+- Added Exodus 20:5 to Tanakh.md (Hebrew Sefaria, Arabic getBible, Peshitta ETCBC; the Peshitta wraps the verse over two lines). Known: ܠܐ, ܠܗܘܡ, ܥܠܐܢ "because", ܐܢܐ ܐܕܘܢܝ ܐܝܠܗܟܐ, ܐܝܠܗܐ, ܕܠ, ܐܒܝܢ, ܥܠ-, ܒܝܢܝܢ, ܘ, ܠ-. Blanks: bow down (S-G-D/S-J-D), serve (ʿ-B-D; Peshitta P-L-Ḥ), jealous (Q-N-ʾ, Ṭ-N-N, Ġ-Y-R), visit (P-Q-D/F-Q-D), guilt (ʿ-W-N; candidate ܚܛܐܐ), third/fourth (no ordinal rule; Peshitta uses cardinals), generation (dôr/jīl), those who hate me (Š-N-ʾ/S-N-ʾ). Order of the line is Claude's reading and flagged.
