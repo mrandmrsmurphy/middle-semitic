@@ -340,3 +340,12 @@ Append-only. Never edit past entries.
 
 ## 2026-11-19 — "near" (Q-R-B)
 - User: make the QRB preposition. Created long preposition ܩܪܒ 2 (file "ܩܪܒ 2", homograph of the verb ܩܪܒ) qu.ˈrab "near, close to, beside" (Arabic قُرْبَ verified; Hebrew gives the adjective קָרוֹב + li- and noun קֶרֶב "midst"), with 8 suffixed forms (ܩܪܒܢܝ…ܩܪܒܗܘܡ, e.g. qu.ˈrab.nî) and noun ܩܪܒܐ ˈqur.bâ "nearness, the vicinity"; root ܩ-ܪ-ܒ now 4 words. Competing ʾēṣel, ʿinda, ladā, bi-jānib not used. Prepositions.md and Morphosyntax.md tables updated. No changes made to ܐܢ or ʿad ʾan fusion (user: leave as is).
+
+## 2026-11-19 — "across, beyond, through" (ʿ-B-R)
+- Options shown (ʿ-B-R one word; ʿ-B-R + Ḫ-L-L; + W-R-ʾ); user chose A. Created long preposition "ܥܒܪ 2" ʿa.ˈbar "across, beyond, through" (Hebrew עֵבֶר, Arabic عَبْرَ verified, Aramaic ܥܒܪ, Ugaritic ʿbr; homograph/homophone of the verb ܥܒܪ), 8 suffixed forms (ܥܒܪܢܝ…ܥܒܪܗܘܡ), noun ܥܒܪܐ ˈʿab.râ "the other side, the far bank, the region beyond"; root ܥ-ܒ-ܪ extended. "Beyond" = min ʿabar. Not used: warāʾa (W-R-ʾ), ḫilāla (Ḫ-L-L, kept for a future "during"). Prepositions.md and Morphosyntax.md tables updated.
+
+## 2026-11-19 — "according to" = ki-
+- User ruled "according to" should just be ki-. Widened gloss of Lexicon/ܟ to "like, as, according to" with a Notes sentence (Hebrew כְּ־, Arabic كَـ); Prepositions.md table row and the ʿim/ki-/bên contrast updated. No new word coined.
+
+## 2026-11-19 — "during / throughout" (Ṭ-W-L)
+- "During" surveyed (bə-, bəmešekh, ʿad, ṭawāla, ḫilāla, ʾaṯnāʾa, muddata); recommendation was to widen ʿad, but user chose Ṭ-W-L as "as long as, during, throughout, (for the length of)", with pi- as the plain "in, within". Created long preposition ܛܘܠ ṭa.ˈwâl (Arabic طَوَالَ; Hebrew none, uses ʾ-R-K) with 8 suffixed forms (ܛܘܠܢܝ…ܛܘܠܗܘܡ), added to root ܛ-ܘ-ܠ. Form is Claude's choice, not the user's: ṭawâl with consonantal w (no aw→ô contraction, internal â unwritten), not ṭôl. No noun (ܛܘܠܐ clash with the adjective "long"). "As long as" + clause not ruled. Tables updated.

@@ -4,7 +4,7 @@
 
 *Rationale: Hebrew, Arabic and Aramaic all inflect a core set of short prepositions with pronominal suffixes, so those eight small prepositions are the shared core. They also inflect their place words (Hebrew *taḥtāy*, Arabic *taḥtī*, "under me"), because each is a noun used as a preposition; MS makes those place words long prepositions that take the same suffixes, each with a matching noun where one exists, which keeps the system regular. The construct state is not used for them. See [[Design Philosophy#Word order and prepositions]].*
 
-Middle Semitic has eight "small" prepositions, which take pronominal suffixes and so "conjugate" (*ʿalnî* 'upon me'), and a set of **long prepositions**, the place words ([[Lexicon/ܩܕܡ|ܩܕܡ]] *qadam* 'before', [[Lexicon/ܬܚܬ|ܬܚܬ]] *taḥat* 'under', [[Lexicon/ܐܚܪ|ܐܚܪ]] *ʾaḥar* 'behind', [[Lexicon/ܒܥܕ|ܒܥܕ]] *baʿad* 'after', [[Lexicon/ܥܕ|ܥܕ]] *ʿad* 'until', [[Lexicon/ܚܘܠ|ܚܘܠ]] *ḥawal* 'around', [[Lexicon/ܒܠܐ|ܒܠܐ]] *bilâ* 'without', [[Lexicon/ܩܪܒ 2|ܩܪܒ]] *qurab* 'near'), which are free words that conjugate the same way. Each inflected form is a lexicon entry of its own; the full paradigms are in [[Morphosyntax]].
+Middle Semitic has eight "small" prepositions, which take pronominal suffixes and so "conjugate" (*ʿalnî* 'upon me'), and a set of **long prepositions**, the place words ([[Lexicon/ܩܕܡ|ܩܕܡ]] *qadam* 'before', [[Lexicon/ܬܚܬ|ܬܚܬ]] *taḥat* 'under', [[Lexicon/ܐܚܪ|ܐܚܪ]] *ʾaḥar* 'behind', [[Lexicon/ܒܥܕ|ܒܥܕ]] *baʿad* 'after', [[Lexicon/ܥܕ|ܥܕ]] *ʿad* 'until', [[Lexicon/ܚܘܠ|ܚܘܠ]] *ḥawal* 'around', [[Lexicon/ܒܠܐ|ܒܠܐ]] *bilâ* 'without', [[Lexicon/ܩܪܒ 2|ܩܪܒ]] *qurab* 'near', [[Lexicon/ܥܒܪ 2|ܥܒܪ]] *ʿabar* 'across', [[Lexicon/ܛܘܠ|ܛܘܠ]] *ṭawâl* 'throughout'), which are free words that conjugate the same way. Each inflected form is a lexicon entry of its own; the full paradigms are in [[Morphosyntax]].
 
 ## The eight
 
@@ -13,7 +13,7 @@ Middle Semitic has eight "small" prepositions, which take pronominal suffixes an
 | [[Lexicon/ܠ-\|ܠ-]]   | li-   | for, to  | ל־ / لِـ      | [[Lexicon/ܠܢܝ\|ܠܢܝ]] *linî*      | clitic                                    |
 | [[Lexicon/ܒ\|ܒ]]     | bi-   | at, on   | בְּ־ / بِـ    | [[Lexicon/ܒܢܝ 2\|ܒܢܝ 2]] *binî*  | clitic                                    |
 | [[Lexicon/ܦ\|ܦ]]     | pi-   | in       | (בְּ־ / فِي)  | [[Lexicon/ܦܢܝ\|ܦܢܝ]] *pinî*      | clitic                                    |
-| [[Lexicon/ܟ\|ܟ]]     | ki-   | like     | כְּ־ / كَـ    | [[Lexicon/ܟܢܝ\|ܟܢܝ]] *kinî*      | clitic                                    |
+| [[Lexicon/ܟ\|ܟ]]     | ki-   | like, as, according to | כְּ־ / كَـ    | [[Lexicon/ܟܢܝ\|ܟܢܝ]] *kinî*      | clitic                                    |
 | [[Lexicon/ܡܢ\|ܡܢ]]   | min   | from     | מִן / مِن     | [[Lexicon/ܡܢܢܝ\|ܡܢܢܝ]] *minnî*   | free word, clitic [[Lexicon/ܡ\|ܡ-]] *mi-* |
 | [[Lexicon/ܥܠ-\|ܥܠ-]] | ʿal-  | on, upon, over, above | עַל / عَلَى   | [[Lexicon/ܥܠܢܝ\|ܥܠܢܝ]] *ʿalnî*   | free word, clitic [[Lexicon/ܥ\|ܥ-]] *ʿa-* |
 | [[Lexicon/ܥܡ\|ܥܡ]]   | ʿim   | with     | עִם / مَعَ    | [[Lexicon/ܥܡܢܝ\|ܥܡܢܝ]] *ʿimnî*   | free word                                 |
@@ -35,12 +35,14 @@ The place words are free words with their own stress. Each takes the suffixes st
 | [[Lexicon/ܚܘܠ\|ܚܘܠ]] | ḥawal | around | חוּל (verb) / حَوْلَ | [[Lexicon/ܚܘܠܢܝ\|ܚܘܠܢܝ]] *ḥawalnî* | none (ܚܘܠܐ is 'sand') |
 | [[Lexicon/ܒܠܐ\|ܒܠܐ]] | bilâ | without | בְּלֹא / بِلَا | [[Lexicon/ܒܠܐܢܝ\|ܒܠܐܢܝ]] *bilânî* | none (*bi-* + *lâ*) |
 | [[Lexicon/ܩܪܒ 2\|ܩܪܒ]] | qurab | near, beside | קָרוֹב / قُرْبَ | [[Lexicon/ܩܪܒܢܝ\|ܩܪܒܢܝ]] *qurabnî* | [[Lexicon/ܩܪܒܐ\|ܩܪܒܐ]] *qurbâ* 'nearness' |
+| [[Lexicon/ܥܒܪ 2\|ܥܒܪ]] | ʿabar | across, beyond, through | עֵבֶר / عَبْرَ | [[Lexicon/ܥܒܪܢܝ\|ܥܒܪܢܝ]] *ʿabarnî* | [[Lexicon/ܥܒܪܐ\|ܥܒܪܐ]] *ʿabrâ* 'the other side' |
+| [[Lexicon/ܛܘܠ\|ܛܘܠ]] | ṭawâl | throughout, during, for the length of | — / طَوَالَ | [[Lexicon/ܛܘܠܢܝ\|ܛܘܠܢܝ]] *ṭawâlnî* | none (ܛܘܠܐ is 'long') |
 
 ## Contrasts
 
 **Location: *pi-* vs *bi-* vs *ʿal-*.** *pi-* is containment ('in Madrid', 'in the house'); *bi-* is contact or point location ('at the door', 'on the table'); *ʿal-* is 'on, upon, over, above': contact, support and superposition alike. *bi-* and *ʿal-* overlap on 'on'. *bi-* is the near, neutral 'on/at'; *ʿal-* is the word for 'over' and 'above' as well.
 
-**Accompaniment and likeness: *ʿim* vs *ki-* vs *bên*.** *ʿim* is accompaniment ('with him'); *ki-* is comparison ('like him'): the same person, but together versus resembling. *bên* is 'between', location relative to two or more.
+**Accompaniment and likeness: *ʿim* vs *ki-* vs *bên*.** *ʿim* is accompaniment ('with him'); *ki-* is comparison ('like him', 'as', 'according to'): the same person, but together versus resembling. *bên* is 'between', location relative to two or more.
 
 **Source vs goal: *min* vs *li-*.** *min* is the source or starting point ('from Madrid'); *li-* is the goal, recipient or beneficiary ('to Madrid', 'for her'). They are the two ends of motion and transfer.
 
