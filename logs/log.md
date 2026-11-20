@@ -331,3 +331,6 @@ Append-only. Never edit past entries.
 
 ## 2026-11-19 — "until"
 - Sampler shown (ʿ-D vs Ḥ-T-Y vs ʾ-L vs Ḥ-D-D); user approved ʿ-D. Created long preposition ܥܕ ʿad (Hebrew עַד, Arabic عَتَّى variant, Aramaic ܥܕ, Ugaritic ʿd, Akkadian adi) with 8 suffixed forms (ܥܕܢܝ…ܥܕܗܘܡ, stressed ˈʿad.nî etc.), root ܥ-ܕ-ܝ (size 1; ʿ-D-Y spelling assumed from the "pass on" verb, unverified). No noun; clause use ("ʿad ʾan") not yet ruled. Prepositions.md and Morphosyntax.md tables updated; to-coin list now: around, without.
+
+## 2026-11-19 — "around"
+- Survey shown (S-B-B savîv, Ḥ-W-L ḥawla, Ḥ-D-R, D-W-R); user approved Ḥ-W-L ("a little bit of conflict, but worth it": the root already holds ܚܘܠܐ "sand"). Created long preposition ܚܘܠ ḥa.ˈwal "around" (Arabic حَوْلَ; Hebrew חוּל verb) with 8 suffixed forms (ܚܘܠܢܝ…ܚܘܠܗܘܡ), added to root ܚ-ܘ-ܠ. No noun: the regular "surroundings" form would be spelled ܚܘܠܐ, same as "sand". Sand/around link not established. Tables updated; to-coin list now: without.
