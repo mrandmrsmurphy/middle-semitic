@@ -364,3 +364,15 @@ Append-only. Never edit past entries.
 
 ## 2026-11-19 — Exodus 20:5 (with blanks)
 - Added Exodus 20:5 to Tanakh.md (Hebrew Sefaria, Arabic getBible, Peshitta ETCBC; the Peshitta wraps the verse over two lines). Known: ܠܐ, ܠܗܘܡ, ܥܠܐܢ "because", ܐܢܐ ܐܕܘܢܝ ܐܝܠܗܟܐ, ܐܝܠܗܐ, ܕܠ, ܐܒܝܢ, ܥܠ-, ܒܝܢܝܢ, ܘ, ܠ-. Blanks: bow down (S-G-D/S-J-D), serve (ʿ-B-D; Peshitta P-L-Ḥ), jealous (Q-N-ʾ, Ṭ-N-N, Ġ-Y-R), visit (P-Q-D/F-Q-D), guilt (ʿ-W-N; candidate ܚܛܐܐ), third/fourth (no ordinal rule; Peshitta uses cardinals), generation (dôr/jīl), those who hate me (Š-N-ʾ/S-N-ʾ). Order of the line is Claude's reading and flagged.
+
+## 2026-11-19 — "serve": ܥܒܕ (ʿ-B-D)
+- User: re-use ʿ-B-D for "serve". Created verb ܥܒܕ ʿa.ˈbad "to serve, to work, to worship" on the root of ܥܒܕܐ "slave" (Hebrew עָבַד, Arabic عَبَدَ, Aramaic ܥܒܕ, Ugaritic ʿbd), root ܥ-ܒ-ܕ now size 2. Stems are Claude's proposal, not yet approved: G, Gp, C ("make serve, enslave", Hiphil/IV), Cp, tD (Arabic V "worship devoutly"); no D, Dp. The Aramaic "do, make" sense stays with ܦܥܠ. Exodus 20:5 now has ܬܥܒܕܗܘܡ; seven blanks remain.
+
+## 2026-11-19 — "bow down": ܣܓܕ (S-G-D)
+- User asked whether Aramaic S-G-D and Arabic S-J-D are the same root: yes (PS *g is MS ܓ in the chart; Wiktionary has the Arabic as a loan from Aramaic). Created verb ܣܓܕ sa.ˈgad "to bow down, to prostrate oneself, to worship" (Hebrew סָגַד, Arabic سَجَدَ, Aramaic סגד), root ܣ-ܓ-ܕ, G stem only (user: "just G for now"); no proto-semitic given. build_ms_stem_paradigms.py now appends the stem-* properties when the entry has no proto-semitic/swadesh/date-last-perfect key. Exodus 20:5 now has ܬܣܓܕ ܠܗܘܡ; six blanks remain.
+
+## 2026-11-19 — "visit": ܦܩܕ (P-Q-D)
+- User asked whether Hebrew P-Q-D and Arabic F-Q-D are the same root: yes (chart: PS *p is Hebrew פ, Arabic ف, MS ܦ). Created verb ܦܩܕ pa.ˈqad "to visit, to attend to, to call to account, to punish" (Hebrew פָּקַד, Arabic فَقَدَ, Aramaic פקד "command", Akkadian paqādu "entrust"), root ܦ-ܩ-ܕ, with all stems the user approved ("All you listed"): G, Gp ("be visited, be missed"), C ("appoint, put in charge"), D ("command, charge"); no Dp, Cp, tD. Exodus 20:5: the slot "visiting" now names ܦܩܕ but its form is undecided (Hebrew participle mapqad- vs Peshitta/Arabic finite yapqad); six blanks remain. A noun ܦܘܩܕܢܐ "command" is left for Exodus 20:6.
+
+## 2026-11-19 — end-of-session state
+- Saved "where we are" to AIOS/memory/project_middle_semitic_todo.md and the new stacking/preposition rulings to project_middle_semitic_grammar_rulings.md. Position: Tanakh.md Exodus 20:5 in progress, six blanks (jealous, form of "visiting", guilt, third/fourth, generation, "those who hate me").
