@@ -4,7 +4,7 @@
 
 *Rationale: Hebrew, Arabic and Aramaic all inflect a core set of short prepositions with pronominal suffixes, so those eight small prepositions are the shared core. They also inflect their place words (Hebrew *taḥtāy*, Arabic *taḥtī*, "under me"), because each is a noun used as a preposition; MS makes those place words long prepositions that take the same suffixes, each with a matching noun where one exists, which keeps the system regular. The construct state is not used for them. See [[Design Philosophy#Word order and prepositions]].*
 
-Middle Semitic has eight "small" prepositions, which take pronominal suffixes and so "conjugate" (*ʿalnî* 'upon me'), and a set of **long prepositions**, the place words ([[Lexicon/ܩܕܡ|ܩܕܡ]] *qadam* 'before', [[Lexicon/ܬܚܬ|ܬܚܬ]] *taḥat* 'under'), which are free words that conjugate the same way. Each inflected form is a lexicon entry of its own; the full paradigms are in [[Morphosyntax]].
+Middle Semitic has eight "small" prepositions, which take pronominal suffixes and so "conjugate" (*ʿalnî* 'upon me'), and a set of **long prepositions**, the place words ([[Lexicon/ܩܕܡ|ܩܕܡ]] *qadam* 'before', [[Lexicon/ܬܚܬ|ܬܚܬ]] *taḥat* 'under', [[Lexicon/ܐܚܪ|ܐܚܪ]] *ʾaḥar* 'behind', [[Lexicon/ܒܥܕ|ܒܥܕ]] *baʿad* 'after', [[Lexicon/ܥܕ|ܥܕ]] *ʿad* 'until'), which are free words that conjugate the same way. Each inflected form is a lexicon entry of its own; the full paradigms are in [[Morphosyntax]].
 
 ## The eight
 
@@ -29,6 +29,9 @@ The place words are free words with their own stress. Each takes the suffixes st
 | --- | --- | --- | --- | --- | --- |
 | [[Lexicon/ܩܕܡ\|ܩܕܡ]] | qadam | before, in front of | קֶדֶם / قُدَّامَ | [[Lexicon/ܩܕܡܢܝ\|ܩܕܡܢܝ]] *qadamnî* | none yet |
 | [[Lexicon/ܬܚܬ\|ܬܚܬ]] | taḥat | under, beneath | תַּחַת / تَحْتَ | [[Lexicon/ܬܚܬܢܝ\|ܬܚܬܢܝ]] *taḥatnî* | [[Lexicon/ܬܚܬܐ\|ܬܚܬܐ]] *taḥtâ* 'the underside' |
+| [[Lexicon/ܐܚܪ\|ܐܚܪ]] | ʾaḥar | behind | אַחַר / — | [[Lexicon/ܐܚܪܢܝ\|ܐܚܪܢܝ]] *ʾaḥarnî* | none yet |
+| [[Lexicon/ܒܥܕ\|ܒܥܕ]] | baʿad | after | בַּעַד / بَعْدَ | [[Lexicon/ܒܥܕܢܝ\|ܒܥܕܢܝ]] *baʿadnî* | [[Lexicon/ܒܥܕܐ\|ܒܥܕܐ]] *baʿdâ* 'distance' |
+| [[Lexicon/ܥܕ\|ܥܕ]] | ʿad | until, up to | עַד / عَتَّى | [[Lexicon/ܥܕܢܝ\|ܥܕܢܝ]] *ʿadnî* | none yet |
 
 ## Contrasts
 
@@ -50,7 +53,7 @@ Several words that English glosses with a preposition are not among the small or
 
 - [[Lexicon/ܐܝܠܐ|ܐܝܠܐ]] *ʾêllâ* 'except, excluding' (*if* + *not*) is a fixed compound that behaves as a preposition; [[Lexicon/ܐܝܠܐ 2|ܐܝܠܐ]] *ella* 'except, but' is the conjunction.
 - Subordinators: [[Lexicon/ܥܠܐܢ|ܥܠܐܢ]] *ʿal.ˈʾan* 'because' (*ʿal-* + *ʾan*), [[Lexicon/ܐܢ|ܐܢ]] *ʾan* 'that' (complementizer), [[Lexicon/ܟܝ|ܟܝ]] *kî* 'in order that', [[Lexicon/ܐܡ|ܐܡ]] *ʾam* 'if', and the relative pronoun [[Lexicon/ܠܝܕ|ܠܝܕ]] *lîd*. These join clauses and do not take suffixes.
-- Spatial and temporal relations beyond the eight and the long prepositions ('after', 'until', 'around', 'without') are to be coined as further long prepositions; none have been yet.
+- Spatial and temporal relations beyond the eight and the long prepositions ('around', 'without') are to be coined as further long prepositions; none have been yet.
 
 ## Open
 

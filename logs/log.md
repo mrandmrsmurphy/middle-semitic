@@ -325,3 +325,9 @@ Append-only. Never edit past entries.
 
 ## 2026-11-19 — "over/above" folded into ܥܠ-
 - Sampler for over/above shown; user ruled that Hebrew עַל and Arabic عَلَى already cover on/over/above, so no new word. Widened gloss of Lexicon/ܥܠ- to "on, upon, over, above" with a Notes row (branch vote; "more than" is min, not ʿal-). Prepositions.md wording updated; 'over' removed from the list of place words still to coin (now: after, until, around, without).
+
+## 2026-11-19 — "after" and "behind" (sense split)
+- User chose option 3: ʾ-Ḥ-R carries "behind" (place), B-ʿ-D carries "after" (time). Created long prepositions ܐܚܪ ʾa.ˈḥar (Arabic none; Ugaritic aḫr from vault) and ܒܥܕ ba.ˈʿad (Hebrew בַּעַד "behind/through/for", Arabic بَعْدَ) with 8 suffixed forms each (ܐܚܪܢܝ…, ܒܥܕܢܝ…), noun ܒܥܕܐ ˈbaʿ.dâ "distance" (Arabic buʿd), root page ܒ-ܥ-ܕ, root ܐ-ܚ-ܪ size 2. No noun for ܐܚܪ yet: the natural "back part" noun *ʾaḥrâ* would be spelled ܐܚܪܐ, identical to the adjective ܐܚܪܐ *ʾaḥêrâ* "other" (file name clash), left for the user. Prepositions.md and Morphosyntax.md tables updated; 'after' removed from the to-coin list (until, around, without remain). No proto-Semitic given for ܒܥܕ (not verified); outgroups unchecked for both.
+
+## 2026-11-19 — "until"
+- Sampler shown (ʿ-D vs Ḥ-T-Y vs ʾ-L vs Ḥ-D-D); user approved ʿ-D. Created long preposition ܥܕ ʿad (Hebrew עַד, Arabic عَتَّى variant, Aramaic ܥܕ, Ugaritic ʿd, Akkadian adi) with 8 suffixed forms (ܥܕܢܝ…ܥܕܗܘܡ, stressed ˈʿad.nî etc.), root ܥ-ܕ-ܝ (size 1; ʿ-D-Y spelling assumed from the "pass on" verb, unverified). No noun; clause use ("ʿad ʾan") not yet ruled. Prepositions.md and Morphosyntax.md tables updated; to-coin list now: around, without.

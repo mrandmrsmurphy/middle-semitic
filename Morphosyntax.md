@@ -19,7 +19,7 @@ Existence is expressed by two particles that do not inflect for person or number
 
 ## Prepositions
 
-There are eight “small” prepositions which “conjugate”, and a growing set of **long prepositions**, the place words ([[Lexicon/ܩܕܡ|ܩܕܡ]] *qadam* “before”, [[Lexicon/ܬܚܬ|ܬܚܬ]] *taḥat* “under”), which are free words that take the same suffixes. Each long preposition has a matching noun where one exists (ܬܚܬܐ *taḥtâ* “the underside”). The construct state is not used for prepositions. The rows for *mi-* and *ʿa-* are the clitic forms of *min* and *ʿal*. See [[Prepositions]] for the contrasts among them.
+There are eight “small” prepositions which “conjugate”, and a growing set of **long prepositions**, the place words ([[Lexicon/ܩܕܡ|ܩܕܡ]] *qadam* “before”, [[Lexicon/ܬܚܬ|ܬܚܬ]] *taḥat* “under”, [[Lexicon/ܐܚܪ|ܐܚܪ]] *ʾaḥar* “behind”, [[Lexicon/ܒܥܕ|ܒܥܕ]] *baʿad* “after”, [[Lexicon/ܥܕ|ܥܕ]] *ʿad* “until”), which are free words that take the same suffixes. Each long preposition has a matching noun where one exists (ܬܚܬܐ *taḥtâ* “the underside”). The construct state is not used for prepositions. The rows for *mi-* and *ʿa-* are the clitic forms of *min* and *ʿal*. See [[Prepositions]] for the contrasts among them.
 
 | | 1cs | 2ms | 2fs | 3ms | 3fs | 1cp | 2cp | 3cp |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -35,6 +35,9 @@ There are eight “small” prepositions which “conjugate”, and a growing se
 | [[Lexicon/ܒܝܢ\|ܒܝܢ]] / *bên* | [[Lexicon/ܒܝܢܢܝ\|ܒܝܢܢܝ]] *between me* | [[Lexicon/ܒܝܢܟܐ\|ܒܝܢܟܐ]] *between you* | [[Lexicon/ܒܝܢܟܝ\|ܒܝܢܟܝ]] *between you* | [[Lexicon/ܒܝܢܗܘ\|ܒܝܢܗܘ]] *between him* | [[Lexicon/ܒܝܢܗܐ\|ܒܝܢܗܐ]] *between her* | [[Lexicon/ܒܝܢܢܘ\|ܒܝܢܢܘ]] *between us* | [[Lexicon/ܒܝܢܟܘܡ\|ܒܝܢܟܘܡ]] *between y'all* | [[Lexicon/ܒܝܢܗܘܡ\|ܒܝܢܗܘܡ]] *between them* |
 | [[Lexicon/ܩܕܡ\|ܩܕܡ]] / *qadam* | [[Lexicon/ܩܕܡܢܝ\|ܩܕܡܢܝ]] *before me* | [[Lexicon/ܩܕܡܟܐ\|ܩܕܡܟܐ]] *before you (m)* | [[Lexicon/ܩܕܡܟܝ\|ܩܕܡܟܝ]] *before you (f)* | [[Lexicon/ܩܕܡܗܘ\|ܩܕܡܗܘ]] *before him* | [[Lexicon/ܩܕܡܗܐ\|ܩܕܡܗܐ]] *before her* | [[Lexicon/ܩܕܡܢܘ\|ܩܕܡܢܘ]] *before us* | [[Lexicon/ܩܕܡܟܘܡ\|ܩܕܡܟܘܡ]] *before y'all* | [[Lexicon/ܩܕܡܗܘܡ\|ܩܕܡܗܘܡ]] *before them* |
 | [[Lexicon/ܬܚܬ\|ܬܚܬ]] / *taḥat* | [[Lexicon/ܬܚܬܢܝ\|ܬܚܬܢܝ]] *under me* | [[Lexicon/ܬܚܬܟܐ\|ܬܚܬܟܐ]] *under you (m)* | [[Lexicon/ܬܚܬܟܝ\|ܬܚܬܟܝ]] *under you (f)* | [[Lexicon/ܬܚܬܗܘ\|ܬܚܬܗܘ]] *under him* | [[Lexicon/ܬܚܬܗܐ\|ܬܚܬܗܐ]] *under her* | [[Lexicon/ܬܚܬܢܘ\|ܬܚܬܢܘ]] *under us* | [[Lexicon/ܬܚܬܟܘܡ\|ܬܚܬܟܘܡ]] *under y'all* | [[Lexicon/ܬܚܬܗܘܡ\|ܬܚܬܗܘܡ]] *under them* |
+| [[Lexicon/ܐܚܪ\|ܐܚܪ]] / *ʾaḥar* | [[Lexicon/ܐܚܪܢܝ\|ܐܚܪܢܝ]] *behind me* | [[Lexicon/ܐܚܪܟܐ\|ܐܚܪܟܐ]] *behind you (m)* | [[Lexicon/ܐܚܪܟܝ\|ܐܚܪܟܝ]] *behind you (f)* | [[Lexicon/ܐܚܪܗܘ\|ܐܚܪܗܘ]] *behind him* | [[Lexicon/ܐܚܪܗܐ\|ܐܚܪܗܐ]] *behind her* | [[Lexicon/ܐܚܪܢܘ\|ܐܚܪܢܘ]] *behind us* | [[Lexicon/ܐܚܪܟܘܡ\|ܐܚܪܟܘܡ]] *behind y'all* | [[Lexicon/ܐܚܪܗܘܡ\|ܐܚܪܗܘܡ]] *behind them* |
+| [[Lexicon/ܒܥܕ\|ܒܥܕ]] / *baʿad* | [[Lexicon/ܒܥܕܢܝ\|ܒܥܕܢܝ]] *after me* | [[Lexicon/ܒܥܕܟܐ\|ܒܥܕܟܐ]] *after you (m)* | [[Lexicon/ܒܥܕܟܝ\|ܒܥܕܟܝ]] *after you (f)* | [[Lexicon/ܒܥܕܗܘ\|ܒܥܕܗܘ]] *after him* | [[Lexicon/ܒܥܕܗܐ\|ܒܥܕܗܐ]] *after her* | [[Lexicon/ܒܥܕܢܘ\|ܒܥܕܢܘ]] *after us* | [[Lexicon/ܒܥܕܟܘܡ\|ܒܥܕܟܘܡ]] *after y'all* | [[Lexicon/ܒܥܕܗܘܡ\|ܒܥܕܗܘܡ]] *after them* |
+| [[Lexicon/ܥܕ\|ܥܕ]] / *ʿad* | [[Lexicon/ܥܕܢܝ\|ܥܕܢܝ]] *until me* | [[Lexicon/ܥܕܟܐ\|ܥܕܟܐ]] *until you (m)* | [[Lexicon/ܥܕܟܝ\|ܥܕܟܝ]] *until you (f)* | [[Lexicon/ܥܕܗܘ\|ܥܕܗܘ]] *until him* | [[Lexicon/ܥܕܗܐ\|ܥܕܗܐ]] *until her* | [[Lexicon/ܥܕܢܘ\|ܥܕܢܘ]] *until us* | [[Lexicon/ܥܕܟܘܡ\|ܥܕܟܘܡ]] *until y'all* | [[Lexicon/ܥܕܗܘܡ\|ܥܕܗܘܡ]] *until them* |
 
 ## Subordinate clauses
 
