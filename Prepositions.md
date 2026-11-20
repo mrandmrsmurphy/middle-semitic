@@ -15,7 +15,7 @@ Middle Semitic has eight "small" prepositions, which take pronominal suffixes an
 | [[Lexicon/ܦ\|ܦ]]     | pi-   | in       | (בְּ־ / فِي)  | [[Lexicon/ܦܢܝ\|ܦܢܝ]] *pinî*      | clitic                                    |
 | [[Lexicon/ܟ\|ܟ]]     | ki-   | like     | כְּ־ / كَـ    | [[Lexicon/ܟܢܝ\|ܟܢܝ]] *kinî*      | clitic                                    |
 | [[Lexicon/ܡܢ\|ܡܢ]]   | min   | from     | מִן / مِن     | [[Lexicon/ܡܢܢܝ\|ܡܢܢܝ]] *minnî*   | free word, clitic [[Lexicon/ܡ\|ܡ-]] *mi-* |
-| [[Lexicon/ܥܠ-\|ܥܠ-]] | ʿal-  | on, upon | עַל / عَلَى   | [[Lexicon/ܥܠܢܝ\|ܥܠܢܝ]] *ʿalnî*   | free word, clitic [[Lexicon/ܥ\|ܥ-]] *ʿa-* |
+| [[Lexicon/ܥܠ-\|ܥܠ-]] | ʿal-  | on, upon, over, above | עַל / عَلَى   | [[Lexicon/ܥܠܢܝ\|ܥܠܢܝ]] *ʿalnî*   | free word, clitic [[Lexicon/ܥ\|ܥ-]] *ʿa-* |
 | [[Lexicon/ܥܡ\|ܥܡ]]   | ʿim   | with     | עִם / مَعَ    | [[Lexicon/ܥܡܢܝ\|ܥܡܢܝ]] *ʿimnî*   | free word                                 |
 | [[Lexicon/ܒܝܢ\|ܒܝܢ]] | bên   | between  | בֵּין / بَيْن | [[Lexicon/ܒܝܢܢܝ\|ܒܝܢܢܝ]] *bênnî* | free word                                 |
 
@@ -32,7 +32,7 @@ The place words are free words with their own stress. Each takes the suffixes st
 
 ## Contrasts
 
-**Location: *pi-* vs *bi-* vs *ʿal-*.** *pi-* is containment ('in Madrid', 'in the house'); *bi-* is contact or point location ('at the door', 'on the table'); *ʿal-* is 'on, upon', with the sense of being over or resting on. *bi-* and *ʿal-* overlap on 'on'. *bi-* is the near, neutral 'on/at'; *ʿal-* stresses support or superposition.
+**Location: *pi-* vs *bi-* vs *ʿal-*.** *pi-* is containment ('in Madrid', 'in the house'); *bi-* is contact or point location ('at the door', 'on the table'); *ʿal-* is 'on, upon, over, above': contact, support and superposition alike. *bi-* and *ʿal-* overlap on 'on'. *bi-* is the near, neutral 'on/at'; *ʿal-* is the word for 'over' and 'above' as well.
 
 **Accompaniment and likeness: *ʿim* vs *ki-* vs *bên*.** *ʿim* is accompaniment ('with him'); *ki-* is comparison ('like him'): the same person, but together versus resembling. *bên* is 'between', location relative to two or more.
 
@@ -50,7 +50,7 @@ Several words that English glosses with a preposition are not among the small or
 
 - [[Lexicon/ܐܝܠܐ|ܐܝܠܐ]] *ʾêllâ* 'except, excluding' (*if* + *not*) is a fixed compound that behaves as a preposition; [[Lexicon/ܐܝܠܐ 2|ܐܝܠܐ]] *ella* 'except, but' is the conjunction.
 - Subordinators: [[Lexicon/ܥܠܐܢ|ܥܠܐܢ]] *ʿal.ˈʾan* 'because' (*ʿal-* + *ʾan*), [[Lexicon/ܐܢ|ܐܢ]] *ʾan* 'that' (complementizer), [[Lexicon/ܟܝ|ܟܝ]] *kî* 'in order that', [[Lexicon/ܐܡ|ܐܡ]] *ʾam* 'if', and the relative pronoun [[Lexicon/ܠܝܕ|ܠܝܕ]] *lîd*. These join clauses and do not take suffixes.
-- Spatial and temporal relations beyond the eight and the long prepositions ('after', 'until', 'around', 'without', 'over') are to be coined as further long prepositions; none have been yet.
+- Spatial and temporal relations beyond the eight and the long prepositions ('after', 'until', 'around', 'without') are to be coined as further long prepositions; none have been yet.
 
 ## Open
 
