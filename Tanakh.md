@@ -199,6 +199,34 @@ Every word is an existing MS entry. "Brought out" is the causative C stem of ܐ�
 | מִצְרַיִם 'Egypt' | مِصْرَ | ܡܨܪܝܢ | [[Lexicon/ܡܨܪ\|ܡܨܪ]] *miṣar* |
 | מִבֵּית עֲבָדִים 'from the house of slaves' | مِنْ بَيْتِ ٱلْعُبُودِيَّةِ | ܡܢ ܒܝܬ ܥܒܕܘܬܐ | *min* + [[Lexicon/ܒܝܬܐ\|ܒܝܬܐ]] *bêtâ* + *dal* + [[Lexicon/ܥܒܕܐ\|ܥܒܕܐ]] plural *ʿabdîn* |
 
+### Exodus 20:3
+
+לֹא יִהְיֶה לְךָ אֱלֹהִים אֲחֵרִים עַל־פָּנָי
+
+*You shall have no other gods before me.*
+
+**Middle Semitic:** ܠܐ ܝܫ ܠܟܐ ܐܝܠܗܝܢ ܐܚܪܝܢ ܩܕܡܢܝ
+
+*lâ yiš likâ êlhîn ʾaḥêrîn qadamnî*
+
+**Aramaic (Syriac Peshitta):** ܠܐ ܢܗܘܘܢ ܠܟ ܐܠܗܝܢ ܐܚܪܢܝܢ ܠܒܪ ܡܢܝ ([ETCBC](https://github.com/ETCBC/peshitta/blob/master/plain/0.1/Exodus.txt), vowel points removed)
+
+*lâ nehwûn lak alâhîn ʾaḥrānîn l-bar menni* (approximate transliteration)
+
+**Arabic (Smith–Van Dyck):** لَا يَكُنْ لَكَ آلِهَةٌ أُخْرَى أَمَامِي. ([getBible](https://api.getbible.net/v2/arabicsv/2/20.json))
+
+*lā yakun laka ālihatun ukhrā amāmī*
+
+Every word is an existing MS entry. "Before me" is the long preposition ܩܕܡ *qadam* with *-nî* straight on (Hebrew עַל־פָּנָי, "upon my face", i.e. in my presence; Arabic *amāmī*; the Peshitta has ܠܒܪ ܡܢܝ, "apart from me", a different meaning). The prohibition is ܠܐ with the non-past, as for wishes, and "have" is the existence particle ܝܫ with ܠܟܐ "for you": *yiš likâ* "there is for you". Both are consequences of the earlier wishes ruling, not separately ruled. The adjective follows its noun and agrees with the masculine plural.
+
+| Hebrew                               | Arabic      | Aramaic  | Middle Semitic                                                              |
+| ------------------------------------ | ----------- | -------- | --------------------------------------------------------------------------- |
+| לֹא 'not'                            | لَا         | ܠܐ       | [[Lexicon/ܠܐ\|ܠܐ]] *lâ*                                                     |
+| יִהְיֶה לְךָ 'there shall be to you' | يَكُنْ لَكَ | ܢܗܘܘܢ ܠܟ | [[Lexicon/ܝܫ\|ܝܫ]] *yiš* + [[Lexicon/ܠܟܐ\|ܠܟܐ]] *likâ*                      |
+| אֱלֹהִים 'gods'                      | آلِهَةٌ     | ܐܠܗܝܢ    | [[Lexicon/ܐܝܠܗܐ\|ܐܝܠܗܐ]] plural *êlhîn*                                     |
+| אֲחֵרִים 'other'                     | أُخْرَى     | ܐܚܪܢܝܢ   | [[Lexicon/ܐܚܪܐ\|ܐܚܪܐ]] plural *ʾaḥêrîn*                                     |
+| עַל־פָּנָי 'before me'               | أَمَامِي    | ܠܒܪ ܡܢܝ  | [[Lexicon/ܩܕܡܢܝ\|ܩܕܡܢܝ]] *qadamnî*, [[Lexicon/ܩܕܡ\|ܩܕܡ]] + [[Lexicon/-ܢܝ\|-ܢܝ]] |
+
 ## Vayikra
 
 ## Bemidbar

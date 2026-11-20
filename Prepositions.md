@@ -4,7 +4,7 @@
 
 *Rationale: Hebrew, Arabic and Aramaic all inflect a core set of short prepositions with pronominal suffixes, so those eight are the shared core and are the only ones that conjugate. Every other preposition is a noun in the construct state, which reuses a pattern learners already know, keeps the system regular and keeps the conjugating set small; the construct state is also the frozen archaic feature of Old Middle Semitic. See [[Design Philosophy#Word order and prepositions]].*
 
-Middle Semitic has eight "small" prepositions, which take pronominal suffixes and so "conjugate" (*ʿalnî* 'upon me'). Every other "preposition" is really a noun in the construct state. Each inflected form is a lexicon entry of its own; the full paradigms are in [[Morphosyntax]].
+Middle Semitic has eight "small" prepositions, which take pronominal suffixes and so "conjugate" (*ʿalnî* 'upon me'), and one long preposition, [[Lexicon/ܩܕܡ|ܩܕܡ]] *qadam* 'before' (*qadamnî* 'before me'), a free word that conjugates the same way. Every other "preposition" is really a noun in the construct state. Each inflected form is a lexicon entry of its own; the full paradigms are in [[Morphosyntax]].
 
 ## The eight
 
@@ -18,6 +18,7 @@ Middle Semitic has eight "small" prepositions, which take pronominal suffixes an
 | [[Lexicon/ܥܠ-\|ܥܠ-]] | ʿal-  | on, upon | עַל / عَلَى   | [[Lexicon/ܥܠܢܝ\|ܥܠܢܝ]] *ʿalnî*   | free word, clitic [[Lexicon/ܥ\|ܥ-]] *ʿa-* |
 | [[Lexicon/ܥܡ\|ܥܡ]]   | ʿim   | with     | עִם / مَعَ    | [[Lexicon/ܥܡܢܝ\|ܥܡܢܝ]] *ʿimnî*   | free word                                 |
 | [[Lexicon/ܒܝܢ\|ܒܝܢ]] | bên   | between  | בֵּין / بَيْن | [[Lexicon/ܒܝܢܢܝ\|ܒܝܢܢܝ]] *bênnî* | free word                                 |
+| [[Lexicon/ܩܕܡ\|ܩܕܡ]] | qadam | before, in front of | קֶדֶם / قُدَّامَ | [[Lexicon/ܩܕܡܢܝ\|ܩܕܡܢܝ]] *qadamnî* | free word (a ninth, long preposition) |
 
 *min* and *ʿal-* also have clitic forms, [[Lexicon/ܡ|ܡ-]] *mi-* and [[Lexicon/ܥ|ܥ-]] *ʿa-*, each with suffixed forms of its own (*minî*, *mikâ*...; *ʿanî*, *ʿakâ*...; the full words' are *minnî*, *minkâ*... and *ʿalnî*, *ʿalkâ*...). The clitics (*li- bi- pi- ki- mi- ʿa-*) are single consonant + vowel: they attach to the following word, take no stress, and may be said with a schwa in fast speech (*ləMadrid*). The other forms (*min*, *ʿal-*, *ʿim*, *bên*) are full words with their own stress. 
 
@@ -41,7 +42,7 @@ Several words that English glosses with a preposition are not among the eight:
 
 - [[Lexicon/ܐܝܠܐ|ܐܝܠܐ]] *ʾêllâ* 'except, excluding' (*if* + *not*) is a fixed compound that behaves as a preposition; [[Lexicon/ܐܝܠܐ 2|ܐܝܠܐ]] *ella* 'except, but' is the conjunction.
 - Subordinators: [[Lexicon/ܥܠܐܢ|ܥܠܐܢ]] *ʿal.ˈʾan* 'because' (*ʿal-* + *ʾan*), [[Lexicon/ܐܢ|ܐܢ]] *ʾan* 'that' (complementizer), [[Lexicon/ܟܝ|ܟܝ]] *kî* 'in order that', [[Lexicon/ܐܡ|ܐܡ]] *ʾam* 'if', and the relative pronoun [[Lexicon/ܠܝܕ|ܠܝܕ]] *lîd*. These join clauses and do not take suffixes.
-- Spatial and temporal relations beyond the eight ('before', 'after', 'under', 'until', 'around', 'without') are expressed with nouns in the construct state, as in the rest of Semitic; none have been coined yet.
+- Spatial and temporal relations beyond these ('after', 'under', 'until', 'around', 'without') are expressed with nouns in the construct state, as in the rest of Semitic; none have been coined yet. 'Before' is the exception, the long preposition [[Lexicon/ܩܕܡ|ܩܕܡ]] *qadam*.
 
 ## Open
 

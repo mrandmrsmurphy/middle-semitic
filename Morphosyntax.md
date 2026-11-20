@@ -19,7 +19,7 @@ Existence is expressed by two particles that do not inflect for person or number
 
 ## Prepositions
 
-There are eight “small” prepositions which “conjugate”. All other “prepositions” are actually nouns in the construct state. The rows for *mi-* and *ʿa-* are the clitic forms of *min* and *ʿal*. See [[Prepositions]] for the contrasts among them.
+There are eight “small” prepositions which “conjugate”, and one long one, [[Lexicon/ܩܕܡ|ܩܕܡ]] *qadam* “before”, which conjugates the same way. All other “prepositions” are actually nouns in the construct state. The rows for *mi-* and *ʿa-* are the clitic forms of *min* and *ʿal*. See [[Prepositions]] for the contrasts among them.
 
 | | 1cs | 2ms | 2fs | 3ms | 3fs | 1cp | 2cp | 3cp |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -33,6 +33,7 @@ There are eight “small” prepositions which “conjugate”. All other “pre
 | [[Lexicon/ܡ\|ܡ]] / *mi* | [[Lexicon/ܡܢܝ\|ܡܢܝ]] *from me* | [[Lexicon/ܡܟܐ\|ܡܟܐ]] *from you* | [[Lexicon/ܡܟܝ\|ܡܟܝ]] *from you* | [[Lexicon/ܡܗܘ\|ܡܗܘ]] *from him* | [[Lexicon/ܡܗܐ\|ܡܗܐ]] *from her* | [[Lexicon/ܡܢܘ\|ܡܢܘ]] *from us* | [[Lexicon/ܡܟܘܡ\|ܡܟܘܡ]] *from y'all* | [[Lexicon/ܡܗܘܡ\|ܡܗܘܡ]] *from them* |
 | [[Lexicon/ܟ\|ܟ]] / *ki* | [[Lexicon/ܟܢܝ\|ܟܢܝ]] *like me* | [[Lexicon/ܟܟܐ\|ܟܟܐ]] *like you* | [[Lexicon/ܟܟܝ\|ܟܟܝ]] *like you* | [[Lexicon/ܟܗܘ\|ܟܗܘ]] *like him* | [[Lexicon/ܟܗܐ\|ܟܗܐ]] *like her* | [[Lexicon/ܟܢܘ\|ܟܢܘ]] *like us* | [[Lexicon/ܟܟܘܡ\|ܟܟܘܡ]] *like y'all* | [[Lexicon/ܟܗܘܡ\|ܟܗܘܡ]] *like them* |
 | [[Lexicon/ܒܝܢ\|ܒܝܢ]] / *bên* | [[Lexicon/ܒܝܢܢܝ\|ܒܝܢܢܝ]] *between me* | [[Lexicon/ܒܝܢܟܐ\|ܒܝܢܟܐ]] *between you* | [[Lexicon/ܒܝܢܟܝ\|ܒܝܢܟܝ]] *between you* | [[Lexicon/ܒܝܢܗܘ\|ܒܝܢܗܘ]] *between him* | [[Lexicon/ܒܝܢܗܐ\|ܒܝܢܗܐ]] *between her* | [[Lexicon/ܒܝܢܢܘ\|ܒܝܢܢܘ]] *between us* | [[Lexicon/ܒܝܢܟܘܡ\|ܒܝܢܟܘܡ]] *between y'all* | [[Lexicon/ܒܝܢܗܘܡ\|ܒܝܢܗܘܡ]] *between them* |
+| [[Lexicon/ܩܕܡ\|ܩܕܡ]] / *qadam* | [[Lexicon/ܩܕܡܢܝ\|ܩܕܡܢܝ]] *before me* | [[Lexicon/ܩܕܡܟܐ\|ܩܕܡܟܐ]] *before you (m)* | [[Lexicon/ܩܕܡܟܝ\|ܩܕܡܟܝ]] *before you (f)* | [[Lexicon/ܩܕܡܗܘ\|ܩܕܡܗܘ]] *before him* | [[Lexicon/ܩܕܡܗܐ\|ܩܕܡܗܐ]] *before her* | [[Lexicon/ܩܕܡܢܘ\|ܩܕܡܢܘ]] *before us* | [[Lexicon/ܩܕܡܟܘܡ\|ܩܕܡܟܘܡ]] *before y'all* | [[Lexicon/ܩܕܡܗܘܡ\|ܩܕܡܗܘܡ]] *before them* |
 
 ## Subordinate clauses
 

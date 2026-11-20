@@ -90,7 +90,7 @@ The table may be column-padded (Obsidian reformats it), so any script reading ro
 
 ## Fused forms (conjugated prepositions)
 
-The 80 inflected prepositions (li- bi- pi- ki- min mi- ʿal- ʿa- ʿim bên × eight persons: -nî -kâ -kî -hû -hâ -nû -kûm -hûm) are lexicon entries with a Components row, `pos: preposition`, and their own cognate paradigm values (Hebrew, Arabic, Aramaic, Ugaritic where known). The eight pronominal suffixes are entries themselves (`-ܢܝ` … `-ܗܘܡ`, `pos: pronominal`). Paradigms are shown in [[Morphosyntax]] and [[Prepositions]].
+The 88 inflected prepositions (li- bi- pi- ki- min mi- ʿal- ʿa- ʿim bên and the long qadam, added 2026-11-19 × eight persons: -nî -kâ -kî -hû -hâ -nû -kûm -hûm) are lexicon entries with a Components row, `pos: preposition`, and their own cognate paradigm values (Hebrew, Arabic, Aramaic, Ugaritic where known). The eight pronominal suffixes are entries themselves (`-ܢܝ` … `-ܗܘܡ`, `pos: pronominal`). Paradigms are shown in [[Morphosyntax]] and [[Prepositions]].
 
 ## Browsing
 

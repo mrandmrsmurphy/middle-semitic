@@ -86,7 +86,7 @@ This leads naturally to the idea of an **Old Middle Semitic**, a contrivance but
 ## Word order and prepositions
 
 - **SVO is the strict default.** Three reasons point the same way: Middle Semitic has no case marking, so a fixed order has to carry who did what to whom and SVO is the clearest; SVO is the modern majority among the source languages; and it is the order that is easiest for each community (Hebrew speakers use it daily, and Arabic speakers use it in the dialects and as an option in Standard Arabic). VSO survives as the archaic order (see the section above). See [[Morphosyntax]].
-- **Eight small prepositions conjugate; the rest are nouns.** Hebrew, Arabic and Aramaic all inflect a core set of short prepositions with pronominal suffixes, so that set is the shared core. Every other "preposition" is a noun in the construct state, which reuses a pattern learners already know, keeps the system regular and keeps the conjugating set small. The construct state is also the frozen archaic feature, so this ties prepositions to the Old Middle Semitic idea. See [[Prepositions]].
+- **Eight small prepositions conjugate; the rest are nouns.** Hebrew, Arabic and Aramaic all inflect a core set of short prepositions with pronominal suffixes, so that set is the shared core. The long preposition *qadam* "before" conjugates too, as the one root shared by all three languages for that sense. Every other "preposition" is a noun in the construct state, which reuses a pattern learners already know, keeps the system regular and keeps the conjugating set small. The construct state is also the frozen archaic feature, so this ties prepositions to the Old Middle Semitic idea. See [[Prepositions]].
 
 ## Regular, guessable forms
 
