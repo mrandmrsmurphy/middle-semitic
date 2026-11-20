@@ -349,3 +349,6 @@ Append-only. Never edit past entries.
 
 ## 2026-11-19 — "during / throughout" (Ṭ-W-L)
 - "During" surveyed (bə-, bəmešekh, ʿad, ṭawāla, ḫilāla, ʾaṯnāʾa, muddata); recommendation was to widen ʿad, but user chose Ṭ-W-L as "as long as, during, throughout, (for the length of)", with pi- as the plain "in, within". Created long preposition ܛܘܠ ṭa.ˈwâl (Arabic طَوَالَ; Hebrew none, uses ʾ-R-K) with 8 suffixed forms (ܛܘܠܢܝ…ܛܘܠܗܘܡ), added to root ܛ-ܘ-ܠ. Form is Claude's choice, not the user's: ṭawâl with consonantal w (no aw→ô contraction, internal â unwritten), not ṭôl. No noun (ܛܘܠܐ clash with the adjective "long"). "As long as" + clause not ruled. Tables updated.
+
+## 2026-11-19 — Exodus 20:4 (with blanks)
+- Added Exodus 20:4 to Tanakh.md with Hebrew, verified Arabic (getBible) and Peshitta (ETCBC). Blanks left: verb "make" (Hebrew ʿ-Ś-H, Arabic ṣ-n-ʿ, Aramaic ʿ-B-D), "likeness" (תְּמוּנָה; candidates ܨܘܪܬܐ, ܕܡܝ, ܡܫܠܐ), "from above" (ܥܠ- needs an object; no adverb/noun for "above"). Known words used: ܠܐ, ܠܟܐ, ܨܠܡܐ, ܘܟܘܠ, ܠܝܕ, ܝܫ, pi-+hal (ܦܗܠ), ܣܡܝ, ܐܪܨܐ, ܬܚܬܐ, ܡܝܐ, ܬܚܬ. Unruled readings flagged in the page: bare lîd "that which", kôl + singular, pi-hal fusion, sky/water number.

@@ -227,6 +227,39 @@ Every word is an existing MS entry. "Before me" is the long preposition ܩܕܡ *
 | אֲחֵרִים 'other'                     | أُخْرَى     | ܐܚܪܢܝܢ   | [[Lexicon/ܐܚܪܐ\|ܐܚܪܐ]] plural *ʾaḥêrîn*                                     |
 | עַל־פָּנָי 'before me'               | أَمَامِي    | ܠܒܪ ܡܢܝ  | [[Lexicon/ܩܕܡܢܝ\|ܩܕܡܢܝ]] *qadamnî*, [[Lexicon/ܩܕܡ\|ܩܕܡ]] + [[Lexicon/-ܢܝ\|-ܢܝ]] |
 
+### Exodus 20:4
+
+לֹא־תַעֲשֶׂה לְךָ פֶסֶל וְכָל־תְּמוּנָה אֲשֶׁר בַּשָּׁמַיִם מִמַּעַל וַאֲשֶׁר בָּאָרֶץ מִתָּחַת וַאֲשֶׁר בַּמַּיִם מִתַּחַת לָאָרֶץ
+
+*You shall not make for yourself a carved image, or any likeness of what is in the heavens above, or on the earth beneath, or in the waters under the earth.*
+
+**Middle Semitic:** ܠܐ ___ ܠܟܐ ܨܠܡܐ ܘܟܘܠ ___ ܠܝܕ ܝܫ ܦܗܠ ܣܡܝ ܡܢ ___ ܘܠܝܕ ܝܫ ܦܗܠ ܐܪܨܐ ܡܢ ܬܚܬܐ ܘܠܝܕ ܝܫ ܦܗܠ ܡܝܐ ܬܚܬ ܗܠ ܐܪܨܐ
+
+*lâ ___ likâ ṣalmâ wa-kôl ___ lîd yiš pi-hal samê min ___ wa-lîd yiš pi-hal arṣâ min taḥtâ wa-lîd yiš pi-hal mayâ taḥat hal arṣâ*
+
+**Aramaic (Syriac Peshitta):** ܠܐ ܬܥܒܕ ܠܟ ܟܠ ܨܠܡ ܘܟܠ ܕܡܘ. ܕܐܝܬ ܒܫܡܝܐ ܡܢ ܠܥܠ ܘܕܐܝܬ ܒܐܪܥܐ ܡܢ ܠܬܚܬ. ܘܕܐܝܬ ܒܡܝܐ ܠܬܚܬ ܡܢ ܐܪܥܐ ([ETCBC](https://github.com/ETCBC/peshitta/blob/master/plain/0.1/Exodus.txt), vowel points removed)
+
+**Arabic (Smith–Van Dyck):** لَا تَصْنَعْ لَكَ تِمْثَالًا مَنْحُوتًا، وَلَا صُورَةً مَا مِمَّا فِي ٱلسَّمَاءِ مِنْ فَوْقُ، وَمَا فِي ٱلْأَرْضِ مِنْ تَحْتُ، وَمَا فِي ٱلْمَاءِ مِنْ تَحْتِ ٱلْأَرْضِ. ([getBible](https://api.getbible.net/v2/arabicsv/2/20.json))
+
+*lā taṣnaʿ laka timthālan manḥūtan, wa-lā ṣūratan mā mimmā fī s-samāʾi min fawqu, wa-mā fī l-arḍi min taḥtu, wa-mā fī l-māʾi min taḥti l-arḍi*
+
+Three blanks are left for decisions; every other word is an existing MS entry. Blank 1 is the verb "make" (Hebrew עָשָׂה, Arabic *ṣanaʿa*, the Peshitta's ܥܒܕ); the prohibition is ܠܐ + the non-past 2ms. Blank 2 is "likeness" (Hebrew תְּמוּנָה); the candidates already in the lexicon are ܨܘܪܬܐ "form, image", ܕܡܝ "effigy, statue" and ܡܫܠܐ "representation". Blank 3 is "above": ܥܠ- needs an object, so the bare adverb of Hebrew מִמַּעַל and Arabic *min fawqu* ("from above") has no MS form; "beneath" is the noun ܬܚܬܐ with *min*, which is why that noun exists. The Hebrew "carved image" (פֶסֶל) is ܨܠܡܐ, whose gloss includes it. "What is in the sky" has no verb in the Hebrew; MS uses the existence particle *yiš* as the Peshitta uses ܐܝܬ. The relative *lîd* standing alone for "that which" is my reading of the rules, as is *kôl* before a singular noun and the clitic *pi-* fused to *hal* (*pi-hal*). "Sky" is the singular ܣܡܝ as in Gen 1:28, "water" the singular ܡܝܐ as in the Arabic, and "under the earth" is the long preposition ܬܚܬ with a noun object. "The heavens" is plural in Hebrew; Gen 1:1 uses the plural ܣܡܝܡ.
+
+| Hebrew | Arabic | Aramaic | Middle Semitic |
+| --- | --- | --- | --- |
+| לֹא־תַעֲשֶׂה 'you shall not make' | لَا تَصْنَعْ | ܠܐ ܬܥܒܕ | [[Lexicon/ܠܐ\|ܠܐ]] *lâ* + ___ (blank: verb "make", non-past 2ms) |
+| לְךָ 'for yourself' | لَكَ | ܠܟ | [[Lexicon/ܠܟܐ\|ܠܟܐ]] *likâ* |
+| פֶסֶל 'carved image' | تِمْثَالًا مَنْحُوتًا | ܨܠܡ | [[Lexicon/ܨܠܡܐ\|ܨܠܡܐ]] *ṣalmâ* |
+| וְכָל־תְּמוּנָה 'and any likeness' | وَلَا صُورَةً | ܘܟܠ ܕܡܘ | [[Lexicon/ܘ\|ܘ]] *wa-* + [[Lexicon/ܟܘܠ\|ܟܘܠ]] *kôl* + ___ (blank: "likeness") |
+| אֲשֶׁר 'that which' | مِمَّا | ܕ | [[Lexicon/ܠܝܕ\|ܠܝܕ]] *lîd* |
+| (is) | فِي | ܐܝܬ | [[Lexicon/ܝܫ\|ܝܫ]] *yiš* |
+| בַּשָּׁמַיִם 'in the heavens' | فِي ٱلسَّمَاءِ | ܒܫܡܝܐ | [[Lexicon/ܦ\|ܦ]] *pi-* + [[Lexicon/ܗܠ\|ܗܠ]] *hal* + [[Lexicon/ܣܡܝ\|ܣܡܝ]] *samê* |
+| מִמַּעַל 'from above' | مِنْ فَوْقُ | ܡܢ ܠܥܠ | [[Lexicon/ܡܢ\|ܡܢ]] *min* + ___ (blank: "above") |
+| בָּאָרֶץ 'on the earth' | فِي ٱلْأَرْضِ | ܒܐܪܥܐ | [[Lexicon/ܦ\|ܦ]] *pi-* + [[Lexicon/ܗܠ\|ܗܠ]] *hal* + [[Lexicon/ܐܪܨܐ\|ܐܪܨܐ]] *arṣâ* |
+| מִתָּחַת 'from beneath' | مِنْ تَحْتُ | ܡܢ ܠܬܚܬ | [[Lexicon/ܡܢ\|ܡܢ]] *min* + [[Lexicon/ܬܚܬܐ\|ܬܚܬܐ]] *taḥtâ* |
+| בַּמַּיִם 'in the water' | فِي ٱلْمَاءِ | ܒܡܝܐ | [[Lexicon/ܦ\|ܦ]] *pi-* + [[Lexicon/ܗܠ\|ܗܠ]] *hal* + [[Lexicon/ܡܝܐ\|ܡܝܐ]] *mayâ* |
+| מִתַּחַת לָאָרֶץ 'under the earth' | مِنْ تَحْتِ ٱلْأَرْضِ | ܠܬܚܬ ܡܢ ܐܪܥܐ | [[Lexicon/ܬܚܬ\|ܬܚܬ]] *taḥat* + [[Lexicon/ܗܠ\|ܗܠ]] *hal* + [[Lexicon/ܐܪܨܐ\|ܐܪܨܐ]] *arṣâ* |
+
 ## Vayikra
 
 ## Bemidbar
