@@ -382,3 +382,6 @@ Append-only. Never edit past entries.
 
 ## 2026-11-22 — Swadesh №88: back
 - User chose ܛܗܪܐ ˈṭah.râ, a masculine noun for the back of the torso. Added the lexicon entry, declension, root ܛ-ܗ-ܪ (PS *ṱahr-*), and Swadesh link. Ugaritic, Arabic and Akkadian support the anatomical sense. Hebrew צֹהַר is a possible cognate. Next blank: №92 “drink”.
+
+## 2026-11-22 — Swadesh №92: drink
+- User chose ܣܬܝ ˈsa.tê from PS *šty* for “to drink.” Added the lexicon entry with G and regular Gp, and filled Swadesh №92. Arabic has no attested cognate of *šty* in Kogan’s survey. Reserved ܫ-ܪ-ܒ “sip, suck, absorb,” ܣ-ܩ-ܝ “water, give drink, irrigate,” and ܪ-ܘ-ܝ “be slaked, be saturated, have one’s fill of liquid.” Next blank: №94 “bite.”

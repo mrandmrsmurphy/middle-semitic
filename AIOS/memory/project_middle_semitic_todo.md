@@ -24,7 +24,8 @@ Running list; remove items when done (history goes in `logs/log.md`). State as o
 
 **Swadesh**
 - №87 “neck” and related “nape”: DONE (2026-11-21), ܨܘܐܪܐ ṣô.ˈʾa.râ and ܩܙܠܐ qa.ˈzâ.lâ.
-- №88 “back”: DONE (2026-11-22), ܛܗܪܐ ˈṭah.râ. Next blank in list order: №92 “drink”.
+- №88 “back”: DONE (2026-11-22), ܛܗܪܐ ˈṭah.râ.
+- №92 “drink”: DONE (2026-11-22), ܣܬܝ ˈsa.tê (G and Gp). Reserved roots: ܫ-ܪ-ܒ “sip, suck, absorb”; ܣ-ܩ-ܝ “water, give drink, irrigate”; ܪ-ܘ-ܝ “be slaked, be saturated, have one’s fill of liquid.” Next blank: №94 “bite”.
 - №122 'come': DONE (2026-10-31) — ܐܬܝ ˈâ.tê coined on root ʾ-T-Y with G, C (to bring), Cp; no Gp/D/Dp/tD (user's choice). Proto-Semitic row not checked.
 - №46 'bird': DONE (2026-11-01) — ܨܦܘܪܐ ṣip.ˈpû.râ, masculine, root ܨ-ܦ-ܪ (user's choice over ṭ-Y-R, ʿ-W-P, ʿ-Ṣ-R).
 - №50 'worm': DONE (2026-11-12) — ܬܘܠܥܬܐ tô.la.ˈʿa.tâ, feminine, quadriliteral root ܬ-ܘ-ܠ-ܥ (aw → ô matches Hebrew), PLUS the collective ܕܘܕ dûd on root ܕ-ܘ-ܕ (user's split: T-W-L-ʿ = one worm, D-W-D = the mass; first lexicalized collective in MS). Not checked: tôlaʿatâ arabic/ugaritic/proto-semitic (Arabic cognate is likely `none` — needs a search and a ruling); ܕܘܕ hebrew/aramaic/ugaritic (likely `none` likewise).
