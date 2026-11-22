@@ -385,3 +385,6 @@ Append-only. Never edit past entries.
 
 ## 2026-11-22 — Swadesh №92: drink
 - User chose ܣܬܝ ˈsa.tê from PS *šty* for “to drink.” Added the lexicon entry with G and regular Gp, and filled Swadesh №92. Arabic has no attested cognate of *šty* in Kogan’s survey. Reserved ܫ-ܪ-ܒ “sip, suck, absorb,” ܣ-ܩ-ܝ “water, give drink, irrigate,” and ܪ-ܘ-ܝ “be slaked, be saturated, have one’s fill of liquid.” Next blank: №94 “bite.”
+
+## 2026-11-22 — Swadesh №94: bite
+- User chose PS *nṯk* for the breadth of ancestral evidence (Hebrew, Ugaritic, Akkadian, Geʿez). Added ܢܫܟ na.ˈšak “to bite” with regular G and Gp, root ܢ-ܫ-ܟ, and the Swadesh link. The possible relation to Syriac ܢܟܬ and Arabic نَكَثَ is recorded in Notes. Next blank: №96 “spit.”
