@@ -379,3 +379,6 @@ Append-only. Never edit past entries.
 
 ## 2026-11-21 — Swadesh №87: neck and nape
 - User approved coining both senses. Added ܨܘܐܪܐ ṣô.ˈʾa.râ “neck” (Swadesh №87), retaining medial aleph from the *ṣawʾar-* reconstruction and contracting *aw* to *ô*, and ܩܙܠܐ qa.ˈzâ.lâ “nape” (PS *ḏ* → MS ܙ). Both are masculine body-part nouns with root pages and paradigms. Old Akkadian *ṣawar* remains a proposed cognate. Next blank in list order: №88 “back”.
+
+## 2026-11-22 — Swadesh №88: back
+- User chose ܛܗܪܐ ˈṭah.râ, a masculine noun for the back of the torso. Added the lexicon entry, declension, root ܛ-ܗ-ܪ (PS *ṱahr-*), and Swadesh link. Ugaritic, Arabic and Akkadian support the anatomical sense. Hebrew צֹהַר is a possible cognate. Next blank: №92 “drink”.
