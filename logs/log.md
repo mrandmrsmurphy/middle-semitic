@@ -376,3 +376,6 @@ Append-only. Never edit past entries.
 
 ## 2026-11-19 — end-of-session state
 - Saved "where we are" to AIOS/memory/project_middle_semitic_todo.md and the new stacking/preposition rulings to project_middle_semitic_grammar_rulings.md. Position: Tanakh.md Exodus 20:5 in progress, six blanks (jealous, form of "visiting", guilt, third/fourth, generation, "those who hate me").
+
+## 2026-11-21 — Swadesh №87: neck and nape
+- User approved coining both senses. Added ܨܘܐܪܐ ṣô.ˈʾa.râ “neck” (Swadesh №87), retaining medial aleph from the *ṣawʾar-* reconstruction and contracting *aw* to *ô*, and ܩܙܠܐ qa.ˈzâ.lâ “nape” (PS *ḏ* → MS ܙ). Both are masculine body-part nouns with root pages and paradigms. Old Akkadian *ṣawar* remains a proposed cognate. Next blank in list order: №88 “back”.
