@@ -388,3 +388,6 @@ Append-only. Never edit past entries.
 
 ## 2026-11-22 — Swadesh №94: bite
 - User chose PS *nṯk* for the breadth of ancestral evidence (Hebrew, Ugaritic, Akkadian, Geʿez). Added ܢܫܟ na.ˈšak “to bite” with regular G and Gp, root ܢ-ܫ-ܟ, and the Swadesh link. The possible relation to Syriac ܢܟܬ and Arabic نَكَثَ is recorded in Notes. Next blank: №96 “spit.”
+
+## 2026-11-23 — Lexipedia reference copy
+- Copied the Universal Languages Lexipedia into this vault from `../universal-languages/Lexipedia/`. Verified that the index and all 51 semantic-domain lists match the source byte for byte.

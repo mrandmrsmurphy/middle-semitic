@@ -1,0 +1,66 @@
+# Locatives
+
+> Parent: [[Lexipedia/Lexipedia|Lexipedia]]
+
+- frame
+- gap
+- locate
+- occupy
+- place
+- position
+- scene
+- space
+- surround
+
+## Adpositions
+
+- about
+- above
+- across
+- against
+- ahead
+- along
+- amid
+- among
+- apart
+- around
+- aside
+- at
+- away
+- before
+- behind
+- below
+- beneath
+- beside
+- between
+- beyond
+- by
+- down
+- during
+- except
+- for
+- forth
+- from
+- in
+- inside
+- into
+- of
+- off
+- on
+- onto
+- out
+- outside
+- over
+- overhead
+- since
+- through
+- to
+- toward
+- under
+- until
+- up
+- upon
+- upper
+- with
+- within
+- without
