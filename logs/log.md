@@ -422,3 +422,8 @@ Append-only. Never edit past entries.
 ## 2026-11-25 — №5 translated; ʿîm generalizes to the past
 - User ruled: the progressive is simply ܥܝܡ + the perfect — no auxiliary. ʿîm combines with either tense: + non-past = present ongoing, + past = past ongoing / "has been" (supersedes the interim hô ʿîm construction documented earlier today; the dialects' كَانَ عَمّ + imperfect was the model, MS generalizes). ܥܝܡ Notes, Morphosyntax "The progressive" and the memory ruling updated in place.
 - №5 "The sun has been shining" = ܗܠ ܫܡܣܐ ܥܝܡ ܙܪܚܬ *hal ˈšam.sâ ʿîm za.ˈra.ḥat*.
+
+## 2026-11-25 — Root ܫ-ܘ-ܒ: verb "to return" + adverb "again"; №6 translated
+- User approved root Š-W-B from PS *θawb- (BDB: Hebrew שׁוּב, Arabic ثَابَ "return" — rare beside doublet تَابَ "repent", Aramaic ܬܘܒ, Sabaean ṯwb; the user's question answered: Arabic عَادَ "return" is the unrelated root ʿ-W-D). The chart maps *θ → š ܫ and the absolute aw → ô rule gives šôb — every branch's reflex converges on the same MS shape.
+- Coined: verb ܫܘܒ šôb "to return, to come back" (intransitive, hollow II-waw, G only, on the ܕܘܣ template) and its homograph ܫܘܒ 2 šôb "again, once more, back, another time" (adverb, final placement as in Hebrew and the dialects).
+- №6 "The sun is shining again" = ܗܠ ܫܡܣܐ ܥܝܡ ܬܙܪܚ ܫܘܒ *hal ˈšam.sâ ʿîm taz.ˈraḥ šôb*.

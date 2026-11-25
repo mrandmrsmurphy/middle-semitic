@@ -40,7 +40,9 @@ Fiziwig’s collection of 218 English sentences provides translation prompts for
 
 6. The sun is shining again.
 
-   **Translation:**
+   **Translation:** ܗܠ ܫܡܣܐ ܥܝܡ ܬܙܪܚ ܫܘܒ — *hal ˈšam.sâ ʿîm taz.ˈraḥ šôb*
+
+   **Commentary:** "Again" is the adverb ܫܘܒ *šôb* (root Š-W-B, from PS *θawb-), placed finally as in Hebrew and the dialects. It is the homograph of the verb ܫܘܒ "to return" — Hebrew uses one word for both, and MS follows.
 
 7. The sun will shine tomorrow.
 
