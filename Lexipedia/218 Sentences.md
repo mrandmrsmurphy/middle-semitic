@@ -16,11 +16,15 @@ Fiziwig’s collection of 218 English sentences provides translation prompts for
 
 2. The sun is shining.
 
-   **Translation:**
+   **Translation:** ܗܠ ܫܡܣܐ ܥܝܡ ܬܙܪܚ — *hal ˈšam.sâ ʿîm taz.ˈraḥ*
+
+   **Commentary:** The progressive is the optional, emphatic particle ܥܝܡ *ʿîm* before the non-past — "the sun is ongoingly shining." The plain non-past (№1) remains the unmarked present.
 
 3. The sun shone.
 
-   **Translation:**
+   **Translation:** ܗܠ ܫܡܣܐ ܙܪܚܬ — *hal ˈšam.sâ za.ˈra.ḥat*
+
+   **Commentary:** Plain past 3fs ܙܰܪܱܚܰܬ *zaraḥat*; the simple past takes no ܥܝܡ — the past progressive is saved for №5.
 
 4. The sun will shine.
 

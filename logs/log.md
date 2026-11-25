@@ -407,3 +407,11 @@ Append-only. Never edit past entries.
 ## 2026-11-25 — 218 Sentences №1 translated; definiteness documented
 - №1 "The sun shines" = ܗܠ ܫܡܣܐ ܬܙܪܚ *hal ˈšam.sâ taz.ˈraḥ*, filled into the page's existing `**Translation:**` placeholder with a brief `**Commentary:**` (the agreed format for all 218: translation line, then a smidgeon of commentary).
 - User rulings recorded: definite article ܗܠ *hal* (separate proclitic, fuses to wa-/pi- as in Gen 1:1); bare ܫܡܣܐ = the Solar Deity (Shamash/Utu), with ܗܠ = the celestial body; crypto-feminine → feminine agreement (3fs); SVO default / VSO deliberate anachronism (already in Morphosyntax's intro). New "Definiteness" section in Morphosyntax; Notes sentence on ܫܡܣܐ (its Latin row also got the stress-mark retrofit ˈšam.sâ, date-last-perfect 2026-11-25). Rulings added to the grammar-rulings memory.
+
+## 2026-11-25 — Progressive particle ܥܝܡ ʿîm; root ܥ-ܡ-ܠ and verb; №2 translated
+- User ruled: coin the progressive as ܥܝܡ *ʿîm* — a clipping of root ʿ-M-L via Arabic عمل, modeled on the dialects' عم (Levantine, a clipping of عَمَّال, per Wiktionary) but spelled with î to avoid the homograph and homophone with the preposition ܥܡ ʿim "with". Uninflecting, optional and emphatic ("the sun is ONGOINGLY shining"), stands before the non-past; usable with the past via hô (dialectal kān ʿam pattern). The plain non-past stays the unmarked present.
+- Coined with it: root ܥ-ܡ-ܠ and verb ܥܡܠ ʿa.ˈmal "to toil, to work" (G only; Hebrew עָמַל, Aramaic ܥܡܰܠ, Arabic عَمِلَ all verified — senses split labor/do, MS takes labor; "do, make" stays ܦܥܠ).
+- №2 "The sun is shining" = ܗܠ ܫܡܣܐ ܥܝܡ ܬܙܪܚ *hal ˈšam.sâ ʿîm taz.ˈraḥ*, filled into 218 Sentences with brief commentary. New Morphosyntax section "The progressive"; rulings added to the grammar-rulings memory.
+
+## 2026-11-25 — №3 translated
+- №3 "The sun shone" = ܗܠ ܫܡܣܐ ܙܪܚܬ *hal ˈšam.sâ za.ˈra.ḥat* — plain past 3fs, no ܥܝܡ (user: the progressive is saved for №5).
