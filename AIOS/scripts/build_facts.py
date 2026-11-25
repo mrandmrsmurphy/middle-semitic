@@ -19,7 +19,7 @@ lexicon = git_files('Lexicon')
 roots = git_files('Roots')
 
 filled = 0
-for line in open(os.path.join(VAULT, 'Swadesh.md'), encoding='utf-8'):
+for line in open(os.path.join(VAULT, 'Lexipedia', 'Swadesh.md'), encoding='utf-8'):
     if re.match(r'\|\s*\d+\s*\|', line) and line.split('|')[-2].strip():
         filled += 1
 
@@ -34,7 +34,7 @@ swadesh:
   filled: {filled}
   total: 207
 key_pages:
-  swadesh: Swadesh.md
+  swadesh: Lexipedia/Swadesh.md
   lexicon_index: Lexicon/Words - all.base
   roots_index: Roots/Roots.base
   memory_index: AIOS/memory-index.md

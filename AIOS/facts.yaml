@@ -3,15 +3,15 @@ vault: middle-semitic
 language: Middle Semitic
 hub: Middle Semitic.md
 counts:
-  lexicon_entries: 619
-  roots: 327
+  lexicon_entries: 637
+  roots: 342
 swadesh:
-  filled: 151
+  filled: 155
   total: 207
 key_pages:
-  swadesh: Swadesh.md
+  swadesh: Lexipedia/Swadesh.md
   lexicon_index: Lexicon/Words - all.base
   roots_index: Roots/Roots.base
   memory_index: AIOS/memory-index.md
 source_record: Lexicon/
-generated: 2026-11-19
+generated: 2026-11-25

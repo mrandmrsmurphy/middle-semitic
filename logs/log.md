@@ -441,3 +441,11 @@ Append-only. Never edit past entries.
 ## 2026-11-25 — Adjective concord ruled; №9 translated
 - User approved the doubled-article system: attributive adjective follows the noun and repeats ܗܠ (hal šamsâ hal bahîrtâ "the bright sun"); bare both when indefinite; the bare adjective after a definite noun is the predicate ("the sun is bright"). The prenominal sandwich (hal + adjective + noun) was rejected — all four sources are strictly postnominal. Documented in Morphosyntax "Definiteness" and the grammar-rulings memory; the predicative-adjective linker question (hiyâ or bare) left open.
 - №9 "The bright sun shines" = ܗܠ ܫܡܣܐ ܗܠ ܒܗܝܪܬܐ ܬܙܪܚ *hal ˈšam.sâ hal ba.ˈhîr.tâ taz.ˈraḥ*.
+
+## 2026-11-25 — ܥܕܢ "time" coined; "now" = ʿidân hazâ; №10 translated
+- "Now" resolved on the user's insight that every branch builds it from "time" — verified: Hebrew עַתָּה = accusative of עֵת "at the time" (BDB, which itself compares Arabic الْآن), Aramaic כְּעַן = contraction of כְּעִידָּן "at the time" (Jastrow), dialectal دلوقتي "this-time" / هسه "this-hour". Coined the noun ܥܕܢ ʿi.ˈdân "time" (masculine; root ʿ-D-N from Biblical Aramaic ܥܻܕܳܢ; Hebrew עֵת the sister form via √ענה per BDB — reconstruction marked hypothetical; Akkadian inu outgroup; Arabic has no cognate, its "time" being وَقْت/زَمَن). "Now" = ܥܕܢ ܗܙܐ *ʿidân hazâ* "this time", postnominal demonstrative per the concord ruling.
+- №10 "The sun is rising now" = ܗܠ ܫܡܣܐ ܥܝܡ ܬܙܪܚ ܥܕܢ ܗܙܐ *hal ˈšam.sâ ʿîm taz.ˈraḥ ʿi.ˈdân ha.ˈzâ* — "rise" is ܙܪܚ itself with the progressive.
+
+## 2026-11-25 — Swadesh page moved into Lexipedia/
+- `Swadesh.md` moved to `Lexipedia/Swadesh.md` and made a Lexipedia citizen: parent breadcrumb now [[Lexipedia/Lexipedia|Lexipedia]] (kept the Lexicon and Cross-UL links), and added to the Lexipedia hub at the head of the list group. `[[Swadesh]]` wikilinks (151 lexicon entries and others) resolve by filename and were untouched.
+- Path references fixed: README.md and CONTRIBUTING.md markdown links; `AIOS/scripts/build_facts.py` (read path + facts.yaml key) and `AIOS/scripts/build_ms_adjectives.py`; UL's `AIOS/scripts/build_swadesh.py` (its hardcoded MS path now points at `Lexipedia/Swadesh.md`). `AIOS/facts.yaml` regenerated. Layout and conventions memories updated.

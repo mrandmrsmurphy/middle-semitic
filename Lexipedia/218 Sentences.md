@@ -64,7 +64,9 @@ Fiziwig’s collection of 218 English sentences provides translation prompts for
 
 10. The sun is rising now.
 
-    **Translation:**
+    **Translation:** ܗܠ ܫܡܣܐ ܥܝܡ ܬܙܪܚ ܥܕܢ ܗܙܐ — *hal ˈšam.sâ ʿîm taz.ˈraḥ ʿi.ˈdân ha.ˈzâ*
+
+    **Commentary:** "Now" is the transparent phrase ܥܕܢ ܗܙܐ *ʿidân hazâ* "this time" (new noun ܥܕܢ *ʿidân* "time", root ʿ-D-N, from Biblical Aramaic ܥܻܕܳܢ) — the same formation every branch froze into a word: Hebrew עַתָּה, Aramaic כְּעַן, Arabic الْآن, dialectal دلوقتي. "Rise" is ܙܪܚ itself, with the progressive ܥܝܡ for the ongoing action.
 
 11. All the people shouted.
 

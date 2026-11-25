@@ -148,7 +148,7 @@ By the scale above, Middle Semitic has a complete grammar (milestone 4) and is w
 | [Morphophonology](Morphophonology.md) | Noun and verb morphology and the sound changes within them |
 | [Morphosyntax](Morphosyntax.md) | Word order, the copula, the conjugating prepositions, subordination |
 | [Prepositions](Prepositions.md) | The eight small prepositions and their contrasts |
-| [Swadesh](Swadesh.md) | The 207-item comparative list across Arabic, Hebrew, Syriac and the dialects, with the Middle Semitic form |
+| [Swadesh](Lexipedia/Swadesh.md) | The 207-item comparative list across Arabic, Hebrew, Syriac and the dialects, with the Middle Semitic form |
 | [Dialogue](Dialogue.md) | Sample conversations and texts, such as the Shahada |
 | [Tanakh](Tanakh.md) | The Hebrew Bible word by word (so far the Torah): Hebrew, an Arabic cognate, the Peshitta and Middle Semitic |
 | [`Lexicon/`](Lexicon/) | One file per word (about 470), each with a table and queryable cognate properties |

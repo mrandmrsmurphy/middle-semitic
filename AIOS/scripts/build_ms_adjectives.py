@@ -46,7 +46,7 @@ def main(root, old, new, st, gloss, construct=True):
         if '/' + old + '|' in u:
             u = re.sub(r'\[\[Lexicon/' + old + r'\|' + old + r'\]\] \(.*?\) — .*',
                        f'[[Lexicon/{new}|{new}]] ({st}â) — {gloss}', u); open(q, 'w').write(u)
-    for q in (os.path.join(root, 'Swadesh.md'), os.path.join(L, '-ܐܢ.md')):
+    for q in (os.path.join(root, 'Lexipedia', 'Swadesh.md'), os.path.join(L, '-ܐܢ.md')):
         u = open(q).read(); open(q, 'w').write(u.replace(f'[[{old}]]', f'[[{new}]]'))
 
 if __name__ == '__main__':
