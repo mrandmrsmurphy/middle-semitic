@@ -6,6 +6,10 @@
 
 Word order is **SVO** and without case, this is rather strictly enforced. **VSO** is “archaic”. Pro-drop is common due to verbal inflection.
 
+## Definiteness
+
+The definite article is ܗܠ *hal*, a proclitic written as a separate word before the noun: ܗܠ ܫܡܣܐ *hal šamsâ* "the sun". It fuses to a preceding clitic: ܘܗܠ *wa-hal* "and the", ܦܗܠ *pi-hal* "in the". A noun without *hal* is indefinite; some bare nouns shift to a proper or divine referent — bare ܫܡܣܐ is the Solar Deity (Shamash/Utu), while ܗܠ ܫܡܣܐ is the celestial body.
+
 ## Copula
 
 As in all Semitic languages, copulas are very mixed. The shortest summary is this table:

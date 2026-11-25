@@ -10,7 +10,9 @@ Fiziwig’s collection of 218 English sentences provides translation prompts for
 
 1. The sun shines.
 
-   **Translation:**
+   **Translation:** ܗܠ ܫܡܣܐ ܬܙܪܚ — *hal ˈšam.sâ taz.ˈraḥ*
+
+   **Commentary:** The article ܗܠ *hal* is required: bare ܫܡܣܐ would be the Solar Deity (Shamash/Utu). ܫܡܣܐ is crypto-feminine, hence the 3fs verb; SVO order.
 
 2. The sun is shining.
 
