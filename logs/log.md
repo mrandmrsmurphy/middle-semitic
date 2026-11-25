@@ -427,3 +427,8 @@ Append-only. Never edit past entries.
 - User approved root Š-W-B from PS *θawb- (BDB: Hebrew שׁוּב, Arabic ثَابَ "return" — rare beside doublet تَابَ "repent", Aramaic ܬܘܒ, Sabaean ṯwb; the user's question answered: Arabic عَادَ "return" is the unrelated root ʿ-W-D). The chart maps *θ → š ܫ and the absolute aw → ô rule gives šôb — every branch's reflex converges on the same MS shape.
 - Coined: verb ܫܘܒ šôb "to return, to come back" (intransitive, hollow II-waw, G only, on the ܕܘܣ template) and its homograph ܫܘܒ 2 šôb "again, once more, back, another time" (adverb, final placement as in Hebrew and the dialects).
 - №6 "The sun is shining again" = ܗܠ ܫܡܣܐ ܥܝܡ ܬܙܪܚ ܫܘܒ *hal ˈšam.sâ ʿîm taz.ˈraḥ šôb*.
+
+## 2026-11-25 — ܡܚܪ "tomorrow" coined; №7 translated
+- "Tomorrow" was a three-way impasse (Hebrew/Aramaic/Syriac מחר/ܡܚܰܪ vs MSA/Moroccan غدا vs Egyptian/Levantine/Hijazi بكرة — each a frozen phrase: "time in front"/"the later day" vs "early-morning time" ×2). User's phrase instinct ("the coming day") was answered by Jastrow's etymology of מחר from אָחַר "to be late" — Hebrew already lexicalized that phrase. Voted: NW unified vs Arabic split; outgroup Akkadian maḫru "front" (time-direction flipped) via BDB.
+- Coined ܡܚܪ ma.ˈḥar "tomorrow" (adverb; root ܡ-ܚ-ܪ, PS *maḥr-). Notes record the BDB/Jastrow etymology split, the Arabic split, and the compositional dividends (today = ܗܠ ܝܘܡܐ; day-after-tomorrow = *maḥar* + ܒܥܕ, on the Aramaic מחרא דמחר / Arabic بعد بكرة pattern).
+- №7 "The sun will shine tomorrow" = ܗܠ ܫܡܣܐ ܬܙܪܚ ܡܚܪ *hal ˈšam.sâ taz.ˈraḥ ma.ˈḥar* — plain non-past + time word per the №4 ruling.

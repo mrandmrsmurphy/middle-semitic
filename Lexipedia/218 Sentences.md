@@ -46,7 +46,9 @@ Fiziwig’s collection of 218 English sentences provides translation prompts for
 
 7. The sun will shine tomorrow.
 
-   **Translation:**
+   **Translation:** ܗܠ ܫܡܣܐ ܬܙܪܚ ܡܚܪ — *hal ˈšam.sâ taz.ˈraḥ ma.ˈḥar*
+
+   **Commentary:** Future reference is the plain non-past (№4's ruling) plus the time word: ܡܚܪ *maḥar* "tomorrow" closes the sentence, as in Hebrew.
 
 8. The sun shines brightly.
 
