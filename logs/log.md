@@ -394,3 +394,6 @@ Append-only. Never edit past entries.
 
 ## 2026-11-25 — Lexipedia list pages copied from UL
 - Copied `Leipzig–Jakarta List.md` and `Sophomore List.md` from `../universal-languages/Lexipedia/` into `Lexipedia/`, byte-identical to source. Added both to the `Lexipedia/Lexipedia.md` hub in the UL hub's order and wording. `218 Sentences.md` remains UL-only (not requested; does not exist in this vault).
+
+## 2026-11-25 — 218 Sentences copied from UL
+- Copied `218 Sentences.md` from `../universal-languages/Lexipedia/` into `Lexipedia/`, byte-identical to source, and added it to the `Lexipedia/Lexipedia.md` hub (third list entry, UL wording). Its `[[Development Roadmap]]` link has no target in this vault; kept as-is per the byte-identical-copy convention.
