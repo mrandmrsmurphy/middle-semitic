@@ -4,6 +4,8 @@
 
 A shared guide to semantic domains for building Universal Languages vocabularies. Its structure draws on Mark Rosenfelder’s *The Conlanger’s Lexipedia* and the Dan’a’yo Lexipedia.
 
+- [[Lexipedia/Sophomore List|Sophomore List]] — Mark Rosenfelder’s follow-up to the Swadesh list, to be developed for each of the 15 ULs.
+- [[Lexipedia/Leipzig–Jakarta List|Leipzig–Jakarta List]] — 100 basic vocabulary concepts selected for stability and resistance to borrowing.
 - [[Lexipedia/Animals|Animals]]
 - [[Lexipedia/Art|Art]]
 - [[Lexipedia/Astronomy|Astronomy]]

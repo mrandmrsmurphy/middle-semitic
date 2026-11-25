@@ -391,3 +391,6 @@ Append-only. Never edit past entries.
 
 ## 2026-11-23 — Lexipedia reference copy
 - Copied the Universal Languages Lexipedia into this vault from `../universal-languages/Lexipedia/`. Verified that the index and all 51 semantic-domain lists match the source byte for byte.
+
+## 2026-11-25 — Lexipedia list pages copied from UL
+- Copied `Leipzig–Jakarta List.md` and `Sophomore List.md` from `../universal-languages/Lexipedia/` into `Lexipedia/`, byte-identical to source. Added both to the `Lexipedia/Lexipedia.md` hub in the UL hub's order and wording. `218 Sentences.md` remains UL-only (not requested; does not exist in this vault).
