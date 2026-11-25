@@ -415,3 +415,6 @@ Append-only. Never edit past entries.
 
 ## 2026-11-25 — №3 translated
 - №3 "The sun shone" = ܗܠ ܫܡܣܐ ܙܪܚܬ *hal ˈšam.sâ za.ˈra.ḥat* — plain past 3fs, no ܥܝܡ (user: the progressive is saved for №5).
+
+## 2026-11-25 — №4 translated: future = plain non-past
+- User ruled: no future particle; the plain non-past covers future reference (Hebrew's strategy). №4 "The sun will shine" = ܗܠ ܫܡܣܐ ܬܙܪܚ, identical to №1; commentary notes context must make it clear, most clearly a prepositional phrase of time (№7 "tomorrow"). Ruling added to the grammar-rulings memory.

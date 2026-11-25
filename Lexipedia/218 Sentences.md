@@ -28,7 +28,9 @@ Fiziwig’s collection of 218 English sentences provides translation prompts for
 
 4. The sun will shine.
 
-   **Translation:**
+   **Translation:** ܗܠ ܫܡܣܐ ܬܙܪܚ — *hal ˈšam.sâ taz.ˈraḥ*
+
+   **Commentary:** Identical to №1: the plain non-past covers future reference (as in Hebrew), so the simple translation does not differ from the present. Context makes it clear — a prepositional phrase of time makes it most clear (cf. №7 "tomorrow").
 
 5. The sun has been shining.
 
