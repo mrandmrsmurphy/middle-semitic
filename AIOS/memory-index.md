@@ -14,5 +14,6 @@ Read this first, every session, before touching vault content. Each line points 
 - [Don't track sister projects](memory/feedback_dont_track_sister_projects.md) — no to-do items about UL pages or other languages; UL tracks those
 - [Use the consonant chart](memory/feedback_use_consonant_chart.md) — derive MS roots from PS via the Anthropology.md correspondence table, not from Arabic/Hebrew spelling
 - [Branch-vote protocol](memory/project_branch_vote_protocol.md) — Hebrew+Aramaic vs Arabic: count branches, outgroups tiebreak, split senses, fixed Notes sentence
+- [Report source-language usage](memory/feedback_report_source_language_usage.md) — vocabulary summaries must state what Hebrew (biblical/Mishnaic/modern) and Arabic (MSA/dialects) use for the concept, from sources
 
 This index grows as the vault does — add a line here for every new file placed in `AIOS/memory/`.
