@@ -397,3 +397,9 @@ Append-only. Never edit past entries.
 
 ## 2026-11-25 — 218 Sentences copied from UL
 - Copied `218 Sentences.md` from `../universal-languages/Lexipedia/` into `Lexipedia/`, byte-identical to source, and added it to the `Lexipedia/Lexipedia.md` hub (third list entry, UL wording). Its `[[Development Roadmap]]` link has no target in this vault; kept as-is per the byte-identical-copy convention.
+
+## 2026-11-25 — Coined ܙܪܚ "shine, rise" and ܡܙܪܚܐ "east" (218 Sentences №1 vocabulary)
+- First vocabulary for 218 Sentences №1 "The sun shines" (sentence itself not built — discuss-first rule). User approved root Z-R-Ḥ. New standing rule saved to memory: vocabulary summaries must report what Hebrew (biblical/Mishnaic/modern) and Arabic (MSA/dialects) use for the concept before picking a word.
+- Verb ܙܪܚ za.ˈraḥ "to shine, to rise (of the sun)", intransitive, G stem only. The root is PS *ḏrḥ: the Anthropology chart maps *ḏ → z ܙ regularly, so this is derivation, not just election — Hebrew זרח (every period: BDB, Jastrow, modern), Akkadian zarâḫu (via BDB), Sabaean ḏrḥ "lofty" all descend from it. Arabic has no reflex; its شَرَقَ "rise (of the sun), shine" (→ شرق/مشرق "east") is a semantic calque, not a cognate (ش = *ś and ق = *q would yield Hebrew שׁ and ק, not ז and ח). Aramaic covers the concept with shape ܕܢܚ (regular *ḏ → d, unexplained r → n; Jastrow, Targ. Gen 32:32). The shape ܫܪܩ was rejected: "hiss, whistle" in both Hebrew and Aramaic (Jastrow). Branch vote recorded in the entry's Notes.
+- Noun ܡܙܪܚܐ miz.ˈra.ḥâ "east", masculine, built m- + root on Hebrew מִזְרָח's model with nominal -â; every branch forms "east" as m- + its sunrise verb (מִזְרָח, مَشْرِق, ܡܕܢܚܐ). Aramaic ܡܕܢܚܐ flagged recalled-unverified.
+- `build_ms_roots.py` also added missing tags (strong, II-guttural, III-aleph) to five roots coined in the recent Swadesh passes.
