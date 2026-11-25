@@ -432,3 +432,12 @@ Append-only. Never edit past entries.
 - "Tomorrow" was a three-way impasse (Hebrew/Aramaic/Syriac מחר/ܡܚܰܪ vs MSA/Moroccan غدا vs Egyptian/Levantine/Hijazi بكرة — each a frozen phrase: "time in front"/"the later day" vs "early-morning time" ×2). User's phrase instinct ("the coming day") was answered by Jastrow's etymology of מחר from אָחַר "to be late" — Hebrew already lexicalized that phrase. Voted: NW unified vs Arabic split; outgroup Akkadian maḫru "front" (time-direction flipped) via BDB.
 - Coined ܡܚܪ ma.ˈḥar "tomorrow" (adverb; root ܡ-ܚ-ܪ, PS *maḥr-). Notes record the BDB/Jastrow etymology split, the Arabic split, and the compositional dividends (today = ܗܠ ܝܘܡܐ; day-after-tomorrow = *maḥar* + ܒܥܕ, on the Aramaic מחרא דמחר / Arabic بعد بكرة pattern).
 - №7 "The sun will shine tomorrow" = ܗܠ ܫܡܣܐ ܬܙܪܚ ܡܚܪ *hal ˈšam.sâ taz.ˈraḥ ma.ˈḥar* — plain non-past + time word per the №4 ruling.
+
+## 2026-11-25 — Root ܒ-ܗ-ܪ (bright); the adverbial rule; №8 translated
+- User chose b-h-r for "bright" (verified pan-branch: Hebrew בָּהַר/בָּהִיר — Jastrow, BDB Jb 37:21 hapax, Klein; Arabic بَهَرَ "dazzle, illuminate", used of the sun per Wiktionary; Aramaic ܒܗܰܪ). Coined the chain: stative ܒܗܪ ba.ˈhîr "to be bright" (G only), adjective ܒܗܝܪܐ ba.ˈhî.râ "bright" (Notes record Klein's Syriac drift: ܒܗܝܪܐ = "dim, uncertain" in Syriac), abstract ܒܗܝܪܘܬܐ ba.hî.ˈrû.tâ "brightness" (-ûtâ, as Hebrew בְּהִירוּת).
+- User ruled the adverbial system: manner adverbs = bi- + abstract noun (pan-branch: Arabic بِ + noun, Hebrew בְּ + noun); non-focus X after the verb phrase (SVOX default, VSOX archaic); focus X between subject and verb (SXVO default, VXSO archaic — the Gen 32:32 pattern); particles (hal, ʿîm, lâ) are not adverbials and precede the verb. Documented in Morphosyntax "Adverbials" and the grammar-rulings memory.
+- №8 "The sun shines brightly" = ܗܠ ܫܡܣܐ ܬܙܪܚ ܒܒܗܝܪܘܬܐ *hal ˈšam.sâ taz.ˈraḥ bi.ba.hî.ˈrû.tâ*.
+
+## 2026-11-25 — Adjective concord ruled; №9 translated
+- User approved the doubled-article system: attributive adjective follows the noun and repeats ܗܠ (hal šamsâ hal bahîrtâ "the bright sun"); bare both when indefinite; the bare adjective after a definite noun is the predicate ("the sun is bright"). The prenominal sandwich (hal + adjective + noun) was rejected — all four sources are strictly postnominal. Documented in Morphosyntax "Definiteness" and the grammar-rulings memory; the predicative-adjective linker question (hiyâ or bare) left open.
+- №9 "The bright sun shines" = ܗܠ ܫܡܣܐ ܗܠ ܒܗܝܪܬܐ ܬܙܪܚ *hal ˈšam.sâ hal ba.ˈhîr.tâ taz.ˈraḥ*.

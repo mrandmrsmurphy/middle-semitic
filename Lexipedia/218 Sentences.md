@@ -52,11 +52,15 @@ Fiziwig’s collection of 218 English sentences provides translation prompts for
 
 8. The sun shines brightly.
 
-   **Translation:**
+   **Translation:** ܗܠ ܫܡܣܐ ܬܙܪܚ ܒܒܗܝܪܘܬܐ — *hal ˈšam.sâ taz.ˈraḥ bi.ba.hî.ˈrû.tâ*
+
+   **Commentary:** The manner adverb is *bi-* + the abstract noun: ܒܒܗܝܪܘܬܐ *bi-bahîrûtâ* "brightly" (root ܒ-ܗ-ܪ), in the non-focus position after the verb (SVOX).
 
 9. The bright sun shines.
 
-   **Translation:**
+   **Translation:** ܗܠ ܫܡܣܐ ܗܠ ܒܗܝܪܬܐ ܬܙܪܚ — *hal ˈšam.sâ hal ba.ˈhîr.tâ taz.ˈraḥ*
+
+   **Commentary:** The attributive adjective follows the noun and repeats the article: ܗܠ ܫܡܣܐ ܗܠ ܒܗܝܪܬܐ "the bright sun" (feminine ܒܗܝܪܬܐ, agreeing with crypto-feminine ܫܡܣܐ). With one ܗܠ it would be a sentence — ܗܠ ܫܡܣܐ ܒܗܝܪܬܐ "the sun is bright".
 
 10. The sun is rising now.
 

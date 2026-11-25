@@ -10,6 +10,8 @@ Word order is **SVO** and without case, this is rather strictly enforced. **VSO*
 
 The definite article is ܗܠ *hal*, a proclitic written as a separate word before the noun: ܗܠ ܫܡܣܐ *hal šamsâ* "the sun". It fuses to a preceding clitic: ܘܗܠ *wa-hal* "and the", ܦܗܠ *pi-hal* "in the". A noun without *hal* is indefinite; some bare nouns shift to a proper or divine referent — bare ܫܡܣܐ is the Solar Deity (Shamash/Utu), while ܗܠ ܫܡܣܐ is the celestial body.
 
+An attributive adjective follows its noun and repeats the article: ܗܠ ܫܡܣܐ ܗܠ ܒܗܝܪܬܐ *hal šamsâ hal bahîrtâ* "the bright sun"; with an indefinite noun both are bare: ܫܡܣܐ ܒܗܝܪܬܐ "a bright sun". The bare adjective after a definite noun is the predicate, not a modifier: ܗܠ ܫܡܣܐ ܒܗܝܪܬܐ "the sun is bright" — the same contrast as Arabic الشمس الساطعة "the bright sun" against الشمس ساطعة "the sun is bright".
+
 ## Copula
 
 As in all Semitic languages, copulas are very mixed. The shortest summary is this table:
@@ -24,6 +26,10 @@ Existence is expressed by two particles that do not inflect for person or number
 ## The progressive
 
 The plain non-past is the unmarked present and already covers ongoing action, as in the source languages. An ongoing action can be marked explicitly with the particle ܥܝܡ *ʿîm*, an uninflecting word standing before the verb: ܗܠ ܫܡܣܐ ܥܝܡ ܬܙܪܚ *hal šamsâ ʿîm tazraḥ* "the sun is ongoingly shining". *ʿîm* is optional and emphatic. It combines with either tense: with the non-past for present ongoing action, with the past for past ongoing action — ܗܠ ܫܡܣܐ ܥܝܡ ܙܪܚܬ *hal šamsâ ʿîm zaraḥat* "the sun was / has been ongoingly shining". (The dialects build the past progressive with كَانَ عَمّ + the imperfect; MS lets *ʿîm* attach to the past directly.) The particle is a clipping of the root ʿ-M-L via Arabic عمل; see [[Lexicon/ܥܝܡ|ܥܝܡ]].
+
+## Adverbials
+
+Manner adverbs are built with the clitic *bi-* on the abstract noun in -ûtâ: *bi-bahîrûtâ* "brightly" (cf. Arabic بِسُرْعَة "quickly", Hebrew בִּמְהִירוּת). An adverbial phrase follows the verb in the non-focus order: S-V-O-X in the default SVO (ܗܠ ܫܡܣܐ ܬܙܪܚ ܒܒܗܝܪܘܬܐ *hal šamsâ tazraḥ bi-bahîrûtâ* "the sun shines brightly"), V-S-O-X in the archaic VSO. For focus the adverbial moves between subject and verb: S-X-V-O (ܗܠ ܫܡܣܐ ܒܒܗܝܪܘܬܐ ܬܙܪܚ), and in the archaic register V-X-S-O (ܬܙܪܚ ܒܒܗܝܪܘܬܐ ܗܠ ܫܡܣܐ) — the pattern of Biblical Hebrew וַתִּזְרַח לוֹ הַשֶּׁמֶשׁ "the sun rose for him" (Gen 32:32). Particles (ܗܠ *hal*, ܥܝܡ *ʿîm*, ܠܐ *lâ*) are not adverbials; they stand before the verb.
 
 ## Prepositions
 
