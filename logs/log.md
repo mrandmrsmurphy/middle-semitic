@@ -418,3 +418,7 @@ Append-only. Never edit past entries.
 
 ## 2026-11-25 — №4 translated: future = plain non-past
 - User ruled: no future particle; the plain non-past covers future reference (Hebrew's strategy). №4 "The sun will shine" = ܗܠ ܫܡܣܐ ܬܙܪܚ, identical to №1; commentary notes context must make it clear, most clearly a prepositional phrase of time (№7 "tomorrow"). Ruling added to the grammar-rulings memory.
+
+## 2026-11-25 — №5 translated; ʿîm generalizes to the past
+- User ruled: the progressive is simply ܥܝܡ + the perfect — no auxiliary. ʿîm combines with either tense: + non-past = present ongoing, + past = past ongoing / "has been" (supersedes the interim hô ʿîm construction documented earlier today; the dialects' كَانَ عَمّ + imperfect was the model, MS generalizes). ܥܝܡ Notes, Morphosyntax "The progressive" and the memory ruling updated in place.
+- №5 "The sun has been shining" = ܗܠ ܫܡܣܐ ܥܝܡ ܙܪܚܬ *hal ˈšam.sâ ʿîm za.ˈra.ḥat*.

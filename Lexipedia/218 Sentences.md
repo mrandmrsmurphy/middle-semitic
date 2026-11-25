@@ -34,7 +34,9 @@ Fiziwig’s collection of 218 English sentences provides translation prompts for
 
 5. The sun has been shining.
 
-   **Translation:**
+   **Translation:** ܗܠ ܫܡܣܐ ܥܝܡ ܙܪܚܬ — *hal ˈšam.sâ ʿîm za.ˈra.ḥat*
+
+   **Commentary:** The progressive attaches to the past directly: ܥܝܡ ܙܪܚܬ *ʿîm zaraḥat* — "has been ongoingly shining." One ongoing-past form covers "was shining" and "has been shining," just as the plain non-past covers present and future.
 
 6. The sun is shining again.
 

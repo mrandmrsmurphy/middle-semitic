@@ -23,7 +23,7 @@ Existence is expressed by two particles that do not inflect for person or number
 
 ## The progressive
 
-The plain non-past is the unmarked present and already covers ongoing action, as in the source languages. An ongoing action can be marked explicitly with the particle ܥܝܡ *ʿîm*, an uninflecting word standing before the verb: ܗܠ ܫܡܣܐ ܥܝܡ ܬܙܪܚ *hal šamsâ ʿîm tazraḥ* "the sun is ongoingly shining". *ʿîm* is optional and emphatic. For the past progressive it follows the past existence particle: *hô ʿîm tazraḥ* "was ongoingly shining" — the pattern of dialectal Arabic كَانَ عَمّ. The particle is a clipping of the root ʿ-M-L via Arabic عمل; see [[Lexicon/ܥܝܡ|ܥܝܡ]].
+The plain non-past is the unmarked present and already covers ongoing action, as in the source languages. An ongoing action can be marked explicitly with the particle ܥܝܡ *ʿîm*, an uninflecting word standing before the verb: ܗܠ ܫܡܣܐ ܥܝܡ ܬܙܪܚ *hal šamsâ ʿîm tazraḥ* "the sun is ongoingly shining". *ʿîm* is optional and emphatic. It combines with either tense: with the non-past for present ongoing action, with the past for past ongoing action — ܗܠ ܫܡܣܐ ܥܝܡ ܙܪܚܬ *hal šamsâ ʿîm zaraḥat* "the sun was / has been ongoingly shining". (The dialects build the past progressive with كَانَ عَمّ + the imperfect; MS lets *ʿîm* attach to the past directly.) The particle is a clipping of the root ʿ-M-L via Arabic عمل; see [[Lexicon/ܥܝܡ|ܥܝܡ]].
 
 ## Prepositions
 
