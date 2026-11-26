@@ -2,14 +2,14 @@
 
 > Parent: [[Middle Semitic]]
 
-## Greeting (Yosef & Miriam)
+## Greeting (Yosef & Maryam)
 
 |     | MS                            | Transliteration                      | Translation                               |
 | --- | ----------------------------- | ------------------------------------ | ----------------------------------------- |
 | Y   | ܣܠܘܡ ܥܠܟܘܡ!                   | *salôm ʿalkûm!*                      | Howdy y'all!                              |
 | M   | ܣܠܘܡ! ܡܝܢ ܐܢܬܐ؟               | *salôm! mîn antâ?*                   | Howdy. Who are you?                       |
 | Y   | ܐܢܐ ܝܘܣܦ. ܘܡܝܢ ܐܢܬܝ؟          | *anâ yôsaf. wa-mîn antî?*            | I'm Yosef. And who are you?               |
-| M   | ܐܢܐ ܡܪܝܡ. ܣܠܘܡ ܝܘܣܦ. ܡܐܢ ܠܟܐ؟ | *anâ maryam. salôm yôsaf! mân likâ?* | I'm Miriam. Hi Yosef. What's up with you? |
+| M   | ܐܢܐ [[Lexicon/ܡܪܝܡ\|ܡܪܝܡ]]. ܣܠܘܡ ܝܘܣܦ. ܡܐܢ ܠܟܐ؟ | *anâ mar.ˈyam. salôm yôsaf! mân likâ?* | I'm Maryam. Hi Yosef. What's up with you? |
 | Y   | ܐܢܐ ܛܘܒ. ܘܐܢܬܝ؟               | *anâ ṭôv. wa-antî?*                  | I'm good. And you?                        |
 | M   | ܐܢܐ ܟܡܢ ܛܘܒ. ܫܘܟܪܢ!           | *anâ kaman ṭôv. šukrân!*             | I'm also good. Thanks!                    |
 

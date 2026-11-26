@@ -456,3 +456,7 @@ Append-only. Never edit past entries.
 
 ## 2026-11-25 — B-ʿ-D stative for “far”
 - User chose the existing distance root ܒ-ܥ-ܕ for “to be far.” Added ܒܥܝܕ ba.ˈʿîd with a G-stem paradigm and linked it at Leipzig–Jakarta №24 and Swadesh №198.
+
+## 2026-11-25 — Leipzig–Jakarta “bitter” and Maryam in Dialogue
+- Added ܡܪܝܪ ma.ˈrîr “to be bitter” as a G-only stative on the new geminate root ܡ-ܪ-ܪ, and linked Leipzig–Jakarta №28.
+- Added Maryam to the gloss of the existing ܡܪܝܡ mar.ˈyam entry and linked it in Dialogue, using Maryam in the greeting heading and English introduction.

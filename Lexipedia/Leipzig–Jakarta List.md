@@ -31,7 +31,7 @@ Source: Uri Tadmor (2009), “Loanwords in the world’s languages: Findings and
 25. to do/make — [[Lexicon/ܦܥܠ|ܦܥܠ]]
 26. house — [[Lexicon/ܒܝܬܐ|ܒܝܬܐ]]
 27. stone/rock — [[Lexicon/ܐܒܢܐ|ܐܒܢܐ]]
-28. bitter
+28. bitter — [[Lexicon/ܡܪܝܪ|ܡܪܝܪ]]
 29. to say — [[Lexicon/ܐܡܪ|ܐܡܪ]]
 30. tooth — [[Lexicon/ܣܝܢܐ|ܣܝܢܐ]]
 31. hair — [[Lexicon/ܫܥܪܐ|ܫܥܪܐ]]
