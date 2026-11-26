@@ -449,3 +449,10 @@ Append-only. Never edit past entries.
 ## 2026-11-25 — Swadesh page moved into Lexipedia/
 - `Swadesh.md` moved to `Lexipedia/Swadesh.md` and made a Lexipedia citizen: parent breadcrumb now [[Lexipedia/Lexipedia|Lexipedia]] (kept the Lexicon and Cross-UL links), and added to the Lexipedia hub at the head of the list group. `[[Swadesh]]` wikilinks (151 lexicon entries and others) resolve by filename and were untouched.
 - Path references fixed: README.md and CONTRIBUTING.md markdown links; `AIOS/scripts/build_facts.py` (read path + facts.yaml key) and `AIOS/scripts/build_ms_adjectives.py`; UL's `AIOS/scripts/build_swadesh.py` (its hardcoded MS path now points at `Lexipedia/Swadesh.md`). `AIOS/facts.yaml` regenerated. Layout and conventions memories updated.
+
+## 2026-11-25 — Leipzig–Jakarta lexicon pass
+- Linked 88 of the 100 prompts to existing lexicon entries, keeping Tadmor’s order. Used ܥܦܪܐ “dust, dirt” for “soil” and ܡܬܝܩ “to be sweet” for “sweet”. The entry ܚܕܫ “to become new” leaves the adjective “new” open.
+- Started №24 “far” (also Swadesh №198). Proposed ܪܚܝܩܐ ra.ˈḥî.qâ on R-Ḥ-Q, with Hebrew and Syriac adjective evidence and Akkadian and Geʿez support, parallel to ܩܪܝܒܐ “near”. Arabic uses B-ʿ-D, already represented by ܒܥܕܐ “distance” and ܒܥܕ “after”. The proposal awaits a choice of root.
+
+## 2026-11-25 — B-ʿ-D stative for “far”
+- User chose the existing distance root ܒ-ܥ-ܕ for “to be far.” Added ܒܥܝܕ ba.ˈʿîd with a G-stem paradigm and linked it at Leipzig–Jakarta №24 and Swadesh №198.

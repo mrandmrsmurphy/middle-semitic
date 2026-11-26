@@ -4,103 +4,103 @@ The Leipzig–Jakarta List contains 100 basic vocabulary concepts selected for s
 
 Source: Uri Tadmor (2009), “Loanwords in the world’s languages: Findings and results,” Table 9.1. English glosses from [Concepticon’s Tadmor 2009 list](https://concepticon.clld.org/contributions/Tadmor-2009-100) ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).
 
-1. fire
-2. nose
-3. to go
-4. water
-5. mouth
-6. tongue
-7. blood
-8. bone
-9. 2sg pronoun
-10. root
-11. to come
-12. breast
-13. rain
-14. 1sg pronoun
-15. name
-16. louse
-17. wing
-18. flesh/meat
-19. arm/hand
-20. fly
-21. night
-22. ear
-23. neck
-24. far
-25. to do/make
-26. house
-27. stone/rock
+1. fire — [[Lexicon/ܢܘܪܐ|ܢܘܪܐ]]
+2. nose — [[Lexicon/ܐܢܦܐ|ܐܢܦܐ]]
+3. to go — [[Lexicon/ܗܠܟ|ܗܠܟ]]
+4. water — [[Lexicon/ܡܝܐ|ܡܝܐ]]
+5. mouth — [[Lexicon/ܦܘܡܐ|ܦܘܡܐ]]
+6. tongue — [[Lexicon/ܠܣܢܐ|ܠܣܢܐ]]
+7. blood — [[Lexicon/ܕܡܐ|ܕܡܐ]]
+8. bone — [[Lexicon/ܥܛܡܐ|ܥܛܡܐ]]
+9. 2sg pronoun — [[Lexicon/ܐܢܬܐ|ܐܢܬܐ]] (m.), [[Lexicon/ܐܢܬܝ|ܐܢܬܝ]] (f.)
+10. root — [[Lexicon/ܫܘܪܫܐ|ܫܘܪܫܐ]]
+11. to come — [[Lexicon/ܐܬܝ|ܐܬܝ]]
+12. breast — [[Lexicon/ܚܝܨܢܐ|ܚܝܨܢܐ]]
+13. rain — [[Lexicon/ܡܛܪܐ|ܡܛܪܐ]]
+14. 1sg pronoun — [[Lexicon/ܐܢܐ|ܐܢܐ]]
+15. name — [[Lexicon/ܣܝܡܐ|ܣܝܡܐ]]
+16. louse — [[Lexicon/ܩܡܠܬܐ|ܩܡܠܬܐ]]
+17. wing — [[Lexicon/ܟܢܦܐ|ܟܢܦܐ]]
+18. flesh/meat — [[Lexicon/ܒܫܪܐ|ܒܫܪܐ]]
+19. arm/hand — [[Lexicon/ܝܕܐ|ܝܕܐ]]
+20. fly — [[Lexicon/ܙܒܘܒܐ|ܙܒܘܒܐ]]
+21. night — [[Lexicon/ܠܝܠܐ|ܠܝܠܐ]]
+22. ear — [[Lexicon/ܐܘܙܢܐ|ܐܘܙܢܐ]]
+23. neck — [[Lexicon/ܨܘܐܪܐ|ܨܘܐܪܐ]]
+24. far — [[Lexicon/ܒܥܝܕ|ܒܥܝܕ]]
+25. to do/make — [[Lexicon/ܦܥܠ|ܦܥܠ]]
+26. house — [[Lexicon/ܒܝܬܐ|ܒܝܬܐ]]
+27. stone/rock — [[Lexicon/ܐܒܢܐ|ܐܒܢܐ]]
 28. bitter
-29. to say
-30. tooth
-31. hair
-32. big
-33. one
-34. who?
-35. 3sg pronoun
-36. to hit/beat
-37. leg/foot
-38. horn
-39. this
-40. fish
-41. yesterday
-42. to drink
-43. black
+29. to say — [[Lexicon/ܐܡܪ|ܐܡܪ]]
+30. tooth — [[Lexicon/ܣܝܢܐ|ܣܝܢܐ]]
+31. hair — [[Lexicon/ܫܥܪܐ|ܫܥܪܐ]]
+32. big — [[Lexicon/ܟܒܝܪܐ|ܟܒܝܪܐ]]
+33. one — [[Lexicon/ܘܚܕ|ܘܚܕ]] (m.), [[Lexicon/ܘܚܕܐ|ܘܚܕܐ]] (f.)
+34. who? — [[Lexicon/ܡܝܢ|ܡܝܢ]]
+35. 3sg pronoun — [[Lexicon/ܗܘܐ|ܗܘܐ]] (m.), [[Lexicon/ܗܝܐ|ܗܝܐ]] (f.)
+36. to hit/beat — [[Lexicon/ܣܒܛ|ܣܒܛ]]
+37. leg/foot — [[Lexicon/ܪܝܓܠܐ|ܪܝܓܠܐ]]
+38. horn — [[Lexicon/ܩܪܢܐ|ܩܪܢܐ]]
+39. this — [[Lexicon/ܗܙܐ|ܗܙܐ]]
+40. fish — [[Lexicon/ܚܘܬܐ|ܚܘܬܐ]]
+41. yesterday — [[Lexicon/ܐܡܣܐ|ܐܡܣܐ]]
+42. to drink — [[Lexicon/ܣܬܝ|ܣܬܝ]]
+43. black — [[Lexicon/ܛܠܡܐ|ܛܠܡܐ]]
 44. navel
-45. to stand
-46. to bite
-47. back
-48. wind
+45. to stand — [[Lexicon/ܩܘܡ|ܩܘܡ]]
+46. to bite — [[Lexicon/ܢܫܟ|ܢܫܟ]]
+47. back — [[Lexicon/ܛܗܪܐ|ܛܗܪܐ]]
+48. wind — [[Lexicon/ܪܘܚܐ|ܪܘܚܐ]]
 49. smoke
-50. what?
-51. child (kin term)
-52. egg
+50. what? — [[Lexicon/ܡܐܢ|ܡܐܢ]]
+51. child (kin term) — [[Lexicon/ܘܠܕܐ|ܘܠܕܐ]]
+52. egg — [[Lexicon/ܒܝܨܐ|ܒܝܨܐ]]
 53. to give
 54. new
 55. to burn (intr.)
-56. not
-57. good
-58. to know
-59. knee
-60. sand
-61. to laugh
-62. to hear
-63. soil
-64. leaf
-65. red
-66. liver
-67. to hide
-68. skin/hide
-69. to suck
-70. to carry
-71. ant
-72. heavy
-73. to take
+56. not — [[Lexicon/ܠܐ|ܠܐ]] (non-past), [[Lexicon/ܡܐ|ܡܐ]] (past)
+57. good — [[Lexicon/ܛܘܒܐ|ܛܘܒܐ]]
+58. to know — [[Lexicon/ܘܕܥ|ܘܕܥ]]
+59. knee — [[Lexicon/ܒܪܟܐ|ܒܪܟܐ]]
+60. sand — [[Lexicon/ܚܘܠܐ|ܚܘܠܐ]]
+61. to laugh — [[Lexicon/ܨܚܟ|ܨܚܟ]]
+62. to hear — [[Lexicon/ܣܡܥ|ܣܡܥ]]
+63. soil — [[Lexicon/ܥܦܪܐ|ܥܦܪܐ]]
+64. leaf — [[Lexicon/ܘܪܩܬܐ|ܘܪܩܬܐ]]
+65. red — [[Lexicon/ܚܡܪܐ|ܚܡܪܐ]]
+66. liver — [[Lexicon/ܠܒܕܐ|ܠܒܕܐ]]
+67. to hide — [[Lexicon/ܟܦܪ|ܟܦܪ]]
+68. skin/hide — [[Lexicon/ܒܫܪܐ|ܒܫܪܐ]] (skin), [[Lexicon/ܡܣܟܐ|ܡܣܟܐ]] (hide)
+69. to suck — [[Lexicon/ܝܢܩ|ܝܢܩ]]
+70. to carry — [[Lexicon/ܘܒܠ|ܘܒܠ]]
+71. ant — [[Lexicon/ܢܡܠܐ|ܢܡܠܐ]]
+72. heavy — [[Lexicon/ܟܒܝܕܐ|ܟܒܝܕܐ]]
+73. to take — [[Lexicon/ܐܚܙ|ܐܚܙ]]
 74. old
-75. to eat
+75. to eat — [[Lexicon/ܐܟܠ|ܐܟܠ]]
 76. thigh
-77. thick
-78. long
-79. to blow
-80. wood
+77. thick — [[Lexicon/ܥܒܝ 2|ܥܒܝ 2]]
+78. long — [[Lexicon/ܛܘܠܐ|ܛܘܠܐ]]
+79. to blow — [[Lexicon/ܢܦܚ|ܢܦܚ]]
+80. wood — [[Lexicon/ܥܝܨܐ|ܥܝܨܐ]]
 81. to run
-82. to fall
-83. eye
-84. ash
-85. tail
-86. dog
+82. to fall — [[Lexicon/ܢܦܠ|ܢܦܠ]]
+83. eye — [[Lexicon/ܥܝܢܐ|ܥܝܢܐ]]
+84. ash — [[Lexicon/ܐܝܣܐ|ܐܝܣܐ]]
+85. tail — [[Lexicon/ܙܢܒܐ|ܙܢܒܐ]]
+86. dog — [[Lexicon/ܟܠܒܐ|ܟܠܒܐ]]
 87. to cry/weep
-88. to tie
-89. to see
-90. sweet
-91. rope
-92. shade/shadow
-93. bird
-94. salt
-95. small
-96. wide
-97. star
-98. in
+88. to tie — [[Lexicon/ܐܣܪ|ܐܣܪ]]
+89. to see — [[Lexicon/ܪܐܝ|ܪܐܝ]]
+90. sweet — [[Lexicon/ܡܬܝܩ|ܡܬܝܩ]]
+91. rope — [[Lexicon/ܚܒܠܐ|ܚܒܠܐ]]
+92. shade/shadow — [[Lexicon/ܛܝܠܐ|ܛܝܠܐ]]
+93. bird — [[Lexicon/ܨܦܘܪܐ|ܨܦܘܪܐ]]
+94. salt — [[Lexicon/ܡܝܠܚܐ|ܡܝܠܚܐ]]
+95. small — [[Lexicon/ܨܥܝܪܐ|ܨܥܝܪܐ]]
+96. wide — [[Lexicon/ܪܚܒܐ|ܪܚܒܐ]]
+97. star — [[Lexicon/ܟܘܟܒܐ|ܟܘܟܒܐ]]
+98. in — [[Lexicon/ܦ|ܦ]]
 99. hard
-100. to crush/grind
+100. to crush/grind — [[Lexicon/ܛܚܢ|ܛܚܢ]]
