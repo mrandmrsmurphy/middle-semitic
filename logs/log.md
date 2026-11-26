@@ -460,3 +460,9 @@ Append-only. Never edit past entries.
 ## 2026-11-25 — Leipzig–Jakarta “bitter” and Maryam in Dialogue
 - Added ܡܪܝܪ ma.ˈrîr “to be bitter” as a G-only stative on the new geminate root ܡ-ܪ-ܪ, and linked Leipzig–Jakarta №28.
 - Added Maryam to the gloss of the existing ܡܪܝܡ mar.ˈyam entry and linked it in Dialogue, using Maryam in the greeting heading and English introduction.
+
+## 2026-11-25 — Leipzig–Jakarta №44 “navel”
+- User chose S-R-R. Added ܣܪܐ ˈsur.râ “navel, belly button” as a true feminine noun on the new geminate root ܣ-ܪ-ܪ, and linked it at №44.
+
+## 2026-11-25 — Leipzig–Jakarta №54 “new”
+- Added ܚܕܫܐ ḥa.ˈda.šâ “new” as an adjective on the existing ܚ-ܕ-ܫ root, alongside the verb ܚܕܫ “to become new.” Linked Leipzig–Jakarta №54 and Swadesh №183.

@@ -47,7 +47,7 @@ Source: Uri Tadmor (2009), “Loanwords in the world’s languages: Findings and
 41. yesterday — [[Lexicon/ܐܡܣܐ|ܐܡܣܐ]]
 42. to drink — [[Lexicon/ܣܬܝ|ܣܬܝ]]
 43. black — [[Lexicon/ܛܠܡܐ|ܛܠܡܐ]]
-44. navel
+44. navel — [[Lexicon/ܣܪܐ|ܣܪܐ]]
 45. to stand — [[Lexicon/ܩܘܡ|ܩܘܡ]]
 46. to bite — [[Lexicon/ܢܫܟ|ܢܫܟ]]
 47. back — [[Lexicon/ܛܗܪܐ|ܛܗܪܐ]]
@@ -57,7 +57,7 @@ Source: Uri Tadmor (2009), “Loanwords in the world’s languages: Findings and
 51. child (kin term) — [[Lexicon/ܘܠܕܐ|ܘܠܕܐ]]
 52. egg — [[Lexicon/ܒܝܨܐ|ܒܝܨܐ]]
 53. to give
-54. new
+54. new — [[Lexicon/ܚܕܫܐ|ܚܕܫܐ]]
 55. to burn (intr.)
 56. not — [[Lexicon/ܠܐ|ܠܐ]] (non-past), [[Lexicon/ܡܐ|ܡܐ]] (past)
 57. good — [[Lexicon/ܛܘܒܐ|ܛܘܒܐ]]
