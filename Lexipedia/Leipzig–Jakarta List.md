@@ -56,7 +56,7 @@ Source: Uri Tadmor (2009), “Loanwords in the world’s languages: Findings and
 50. what? — [[Lexicon/ܡܐܢ|ܡܐܢ]]
 51. child (kin term) — [[Lexicon/ܘܠܕܐ|ܘܠܕܐ]]
 52. egg — [[Lexicon/ܒܝܨܐ|ܒܝܨܐ]]
-53. to give
+53. to give — [[Lexicon/ܘܗܒ|ܘܗܒ]]
 54. new — [[Lexicon/ܚܕܫܐ|ܚܕܫܐ]]
 55. to burn (intr.)
 56. not — [[Lexicon/ܠܐ|ܠܐ]] (non-past), [[Lexicon/ܡܐ|ܡܐ]] (past)

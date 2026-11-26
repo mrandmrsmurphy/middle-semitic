@@ -466,3 +466,9 @@ Append-only. Never edit past entries.
 
 ## 2026-11-25 — Leipzig–Jakarta №54 “new”
 - Added ܚܕܫܐ ḥa.ˈda.šâ “new” as an adjective on the existing ܚ-ܕ-ܫ root, alongside the verb ܚܕܫ “to become new.” Linked Leipzig–Jakarta №54 and Swadesh №183.
+
+## 2026-11-25 — Leipzig–Jakarta №53 “give”
+- User chose ܘܗܒ wa.ˈhab. Added the verb with G “to give” and Gp “to be given” on the new root ܘ-ܗ-ܒ. Linked Leipzig–Jakarta №53 and Swadesh №128.
+
+## 2026-11-25 — Leipzig–Jakarta session checkpoint
+- 93 of 100 prompts linked. Remaining gaps: 49. smoke; 55. to burn (intr.); 74. old; 76. thigh; 81. to run; 87. to cry/weep; 99. hard.
