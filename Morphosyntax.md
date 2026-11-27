@@ -62,10 +62,14 @@ There are eight “small” prepositions which “conjugate”, and a growing se
 
 ## Subordinate clauses
 
-Two words introduce subordinate clauses, and they do different jobs.
+The function of a subordinate clause determines how it is introduced.
 
-- [[Lexicon/ܠܝܕ|ܠܝܕ]] (*lîd*) is the relative pronoun. It stands for a noun and never inflects: *Please go meet Rachel, who is arriving now.*
+- [[Lexicon/ܠܝܕ|ܠܝܕ]] (*lîd*) is the invariant relative pronoun. It follows the noun it modifies, whether definite or indefinite. A verbal predicate in a relative clause takes its ordinary finite form. When two separate relative clauses describe the same noun, repeat the marker with *wa-lîd*: *êlhâ lîd yaqnîʾ wa-lîd yapqad* “a God who is jealous and who calls to account” ([[Tanakh#Exodus 20:5]]).
 - [[Lexicon/ܐܢ|ܐܢ]] (*an*) is the complementizer 'that'. It introduces the complement of a verb and stands for no noun: *He said that she is coming.*
+
+- An adverbial subordinate clause uses a marker appropriate to its relation to the main clause. For example, *ʿalʾan* “because” introduces a reason. A reason clause can itself contain a relative clause modifying one of its nouns.
+
+Participles are verbal nouns. They can name a participant, as in “those who hate me.” A finite relative describes a noun already expressed in the sentence.
 
 **Quoted speech.** Direct speech has no introducer: the verb of saying is followed directly by the quotation, which the writing marks with punctuation, as in modern Arabic, Hebrew and English (*wa-âmar êlhâ: …* "And God said: …"). MS has nothing like Biblical Hebrew לֵאמֹר, Biblical Aramaic לְמֵימַר or Syriac ܕ-, which did the work of a quotation mark; those are left untranslated in [[Tanakh]]. Indirect speech uses ܐܢ (*He said that she is coming*).
 
@@ -86,6 +90,7 @@ The infinitive is the verb's verbal noun, a form of the conjugation with a bare 
 - **One** ([[Lexicon/ܘܚܕ|ܘܚܕ]] m, [[Lexicon/ܘܚܕܐ|ܘܚܕܐ]] f) agrees with its noun, which is singular.
 - **Two** ([[Lexicon/ܫܢܝܝܡ|ܫܢܝܝܡ]]) is a dual with one form for both genders, and the counted noun is plural.
 - **Three to ten** show chiastic agreement: the numeral takes the opposite gender from its noun. They follow the normal adjective pattern: the lexical form (*-â*) goes with a feminine noun and the feminine form in *-atâ* goes with a masculine noun (*šalašâ* with a feminine noun, *šalašatâ* with a masculine one, built like a feminine singular noun: *ḥamsâ*, *ḥamsatâ*). The counted noun is plural.
+- **Ordinals** express rank and agree in gender and number as adjectives. “Third” ([[Lexicon/ܫܠܝܫܐ|ܫܠܝܫܐ]] *šalîšâ*) and “fourth” ([[Lexicon/ܪܒܝܥܐ|ܪܒܝܥܐ]] *ravîʿâ*) follow the *qatîl* pattern.
 - **Above ten** the counted noun is singular.
 - **Thousand** ([[Lexicon/ܐܠܦܐ|ܐܠܦܐ]]) is chiefly a noun, and takes the noun paradigm.
 - **Counting without a noun.** The bare forms are used only when counting pure numbers (the -a is kept only where the bare form would end in an illegal cluster), as in arithmetic or on the fingers: *waḥad, šanyîm, šalaš, arbaʿ, ḥamsâ, sêš, sabʿâ, šamnâ, têsʿâ, ʿašrâ*.

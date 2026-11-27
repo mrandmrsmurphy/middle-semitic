@@ -512,3 +512,12 @@ Append-only. Never edit past entries.
 ## 2026-11-27 — Sin, transgression, guilt, and debt
 - User approved the four-family split: ܚ-ܛ-ܐ general sin, ܦ-ܣ-ܥ defiant transgression, ܐ-ܫ-ܡ culpability, ܚ-ܘ-ܒ financial and moral debt. Kept ܚܛܐܐ “sin” and linked the new verb ܚܛܐ *ḥaṭâ*. Added ܦܣܥ *pasaʿ* and ܦܣܥܐ *pasʿâ*, ܐܫܝܡ *âšîm* (stative) and ܐܫܡܐ *ʾašmâ*, and ܚܘܒܐ *ḥôvâ*. Generated the three G verb paradigms and the three noun declensions. Stems beyond G were left out of the entries.
 - Used singular ܚܘܒܐ *ḥôvâ* “moral debt” for עָוֹן in Exodus 20:5, following the Peshitta. Four decisions remain.
+
+## 2026-11-27 — Finite relative clauses in Exodus 20:5
+- User approved *wa-lîd yapqad* alongside *lîd yaqnîʾ*. Recorded the subordinate-clause strategy in Morphosyntax and grammar memory. Corrected the verse commentary: the Peshitta has a predicative participle and plural “debts”; MS follows Hebrew in using the singular. Three decisions remain.
+
+## 2026-11-27 — Ordinals in Exodus 20:5
+- User chose ordinals. Coined ܫܠܝܫܐ *šalîšâ* and ܪܒܝܥܐ *ravîʿâ* using the *qatîl* adjective pattern, with masculine plurals *šalîšîn* and *ravîʿîn* in the verse after the Hebrew. Added the forms to the lexicon, root pages, and grammar. “Generation” and “those who hate me” remain.
+
+## 2026-11-27 — Family generations and age cohorts
+- User chose the split between ܕܘܪܐ *dôrâ* “generation in a family line” and ܓܝܠܐ *gîlâ* “age cohort.” Added both nouns with declensions and root pages. Exodus 20:5 uses singular *dôrâ* with each ordinal and follows normal definite adjective concord. “Those who hate me” remains.

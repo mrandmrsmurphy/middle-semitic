@@ -266,15 +266,15 @@ Every word is an existing MS entry. "Make" is ܦܥܠ *paʿal* (Hebrew עָשָׂ
 
 *You shall not bow down to them or serve them. For I the LORD your God am a jealous God, visiting the guilt of the fathers upon the children, upon the third and upon the fourth generations of those who hate me,*
 
-**Middle Semitic:** ܠܐ ܬܣܓܕ ܠܗܘܡ ܘܠܐ ܬܥܒܕܗܘܡ ܥܠܐܢ ܐܢܐ ܐܕܘܢܝ ܐܝܠܗܟܐ ܐܝܠܗܐ ܠܝܕ ܝܩܢܝܐ ___ ܚܘܒܐ ܕܠ ܐܒܝܢ ܥܠ ܒܝܢܝܢ ܥܠ ___ ܘܥܠ ___ ___ ܠ___
+**Middle Semitic:** ܠܐ ܬܣܓܕ ܠܗܘܡ ܘܠܐ ܬܥܒܕܗܘܡ ܥܠܐܢ ܐܢܐ ܐܕܘܢܝ ܐܝܠܗܟܐ ܐܝܠܗܐ ܠܝܕ ܝܩܢܝܐ ܘܠܝܕ ܝܦܩܕ ܚܘܒܐ ܕܠ ܐܒܝܢ ܥܠ ܒܝܢܝܢ ܥܠ ܗܠ ܕܘܪܐ ܗܠ ܫܠܝܫܐ ܘܥܠ ܗܠ ܕܘܪܐ ܗܠ ܪܒܝܥܐ ܠ___
 
-*lâ tasgad lahûm wa-lâ taʿbadhûm ʿal.ʾan anâ adônî êlahkâ êlhâ lîd yaqnîʾ ___ ḥôvâ dal abîn ʿal bênîn ʿal ___ wa-ʿal ___ ___ li-___*
+*lâ tasgad lahûm wa-lâ taʿbadhûm ʿal.ʾan anâ adônî êlahkâ êlhâ lîd yaqnîʾ wa-lîd yapqad ḥôvâ dal abîn ʿal bênîn ʿal hal dôrâ hal šalîšâ wa-ʿal hal dôrâ hal ravîʿâ li-___*
 
 **Aramaic (Syriac Peshitta):** ܠܐ ܬܣܓܘܕ ܠܗܘܢ ܘܠܐ ܬܦܠܘܚ ܐܢܘܢ . ܡܛܠ ܕܐܢܐ ܐܢܐ ܡܪܝܐ ܐܠܗܟ. ܐܠܗܐ ܛܢܢܐ. ܦܪܥ ܚܘܒܐ ܕܐܒܗܐ ܥܠ ܒܢܝܐ. ܥܠ ܬܠܬܐ ܘܥܠ ܐܪܒܥܐ ܕܪܝܢ ܠܣܢܐܝ ([ETCBC](https://github.com/ETCBC/peshitta/blob/master/plain/0.1/Exodus.txt), vowel points removed)
 
 **Arabic (Smith–Van Dyck):** لَا تَسْجُدْ لَهُنَّ وَلَا تَعْبُدْهُنَّ، لِأَنِّي أَنَا ٱلرَّبَّ إِلَهَكَ إِلَهٌ غَيُورٌ، أَفْتَقِدُ ذُنُوبَ ٱلْآبَاءِ فِي ٱلْأَبْنَاءِ فِي ٱلْجِيلِ ٱلثَّالِثِ وَٱلرَّابِعِ مِنْ مُبْغِضِيَّ، ([getBible](https://api.getbible.net/v2/arabicsv/2/20.json))
 
-Known words are filled in; the rest are blanks for decisions. "To them" is ܠܗܘܡ and "because" is the conjunction ܥܠܐܢ (Hebrew כִּי, Peshitta ܡܛܠ ܕ-). The Hebrew copula-less "I am the LORD your God" is as in 20:2, and "the fathers" is the plural ܐܒܝܢ, "the children" the plural ܒܝܢܝܢ of ܒܝܢܐ "son", joined by the *dal* genitive and ܥܠ- "upon". "Serve" is ܥܒܕ *ʿabad* (Hebrew and Arabic ʿ-B-D, the root of the noun ܥܒܕܐ "slave"; the Peshitta has ܦܠܚ), the non-past 2m *taʿbad* with the object suffix *-hûm* straight on: *taʿbadhûm*. "Bow down" is ܣܓܕ *sagad* (Aramaic סגד, Arabic *sajada*, Hebrew סָגַד: the same root S-G-D, with the Hebrew ordinary word שָׁחָה not used), the non-past 2m *tasgad*, with the one bowed to marked by *li-*: *lahûm*. The relative clause ܠܝܕ ܝܩܢܝܐ *lîd yaqnîʾ* “who is jealous” modifies ܐܝܠܗܐ *êlhâ* “God.” The Peshitta’s ܚܘܒܐ is reflected in MS ܚܘܒܐ *ḥôvâ* “moral debt,” used here in the singular as in Hebrew and Syriac. The blanks are: (1) "visiting": the verb is ܦܩܕ *paqad* (Hebrew פָּקַד, Arabic *ʾaftaqidu* from F-Q-D, the same root P-Q-D; the Peshitta has ܦܪܥ "repays"), but the form is not decided: the Hebrew has a participle (MS *mapqad-*), while the Peshitta and the Arabic have a finite verb (MS *yapqad*); (2) "third" and "fourth" (Hebrew שִׁלֵּשִׁים and רִבֵּעִים are ordinal plurals; the Peshitta uses the cardinals ܬܠܬܐ and ܐܪܒܥܐ; Arabic has the ordinals; MS has no ordinal rule yet) and (3) "generation" (Aramaic ܕܪܝܢ, Arabic *jīl*; MS has no word; the Hebrew has none here and leaves it implied); (4) "those who hate me" (Hebrew שֹׂנְאָי, Arabic *mubghiḍī*, Peshitta ܣܢܐܝ), a participle with a suffix and *li-*.
+Known words are filled in; the rest are blanks for decisions. "To them" is ܠܗܘܡ and "because" is the conjunction ܥܠܐܢ (Hebrew כִּי, Peshitta ܡܛܠ ܕ-). The Hebrew copula-less "I am the LORD your God" is as in 20:2, and "the fathers" is the plural ܐܒܝܢ, "the children" the plural ܒܝܢܝܢ of ܒܝܢܐ "son", joined by the *dal* genitive and ܥܠ- "upon". "Serve" is ܥܒܕ *ʿabad* (Hebrew and Arabic ʿ-B-D, the root of the noun ܥܒܕܐ "slave"; the Peshitta has ܦܠܚ), the non-past 2m *taʿbad* with the object suffix *-hûm* straight on: *taʿbadhûm*. "Bow down" is ܣܓܕ *sagad* (Aramaic סגד, Arabic *sajada*, Hebrew סָגַד: the same root S-G-D, with the Hebrew ordinary word שָׁחָה not used), the non-past 2m *tasgad*, with the one bowed to marked by *li-*: *lahûm*. Two relative clauses modify ܐܝܠܗܐ *êlhâ* “God”: ܠܝܕ ܝܩܢܝܐ *lîd yaqnîʾ* “who is jealous” and ܘܠܝܕ ܝܦܩܕ *wa-lîd yapqad* “and who calls to account.” Both verbs are third-person non-past. Hebrew פֹּקֵד and Syriac ܦܪܥ̇ are active participles. Arabic أَفْتَقِدُ is first-person non-past. MS ܚܘܒܐ *ḥôvâ* “moral debt” follows the Hebrew singular. Syriac has plural ܚ̈ܘܒܐ and Arabic has plural ذُنُوب. MS uses *dôrâ* “generation in a family line,” repeating the singular noun with each ordinal. Both ordinals agree in the masculine singular and repeat the definite article. Hebrew leaves “generation” implicit; Syriac supplies ܕܪܝܢ and Arabic uses *jīl*. The remaining blank is "those who hate me" (Hebrew שֹׂנְאָי, Arabic *mubghiḍī*, Peshitta ܣܢܐܝ), a participle with a suffix and *li-*.
 
 | Hebrew | Arabic | Aramaic | Middle Semitic |
 | --- | --- | --- | --- |
@@ -285,12 +285,12 @@ Known words are filled in; the rest are blanks for decisions. "To them" is ܠܗ�
 | אָנֹכִי יְהוָה אֱלֹהֶיךָ 'I the LORD your God' | أَنَا ٱلرَّبَّ إِلَهَكَ | ܐܢܐ ܡܪܝܐ ܐܠܗܟ | [[Lexicon/ܐܢܐ\|ܐܢܐ]] *anâ* + [[Lexicon/ܐܕܘܢܝ\|ܐܕܘܢܝ]] *adônî* + [[Lexicon/ܐܝܠܗܐ\|ܐܝܠܗܐ]] + [[Lexicon/-ܟܐ\|-ܟܐ]] *êlahkâ* |
 | אֵל 'God' | إِلَهٌ | ܐܠܗܐ | [[Lexicon/ܐܝܠܗܐ\|ܐܝܠܗܐ]] *êlhâ* |
 | קַנָּא 'jealous' | غَيُورٌ | ܛܢܢܐ | [[Lexicon/ܠܝܕ\|ܠܝܕ]] *lîd* + [[Lexicon/ܩܢܝܐ\|ܩܢܝܐ]] non-past 3m *yaqnîʾ* |
-| פֹּקֵד 'visiting' | أَفْتَقِدُ | ܦܪܥ | [[Lexicon/ܦܩܕ\|ܦܩܕ]] (form undecided: finite *yapqad* or participle *mapqad-*) ___ |
-| עֲוֺן 'guilt' | ذُنُوبَ | ܚܘܒܐ | [[Lexicon/ܚܘܒܐ\|ܚܘܒܐ]] *ḥôvâ* “moral debt” |
+| פֹּקֵד 'visiting' | أَفْتَقِدُ | ܦܪܥ̇ | [[Lexicon/ܘ\|ܘ]] *wa-* + [[Lexicon/ܠܝܕ\|ܠܝܕ]] *lîd* + [[Lexicon/ܦܩܕ\|ܦܩܕ]] non-past 3m *yapqad* |
+| עֲוֺן 'guilt' | ذُنُوبَ | ܚ̈ܘܒܐ | [[Lexicon/ܚܘܒܐ\|ܚܘܒܐ]] *ḥôvâ* “moral debt” |
 | אָבֹת 'of the fathers' | ٱلْآبَاءِ | ܕܐܒܗܐ | [[Lexicon/ܕܠ\|ܕܠ]] *dal* + [[Lexicon/ܐܒܐ\|ܐܒܐ]] plural *abîn* |
 | עַל־בָּנִים 'upon the children' | فِي ٱلْأَبْنَاءِ | ܥܠ ܒܢܝܐ | [[Lexicon/ܥܠ-\|ܥܠ-]] *ʿal* + [[Lexicon/ܒܝܢܐ\|ܒܝܢܐ]] plural *bênîn* |
-| עַל־שִׁלֵּשִׁים 'upon the third (generation)' | فِي ٱلْجِيلِ ٱلثَّالِثِ | ܥܠ ܬܠܬܐ | ܥܠ + ___ (blank: "third") |
-| וְעַל־רִבֵּעִים 'and upon the fourth' | وَٱلرَّابِعِ | ܘܥܠ ܐܪܒܥܐ ܕܪܝܢ | ܘܥܠ + ___ (blank: "fourth"), ___ (blank: "generation") |
+| עַל־שִׁלֵּשִׁים 'upon the third (generation)' | فِي ٱلْجِيلِ ٱلثَّالِثِ | ܥܠ ܬܠܬܐ | ܥܠ + ܗܠ [[Lexicon/ܕܘܪܐ\|ܕܘܪܐ]] ܗܠ [[Lexicon/ܫܠܝܫܐ\|ܫܠܝܫܐ]] *hal dôrâ hal šalîšâ* |
+| וְעַל־רִבֵּעִים 'and upon the fourth' | وَٱلرَّابِعِ | ܘܥܠ ܐܪܒܥܐ ܕܪܝܢ | ܘܥܠ + ܗܠ [[Lexicon/ܕܘܪܐ\|ܕܘܪܐ]] ܗܠ [[Lexicon/ܪܒܝܥܐ\|ܪܒܝܥܐ]] *hal dôrâ hal ravîʿâ* |
 | לְשֹׂנְאָי 'of those who hate me' | مِنْ مُبْغِضِيَّ | ܠܣܢܐܝ | [[Lexicon/ܠ-\|ܠ-]] *li-* + ___ (blank: "those who hate me") |
 
 ## Vayikra
