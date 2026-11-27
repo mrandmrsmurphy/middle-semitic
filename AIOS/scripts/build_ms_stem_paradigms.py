@@ -195,6 +195,7 @@ LABEL = {'G': 'G stem', 'Gp': 'Gp stem (G passive)', 'D': 'D stem', 'Dp': 'Dp st
          'C': 'C stem (causative)', 'Cp': 'Cp stem (C passive)', 'tD': 'tD stem (reflexive of D)'}
 # word -> stem -> meaning
 MEANING = {
+    'ܫܢܐ': {'G': 'to hate'},
     'ܚܛܐ': {'G': 'to sin, to commit a moral wrong'},
     'ܦܣܥ': {'G': 'to transgress, to rebel against an authority'},
     'ܐܫܝܡ': {'G': 'to be guilty, to bear culpability'},
@@ -641,6 +642,7 @@ MEANING = {
                    'C': 'to put out to pasture, to let graze', 'Cp': 'passive of C: to be put out to pasture',
                    'tD': 'to come under someone\'s care, to be looked after'}}
 ABSENT = {
+    'ܫܢܐ': {'Gp', 'D', 'Dp', 'C', 'Cp', 'tD'},
     'ܚܛܐ': {'Gp', 'D', 'Dp', 'C', 'Cp', 'tD'},
     'ܦܣܥ': {'Gp', 'D', 'Dp', 'C', 'Cp', 'tD'},
     'ܐܫܝܡ': {'Gp', 'D', 'Dp', 'C', 'Cp', 'tD'},

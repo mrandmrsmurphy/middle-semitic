@@ -521,3 +521,6 @@ Append-only. Never edit past entries.
 
 ## 2026-11-27 — Family generations and age cohorts
 - User chose the split between ܕܘܪܐ *dôrâ* “generation in a family line” and ܓܝܠܐ *gîlâ* “age cohort.” Added both nouns with declensions and root pages. Exodus 20:5 uses singular *dôrâ* with each ordinal and follows normal definite adjective concord. “Those who hate me” remains.
+
+## 2026-11-27 — “Those who hate me” and completion of Exodus 20:5
+- User chose inherited *ś-n-ʾ* and approved ܫܢܐ *šanâ* “to hate” and a definite masculine plural substantival participle. Added the verb with G and root ܫ-ܢ-ܐ. Used the consonantal aleph in the noun base *mašnaʾ-* before masculine plural *-în* and attached the object suffix *-nî*. The verse reads *li-hal mašnaʾînnî*. Recorded the construction in Morphosyntax and grammar memory. Exodus 20:5 has no blanks.

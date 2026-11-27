@@ -69,7 +69,7 @@ The function of a subordinate clause determines how it is introduced.
 
 - An adverbial subordinate clause uses a marker appropriate to its relation to the main clause. For example, *ʿalʾan* “because” introduces a reason. A reason clause can itself contain a relative clause modifying one of its nouns.
 
-Participles are verbal nouns. They can name a participant, as in “those who hate me.” A finite relative describes a noun already expressed in the sentence.
+Participles are verbal nouns. A substantival participle takes noun endings and can take the definite article. The G participle of [[Lexicon/ܫܢܐ]] takes masculine plural *-în* and then object suffix *-nî* in *li-hal mašnaʾînnî* “of those who hate me.” A finite relative describes a noun already expressed in the sentence.
 
 **Quoted speech.** Direct speech has no introducer: the verb of saying is followed directly by the quotation, which the writing marks with punctuation, as in modern Arabic, Hebrew and English (*wa-âmar êlhâ: …* "And God said: …"). MS has nothing like Biblical Hebrew לֵאמֹר, Biblical Aramaic לְמֵימַר or Syriac ܕ-, which did the work of a quotation mark; those are left untranslated in [[Tanakh]]. Indirect speech uses ܐܢ (*He said that she is coming*).
 
