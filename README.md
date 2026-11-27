@@ -12,7 +12,7 @@ This repository is the working archive of the language: the grammar, the phonolo
 > *pibadâtâ êlhâ barâ hal samîm wa-hal arṣâ*
 > "In the beginning God created the heavens and the earth." (Genesis 1:1)
 
-|  Field                      |                                                                                     |
+|  Field                      |     Value                                                                                |
 | ---------------------- | ----------------------------------------------------------------------------------- |
 | Native name            | ܫܡܥ ܡܪܟܙ (*šamâ markaz*)                                                            |
 | Population in the zone | about 290 million                                                                   |
@@ -20,7 +20,7 @@ This repository is the working archive of the language: the grammar, the phonolo
 | Zone                   | the Semitisphere: the Middle East and North Africa                                  |
 | Source languages       | the Arabic varieties, Israeli and Biblical Hebrew, Neo-Aramaic and Classical Syriac |
 | Script                 | Syriac, written right to left                                                       |
-| Word order             | SVO (VSO is archaic)                                                                |
+| Word order             | SVO (VSO is for deliberate archaicism)                                                                |
 | Morphology             | triconsonantal roots; productive derivation                                         |
 | Alignment              | nominative–accusative                                                               |
 | Author                 | Robert Marshall Murphy                                                              |
