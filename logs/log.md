@@ -563,3 +563,9 @@ Append-only. Never edit past entries.
 
 ## 2026-11-27 — G-L-Y for revealing
 - User approved G-L-Y. Added ܓܠܝ *galê* with G “reveal, disclose, uncover” and G passive “be revealed, disclosed, uncovered.” Quran 20:13 uses *yûglê* with the message as subject and now has no lexical blanks.
+
+## 2026-11-27 — Quran 20:14 draft
+- Added the Arabic, MS draft, word-by-word table, and Hebrew and Syriac parallels. Used the Shahada existential formula, G imperative *ʿəbadnî* “worship Me,” and C imperative *šaqwam* “establish.” Prayer and remembrance remain open.
+
+## 2026-11-27 — Remember and recall
+- Added ܙܟܪ *zakar* “remember” to the existing Z-K-R root page and coined P-K-R with D *pîkkar* “think over, ponder” and tD *tipîkkar* “recall, call to mind,” following the Cairene semantic parallel. Quran 20:14 uses the purpose infinitive *li-lazkarnî* “in order to remember Me.” Prayer remains open.
