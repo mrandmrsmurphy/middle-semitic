@@ -90,7 +90,7 @@ Source: Uri Tadmor (2009), “Loanwords in the world’s languages: Findings and
 84. ash — [[Lexicon/ܐܝܣܐ|ܐܝܣܐ]]
 85. tail — [[Lexicon/ܙܢܒܐ|ܙܢܒܐ]]
 86. dog — [[Lexicon/ܟܠܒܐ|ܟܠܒܐ]]
-87. to cry/weep
+87. to cry/weep — [[Lexicon/ܒܟܝ 2|ܒܟܝ]]
 88. to tie — [[Lexicon/ܐܣܪ|ܐܣܪ]]
 89. to see — [[Lexicon/ܪܐܝ|ܪܐܝ]]
 90. sweet — [[Lexicon/ܡܬܝܩ|ܡܬܝܩ]]

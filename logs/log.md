@@ -480,3 +480,7 @@ Append-only. Never edit past entries.
 ## 2026-11-26 — Leipzig–Jakarta №99 “hard”
 
 - User chose Q-S-Y. Added adjective ܩܣܝܐ ˈqas.yâ “hard, firm to the touch” on root ܩ-ܣ-ܝ, with qasîtâ proposed for the feminine singular by weak-stem analogy. Linked №99.
+
+## 2026-11-26 — Leipzig–Jakarta №87 “to cry/weep”
+
+- User chose B-K-Y. Added ܒܟܝ ˈba.kê on root ܒ-ܟ-ܝ with G “to cry, to weep” and C “to make someone cry.” The verb is filed as ܒܟܝ 2 because ܒܟܝ is already the preposition bi.ˈkî. Linked №87.
