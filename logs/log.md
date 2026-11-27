@@ -557,3 +557,9 @@ Append-only. Never edit past entries.
 
 ## 2026-11-27 — Quran 20:13 draft
 - Verified that 20:12 has no lexical blanks. Added 20:13 with the Arabic, word-by-word table, and Exodus 4:12 comparison. Used G imperative *səmaʿ* and provisional headless *li-lîd*. “Choose” and message-subject passive “be revealed” remain open.
+
+## 2026-11-27 — G-B-Y for choosing
+- User chose one root for the entire selection field. Added III-yod ܓܒܝ *gavê* and its root page for choosing, selecting, preferring, electing, and singling out. Used *gavêtûkâ* “I have chosen you” in Quran 20:13. “Be revealed” remains open.
+
+## 2026-11-27 — G-L-Y for revealing
+- User approved G-L-Y. Added ܓܠܝ *galê* with G “reveal, disclose, uncover” and G passive “be revealed, disclosed, uncovered.” Quran 20:13 uses *yûglê* with the message as subject and now has no lexical blanks.
