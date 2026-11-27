@@ -569,3 +569,12 @@ Append-only. Never edit past entries.
 
 ## 2026-11-27 — Remember and recall
 - Added ܙܟܪ *zakar* “remember” to the existing Z-K-R root page and coined P-K-R with D *pîkkar* “think over, ponder” and tD *tipîkkar* “recall, call to mind,” following the Cairene semantic parallel. Quran 20:14 uses the purpose infinitive *li-lazkarnî* “in order to remember Me.” Prayer remains open.
+
+## 2026-11-27 — Memorial, reminder, and commemoration
+- User chose one ta-prefixed Z-K-R noun for all three senses. Added regular feminine ܬܙܟܪܬܐ *tazkiratâ* and linked it from the root and verb.
+
+## 2026-11-27 — Ṣ-L-W for praying
+- User chose III-waw Ṣ-L-W. Added ܨܝܠܘ *ṣîllô* “to pray” in the D stem and created its root page. The prayer noun for Quran 20:14 is open.
+
+## 2026-11-27 — Prayer and completion of Quran 20:14
+- User approved ܨܠܘܬܐ *ṣalôtâ* “prayer.” Added it as a feminine noun under Ṣ-L-W and used *hal ṣalôtâ* in Quran 20:14. The verse has no lexical blanks.

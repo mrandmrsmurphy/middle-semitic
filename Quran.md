@@ -80,13 +80,13 @@ In Exodus 4:12, God tells Moses that he will instruct him in what to say. Hebrew
 
 *I am indeed Allah. There is no god except Me. So worship Me and establish prayer in remembrance of Me.* [Arabic text](https://quran.com/taha/14) · [Word-by-word analysis](https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=14)
 
-**Middle Semitic draft**
+**Middle Semitic**
 
-ܐܢܐ ܐܠܗ، ܠܐ ܝܫ ܐܝܠܗܐ ܐܝܠܐ ܐܢܐ، ܘܥܒܕܢܝ ܘܫܩܘܡ ܗܠ ___ ܠܠܙܟܪܢܝ
+ܐܢܐ ܐܠܗ، ܠܐ ܝܫ ܐܝܠܗܐ ܐܝܠܐ ܐܢܐ، ܘܥܒܕܢܝ ܘܫܩܘܡ ܗܠ ܨܠܘܬܐ ܠܠܙܟܪܢܝ
 
-*anâ allâh, lâ yiš êlhâ ella anâ, wa-ʿəbadnî wa-šaqwam hal ___ li-lazkarnî*
+*anâ allâh, lâ yiš êlhâ ella anâ, wa-ʿəbadnî wa-šaqwam hal ṣalôtâ li-lazkarnî*
 
-The opening uses one *anâ* for the emphatic Arabic self-identification, as in 20:12. *Lâ yiš êlhâ ella* follows the existential formula in [[Dialogue#Shahada]], with *anâ* after *ella* as in the Arabic. *ʿƏbadnî* uses the transitive G imperative with the direct object *-nî*. *Šaqwam* is the C imperative of “stand,” with the sense “establish.” The purpose phrase combines *li-* with the G infinitive *lazkar* “remembering” and its object suffix *-nî*. The remaining lexical item is “prayer,” here an established devotional practice.
+The opening uses one *anâ* for the emphatic Arabic self-identification, as in 20:12. *Lâ yiš êlhâ ella* follows the existential formula in [[Dialogue#Shahada]], with *anâ* after *ella* as in the Arabic. *ʿƏbadnî* uses the transitive G imperative with the direct object *-nî*. *Šaqwam* is the C imperative of “stand,” with the sense “establish.” The purpose phrase combines *li-* with the G infinitive *lazkar* “remembering” and its object suffix *-nî*. *Hal ṣalôtâ* names prayer as an established devotional practice.
 
 | Arabic | Meaning in the verse | Middle Semitic |
 | --- | --- | --- |
@@ -96,7 +96,7 @@ The opening uses one *anâ* for the emphatic Arabic self-identification, as in 2
 | إِلَّا أَنَا *illā anā* | except Me | [[Lexicon/ܐܝܠܐ 2\|ܐܝܠܐ]] *ella* + *anâ* |
 | فَاعْبُدْنِي *fa-ʿbudnī* | so worship Me | *wa-* + [[Lexicon/ܥܒܕ\|ܥܒܕ]] G imperative 2m *ʿəbad* + [[Lexicon/-ܢܝ\|-ܢܝ]] *-nî* |
 | وَأَقِمِ *wa-aqimi* | and establish | *wa-* + [[Lexicon/ܩܘܡ\|ܩܘܡ]] C imperative 2m *šaqwam* |
-| الصَّلَاةَ *al-ṣalāta* | the prayer | [[Lexicon/ܗܠ\|ܗܠ]] *hal* + ___ |
+| الصَّلَاةَ *al-ṣalāta* | the prayer | [[Lexicon/ܗܠ\|ܗܠ]] *hal* + [[Lexicon/ܨܠܘܬܐ\|ܨܠܘܬܐ]] *ṣalôtâ* |
 | لِذِكْرِي *li-ḏikrī* | in remembrance of Me | [[Lexicon/ܠ-\|ܠ]] *li-* + [[Lexicon/ܙܟܪ\|ܙܟܪ]] G infinitive *lazkar* + *-nî* |
 
 In the burning-bush account, Exodus 3:15 links God’s name with remembrance across generations. Hebrew uses זִכְרִי “my memorial,” from the same root as Arabic *ḏikrī*. Deuteronomy 4:35 parallels the declaration that there is no other god. [Hebrew Exodus 3:15](https://www.sefaria.org/Exodus.3.15) · [Syriac Exodus 3:15](https://www.peshitta.eu/ot/exodus/3.html) · [Deuteronomy 4:35](https://www.sefaria.org/Deuteronomy.4.35)
