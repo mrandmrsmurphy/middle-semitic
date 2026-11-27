@@ -472,3 +472,7 @@ Append-only. Never edit past entries.
 
 ## 2026-11-25 — Leipzig–Jakarta session checkpoint
 - 93 of 100 prompts linked. Remaining gaps: 49. smoke; 55. to burn (intr.); 74. old; 76. thigh; 81. to run; 87. to cry/weep; 99. hard.
+
+## 2026-11-26 — Leipzig–Jakarta №55 “to burn”
+
+- User chose W-Q-D. Added ܘܩܕ wa.ˈqad on root ܘ-ܩ-ܕ with G “to burn, to be on fire” and C “to kindle, to set alight.” Linked Leipzig–Jakarta №55 and Swadesh №169 (G).

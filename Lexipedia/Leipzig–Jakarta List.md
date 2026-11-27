@@ -58,7 +58,7 @@ Source: Uri Tadmor (2009), “Loanwords in the world’s languages: Findings and
 52. egg — [[Lexicon/ܒܝܨܐ|ܒܝܨܐ]]
 53. to give — [[Lexicon/ܘܗܒ|ܘܗܒ]]
 54. new — [[Lexicon/ܚܕܫܐ|ܚܕܫܐ]]
-55. to burn (intr.)
+55. to burn (intr.) — [[Lexicon/ܘܩܕ|ܘܩܕ]]
 56. not — [[Lexicon/ܠܐ|ܠܐ]] (non-past), [[Lexicon/ܡܐ|ܡܐ]] (past)
 57. good — [[Lexicon/ܛܘܒܐ|ܛܘܒܐ]]
 58. to know — [[Lexicon/ܘܕܥ|ܘܕܥ]]
