@@ -23,7 +23,7 @@ This repository is the working archive of the language: the grammar, the phonolo
 | Word order             | SVO (VSO is for deliberate archaicism)                                                                |
 | Morphology             | triconsonantal roots; productive derivation                                         |
 | Alignment              | nominative–accusative                                                               |
-| Author                 | Robert Marshall Murphy                                                              |
+| Author                 | Nur-Gibril Dal-Bahri                                         |
 
 ---
 
