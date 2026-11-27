@@ -488,3 +488,7 @@ Append-only. Never edit past entries.
 ## 2026-11-26 — Leipzig–Jakarta №74 “old”
 
 - User approved the split. Added ܥܬܝܩܐ ʿa.ˈtî.qâ for things on new root ܥ-ܬ-ܩ and ܙܩܝܢܐ za.ˈqî.nâ for people on the existing beard root ܙ-ܩ-ܢ. Linked both at Leipzig–Jakarta №74 and the thing sense at Swadesh №184.
+
+## 2026-11-26 — Leipzig–Jakarta №76 “thigh” and “hip”
+
+- User approved the split. Added ܘܪܟܐ wa.ˈri.kâ “hip” on W-R-K and ܦܚܙܐ ˈpaḥ.zâ “thigh” on P-Ḥ-Z, both crypto-feminine with body-part duals. Linked the thigh noun at №76.

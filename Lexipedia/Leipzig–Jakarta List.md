@@ -79,7 +79,7 @@ Source: Uri Tadmor (2009), “Loanwords in the world’s languages: Findings and
 73. to take — [[Lexicon/ܐܚܙ|ܐܚܙ]]
 74. old — [[Lexicon/ܥܬܝܩܐ|ܥܬܝܩܐ]] (of things), [[Lexicon/ܙܩܝܢܐ|ܙܩܝܢܐ]] (of people)
 75. to eat — [[Lexicon/ܐܟܠ|ܐܟܠ]]
-76. thigh
+76. thigh — [[Lexicon/ܦܚܙܐ|ܦܚܙܐ]]
 77. thick — [[Lexicon/ܥܒܝ 2|ܥܒܝ 2]]
 78. long — [[Lexicon/ܛܘܠܐ|ܛܘܠܐ]]
 79. to blow — [[Lexicon/ܢܦܚ|ܢܦܚ]]
