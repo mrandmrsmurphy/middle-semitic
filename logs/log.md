@@ -554,3 +554,6 @@ Append-only. Never edit past entries.
 
 ## 2026-11-27 — Valley vocabulary and completion of Quran 20:12
 - User chose ܢܚܠܐ “valley, wadi,” ܥܡܩܐ “vale, lowland,” ܒܩܥܬܐ “basin, plain,” and ܓܝܐܐ “ravine, mountain pass.” Added four root pages and noun declensions. Used *naḥlâ* in Quran 20:12. The wadi can have a seasonally dry streambed. The verse has no lexical blanks.
+
+## 2026-11-27 — Quran 20:13 draft
+- Verified that 20:12 has no lexical blanks. Added 20:13 with the Arabic, word-by-word table, and Exodus 4:12 comparison. Used G imperative *səmaʿ* and provisional headless *li-lîd*. “Choose” and message-subject passive “be revealed” remain open.

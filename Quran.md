@@ -52,6 +52,28 @@ In Exodus 3:4, Hebrew וַיִּקְרָא and Syriac ܘܩܪܐ use the active �
 
 Exodus 3:5 also commands Moses to remove his footwear and gives the holiness of the place as the reason. Hebrew uses שַׁל “take off,” נְעָלֶיךָ “your sandals,” and אַדְמַת־קֹדֶשׁ “holy ground.” The Peshitta uses ܫܪܝ “untie” with ܡܣܐܢܝܟ “your shoes” and calls it a holy place, ܐܬܪܐ ܩܕܝܫܐ. The Quran names the valley Ṭuwā. [Hebrew Exodus 3:5](https://www.sefaria.org/Exodus.3.5) · [Syriac Exodus 3:5](https://www.peshitta.eu/ot/exodus/3.html)
 
+### Quran 20:13
+
+وَأَنَا اخْتَرْتُكَ فَاسْتَمِعْ لِمَا يُوحَىٰ
+
+*And I have chosen you, so listen to what is revealed.* [Arabic text](https://quran.com/taha/13) · [Word-by-word analysis](https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=13)
+
+**Middle Semitic draft:** ܘܐܢܐ ___ܟܐ، ܘܣܡܥ ܠܠܝܕ ___
+
+*wa-anâ ___kâ, wa-səmaʿ li-lîd ___*
+
+The draft keeps the Arabic’s explicit “I” and its singular object suffix “you.” *Səmaʿ* is the masculine singular G imperative of *samaʿ* “hear, listen,” from the same inherited family as Arabic *istamiʿ*. The draft reads *li-lîd* as “to what,” with *lîd* introducing a relative clause without an expressed noun head. The blanks are “choose” and “be revealed.” The C stem of [[Lexicon/ܘܕܥ]] means “make known,” and its listed passive gloss describes the recipient being informed. Here the Arabic passive describes the message being revealed.
+
+| Arabic | Meaning in the verse | Middle Semitic |
+| --- | --- | --- |
+| وَأَنَا *wa-anā* | and I | [[Lexicon/ܘ\|ܘ]] *wa-* + [[Lexicon/ܐܢܐ\|ܐܢܐ]] *anâ* |
+| اخْتَرْتُكَ *iḫtartuka* | I have chosen you | ___ (past 1sg) + [[Lexicon/-ܟܐ\|-ܟܐ]] *-kâ* |
+| فَاسْتَمِعْ *fa-stamiʿ* | so listen | *wa-* + [[Lexicon/ܣܡܥ\|ܣܡܥ]] G imperative 2m *səmaʿ* |
+| لِمَا *li-mā* | to what | [[Lexicon/ܠ-\|ܠ-]] *li-* + [[Lexicon/ܠܝܕ\|ܠܝܕ]] *lîd* |
+| يُوحَىٰ *yūḥā* | is revealed | ___ (third-person non-past passive) |
+
+In Exodus 4:12, God tells Moses that he will instruct him in what to say. Hebrew expresses “what you shall say” with אֲשֶׁר תְּדַבֵּר. The Syriac has an overt noun head in ܡܶܕܶܡ ܕܰܬܡܰܠܶܠ, “the thing that you shall speak.” [Hebrew Exodus 4:12](https://www.sefaria.org/Exodus.4.12) · [Syriac Exodus 4:12](https://www.peshitta.eu/ot/exodus/4.html)
+
 ### Quran 20:55
 
 مِنْهَا خَلَقْنَاكُمْ وَفِيهَا نُعِيدُكُمْ وَمِنْهَا نُخْرِجُكُمْ تَارَةً أُخْرَىٰ
