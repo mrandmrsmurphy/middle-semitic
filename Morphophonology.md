@@ -165,7 +165,7 @@ A verb has up to seven **stems**, named G, Gp, D, Dp, C, Cp and tD. G is the bas
 | Cp | *šûktab* | *yûšaktab* | *mašûktab-* | *lašûktab* | š- + the passive of G |
 | tD | *tikîttab* | *yatikîttab* | *matikîttab-* | *latikîttab* | ti- + the D stem |
 
-The participle is *ma-* plus the non-past stem and the infinitive is a bare *l-* (replacing the *y-* of the 3m non-past, never *lə-*) plus it; in the passives the second vowel of the stem becomes *û* instead, since the prefix leaves no vowel to change. The imperative is the second-person non-past without its prefix, so it exists for G, D, C and tD only. The paragraphs below set out the G stem and its passive on the model ܡܠܟ, then each derived stem.
+The table gives the participle base. To turn that base into a noun, see [[#Participles as nouns]]. The participle is *ma-* plus the non-past stem and the infinitive is a bare *l-* (replacing the *y-* of the 3m non-past, never *lə-*) plus it; in the passives the second vowel of the stem becomes *û* instead, since the prefix leaves no vowel to change. The imperative is the second-person non-past without its prefix, so it exists for G, D, C and tD only. The paragraphs below set out the G stem and its passive on the model ܡܠܟ, then each derived stem.
 
 **G stem**
 
@@ -239,3 +239,18 @@ In a III-aleph G stative, the root aleph stays a glottal stop after *î*: [[Lexi
 **Weak third radicals.** The third radical (ʾ, w, y) is always written. It contracts with the preceding *a* (*ay* → *ê*, *aw* → *ô*, *aʾ* → *â*), and if a vowel then follows, the first vowel wins: the template *banay* + *at* gives *banêt*, not *banayat*. Where no *a* precedes it the radical is a consonant (*banyû*). The feminine singular imperative and the 2f non-past therefore sound like the masculine (*tabnê*), and the plural non-past loses its vowel (*yabnên*); the spelling keeps every letter. Model page: [[Lexicon/ܒܢܝ]].
 
 **Weak first radicals.** The three maters (ʾ, y, w) in first position fuse with the vowel of the prefix: aleph is quiescent and lengthens it (*ʾakal* → *âkal*, *yaʾkal* → *yâkal*), while *aw* contracts to *ô* and *ay* to *ê* (*yawbal* → *yôbal*, *yaynaq* → *yênaq*). In the passive non-past the mater reverts to a consonant after the *û* (aleph as a glottal stop), which keeps the passive distinct from the active: *yûʾkal*, *yûwlad*, *yûynaq*; the passive past is *ʾûkal*, *wûlad*, *yûnaq*. In the C stem the *aw* of an I-waw root contracts too (*šawlad* → *šôlad*, non-past *yašôlad*, Cp non-past *yûšôlad*), while the Cp past keeps its *w* after the *û* (*šûwlad*); see [[Lexicon/ܘܠܕ]]. The I-yod C stem contracts likewise (*šaynaq* → *šênaq*, non-past *yašênaq*), and the Cp past keeps its *y* (*šûynaq*); see [[Lexicon/ܝܢܩ]]. Model pages: [[Lexicon/ܐܟܠ]] (I-aleph), [[Lexicon/ܘܒܠ]] (I-waw), [[Lexicon/ܝܢܩ]] (I-yod). When the prefix aleph of the 1c non-past meets a root-initial aleph, the root aleph eats it, so there is a single aleph (*ʾâkal* ܐܟܠ), unlike the passive (*ʾûʾkal* ܐܘܐܟܠ), where the *û* keeps the two apart. Weak verbs have many collapsed or identical forms; that is expected. The infinitive is a form of the verb, built with a bare *l-* (no schwa) in place of the non-past's *y-*, so it fuses like the other prefixes: *yâmar* → *lâmar*, *yâkal* → *lâkal*, while the participle's *ma-* gives *mâmar-*. It is not the preposition *li-* plus a word; that preposition is separate and reduces to a schwa.
+
+### Participles as nouns
+
+A substantival participle names a participant in the action. Form its base from the appropriate verb stem as shown in the verb table, then use the regular [[#Nouns|noun endings]] for its gender and number. A masculine participle takes *-â* in the singular and *-în* in the plural. For definite reference, put the article ܗܠ *hal* before the inflected participle. In *hal mašnaʾînnî* “those who hate me,” *hal* marks the people as definite and *-nî* marks the object “me.” An active participle that takes an object can keep that object when used as a noun. An object suffix follows the noun ending. A participle can carry at most one pronominal suffix, just like a finite verb or an infinitive. See [[Morphosyntax#Pronominal arguments of verbs]].
+
+In [[Tanakh#Exodus 20:5|Exodus 20:5]], the G participle of [[Lexicon/ܫܢܐ]] “to hate” is listed as *mašnâ-*. Its noun base is *mašnaʾ-*. The root aleph is a consonant before the masculine plural ending, as in the noun plural *ḥaṭʾîn* from [[Lexicon/ܚܛܐܐ]]. The preposition *li-* governs the whole definite phrase and fuses with *hal* in writing.
+
+| Form | Syriac | Meaning |
+| --- | --- | --- |
+| *mašnaʾîn* | ܡܫܢܐܝܢ | people who hate |
+| *mašnaʾînnî* | ܡܫܢܐܝܢܢܝ | people who hate me |
+| *hal mašnaʾînnî* | ܗܠ ܡܫܢܐܝܢܢܝ | those who hate me |
+| *li-hal mašnaʾînnî* | ܠܗܠ ܡܫܢܐܝܢܢܝ | of those who hate me |
+
+See [[Morphosyntax#Subordinate clauses]] for the use of substantival participles and finite relative clauses.

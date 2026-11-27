@@ -10,6 +10,8 @@ Word order is **SVO** and without case, this is rather strictly enforced. **VSO*
 
 The definite article is ܗܠ *hal*, a proclitic written as a separate word before the noun: ܗܠ ܫܡܣܐ *hal šamsâ* "the sun". It fuses to a preceding clitic: ܘܗܠ *wa-hal* "and the", ܦܗܠ *pi-hal* "in the". A noun without *hal* is indefinite; some bare nouns shift to a proper or divine referent — bare ܫܡܣܐ is the Solar Deity (Shamash/Utu), while ܗܠ ܫܡܣܐ is the celestial body.
 
+A substantival participle takes the article like a noun. Use *hal* before the participle to refer to a definite group: *mašnaʾînnî* “people who hate me,” *hal mašnaʾînnî* “those who hate me.” With *li-* the article is written ܠܗܠ (*li-hal*). The object suffix stays on the participle. See [[Morphophonology#Participles as nouns]].
+
 An attributive adjective follows its noun and repeats the article: ܗܠ ܫܡܣܐ ܗܠ ܒܗܝܪܬܐ *hal šamsâ hal bahîrtâ* "the bright sun"; with an indefinite noun both are bare: ܫܡܣܐ ܒܗܝܪܬܐ "a bright sun". The bare adjective after a definite noun is the predicate, not a modifier: ܗܠ ܫܡܣܐ ܒܗܝܪܬܐ "the sun is bright" — the same contrast as Arabic الشمس الساطعة "the bright sun" against الشمس ساطعة "the sun is bright".
 
 Middle Semitic favors genitive noun phrases and stative verbs for many meanings that English expresses with adjectives. A genitive noun phrase can describe a quality through *dal*, and a stative verb can express a quality directly or modify a noun in a relative clause with *lîd*.
@@ -69,7 +71,7 @@ The function of a subordinate clause determines how it is introduced.
 
 - An adverbial subordinate clause uses a marker appropriate to its relation to the main clause. For example, *ʿalʾan* “because” introduces a reason. A reason clause can itself contain a relative clause modifying one of its nouns.
 
-Participles are verbal nouns. A substantival participle takes noun endings and can take the definite article. The G participle of [[Lexicon/ܫܢܐ]] takes masculine plural *-în* and then object suffix *-nî* in *li-hal mašnaʾînnî* “of those who hate me.” A finite relative describes a noun already expressed in the sentence.
+Participles are verbal nouns. A substantival participle takes noun endings and can take the definite article. The G participle of [[Lexicon/ܫܢܐ]] takes masculine plural *-în* and then object suffix *-nî* in *li-hal mašnaʾînnî* “of those who hate me.” See [[Morphophonology#Participles as nouns]] for the noun endings and suffix order. A finite relative describes a noun already expressed in the sentence.
 
 **Quoted speech.** Direct speech has no introducer: the verb of saying is followed directly by the quotation, which the writing marks with punctuation, as in modern Arabic, Hebrew and English (*wa-âmar êlhâ: …* "And God said: …"). MS has nothing like Biblical Hebrew לֵאמֹר, Biblical Aramaic לְמֵימַר or Syriac ܕ-, which did the work of a quotation mark; those are left untranslated in [[Tanakh]]. Indirect speech uses ܐܢ (*He said that she is coming*).
 
@@ -80,6 +82,10 @@ Middle Semitic has no separate wish mood: no jussive and no cohortative. A secon
 ## Possession between nouns
 
 The genitive is made with [[Lexicon/ܕܠ|ܕܠ]] *dal*, not the construct state: *ṣûrtâ dal êlhâ* "the image of God", *bênâ dal êlhâ* "the son of God". The construct forms in the paradigms are rare, virtually archaisms: they survive in stock phrases and the frozen prepositional nouns and are not built freely. A pronoun possessor is the pronominal suffix on the noun (*ṣûrtâhû*), not *dal*. Suffixes, on nouns, verbs and prepositions, attach straight onto the lexical form with no change to the stem (*ṣûrtâhû*, *barâhû*, *barâhûm*). A closed list of sixteen old nouns is the exception and keeps its archaic stem before a suffix (*abhû*, *êlahhû*, *malkhâ*); see each page's table.
+
+## Pronominal arguments of verbs
+
+A finite verb, infinitive, or participle can carry at most one pronominal suffix. Express additional arguments that would otherwise require a suffix with prepositional phrases. For example, in “give it to him,” “it” can be suffixed to the verb and “to him” is *lahû*. Finite subject agreement and noun endings on a participle are inflections, so they leave room for the pronominal suffix.
 
 ## The infinitive
 

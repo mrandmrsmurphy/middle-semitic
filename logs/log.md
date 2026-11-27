@@ -524,3 +524,12 @@ Append-only. Never edit past entries.
 
 ## 2026-11-27 — “Those who hate me” and completion of Exodus 20:5
 - User chose inherited *ś-n-ʾ* and approved ܫܢܐ *šanâ* “to hate” and a definite masculine plural substantival participle. Added the verb with G and root ܫ-ܢ-ܐ. Used the consonantal aleph in the noun base *mašnaʾ-* before masculine plural *-în* and attached the object suffix *-nî*. The verse reads *li-hal mašnaʾînnî*. Recorded the construction in Morphosyntax and grammar memory. Exodus 20:5 has no blanks.
+
+## 2026-11-27 — Participle morphology
+- Linked the verb-stem table to a dedicated subsection in Morphophonology on nominal declension of participles, consonantal aleph in *mašnaʾîn*, object suffix order, and the full definite phrase in Exodus 20:5. Cross-linked Morphosyntax and ܫܢܐ to the worked example.
+
+## 2026-11-27 — Definiteness of substantival participles
+- Made the article rule explicit under Morphosyntax “Definiteness” and in the participle morphology section, including the placement of *hal* and its written fusion with *li-*.
+
+## 2026-11-27 — One pronominal suffix per verb form
+- User ruled that finite verbs, infinitives, and participles each take at most one pronominal suffix. Additional pronominal arguments take prepositional phrases. Recorded in Morphosyntax, Morphophonology, and grammar memory.
