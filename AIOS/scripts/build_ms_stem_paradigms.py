@@ -193,7 +193,8 @@ def imperative(name, d, pr):
 LABEL = {'G': 'G stem', 'Gp': 'Gp stem (G passive)', 'D': 'D stem', 'Dp': 'Dp stem (D passive)',
          'C': 'C stem (causative)', 'Cp': 'Cp stem (C passive)', 'tD': 'tD stem (reflexive of D)'}
 # word -> stem -> meaning
-MEANING = {'ܒܟܝ 2': {'G': 'to cry, to weep', 'C': 'to make someone cry'},
+MEANING = {'ܪܘܛ': {'G': 'to run on foot'},
+           'ܒܟܝ 2': {'G': 'to cry, to weep', 'C': 'to make someone cry'},
            'ܘܩܕ': {'G': 'to burn, to be on fire', 'C': 'to kindle, to set alight'},
            'ܘܗܒ': {'G': 'to give', 'Gp': 'passive of G: to be given'},
            'ܡܪܝܪ': {'G': 'to be bitter'},
@@ -633,7 +634,8 @@ MEANING = {'ܒܟܝ 2': {'G': 'to cry, to weep', 'C': 'to make someone cry'},
                    'D': 'to tend closely, to shepherd with care', 'Dp': 'passive of D: to be tended closely',
                    'C': 'to put out to pasture, to let graze', 'Cp': 'passive of C: to be put out to pasture',
                    'tD': 'to come under someone\'s care, to be looked after'}}
-ABSENT = {'ܒܟܝ 2': {'Gp', 'D', 'Dp', 'Cp', 'tD'},
+ABSENT = {'ܪܘܛ': {'Gp', 'D', 'Dp', 'C', 'Cp', 'tD'},
+          'ܒܟܝ 2': {'Gp', 'D', 'Dp', 'Cp', 'tD'},
           'ܘܩܕ': {'Gp', 'D', 'Dp', 'Cp', 'tD'},
           'ܘܗܒ': {'D', 'Dp', 'C', 'Cp', 'tD'}, 'ܡܪܝܪ': {'Gp', 'D', 'Dp', 'C', 'Cp', 'tD'}, 'ܒܥܝܕ': {'Gp', 'D', 'Dp', 'C', 'Cp', 'tD'}, 'ܢܫܟ': {'D', 'Dp', 'C', 'Cp', 'tD'}, 'ܣܬܝ': {'D', 'Dp', 'C', 'Cp', 'tD'}, 'ܐܬܝ': {'Gp', 'D', 'Dp', 'tD'}, 'ܒܗܝܡ': {'Gp'}, 'ܨܥܝܪ': {'Gp'}, 'ܣܡܝܢ': {'Gp'}, 'ܣܠܝܡ': {'Gp'}, 'ܡܬܝܩ': {'Gp'}, 'ܚܪܝܡ': {'Gp'}, 'ܚܡܝܨ': {'Gp', 'C', 'Cp'}, 'ܚܣܝܢ': {'Gp'}, 'ܒܪܝܪ': {'Gp'}, 'ܩܕܝܣ': {'Gp'}, 'ܡܠܟ': {'D', 'Dp', 'tD'}, 'ܐܚܙ': {'C', 'Cp'}, 'ܒܛܠ': {'Gp'}, 'ܒܢܝ': {'D', 'Dp'}, 'ܒܣܠ': ['D', 'Dp'], 'ܒܥܠ': ['D', 'Dp'], 'ܘܠܕ': ['D', 'Dp', 'tD'], 'ܝܢܩ': ['D', 'Dp', 'tD'], 'ܚܪܫ': ['tD'], 'ܚܨܢ': ['C', 'Cp'], 'ܒܪܩ': ['Gp', 'D', 'Dp', 'tD'], 'ܠܘܫ': ['C', 'Cp'], 'ܢܚܪ': ['Gp', 'D', 'Dp', 'C', 'Cp', 'tD'], 'ܡܘܬ': ['Gp', 'D', 'Dp', 'tD'], 'ܛܡܐ': ['Gp', 'C', 'Cp', 'tD'], 'ܥܠܝ': ['D', 'Dp'], 'ܚܠܦ': ['C', 'Cp'], 'ܘܒܠ': ['D', 'Dp', 'tD'], 'ܩܪܒ': ['Gp', 'D', 'Dp'], 'ܚܪܐ': ['Gp', 'D', 'Dp', 'C', 'Cp', 'tD'], 'ܦܬܠ': ['C', 'Cp'], 'ܫܟܪ': ['C', 'Cp'], 'ܒܪܐ 2': ['tD'], 'ܗܠܟ': ['Gp', 'Dp'], 'ܘܪܕ': ['Gp', 'D', 'Dp', 'tD'], 'ܩܪܨ': ['C', 'Cp'], 'ܪܡܝ': ['C', 'Cp'], 'ܚܨܕ': ['C', 'Cp', 'tD'], 'ܢܥܡ': ['C', 'Cp'], 'ܫܒܪ': ['C', 'Cp'], 'ܨܝܕ': ['C', 'Cp'], 'ܚܕܫ': ['Gp', 'C', 'Cp'], 'ܛܚܢ': ['C', 'Cp'], 'ܚܦܫ': ['C', 'Cp'], 'ܩܪܐ': ['D', 'Dp', 'tD'], 'ܚܦܪ': ['C', 'Cp'], 'ܣܚܢ': ['C', 'Cp'], 'ܙܡܪ': ['tD'], 'ܟܘܢ': ['Gp'], 'ܟܦܪ': ['C', 'Cp'], 'ܒܪܟ': ['Gp'], 'ܪܘܚ': ['Gp'], 'ܢܦܚ': ['C', 'Cp'], 'ܡܣܚ': ['C', 'Cp'], 'ܘܕܥ': ['D', 'Dp'], 'ܨܒܥ': ['C', 'Cp'], 'ܨܒܥ 2': ['C', 'Cp', 'tD'], 'ܙܪܥ': ['tD'], 'ܦܬܚ': ['C', 'Cp'], 'ܕܪܘ': ['C', 'Cp'], 'ܢܕܘ': ['C', 'Cp'], 'ܡܠܐ': ['D', 'Dp', 'C', 'Cp'], 'ܨܚܟ': ['Gp', 'tD'], 'ܩܛܠ': ['C', 'Cp'], 'ܥܨܪ': ['Dp', 'C', 'Cp'], 'ܘܩܥ': ['Gp', 'D', 'Dp', 'C', 'Cp', 'tD'], 'ܩܪܝܪ': ['Gp', 'C', 'Cp'], 'ܐܡܪ': ['D', 'Dp', 'tD'], 'ܩܘܠ': ['Gp', 'D', 'Dp', 'tD'], 'ܫܡܪ': ['Gp', 'D', 'Dp', 'tD'], 'ܪܒܒ': ['Gp', 'D', 'Dp', 'tD'], 'ܟܒܣ': ['C', 'Cp', 'tD'], 'ܪܡܫ': ['Gp', 'D', 'Dp', 'C', 'Cp', 'tD'], 'ܕܒܒ': ['Gp', 'Dp', 'tD'], 'ܦܥܠ': ['C', 'Cp', 'tD'], 'ܥܒܕ': ['D', 'Dp'], 'ܣܓܕ': ['Gp', 'D', 'Dp', 'C', 'Cp', 'tD'], 'ܦܩܕ': ['Cp', 'Dp', 'tD']}  # word -> stems it does NOT have (property false, no tables)
 VOCALIZED = {'ܟܬܒ', 'ܡܠܟ', 'ܣܡܥ'}  # extra words shown vocalized; otherwise every root without ܐ ܘ ܝ is vocalized and weak roots show romanization + plain spelling only

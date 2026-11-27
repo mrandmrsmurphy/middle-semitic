@@ -492,3 +492,7 @@ Append-only. Never edit past entries.
 ## 2026-11-26 — Leipzig–Jakarta №76 “thigh” and “hip”
 
 - User approved the split. Added ܘܪܟܐ wa.ˈri.kâ “hip” on W-R-K and ܦܚܙܐ ˈpaḥ.zâ “thigh” on P-Ḥ-Z, both crypto-feminine with body-part duals. Linked the thigh noun at №76.
+
+## 2026-11-26 — Leipzig–Jakarta №81 “to run”
+
+- User chose rôṭ. Added ܪܘܛ “to run on foot” on hollow root ܪ-ܘ-ܛ, G only. Linked №81. The only remaining gap is №49 “smoke.”

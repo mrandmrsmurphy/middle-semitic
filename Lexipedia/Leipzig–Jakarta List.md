@@ -84,7 +84,7 @@ Source: Uri Tadmor (2009), “Loanwords in the world’s languages: Findings and
 78. long — [[Lexicon/ܛܘܠܐ|ܛܘܠܐ]]
 79. to blow — [[Lexicon/ܢܦܚ|ܢܦܚ]]
 80. wood — [[Lexicon/ܥܝܨܐ|ܥܝܨܐ]]
-81. to run
+81. to run — [[Lexicon/ܪܘܛ|ܪܘܛ]]
 82. to fall — [[Lexicon/ܢܦܠ|ܢܦܠ]]
 83. eye — [[Lexicon/ܥܝܢܐ|ܥܝܢܐ]]
 84. ash — [[Lexicon/ܐܝܣܐ|ܐܝܣܐ]]
