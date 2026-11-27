@@ -77,7 +77,7 @@ Source: Uri Tadmor (2009), “Loanwords in the world’s languages: Findings and
 71. ant — [[Lexicon/ܢܡܠܐ|ܢܡܠܐ]]
 72. heavy — [[Lexicon/ܟܒܝܕܐ|ܟܒܝܕܐ]]
 73. to take — [[Lexicon/ܐܚܙ|ܐܚܙ]]
-74. old
+74. old — [[Lexicon/ܥܬܝܩܐ|ܥܬܝܩܐ]] (of things), [[Lexicon/ܙܩܝܢܐ|ܙܩܝܢܐ]] (of people)
 75. to eat — [[Lexicon/ܐܟܠ|ܐܟܠ]]
 76. thigh
 77. thick — [[Lexicon/ܥܒܝ 2|ܥܒܝ 2]]

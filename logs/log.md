@@ -484,3 +484,7 @@ Append-only. Never edit past entries.
 ## 2026-11-26 — Leipzig–Jakarta №87 “to cry/weep”
 
 - User chose B-K-Y. Added ܒܟܝ ˈba.kê on root ܒ-ܟ-ܝ with G “to cry, to weep” and C “to make someone cry.” The verb is filed as ܒܟܝ 2 because ܒܟܝ is already the preposition bi.ˈkî. Linked №87.
+
+## 2026-11-26 — Leipzig–Jakarta №74 “old”
+
+- User approved the split. Added ܥܬܝܩܐ ʿa.ˈtî.qâ for things on new root ܥ-ܬ-ܩ and ܙܩܝܢܐ za.ˈqî.nâ for people on the existing beard root ܙ-ܩ-ܢ. Linked both at Leipzig–Jakarta №74 and the thing sense at Swadesh №184.
