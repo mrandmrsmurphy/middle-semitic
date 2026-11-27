@@ -476,3 +476,7 @@ Append-only. Never edit past entries.
 ## 2026-11-26 — Leipzig–Jakarta №55 “to burn”
 
 - User chose W-Q-D. Added ܘܩܕ wa.ˈqad on root ܘ-ܩ-ܕ with G “to burn, to be on fire” and C “to kindle, to set alight.” Linked Leipzig–Jakarta №55 and Swadesh №169 (G).
+
+## 2026-11-26 — Leipzig–Jakarta №99 “hard”
+
+- User chose Q-S-Y. Added adjective ܩܣܝܐ ˈqas.yâ “hard, firm to the touch” on root ܩ-ܣ-ܝ, with qasîtâ proposed for the feminine singular by weak-stem analogy. Linked №99.

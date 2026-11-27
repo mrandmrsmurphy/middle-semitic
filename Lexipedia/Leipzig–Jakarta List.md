@@ -102,5 +102,5 @@ Source: Uri Tadmor (2009), “Loanwords in the world’s languages: Findings and
 96. wide — [[Lexicon/ܪܚܒܐ|ܪܚܒܐ]]
 97. star — [[Lexicon/ܟܘܟܒܐ|ܟܘܟܒܐ]]
 98. in — [[Lexicon/ܦ|ܦ]]
-99. hard
+99. hard — [[Lexicon/ܩܣܝܐ|ܩܣܝܐ]]
 100. to crush/grind — [[Lexicon/ܛܚܢ|ܛܚܢ]]
