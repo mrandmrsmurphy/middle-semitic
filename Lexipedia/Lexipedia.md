@@ -1,7 +1,5 @@
 # Lexipedia
 
-> Hub: [[Universal Languages]]
-
 A shared guide to semantic domains for building Universal Languages vocabularies. Its structure draws on Mark Rosenfelder’s *The Conlanger’s Lexipedia* and the Dan’a’yo Lexipedia.
 
 - [[Lexipedia/Swadesh|Swadesh]] — the 207-item basic vocabulary list, with Middle Semitic forms beside the source languages.

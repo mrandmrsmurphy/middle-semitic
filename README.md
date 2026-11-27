@@ -12,7 +12,7 @@ This repository is the working archive of the language: the grammar, the phonolo
 > *pibadâtâ êlhâ barâ hal samîm wa-hal arṣâ*
 > "In the beginning God created the heavens and the earth." (Genesis 1:1)
 
-|                        |                                                                                     |
+|  Field                      |                                                                                     |
 | ---------------------- | ----------------------------------------------------------------------------------- |
 | Native name            | ܫܡܥ ܡܪܟܙ (*šamâ markaz*)                                                            |
 | Population in the zone | about 290 million                                                                   |

@@ -52,7 +52,7 @@ Source: Uri Tadmor (2009), “Loanwords in the world’s languages: Findings and
 46. to bite — [[Lexicon/ܢܫܟ|ܢܫܟ]]
 47. back — [[Lexicon/ܛܗܪܐ|ܛܗܪܐ]]
 48. wind — [[Lexicon/ܪܘܚܐ|ܪܘܚܐ]]
-49. smoke
+49. smoke — [[Lexicon/ܥܫܢ|ܥܫܢ]]
 50. what? — [[Lexicon/ܡܐܢ|ܡܐܢ]]
 51. child (kin term) — [[Lexicon/ܘܠܕܐ|ܘܠܕܐ]]
 52. egg — [[Lexicon/ܒܝܨܐ|ܒܝܨܐ]]

@@ -496,3 +496,11 @@ Append-only. Never edit past entries.
 ## 2026-11-26 — Leipzig–Jakarta №81 “to run”
 
 - User chose rôṭ. Added ܪܘܛ “to run on foot” on hollow root ܪ-ܘ-ܛ, G only. Linked №81. The only remaining gap is №49 “smoke.”
+
+## 2026-11-26 — Leipzig–Jakarta complete
+
+- User chose ܥܫܢ ʿa.ˈšân “smoke.” Added it as a masculine mass noun on ܥ-ܫ-ܢ and linked Leipzig–Jakarta №49 and Swadesh №166. All 100 Leipzig–Jakarta prompts are linked.
+
+## 2026-11-26 — Lexipedia hub link
+
+- Removed the dangling Universal Languages breadcrumb from the Middle Semitic Lexipedia page.
