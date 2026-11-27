@@ -33,20 +33,20 @@ In Exodus 3:4, Hebrew וַיִּקְרָא and Syriac ܘܩܪܐ use the active �
 
 *I am indeed your Lord. So take off your sandals, for you are in the sacred valley of Ṭuwā.* [Arabic text](https://quran.com/taha/12) · [Word-by-word analysis](https://corpus.quran.com/wordbyword.jsp?chapter=20&verse=12)
 
-**Middle Semitic draft:** ܐܢܐ ܪܒܐܟܐ، ܘ___ ___، ܥܠܐܢ ܐܢܬܐ ܦܗܠ ___ ܗܠ ܡܩܘܕܣܐ ܛܘܐ
+**Middle Semitic:** ܐܢܐ ܪܒܐܟܐ، ܘܚܠܥ ܢܥܠܘܬܟܐ، ܥܠܐܢ ܐܢܬܐ ܦܗܠ ܢܚܠܐ ܗܠ ܡܩܘܕܣܐ ܛܘܐ
 
-*anâ rabbâkâ, wa-___ ___, ʿalʾan antâ pi-hal ___ hal maqûddasâ ṭuwâ*
+*anâ rabbâkâ, wa-ḥəlaʿ naʿlûtkâ, ʿalʾan antâ pi-hal naḥlâ hal maqûddasâ ṭuwâ*
 
-*Anâ rabbâkâ* uses the ordinary present construction with a pronoun subject. The single *anâ* carries the self-identification in Arabic *innī anā*. In the last clause *ʿalʾan* makes the reason for the command explicit. *Maqûddasâ* “sanctified” is the Dp participle of *qadîs*, inflected as an attributive masculine singular and preceded by the repeated article. Ṭuwā is represented provisionally as ܛܘܐ *ṭuwâ*. The blanks are the imperative “take off,” the possessed noun “your sandals,” and “valley.” Arabic marks “sandals” as dual.
+*Anâ rabbâkâ* uses the ordinary present construction with a pronoun subject. The single *anâ* carries the self-identification in Arabic *innī anā*. In the last clause *ʿalʾan* makes the reason for the command explicit. *Maqûddasâ* “sanctified” is the Dp participle of *qadîs*, inflected as an attributive masculine singular and preceded by the repeated article. Ṭuwā is represented provisionally as ܛܘܐ *ṭuwâ*. The command uses the masculine singular imperative *ḥəlaʿ* “take off” of [[Lexicon/ܚܠܥ]]. The verse uses the footwear cognate *naʿlûtkâ* “your sandals,” with the regular MS plural and *-kâ*. Arabic marks the noun as dual. Here *naḥlâ* is the general “valley, wadi,” corresponding to Arabic *wādī*.
 
 | Arabic | Meaning in the verse | Middle Semitic |
 | --- | --- | --- |
 | إِنِّي أَنَا *innī anā* | I am indeed | [[Lexicon/ܐܢܐ\|ܐܢܐ]] *anâ* |
 | رَبُّكَ *rabbuka* | your Lord | [[Lexicon/ܪܒܐ\|ܪܒܐ]] *rabbâ* + [[Lexicon/-ܟܐ\|-ܟܐ]] *-kâ* |
-| فَاخْلَعْ *fa-ḫlaʿ* | so take off | [[Lexicon/ܘ\|ܘ]] *wa-* + ___ (masculine singular imperative) |
-| نَعْلَيْكَ *naʿlayka* | your sandals | ___ + *-kâ* |
+| فَاخْلَعْ *fa-ḫlaʿ* | so take off | [[Lexicon/ܘ\|ܘ]] *wa-* + [[Lexicon/ܚܠܥ\|ܚܠܥ]] G imperative masculine singular *ḥəlaʿ* |
+| نَعْلَيْكَ *naʿlayka* | your sandals | [[Lexicon/ܢܥܠܐ\|ܢܥܠܐ]] plural *naʿlût* + *-kâ* → *naʿlûtkâ* |
 | إِنَّكَ *innaka* | for you are | [[Lexicon/ܥܠܐܢ\|ܥܠܐܢ]] *ʿalʾan* + [[Lexicon/ܐܢܬܐ\|ܐܢܬܐ]] *antâ* |
-| بِالْوَادِ *bi-l-wādi* | in the valley | [[Lexicon/ܦ\|ܦ]] *pi-* + [[Lexicon/ܗܠ\|ܗܠ]] *hal* + ___ |
+| بِالْوَادِ *bi-l-wādi* | in the valley | [[Lexicon/ܦ\|ܦ]] *pi-* + [[Lexicon/ܗܠ\|ܗܠ]] *hal* + [[Lexicon/ܢܚܠܐ\|ܢܚܠܐ]] *naḥlâ* |
 | الْمُقَدَّسِ *al-muqaddasi* | the sacred | *hal* + [[Lexicon/ܩܕܝܣ\|ܩܕܝܣ]] Dp participle *maqûddasâ* |
 | طُوًى *ṭuwan* | Ṭuwā | ܛܘܐ *ṭuwâ* |
 

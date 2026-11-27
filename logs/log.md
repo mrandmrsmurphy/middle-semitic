@@ -545,3 +545,12 @@ Append-only. Never edit past entries.
 
 ## 2026-11-27 — Quran 20:12 draft
 - Added the Arabic, draft MS, word-by-word table, and Exodus 3:5 comparison. Used *anâ rabbâkâ*, *ʿalʾan antâ*, and the Dp participle *maqûddasâ* with article concord. Used provisional *ṭuwâ* for the place name and left slots for “take off,” “sandals,” and “valley.”
+
+## 2026-11-27 — Quran 20:12, “take off”
+- User approved ܚ-ܠ-ܥ. Added transitive ܚܠܥ *ḥa.ˈlaʿ* “to take off something worn” with the G paradigm and used masculine singular imperative *ḥəlaʿ* in Quran 20:12. Sandals and valley remain.
+
+## 2026-11-27 — Footwear and sandals
+- Added general footwear ܢܥܠܐ *naʿlâ* (crypto-feminine) and specific open sandal ܣܢܕܠܐ *sandalâ* (masculine), with root pages and declensions. Quran 20:12 retains the source cognate with regular plural and possessive suffix, *naʿlûtkâ*. “Valley” remains.
+
+## 2026-11-27 — Valley vocabulary and completion of Quran 20:12
+- User chose ܢܚܠܐ “valley, wadi,” ܥܡܩܐ “vale, lowland,” ܒܩܥܬܐ “basin, plain,” and ܓܝܐܐ “ravine, mountain pass.” Added four root pages and noun declensions. Used *naḥlâ* in Quran 20:12. The wadi can have a seasonally dry streambed. The verse has no lexical blanks.
