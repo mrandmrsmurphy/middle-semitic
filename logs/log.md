@@ -533,3 +533,6 @@ Append-only. Never edit past entries.
 
 ## 2026-11-27 — One pronominal suffix per verb form
 - User ruled that finite verbs, infinitives, and participles each take at most one pronominal suffix. Additional pronominal arguments take prepositional phrases. Recorded in Morphosyntax, Morphophonology, and grammar memory.
+
+## 2026-11-27 — Participles and action nouns
+- User clarified that a bare participle is adnominal or predicative, and that *hal* without an expressed noun head gives the definite substantival reading. The *la-* infinitive names the action and accepts prepositions in circumstantial phrases. Updated Morphosyntax, Morphophonology, grammar memory, and the glosses in the entry for ܫܢܐ.

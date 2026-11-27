@@ -165,7 +165,7 @@ A verb has up to seven **stems**, named G, Gp, D, Dp, C, Cp and tD. G is the bas
 | Cp | *šûktab* | *yûšaktab* | *mašûktab-* | *lašûktab* | š- + the passive of G |
 | tD | *tikîttab* | *yatikîttab* | *matikîttab-* | *latikîttab* | ti- + the D stem |
 
-The table gives the participle base. To turn that base into a noun, see [[#Participles as nouns]]. The participle is *ma-* plus the non-past stem and the infinitive is a bare *l-* (replacing the *y-* of the 3m non-past, never *lə-*) plus it; in the passives the second vowel of the stem becomes *û* instead, since the prefix leaves no vowel to change. The imperative is the second-person non-past without its prefix, so it exists for G, D, C and tD only. The paragraphs below set out the G stem and its passive on the model ܡܠܟ, then each derived stem.
+The table gives the participle base. For participle inflection and substantival use, see [[#Participles as nouns]]. The participle is *ma-* plus the non-past stem and the infinitive is a bare *l-* (replacing the *y-* of the 3m non-past, never *lə-*) plus it; in the passives the second vowel of the stem becomes *û* instead, since the prefix leaves no vowel to change. The imperative is the second-person non-past without its prefix, so it exists for G, D, C and tD only. The paragraphs below set out the G stem and its passive on the model ܡܠܟ, then each derived stem.
 
 **G stem**
 
@@ -242,14 +242,14 @@ In a III-aleph G stative, the root aleph stays a glottal stop after *î*: [[Lexi
 
 ### Participles as nouns
 
-A substantival participle names a participant in the action. Form its base from the appropriate verb stem as shown in the verb table, then use the regular [[#Nouns|noun endings]] for its gender and number. A masculine participle takes *-â* in the singular and *-în* in the plural. For definite reference, put the article ܗܠ *hal* before the inflected participle. In *hal mašnaʾînnî* “those who hate me,” *hal* marks the people as definite and *-nî* marks the object “me.” An active participle that takes an object can keep that object when used as a noun. An object suffix follows the noun ending. A participle can carry at most one pronominal suffix, just like a finite verb or an infinitive. See [[Morphosyntax#Pronominal arguments of verbs]].
+Form the participle base from the appropriate verb stem as shown in the verb table, then use the regular [[#Nouns|noun endings]] for gender and number. A masculine participle takes *-â* in the singular and *-în* in the plural. The bare form can modify a noun or serve as a predicate. The article ܗܠ *hal* with no expressed noun head makes the participle a definite noun phrase naming the participant or participants. The [[Morphosyntax#The infinitive|infinitive]] names the action itself. In *hal mašnaʾînnî* “those who hate me,” *hal* marks the people as definite and *-nî* marks the object “me.” An active participle that takes an object can keep that object when used as a noun. An object suffix follows the noun ending. A participle can carry at most one pronominal suffix, just like a finite verb or an infinitive. See [[Morphosyntax#Pronominal arguments of verbs]].
 
 In [[Tanakh#Exodus 20:5|Exodus 20:5]], the G participle of [[Lexicon/ܫܢܐ]] “to hate” is listed as *mašnâ-*. Its noun base is *mašnaʾ-*. The root aleph is a consonant before the masculine plural ending, as in the noun plural *ḥaṭʾîn* from [[Lexicon/ܚܛܐܐ]]. The preposition *li-* governs the whole definite phrase and fuses with *hal* in writing.
 
 | Form | Syriac | Meaning |
 | --- | --- | --- |
-| *mašnaʾîn* | ܡܫܢܐܝܢ | people who hate |
-| *mašnaʾînnî* | ܡܫܢܐܝܢܢܝ | people who hate me |
+| *mašnaʾîn* | ܡܫܢܐܝܢ | hating (masculine plural) |
+| *mašnaʾînnî* | ܡܫܢܐܝܢܢܝ | hating me (masculine plural) |
 | *hal mašnaʾînnî* | ܗܠ ܡܫܢܐܝܢܢܝ | those who hate me |
 | *li-hal mašnaʾînnî* | ܠܗܠ ܡܫܢܐܝܢܢܝ | of those who hate me |
 

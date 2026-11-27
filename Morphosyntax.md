@@ -10,7 +10,7 @@ Word order is **SVO** and without case, this is rather strictly enforced. **VSO*
 
 The definite article is ܗܠ *hal*, a proclitic written as a separate word before the noun: ܗܠ ܫܡܣܐ *hal šamsâ* "the sun". It fuses to a preceding clitic: ܘܗܠ *wa-hal* "and the", ܦܗܠ *pi-hal* "in the". A noun without *hal* is indefinite; some bare nouns shift to a proper or divine referent — bare ܫܡܣܐ is the Solar Deity (Shamash/Utu), while ܗܠ ܫܡܣܐ is the celestial body.
 
-A substantival participle takes the article like a noun. Use *hal* before the participle to refer to a definite group: *mašnaʾînnî* “people who hate me,” *hal mašnaʾînnî* “those who hate me.” With *li-* the article is written ܠܗܠ (*li-hal*). The object suffix stays on the participle. See [[Morphophonology#Participles as nouns]].
+A bare participle can modify a noun or serve as a predicate. With no expressed noun head, *hal* makes it a definite noun phrase: *mašnaʾînnî* “hating me” (masculine plural), *hal mašnaʾînnî* “those who hate me.” With *li-* the article is written ܠܗܠ (*li-hal*). The object suffix stays on the participle. See [[Morphophonology#Participles as nouns]].
 
 An attributive adjective follows its noun and repeats the article: ܗܠ ܫܡܣܐ ܗܠ ܒܗܝܪܬܐ *hal šamsâ hal bahîrtâ* "the bright sun"; with an indefinite noun both are bare: ܫܡܣܐ ܒܗܝܪܬܐ "a bright sun". The bare adjective after a definite noun is the predicate, not a modifier: ܗܠ ܫܡܣܐ ܒܗܝܪܬܐ "the sun is bright" — the same contrast as Arabic الشمس الساطعة "the bright sun" against الشمس ساطعة "the sun is bright".
 
@@ -71,7 +71,7 @@ The function of a subordinate clause determines how it is introduced.
 
 - An adverbial subordinate clause uses a marker appropriate to its relation to the main clause. For example, *ʿalʾan* “because” introduces a reason. A reason clause can itself contain a relative clause modifying one of its nouns.
 
-Participles are verbal nouns. A substantival participle takes noun endings and can take the definite article. The G participle of [[Lexicon/ܫܢܐ]] takes masculine plural *-în* and then object suffix *-nî* in *li-hal mašnaʾînnî* “of those who hate me.” See [[Morphophonology#Participles as nouns]] for the noun endings and suffix order. A finite relative describes a noun already expressed in the sentence.
+Participles can modify a noun or serve as a predicate. With *hal* and no expressed noun head, a participle names the participant or participants. The G participle of [[Lexicon/ܫܢܐ]] takes masculine plural *-în* and then object suffix *-nî* in *li-hal mašnaʾînnî* “of those who hate me.” See [[Morphophonology#Participles as nouns]] for the noun endings and suffix order. A finite relative describes a noun already expressed in the sentence.
 
 **Quoted speech.** Direct speech has no introducer: the verb of saying is followed directly by the quotation, which the writing marks with punctuation, as in modern Arabic, Hebrew and English (*wa-âmar êlhâ: …* "And God said: …"). MS has nothing like Biblical Hebrew לֵאמֹר, Biblical Aramaic לְמֵימַר or Syriac ܕ-, which did the work of a quotation mark; those are left untranslated in [[Tanakh]]. Indirect speech uses ܐܢ (*He said that she is coming*).
 
@@ -89,7 +89,7 @@ A finite verb, infinitive, or participle can carry at most one pronominal suffix
 
 ## The infinitive
 
-The infinitive is the verb's verbal noun, a form of the conjugation with a bare *l-* (no schwa) in place of the non-past's *y-*: *lahîllak* "walking, to walk" (D of [[Lexicon/ܗܠܟ|ܗܠܟ]]). It is a noun, so it can be the object of another verb or follow a preposition. As an object: *anâ ʾarḥam lahîllak* "I love walking" (= "I love to walk"; [[Lexicon/ܪܚܡ|ܪܚܡ]] non-past 1c *ʾarḥam*). After a preposition, the preposition is *li-*, a separate word that reduces to a schwa, so "for walking" is *li-lahîllak*, written ܠܠܗܝܠܟ in Syriac (the preposition ܠ, then the infinitive ܠܗܝܠܟ). The Latin is always *li-*; in fast speech the *li-* may be said as a schwa (*lə-lahîllak*). It is not the preposition *li-* plus a word, and no verbal paradigm has *l* + schwa. MS has no infinitive construct and no quotative infinitive ("saying").
+The infinitive is the verb's verbal noun, a form of the conjugation with a bare *l-* (no schwa) in place of the non-past's *y-*: *lahîllak* "walking, to walk" (D of [[Lexicon/ܗܠܟ|ܗܠܟ]]). It is a noun that names the action and can serve as the object of another verb or the complement of a preposition. A prepositional phrase with an infinitive can describe the circumstances of the main action. The preposition supplies the relation, such as time (“during”), concession (“despite”), cause (“because of”), or purpose (“in order to”). As an object: *anâ ʾarḥam lahîllak* "I love walking" (= "I love to walk"; [[Lexicon/ܪܚܡ|ܪܚܡ]] non-past 1c *ʾarḥam*). After a preposition, the preposition is *li-*, a separate word that reduces to a schwa, so "for walking" is *li-lahîllak*, written ܠܠܗܝܠܟ in Syriac (the preposition ܠ, then the infinitive ܠܗܝܠܟ). The Latin is always *li-*; in fast speech the *li-* may be said as a schwa (*lə-lahîllak*). It is not the preposition *li-* plus a word, and no verbal paradigm has *l* + schwa. MS has no infinitive construct and no quotative infinitive ("saying").
 
 ## Numerals
 
