@@ -504,3 +504,7 @@ Append-only. Never edit past entries.
 ## 2026-11-26 — Lexipedia hub link
 
 - Removed the dangling Universal Languages breadcrumb from the Middle Semitic Lexipedia page.
+
+## 2026-11-27 — Exodus 20:5, “jealous”
+- The user chose Q-N-ʾ after comparing same-sense attestations across branches and requested a stative verb. Added ܩ-ܢ-ܐ and ܩܢܝܐ *qa.ˈnîʾ*, G only for the current entry. The paradigm generator retains the glottal stop after stative *î*. Rendered “a jealous God” with *êlhâ lîd yaqnîʾ*, using a third-person non-past relative clause. Five translation decisions remain.
+- Recorded the user's general preference for genitive nouns and stative verbs in Morphosyntax and grammar memory.

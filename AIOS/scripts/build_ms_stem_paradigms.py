@@ -71,8 +71,9 @@ HOLLOW_V = None  # the G-stem vowel of a hollow root, read from the page's Latin
 def ap(stem, suf):
     """Attach a suffix to a stem. For a III-yod root the final vowel + y contracts to ê before a
     consonant-initial ending and before -at; the y is a consonant before the plural -û (banyû) and
-    the 2f/plural endings keep their letters in the spelling although they are not pronounced."""
-    if not IIIY:
+    the 2f/plural endings keep their letters in the spelling although they are not pronounced.
+    III-aleph keeps the glottal stop after stative î."""
+    if not IIIY or (IIIC == 'ܐ' and stem[-2] == 'i'):
         return list(stem) + list(suf)
     E, silent = ('X', {'ܝ': 'ê', 'ܐ': 'â', 'ܘ': 'ô'}[IIIC], IIIC), lambda c: ('X', '', c)
     lengthened = stem[-2] == 'aa'  # a guttural-compensated D-type stem keeps its aleph in the spelling
@@ -193,7 +194,8 @@ def imperative(name, d, pr):
 LABEL = {'G': 'G stem', 'Gp': 'Gp stem (G passive)', 'D': 'D stem', 'Dp': 'Dp stem (D passive)',
          'C': 'C stem (causative)', 'Cp': 'Cp stem (C passive)', 'tD': 'tD stem (reflexive of D)'}
 # word -> stem -> meaning
-MEANING = {'ܪܘܛ': {'G': 'to run on foot'},
+MEANING = {'ܩܢܝܐ': {'G': 'to be jealous, to be zealous for exclusive loyalty'},
+           'ܪܘܛ': {'G': 'to run on foot'},
            'ܒܟܝ 2': {'G': 'to cry, to weep', 'C': 'to make someone cry'},
            'ܘܩܕ': {'G': 'to burn, to be on fire', 'C': 'to kindle, to set alight'},
            'ܘܗܒ': {'G': 'to give', 'Gp': 'passive of G: to be given'},
@@ -634,7 +636,8 @@ MEANING = {'ܪܘܛ': {'G': 'to run on foot'},
                    'D': 'to tend closely, to shepherd with care', 'Dp': 'passive of D: to be tended closely',
                    'C': 'to put out to pasture, to let graze', 'Cp': 'passive of C: to be put out to pasture',
                    'tD': 'to come under someone\'s care, to be looked after'}}
-ABSENT = {'ܪܘܛ': {'Gp', 'D', 'Dp', 'C', 'Cp', 'tD'},
+ABSENT = {'ܩܢܝܐ': {'Gp', 'D', 'Dp', 'C', 'Cp', 'tD'},
+          'ܪܘܛ': {'Gp', 'D', 'Dp', 'C', 'Cp', 'tD'},
           'ܒܟܝ 2': {'Gp', 'D', 'Dp', 'Cp', 'tD'},
           'ܘܩܕ': {'Gp', 'D', 'Dp', 'Cp', 'tD'},
           'ܘܗܒ': {'D', 'Dp', 'C', 'Cp', 'tD'}, 'ܡܪܝܪ': {'Gp', 'D', 'Dp', 'C', 'Cp', 'tD'}, 'ܒܥܝܕ': {'Gp', 'D', 'Dp', 'C', 'Cp', 'tD'}, 'ܢܫܟ': {'D', 'Dp', 'C', 'Cp', 'tD'}, 'ܣܬܝ': {'D', 'Dp', 'C', 'Cp', 'tD'}, 'ܐܬܝ': {'Gp', 'D', 'Dp', 'tD'}, 'ܒܗܝܡ': {'Gp'}, 'ܨܥܝܪ': {'Gp'}, 'ܣܡܝܢ': {'Gp'}, 'ܣܠܝܡ': {'Gp'}, 'ܡܬܝܩ': {'Gp'}, 'ܚܪܝܡ': {'Gp'}, 'ܚܡܝܨ': {'Gp', 'C', 'Cp'}, 'ܚܣܝܢ': {'Gp'}, 'ܒܪܝܪ': {'Gp'}, 'ܩܕܝܣ': {'Gp'}, 'ܡܠܟ': {'D', 'Dp', 'tD'}, 'ܐܚܙ': {'C', 'Cp'}, 'ܒܛܠ': {'Gp'}, 'ܒܢܝ': {'D', 'Dp'}, 'ܒܣܠ': ['D', 'Dp'], 'ܒܥܠ': ['D', 'Dp'], 'ܘܠܕ': ['D', 'Dp', 'tD'], 'ܝܢܩ': ['D', 'Dp', 'tD'], 'ܚܪܫ': ['tD'], 'ܚܨܢ': ['C', 'Cp'], 'ܒܪܩ': ['Gp', 'D', 'Dp', 'tD'], 'ܠܘܫ': ['C', 'Cp'], 'ܢܚܪ': ['Gp', 'D', 'Dp', 'C', 'Cp', 'tD'], 'ܡܘܬ': ['Gp', 'D', 'Dp', 'tD'], 'ܛܡܐ': ['Gp', 'C', 'Cp', 'tD'], 'ܥܠܝ': ['D', 'Dp'], 'ܚܠܦ': ['C', 'Cp'], 'ܘܒܠ': ['D', 'Dp', 'tD'], 'ܩܪܒ': ['Gp', 'D', 'Dp'], 'ܚܪܐ': ['Gp', 'D', 'Dp', 'C', 'Cp', 'tD'], 'ܦܬܠ': ['C', 'Cp'], 'ܫܟܪ': ['C', 'Cp'], 'ܒܪܐ 2': ['tD'], 'ܗܠܟ': ['Gp', 'Dp'], 'ܘܪܕ': ['Gp', 'D', 'Dp', 'tD'], 'ܩܪܨ': ['C', 'Cp'], 'ܪܡܝ': ['C', 'Cp'], 'ܚܨܕ': ['C', 'Cp', 'tD'], 'ܢܥܡ': ['C', 'Cp'], 'ܫܒܪ': ['C', 'Cp'], 'ܨܝܕ': ['C', 'Cp'], 'ܚܕܫ': ['Gp', 'C', 'Cp'], 'ܛܚܢ': ['C', 'Cp'], 'ܚܦܫ': ['C', 'Cp'], 'ܩܪܐ': ['D', 'Dp', 'tD'], 'ܚܦܪ': ['C', 'Cp'], 'ܣܚܢ': ['C', 'Cp'], 'ܙܡܪ': ['tD'], 'ܟܘܢ': ['Gp'], 'ܟܦܪ': ['C', 'Cp'], 'ܒܪܟ': ['Gp'], 'ܪܘܚ': ['Gp'], 'ܢܦܚ': ['C', 'Cp'], 'ܡܣܚ': ['C', 'Cp'], 'ܘܕܥ': ['D', 'Dp'], 'ܨܒܥ': ['C', 'Cp'], 'ܨܒܥ 2': ['C', 'Cp', 'tD'], 'ܙܪܥ': ['tD'], 'ܦܬܚ': ['C', 'Cp'], 'ܕܪܘ': ['C', 'Cp'], 'ܢܕܘ': ['C', 'Cp'], 'ܡܠܐ': ['D', 'Dp', 'C', 'Cp'], 'ܨܚܟ': ['Gp', 'tD'], 'ܩܛܠ': ['C', 'Cp'], 'ܥܨܪ': ['Dp', 'C', 'Cp'], 'ܘܩܥ': ['Gp', 'D', 'Dp', 'C', 'Cp', 'tD'], 'ܩܪܝܪ': ['Gp', 'C', 'Cp'], 'ܐܡܪ': ['D', 'Dp', 'tD'], 'ܩܘܠ': ['Gp', 'D', 'Dp', 'tD'], 'ܫܡܪ': ['Gp', 'D', 'Dp', 'tD'], 'ܪܒܒ': ['Gp', 'D', 'Dp', 'tD'], 'ܟܒܣ': ['C', 'Cp', 'tD'], 'ܪܡܫ': ['Gp', 'D', 'Dp', 'C', 'Cp', 'tD'], 'ܕܒܒ': ['Gp', 'Dp', 'tD'], 'ܦܥܠ': ['C', 'Cp', 'tD'], 'ܥܒܕ': ['D', 'Dp'], 'ܣܓܕ': ['Gp', 'D', 'Dp', 'C', 'Cp', 'tD'], 'ܦܩܕ': ['Cp', 'Dp', 'tD']}  # word -> stems it does NOT have (property false, no tables)
@@ -702,9 +705,14 @@ def main(L, words):
         out.append("## Forms\n")
         klass = "an I-yod verb" if c1 == 'ܝ' and not IIIY else "an I-waw verb" if c1 == 'ܘ' and not IIIY else ({'ܝ': "a III-yod verb", 'ܘ': "a III-waw verb", 'ܐ': "a III-aleph verb"}[c3]) + (" with a guttural middle radical" if c2 in 'ܥܚܗ' else "") if IIIY else "a hollow verb" if HOLLOW else "an I-aleph verb" if c1 == 'ܐ' else "a stative verb" if stative else "a stative verb" if stative else "a strong triliteral verb"
         cells = "the vocalized Syriac, the romanization and the plain spelling" if VOCAL else "the romanization and the plain spelling"
+        stative_aleph = stative and IIIC == 'ܐ'
+        if stative_aleph:
+            klass = "a III-aleph stative verb"
         out.append(f"The conjugation of {klass} in each of its stems, from the templates in [[Morphophonology]]. "
                    f"The citation form is the 3m past. Each cell gives {cells}." +
-                   (f" The final {({'ܝ': 'y', 'ܘ': 'w', 'ܐ': 'ʾ'})[c3]} contracts with the preceding a to {({'ܝ': 'ê', 'ܘ': 'ô', 'ܐ': 'â'})[c3]} (see [[Morphophonology]])." if IIIY else "") + (" In the G stem the vowel *î* is the second vowel of the stem and stays in every finite form; a stative has no passive, so it has no Gp. The derived stems are those of a strong verb." if stative else "") + (" The middle guttural cannot be geminated, so the D, Dp and tD stems lengthen the vowel after it instead, written with an aleph." if c2 in 'ܥܚܗ' else "") + (" In the G stem the central vowel is part of the root and the stem stays CVC; in the derived stems the middle radical is a full consonant and takes its place in the template." if HOLLOW else "") + "\n")
+                   (f" The final {({'ܝ': 'y', 'ܘ': 'w', 'ܐ': 'ʾ'})[c3]} contracts with the preceding a to {({'ܝ': 'ê', 'ܘ': 'ô', 'ܐ': 'â'})[c3]} (see [[Morphophonology]])." if IIIY and not stative_aleph else "") +
+                   (" The root aleph remains a glottal stop after stative *î*." if stative_aleph else "") + (" In the G stem the vowel *î* is the second vowel of the stem and stays in every finite form; a stative has no passive, so it has no Gp." if stative else "") +
+                   (" The derived stems are those of a strong verb." if stative and not IIIY else "") + (" The middle guttural cannot be geminated, so the D, Dp and tD stems lengthen the vowel after it instead, written with an aleph." if c2 in 'ܥܚܗ' else "") + (" In the G stem the central vowel is part of the root and the stem stays CVC; in the derived stems the middle radical is a full consonant and takes its place in the template." if HOLLOW else "") + "\n")
         for s, d in S.items():
             if s in absent: continue
             out.append(f"### {LABEL[s]}: {mean[s].split(':')[0]}\n")

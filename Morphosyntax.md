@@ -12,6 +12,8 @@ The definite article is ܗܠ *hal*, a proclitic written as a separate word befor
 
 An attributive adjective follows its noun and repeats the article: ܗܠ ܫܡܣܐ ܗܠ ܒܗܝܪܬܐ *hal šamsâ hal bahîrtâ* "the bright sun"; with an indefinite noun both are bare: ܫܡܣܐ ܒܗܝܪܬܐ "a bright sun". The bare adjective after a definite noun is the predicate, not a modifier: ܗܠ ܫܡܣܐ ܒܗܝܪܬܐ "the sun is bright" — the same contrast as Arabic الشمس الساطعة "the bright sun" against الشمس ساطعة "the sun is bright".
 
+Middle Semitic favors genitive noun phrases and stative verbs for many meanings that English expresses with adjectives. A genitive noun phrase can describe a quality through *dal*, and a stative verb can express a quality directly or modify a noun in a relative clause with *lîd*.
+
 ## Copula
 
 As in all Semitic languages, copulas are very mixed. The shortest summary is this table:
