@@ -536,3 +536,12 @@ Append-only. Never edit past entries.
 
 ## 2026-11-27 — Participles and action nouns
 - User clarified that a bare participle is adnominal or predicative, and that *hal* without an expressed noun head gives the definite substantival reading. The *la-* infinitive names the action and accepts prepositions in circumstantial phrases. Updated Morphosyntax, Morphophonology, grammar memory, and the glosses in the entry for ܫܢܐ.
+
+## 2026-11-27 — Quran page and Ṭā Hā 20:55
+- Created Quran.md alongside Tanakh and linked it from the hub and README. Drafted 20:55 with existing lexemes and a word-by-word table. Read *pihâ* directionally, kept the source’s fronted prepositional phrases, used general *paʿal* for “make,” and used the C of ܐܬܝ with *šôb* for “bring back.” Included the Hebrew and Syriac parallel in Genesis 3:19.
+
+## 2026-11-27 — Quran 20:11
+- Added the first verse of the requested 20:11–14 passage to Quran.md. The draft uses temporal *wa-mêtê*, intransitive *âtê* with *lihâ* for the fire, passive *nûdô*, and *yâ mûšâ* with a provisional name form. Included word-by-word analysis and the Exodus 3:4 parallel.
+
+## 2026-11-27 — Quran 20:12 draft
+- Added the Arabic, draft MS, word-by-word table, and Exodus 3:5 comparison. Used *anâ rabbâkâ*, *ʿalʾan antâ*, and the Dp participle *maqûddasâ* with article concord. Used provisional *ṭuwâ* for the place name and left slots for “take off,” “sandals,” and “valley.”
