@@ -508,3 +508,7 @@ Append-only. Never edit past entries.
 ## 2026-11-27 — Exodus 20:5, “jealous”
 - The user chose Q-N-ʾ after comparing same-sense attestations across branches and requested a stative verb. Added ܩ-ܢ-ܐ and ܩܢܝܐ *qa.ˈnîʾ*, G only for the current entry. The paradigm generator retains the glottal stop after stative *î*. Rendered “a jealous God” with *êlhâ lîd yaqnîʾ*, using a third-person non-past relative clause. Five translation decisions remain.
 - Recorded the user's general preference for genitive nouns and stative verbs in Morphosyntax and grammar memory.
+
+## 2026-11-27 — Sin, transgression, guilt, and debt
+- User approved the four-family split: ܚ-ܛ-ܐ general sin, ܦ-ܣ-ܥ defiant transgression, ܐ-ܫ-ܡ culpability, ܚ-ܘ-ܒ financial and moral debt. Kept ܚܛܐܐ “sin” and linked the new verb ܚܛܐ *ḥaṭâ*. Added ܦܣܥ *pasaʿ* and ܦܣܥܐ *pasʿâ*, ܐܫܝܡ *âšîm* (stative) and ܐܫܡܐ *ʾašmâ*, and ܚܘܒܐ *ḥôvâ*. Generated the three G verb paradigms and the three noun declensions. Stems beyond G were left out of the entries.
+- Used singular ܚܘܒܐ *ḥôvâ* “moral debt” for עָוֹן in Exodus 20:5, following the Peshitta. Four decisions remain.

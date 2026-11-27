@@ -194,7 +194,11 @@ def imperative(name, d, pr):
 LABEL = {'G': 'G stem', 'Gp': 'Gp stem (G passive)', 'D': 'D stem', 'Dp': 'Dp stem (D passive)',
          'C': 'C stem (causative)', 'Cp': 'Cp stem (C passive)', 'tD': 'tD stem (reflexive of D)'}
 # word -> stem -> meaning
-MEANING = {'ܩܢܝܐ': {'G': 'to be jealous, to be zealous for exclusive loyalty'},
+MEANING = {
+    'ܚܛܐ': {'G': 'to sin, to commit a moral wrong'},
+    'ܦܣܥ': {'G': 'to transgress, to rebel against an authority'},
+    'ܐܫܝܡ': {'G': 'to be guilty, to bear culpability'},
+    'ܩܢܝܐ': {'G': 'to be jealous, to be zealous for exclusive loyalty'},
            'ܪܘܛ': {'G': 'to run on foot'},
            'ܒܟܝ 2': {'G': 'to cry, to weep', 'C': 'to make someone cry'},
            'ܘܩܕ': {'G': 'to burn, to be on fire', 'C': 'to kindle, to set alight'},
@@ -636,7 +640,11 @@ MEANING = {'ܩܢܝܐ': {'G': 'to be jealous, to be zealous for exclusive loyalty
                    'D': 'to tend closely, to shepherd with care', 'Dp': 'passive of D: to be tended closely',
                    'C': 'to put out to pasture, to let graze', 'Cp': 'passive of C: to be put out to pasture',
                    'tD': 'to come under someone\'s care, to be looked after'}}
-ABSENT = {'ܩܢܝܐ': {'Gp', 'D', 'Dp', 'C', 'Cp', 'tD'},
+ABSENT = {
+    'ܚܛܐ': {'Gp', 'D', 'Dp', 'C', 'Cp', 'tD'},
+    'ܦܣܥ': {'Gp', 'D', 'Dp', 'C', 'Cp', 'tD'},
+    'ܐܫܝܡ': {'Gp', 'D', 'Dp', 'C', 'Cp', 'tD'},
+    'ܩܢܝܐ': {'Gp', 'D', 'Dp', 'C', 'Cp', 'tD'},
           'ܪܘܛ': {'Gp', 'D', 'Dp', 'C', 'Cp', 'tD'},
           'ܒܟܝ 2': {'Gp', 'D', 'Dp', 'Cp', 'tD'},
           'ܘܩܕ': {'Gp', 'D', 'Dp', 'Cp', 'tD'},

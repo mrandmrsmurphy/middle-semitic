@@ -66,7 +66,7 @@ Running list; remove items when done (history goes in `logs/log.md`). State as o
 
 
 **WHERE WE ARE: Tanakh.md, Exodus 20:5 in progress**
-- Exodus 20:1–4 are complete. For 20:5, the Q-N-ʾ stative ܩܢܝܐ fills “jealous” via *lîd yaqnîʾ*. Five decisions remain: (1) form of “visiting” (existing ܦܩܕ, finite *yapqad* or participle *mapqad-*), (2) guilt (candidate ܚܛܐܐ “sin”), (3) third/fourth (ordinals or Peshitta-style cardinals), (4) whether to coin and supply “generation,” (5) “those who hate me” (verb and suffixed participle).
+- Exodus 20:1–4 are complete. For 20:5, the Q-N-ʾ stative ܩܢܝܐ fills “jealous” via *lîd yaqnîʾ*. The noun ܚܘܒܐ *ḥôvâ* fills the moral debt slot. Four decisions remain: (1) form of “visiting” (existing ܦܩܕ, finite *yapqad* or participle *mapqad-*), (2) third/fourth (ordinals or Peshitta-style cardinals), (3) whether to coin and supply “generation,” (4) “those who hate me” (verb and suffixed participle).
 - Verbs made this session (stems are Claude's proposals, user approved the lists for ܦܩܕ and 'just G' for ܣܓܕ; the stems of ܦܥܠ and ܥܒܕ are NOT yet explicitly approved): ܦܥܠ 'do, make' (G Gp D Dp), ܥܒܕ 'serve, work, worship' (G Gp C Cp tD), ܣܓܕ 'bow down' (G), ܦܩܕ 'visit, call to account' (G Gp C D).
 - Next after 20:5: Exodus 20:6 (needs ܦܩܕ noun 'command' ܦܘܩܕܢܐ, 'love' ܪܚܡ exists, 'keep/guard', 'kindness', 'thousands' ܐܠܦܐ exists, generations), then 20:7-17; Psalm 23, Psalm 1:1, Genesis 22:2 were suggested.
 - Other pending: confirm spelling ܠܠܗܝܠܟ (li- + infinitive); ʿ-D-Y root spelling for ܥܕ; Gen 1:1, 1:3 and Shema Arabic lines unverified; Lessons.md line 84 still says the prepositions are uncoined.
