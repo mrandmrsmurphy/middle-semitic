@@ -319,6 +319,8 @@ Hebrew distinguishes taking revenge from holding a grudge. The Peshitta combines
 | כָּמוֹךָ “as yourself” | كَنَفْسِكَ | ܐܝܟ ܢܦܫܟ | [[Lexicon/ܟܟܐ\|ܟܟܐ]] *kikâ* |
 | אֲנִי יְהוָה “I am the Lord” | أَنَا الرَّبُّ | ܐܢܐ ܐܢܐ ܡܪܝܐ | [[Lexicon/ܐܢܐ\|ܐܢܐ]] *anâ* + [[Lexicon/ܐܕܘܢܝ\|ܐܕܘܢܝ]] *adônî* |
 
+See [[Hadith#Love for one's brother]] for the parallel reported by Anas ibn Mālik.
+
 ## Bemidbar
 
 ## Devarim

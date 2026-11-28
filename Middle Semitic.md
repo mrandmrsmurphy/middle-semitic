@@ -32,6 +32,7 @@
 - [[Dialogue]]
 - [[Tanakh]]
 - [[Quran]]
+- [[Hadith]]
 - [[Lessons]]
 - [[Lexicon/Words - all.base|Lexicon]]
 - [[Roots/Roots.base|Roots]]

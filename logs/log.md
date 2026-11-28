@@ -620,3 +620,6 @@ Append-only. Never edit past entries.
 
 ## 2026-11-27 — Fellow and completion of Leviticus 19:18
 - Extended ܩܪܝܒܐ *qarîbâ* substantively to “fellow” and used possessive *qarîbâkâ* in Leviticus 19:18. The verse has no lexical gaps.
+
+## 2026-11-27 — Hadith page and Leviticus 19:18 parallel
+- Created Hadith.md with the Arabic and English rendering of al-Bukhārī 13, al-Nawawī 13, and the brother-or-neighbor variant in Muslim 45a. Linked the faith section from Leviticus 19:18 and linked the page from the hub.
