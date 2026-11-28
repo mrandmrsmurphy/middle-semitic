@@ -590,3 +590,6 @@ Append-only. Never edit past entries.
 
 ## 2026-11-27 — Psalm 1:1 draft
 - Added Tehillim and Psalm 1:1 to Tanakh with a Middle Semitic draft and Hebrew, Syriac, and Arabic comparison. Used finite relative clauses, existing *ḥaṭiyânîn* for sinners, and the D participle of “mock” for scoffers. The beatitude, counsel, wicked, sit, and seat remain open.
+
+## 2026-11-27 — Blessedness in Psalm 1:1
+- Added Ṭ-W-B G “be good,” D “call good,” and C “make good.” Added borrowed ʾ-Š-R D “count fortunate” and the feminine ta-noun *taʾširatâ* “blessedness, flourishing.” Used the noun with *li-hal gabrâ* in the Psalm 1:1 beatitude.
