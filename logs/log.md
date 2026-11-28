@@ -578,3 +578,9 @@ Append-only. Never edit past entries.
 
 ## 2026-11-27 — Prayer and completion of Quran 20:14
 - User approved ܨܠܘܬܐ *ṣalôtâ* “prayer.” Added it as a feminine noun under Ṣ-L-W and used *hal ṣalôtâ* in Quran 20:14. The verse has no lexical blanks.
+
+## 2026-11-27 — Quran 21:105 draft
+- Added Al-Anbiyāʾ 21:105 with a word-by-word MS draft and the Hebrew and Syriac Psalm 37:29 parallel. Used provisional *zabûr* for the Psalms, recorded al-Ṭabarī’s alternative readings, and used a finite relative with *barîr* for “righteous.” “Inherit” and the scriptural use of *al-ḏikr* remain open.
+
+## 2026-11-27 — The Reminder in Quran 21:105
+- Used existing ܬܙܟܪܬܐ *tazkiratâ* in its “reminder” sense for *al-ḏikr*. The wording leaves the scriptural referent open. “Inherit” remains the lexical gap.

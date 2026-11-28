@@ -124,3 +124,35 @@ The feminine suffix refers to the earth (*arṣâ*), named in [20:53](https://qu
 | تَارَةً أُخْرَىٰ *tāratan uḫrā* | once more | [[Lexicon/ܫܘܒ 2\|ܫܘܒ]] *šôb* |
 
 Genesis 3:19 also speaks of returning to the ground. The Hebrew has שׁוּב “return,” the cognate of the MS verb *šôb*. The Syriac uses ܗܦܟ “return” and refers to the earth with ܡܢܗ̇ “from it,” corresponding to Quranic *minhā* and MS *minhâ*. [Hebrew Genesis 3:19](https://www.sefaria.org/Genesis.3.19) · [Syriac Genesis 3:19](https://www.peshitta.eu/ot/genesis/3.html)
+
+## Al-Anbiyāʾ
+
+### Quran 21:105
+
+وَلَقَدْ كَتَبْنَا فِي الزَّبُورِ مِنْ بَعْدِ الذِّكْرِ أَنَّ الْأَرْضَ يَرِثُهَا عِبَادِيَ الصَّالِحُونَ
+
+*And indeed we wrote in the Psalms, after the Reminder, that my righteous servants will inherit the land.* [Arabic text](https://quran.com/al-anbiya/105) · [Word-by-word analysis](https://corpus.quran.com/wordbyword.jsp?chapter=21&verse=105#%2821%3A105%3A1%29)
+
+**Middle Semitic draft**
+
+ܘܟܬܒܢܐ ܦܙܒܘܪ ܒܥܕ ܗܠ ܬܙܟܪܬܐ، ܐܢ ܥܒܕܝܢܢܝ ܠܝܕ ܝܒܪܝܪܘܢ ___ ܗܠ ܐܪܨܐ
+
+*wa-katabnâ pi-zabûr baʿad hal tazkiratâ, an ʿabdînnî lîd yabrîrûn ___ hal arṣâ*
+
+The draft uses *zabûr* provisionally as the title of David’s Psalms, the reading supported by the parallel below and the association with David in Quran 4:163. Al-Ṭabarī also records this reading with *al-ḏikr* as the Torah. His preferred interpretation takes *al-zabūr* as revealed books and *al-ḏikr* as the heavenly record. *Hal tazkiratâ* “the Reminder” uses the ordinary Z-K-R noun for a reminder or memorial as the designation of a text, leaving its referent open. [Quran 4:163](https://quran.com/4/163) · [Al-Ṭabarī on 21:105](https://quran.com/fa/al-anbya/105/tafsirs/ar-tafsir-al-tabari)
+
+The Arabic puts “the land” before the verb and resumes it with feminine *-hā*. The MS draft uses ordinary subject–verb–object order. The plural stative in *lîd yabrîrûn* gives “who are righteous” and modifies “my servants.” *Arṣâ* can mean “land” or “earth,” as can Arabic *arḍ* and Hebrew *ʾereṣ* here.
+
+| Arabic | Meaning in the verse | Middle Semitic |
+| --- | --- | --- |
+| وَلَقَدْ *wa-laqad* | and indeed | [[Lexicon/ܘ\|ܘ]] *wa-*; emphasis left implicit in the draft |
+| كَتَبْنَا *katabnā* | we wrote | [[Lexicon/ܟܬܒ\|ܟܬܒ]] G past 1pl *katabnâ* |
+| فِي الزَّبُورِ *fī l-zabūri* | in the Psalms | [[Lexicon/ܦ\|ܦ]] *pi-* + provisional *zabûr* |
+| مِنْ بَعْدِ الذِّكْرِ *min baʿdi l-ḏikri* | after the Reminder | [[Lexicon/ܒܥܕ\|ܒܥܕ]] *baʿad* + *hal* + [[Lexicon/ܬܙܟܪܬܐ\|ܬܙܟܪܬܐ]] *tazkiratâ* |
+| أَنَّ *anna* | that | [[Lexicon/ܐܢ\|ܐܢ]] *an* |
+| الْأَرْضَ *al-arḍa* | the land | *hal* + [[Lexicon/ܐܪܨܐ\|ܐܪܨܐ]] *arṣâ* |
+| يَرِثُهَا *yariṯuhā* | will inherit it | ___ (non-past 3pl, with *hal arṣâ* as the direct object) |
+| عِبَادِيَ *ʿibādiya* | my servants | [[Lexicon/ܥܒܕܐ\|ܥܒܕܐ]] plural *ʿabdîn* + [[Lexicon/-ܢܝ\|-ܢܝ]] *-nî* |
+| الصَّالِحُونَ *al-ṣāliḥūna* | righteous | [[Lexicon/ܠܝܕ\|ܠܝܕ]] *lîd* + [[Lexicon/ܒܪܝܪ\|ܒܪܝܪ]] G non-past 3pl *yabrîrûn* |
+
+**Psalm 37:29** has צַדִּיקִים יִירְשׁוּ־אָרֶץ, “The righteous will inherit the land.” The Peshitta likewise has ܙܕܝ̈ܩܐ ܝܪܬܝܢ ܐܪܥܐ. Hebrew *y-r-š*, Syriac *y-r-t*, and Arabic *w-r-ṯ* are corresponding forms of the “inherit” family. The psalm continues with dwelling on the land forever. The Quran identifies the inheritors as “my righteous servants.” [Hebrew Psalm 37:29](https://www.sefaria.org/Psalms.37.29) · [Syriac Psalm 37:29](https://www.peshitta.eu/ot/psalms/37.html)
