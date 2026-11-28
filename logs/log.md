@@ -602,3 +602,6 @@ Append-only. Never edit past entries.
 
 ## 2026-11-27 — Counsel and completion of Psalm 1:1
 - User chose W-ʿ-Ṭ. Added ܥܝܛܐ *ʿêṭâ* “advice, counsel” and its root page. Psalm 1:1 now uses *pi-hal ʿêṭâ dal hal maʿôlîn* and has no lexical gaps.
+
+## 2026-11-27 — Leviticus 19:18 draft
+- Added Leviticus 19:18 under Vayikra with Hebrew, an MS draft, and Arabic and Syriac parallels. Preserved both Hebrew prohibitions and used *kikâ* and *anâ adônî*. Revenge, holding a grudge, people, love, and fellow remain open.
