@@ -14,7 +14,7 @@ Anas ibn Mālik reports that the Prophet Muḥammad said:
 
 *None of you believes until he loves for his brother what he loves for himself.*
 
-**Middle Semitic draft**
+**Middle Semitic**
 
 ܠܐ ܝܫ ܘܚܕ ܡܢܟܘܡ ܠܝܕ ܝܫܐܡܢ ܥܕ ܐܢ ܝܚܒܒ ܠܐܚܗܘ ܠܝܕ ܝܚܒܒ ܠܢܦܣܐܗܘ.
 
@@ -22,13 +22,13 @@ Anas ibn Mālik reports that the Prophet Muḥammad said:
 
 | Arabic | Meaning | Middle Semitic |
 | --- | --- | --- |
-| لَا يُؤْمِنُ أَحَدُكُمْ | none of you believes | *lâ* + [[Lexicon/ܝܫ\|ܝܫ]] *yiš* + [[Lexicon/ܘܚܕ\|ܘܚܕ]] *waḥad* + [[Lexicon/ܡܢܟܘܡ\|ܡܢܟܘܡ]] *minkûm* + *lîd yašâman* |
+| لَا يُؤْمِنُ أَحَدُكُمْ | none of you believes | *lâ* + [[Lexicon/ܝܫ\|ܝܫ]] *yiš* + [[Lexicon/ܘܚܕ\|ܘܚܕ]] *waḥad* + [[Lexicon/ܡܢܟܘܡ\|ܡܢܟܘܡ]] *minkûm* + *lîd* + [[Lexicon/ܫܐܡܢ\|ܫܐܡܢ]] C non-past 3m *yašâman* |
 | حَتَّى يُحِبَّ لِأَخِيهِ | until he loves for his brother | *ʿad an* + [[Lexicon/ܚܒܒ\|ܚܒܒ]] G non-past 3m *yaḥbab* + *li-* + [[Lexicon/ܐܚܐ\|ܐܚܐ]] suffixed *aḥhû* |
 | مَا يُحِبُّ لِنَفْسِهِ | what he loves for himself | [[Lexicon/ܠܝܕ\|ܠܝܕ]] *lîd* + *yaḥbab* + *li-* + [[Lexicon/ܢܦܣܐ\|ܢܦܣܐ]] suffixed *napsâhû* |
 
-The draft uses the negated existential *lâ yiš waḥad minkûm lîd yašâman* “there is no one among you who believes”. Both instances of *yaḥbab* use the ordinary non-past. The first takes *li-aḥhû* “for his brother” as beneficiary and the headless relative *lîd yaḥbab li-napsâhû* as its direct object. The second takes *li-napsâhû* “for himself” as beneficiary, with *-hû* on *napsâ* referring back to the subject.
+The rendering uses the negated existential *lâ yiš waḥad minkûm lîd yašâman* “there is no one among you who believes”. Both instances of *yaḥbab* use the ordinary non-past. The first takes *li-aḥhû* “for his brother” as beneficiary and the headless relative *lîd yaḥbab li-napsâhû* as its direct object. The second takes *li-napsâhû* “for himself” as beneficiary, with *-hû* on *napsâ* referring back to the subject.
 
-Two forms are provisional. *Yašâman* is the proposed C non-past of ʾ-M-N “believe,” modeled on the Arabic causative verb. *ʿAd an* combines MS *ʿad* “until” with *an* to introduce a finite clause.
+The finite clause introduced by *ʿad an* “until” sets a prerequisite for belief. Here it can also be translated “unless he loves …”. See [[Morphosyntax#Subordinate clauses]].
 
 This is the wording of [Ṣaḥīḥ al-Bukhārī 13](https://sunnah.com/bukhari:13), also quoted in [al-Nawawī’s Forty Hadith, no. 13](https://sunnah.com/nawawi40:13). [Ṣaḥīḥ Muslim 45a](https://sunnah.com/muslim:45a) records the variant لِأَخِيهِ أَوْ قَالَ لِجَارِهِ, “for his brother, or he said, for his neighbor.”
 

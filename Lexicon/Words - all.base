@@ -17,6 +17,8 @@ views:
       - ugaritic
       - latin
     sort:
+      - property: gloss
+        direction: ASC
       - property: file.name
         direction: ASC
       - property: pos

@@ -2,9 +2,8 @@ The Qur'an retells many of these stories, so the vocabulary overlaps. These are 
 
 2. Genesis 22:2, the binding of the beloved son. Muslims know the story of Ibrahim's sacrifice (Qur'an 37:102–107), though the Qur'an doesn't name the son.
 3. Exodus 20:2–17, the Ten Commandments, at least verses 3, 13, 14 and 15 ("you shall not murder, commit adultery, steal"). Musa's tablets are familiar, and the commandments are short.
-6. Genesis 3:19, "dust you are, and to dust you shall return". It parallels Qur'an 20:55.
-7. Leviticus 19:18, "love your neighbor as yourself". The Prophet's hadith "none of you believes until he loves for his brother what he loves for himself" runs close to it.
-8. Exodus 3:14, ehyeh asher ehyeh, the name at the burning bush. Qur'an 20:11–14 has a parallel scene, "Indeed I am your Lord".
+4. Genesis 3:19, "dust you are, and to dust you shall return". It parallels Qur'an 20:55.
+5. Exodus 3:14, ehyeh asher ehyeh, the name at the burning bush. Qur'an 20:11–14 has a parallel scene, "Indeed I am your Lord".
 
 Two Torah verses that are less famous but Qur'an-adjacent:
 - Genesis 2:7, man formed from dust. It's the Qur'anic ṭīn.

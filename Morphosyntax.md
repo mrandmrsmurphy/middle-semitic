@@ -70,6 +70,7 @@ The function of a subordinate clause determines how it is introduced.
 - [[Lexicon/ܐܢ|ܐܢ]] (*an*) is the complementizer 'that'. It introduces the complement of a verb and stands for no noun: *He said that she is coming.*
 
 - An adverbial subordinate clause uses a marker appropriate to its relation to the main clause. For example, *ʿalʾan* “because” introduces a reason. A reason clause can itself contain a relative clause modifying one of its nouns.
+- **ܥܕ ܐܢ (*ʿad an*)** introduces a finite adverbial clause meaning “until” or “until such time as.” The subordinate verb takes its ordinary finite form. The clause sets the endpoint of the main clause. With a negated main clause, that endpoint can be a prerequisite and translate as “unless.” In [[Hadith#Love for one's brother]], *lâ yiš waḥad minkûm lîd yašâman ʿad an yaḥbab …* means “none of you believes unless he loves …”.
 
 Participles can modify a noun or serve as a predicate. With *hal* and no expressed noun head, a participle names the participant or participants. The G participle of [[Lexicon/ܫܢܐ]] takes masculine plural *-în* and then object suffix *-nî* in *li-hal mašnaʾînnî* “of those who hate me.” See [[Morphophonology#Participles as nouns]] for the noun endings and suffix order. A finite relative describes a noun already expressed in the sentence.
 

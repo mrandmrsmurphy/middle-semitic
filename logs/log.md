@@ -629,3 +629,9 @@ Append-only. Never edit past entries.
 
 ## 2026-11-27 — Reflexive self in al-Bukhārī 13
 - Extended existing ܢܦܣܐ *napsâ* to reflexive “self” with a pronominal suffix and used *li-napsâhû* “for himself” in Hadith.md. Corrected the swapped Arabic and Aramaic cognate fields in the entry.
+
+## 2026-11-27 — Belief and accepting as true
+- Added ʾ-M-N C *šâman* “believe, trust, have faith in” and Ṣ-D-Q D *ṣîddaq* “accept as true, just, or right,” with root pages and paradigms. Linked the established 3m non-past *yašâman* in al-Bukhārī 13. The finite “until” construction remains provisional.
+
+## 2026-11-27 — Finite until clauses
+- Adopted *ʿad an* plus a finite clause for “until,” including the prerequisite reading “unless” under negation. Documented the construction in Morphosyntax and the *ʿad* entry and finalized its use in al-Bukhārī 13.
