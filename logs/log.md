@@ -593,3 +593,9 @@ Append-only. Never edit past entries.
 
 ## 2026-11-27 — Blessedness in Psalm 1:1
 - Added Ṭ-W-B G “be good,” D “call good,” and C “make good.” Added borrowed ʾ-Š-R D “count fortunate” and the feminine ta-noun *taʾširatâ* “blessedness, flourishing.” Used the noun with *li-hal gabrâ* in the Psalm 1:1 beatitude.
+
+## 2026-11-27 — Sit and seat in Psalm 1:1
+- Added W-Š-B with ܘܫܒ *wašav* “sit” and ܡܘܫܒܐ *môšavâ* “seat, sitting place.” Used both in Psalm 1:1. “Counsel” and “the wicked” remain open.
+
+## 2026-11-27 — The unjust in Psalm 1:1
+- User identified the Hebrew–Aramaic–Arabic correspondence for ʿ-W-L. Added hollow G ܥܘܠ *ʿôl* “be unjust, act wrongfully” and used definite plural *hal maʿôlîn* for “the wicked.” “Counsel” remains open.
