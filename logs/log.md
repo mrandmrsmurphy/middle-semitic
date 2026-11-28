@@ -614,3 +614,9 @@ Append-only. Never edit past entries.
 
 ## 2026-11-27 — Revenge in Leviticus 19:18
 - User chose N-Q-M. Added ܢܩܡ *naqam* “avenge, take revenge,” with a direct object for what is avenged and *ʿal* for the target. Used *lâ tanqam* in Leviticus 19:18. Holding a grudge and fellow remain open.
+
+## 2026-11-27 — Bearing a grudge in Leviticus 19:18
+- User chose Arabic Ḥ-Q-D. Added intransitive ܚܩܕ *ḥaqad* “bear a grudge, harbor resentment” with target *ʿal* and used *wa-lâ taḥqad* in the verse. “Fellow” remains open.
+
+## 2026-11-27 — Fellow and completion of Leviticus 19:18
+- Extended ܩܪܝܒܐ *qarîbâ* substantively to “fellow” and used possessive *qarîbâkâ* in Leviticus 19:18. The verse has no lexical gaps.
