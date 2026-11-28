@@ -626,3 +626,6 @@ Append-only. Never edit past entries.
 
 ## 2026-11-27 — Middle Semitic draft of al-Bukhārī 13
 - Added Syriac script, romanization, and word-by-word analysis to Hadith.md. Kept the two beneficiary phrases and used a headless relative. Marked the verb for believing, finite until clause, and self noun as provisional.
+
+## 2026-11-27 — Reflexive self in al-Bukhārī 13
+- Extended existing ܢܦܣܐ *napsâ* to reflexive “self” with a pronominal suffix and used *li-napsâhû* “for himself” in Hadith.md. Corrected the swapped Arabic and Aramaic cognate fields in the entry.
