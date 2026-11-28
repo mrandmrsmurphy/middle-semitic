@@ -584,3 +584,6 @@ Append-only. Never edit past entries.
 
 ## 2026-11-27 — The Reminder in Quran 21:105
 - Used existing ܬܙܟܪܬܐ *tazkiratâ* in its “reminder” sense for *al-ḏikr*. The wording leaves the scriptural referent open. “Inherit” remains the lexical gap.
+
+## 2026-11-27 — Inherit in Quran 21:105
+- User chose W-R-Š. Added I-waw ܘܪܫ *waraš* “inherit” and its root page. Quran 21:105 uses plural non-past *yôrašûn*. The verse has no lexical blanks, and *zabûr* remains provisional.

@@ -135,9 +135,9 @@ Genesis 3:19 also speaks of returning to the ground. The Hebrew has שׁוּב �
 
 **Middle Semitic draft**
 
-ܘܟܬܒܢܐ ܦܙܒܘܪ ܒܥܕ ܗܠ ܬܙܟܪܬܐ، ܐܢ ܥܒܕܝܢܢܝ ܠܝܕ ܝܒܪܝܪܘܢ ___ ܗܠ ܐܪܨܐ
+ܘܟܬܒܢܐ ܦܙܒܘܪ ܒܥܕ ܗܠ ܬܙܟܪܬܐ، ܐܢ ܥܒܕܝܢܢܝ ܠܝܕ ܝܒܪܝܪܘܢ ܝܘܪܫܘܢ ܗܠ ܐܪܨܐ
 
-*wa-katabnâ pi-zabûr baʿad hal tazkiratâ, an ʿabdînnî lîd yabrîrûn ___ hal arṣâ*
+*wa-katabnâ pi-zabûr baʿad hal tazkiratâ, an ʿabdînnî lîd yabrîrûn yôrašûn hal arṣâ*
 
 The draft uses *zabûr* provisionally as the title of David’s Psalms, the reading supported by the parallel below and the association with David in Quran 4:163. Al-Ṭabarī also records this reading with *al-ḏikr* as the Torah. His preferred interpretation takes *al-zabūr* as revealed books and *al-ḏikr* as the heavenly record. *Hal tazkiratâ* “the Reminder” uses the ordinary Z-K-R noun for a reminder or memorial as the designation of a text, leaving its referent open. [Quran 4:163](https://quran.com/4/163) · [Al-Ṭabarī on 21:105](https://quran.com/fa/al-anbya/105/tafsirs/ar-tafsir-al-tabari)
 
@@ -151,7 +151,7 @@ The Arabic puts “the land” before the verb and resumes it with feminine *-h�
 | مِنْ بَعْدِ الذِّكْرِ *min baʿdi l-ḏikri* | after the Reminder | [[Lexicon/ܒܥܕ\|ܒܥܕ]] *baʿad* + *hal* + [[Lexicon/ܬܙܟܪܬܐ\|ܬܙܟܪܬܐ]] *tazkiratâ* |
 | أَنَّ *anna* | that | [[Lexicon/ܐܢ\|ܐܢ]] *an* |
 | الْأَرْضَ *al-arḍa* | the land | *hal* + [[Lexicon/ܐܪܨܐ\|ܐܪܨܐ]] *arṣâ* |
-| يَرِثُهَا *yariṯuhā* | will inherit it | ___ (non-past 3pl, with *hal arṣâ* as the direct object) |
+| يَرِثُهَا *yariṯuhā* | will inherit it | [[Lexicon/ܘܪܫ\|ܘܪܫ]] G non-past 3pl *yôrašûn*, with *hal arṣâ* as the direct object |
 | عِبَادِيَ *ʿibādiya* | my servants | [[Lexicon/ܥܒܕܐ\|ܥܒܕܐ]] plural *ʿabdîn* + [[Lexicon/-ܢܝ\|-ܢܝ]] *-nî* |
 | الصَّالِحُونَ *al-ṣāliḥūna* | righteous | [[Lexicon/ܠܝܕ\|ܠܝܕ]] *lîd* + [[Lexicon/ܒܪܝܪ\|ܒܪܝܪ]] G non-past 3pl *yabrîrûn* |
 
