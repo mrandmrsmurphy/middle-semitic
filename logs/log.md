@@ -587,3 +587,6 @@ Append-only. Never edit past entries.
 
 ## 2026-11-27 — Inherit in Quran 21:105
 - User chose W-R-Š. Added I-waw ܘܪܫ *waraš* “inherit” and its root page. Quran 21:105 uses plural non-past *yôrašûn*. The verse has no lexical blanks, and *zabûr* remains provisional.
+
+## 2026-11-27 — Psalm 1:1 draft
+- Added Tehillim and Psalm 1:1 to Tanakh with a Middle Semitic draft and Hebrew, Syriac, and Arabic comparison. Used finite relative clauses, existing *ḥaṭiyânîn* for sinners, and the D participle of “mock” for scoffers. The beatitude, counsel, wicked, sit, and seat remain open.

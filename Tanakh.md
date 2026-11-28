@@ -2,7 +2,7 @@
 
 > Parent: [[Middle Semitic]]
 
-The Hebrew Bible (Tanakh), word by word, so far the Torah (the Five Books of Moses), with the Hebrew, an Arabic cognate, the Aramaic (Syriac) and the Middle Semitic parallel. A `?` marks a Middle Semitic word that has no lexicon entry yet. Aramaic readings are from the Syriac Peshitta ([peshitta.eu](https://www.peshitta.eu/ot/genesis/1.html), [ETCBC](https://github.com/ETCBC/peshitta/blob/master/plain/0.1/Genesis.txt)).
+The Hebrew Bible (Tanakh), word by word, with Hebrew, Arabic, Syriac, and Middle Semitic parallels. A `?` marks a Middle Semitic word that has no lexicon entry yet. Aramaic readings are from the Syriac Peshitta ([peshitta.eu](https://www.peshitta.eu/ot/genesis/1.html), [ETCBC](https://github.com/ETCBC/peshitta/blob/master/plain/0.1/Genesis.txt)).
 
 ## Bereshit
 
@@ -328,3 +328,41 @@ The Hebrew and Arabic have no copula, and the Syriac puts the pronoun ܗܘ at th
 | (copula) | — | ܗܘ | [[Lexicon/ܗܘܐ\|ܗܘܐ]] *huwâ* |
 | אֱלֹהֵינוּ 'our God' | إِلٰهُنَا | ܐܠܗܢ | [[Lexicon/ܐܝܠܗܐ\|ܐܝܠܗܐ]] + [[Lexicon/-ܢܘ\|-ܢܘ]] *êlahnû* |
 | אֶחָד 'one' | وَاحِد | ܚܕ | [[Lexicon/ܘܚܕ\|ܘܚܕ]] *waḥad* |
+
+## Tehillim
+
+### Psalm 1:1
+
+אַשְׁרֵי־הָאִישׁ אֲשֶׁר לֹא הָלַךְ בַּעֲצַת רְשָׁעִים וּבְדֶרֶךְ חַטָּאִים לֹא עָמָד וּבְמוֹשַׁב לֵצִים לֹא יָשָׁב׃
+
+*Happy is the man who has not walked in the counsel of the wicked, stood in the path of sinners, or sat in the seat of scoffers.* [Hebrew](https://www.sefaria.org/Psalms.1.1) · [Syriac](https://www.peshitta.eu/ot/psalms/1.html) · [Arabic, Smith–Van Dyke](https://biblia.com/bible/ar-vandyke/psalm/1)
+
+**Middle Semitic draft**
+
+? ܗܠ ܓܒܪܐ ܠܝܕ ܠܐ ܗܝܠܟ ܦܗܠ ? ܕܠ ܗܠ ?
+
+ܘܠܝܕ ܠܐ ܩܘܡ ܦܗܠ ܬܪܟܐ ܕܠ ܗܠ ܚܛܝܐܢܝܢ،
+
+ܘܠܝܕ ܠܐ ? ܦܗܠ ? ܕܠ ܗܠ ܡܨܝܚܐܟܝܢ
+
+*? hal gabrâ lîd lâ hîllak pi-hal ? dal hal ?,
+
+wa-lîd lâ qôm pi-hal tarkâ dal hal ḥaṭiyânîn,
+
+wa-lîd lâ ? pi-hal ? dal hal maṣîḥâkîn*
+
+Hebrew introduces the three finite past clauses with a single *ʾăšer*. MS repeats the relative marker as *wa-lîd* for the second and third clauses and uses verb-first order within each relative, followed by the prepositional phrase. The draft uses D *hîllak* “walk” and G *qôm* “stand.” *Hal ḥaṭiyânîn* uses the existing plural substantive “sinners.” *Hal maṣîḥâkîn* uses the definite masculine plural of the D participle “those who mock.” The open slots are the opening beatitude, “counsel,” “the wicked,” “sit,” and “seat.”
+
+| Hebrew | Arabic | Syriac | Middle Semitic |
+| --- | --- | --- | --- |
+| אַשְׁרֵי “happy is” | طُوبَى | ܛܘܒܘܗܝ | ? (beatitude) |
+| הָאִישׁ “the man” | لِلرَّجُلِ | ܠܓܒܪܐ | *hal* + [[Lexicon/ܓܒܪܐ\|ܓܒܪܐ]] *gabrâ* |
+| אֲשֶׁר “who” | الَّذِي | ܕ | [[Lexicon/ܠܝܕ\|ܠܝܕ]] *lîd*, with *wa-lîd* for the next two clauses |
+| לֹא הָלַךְ “did not walk” | لَمْ يَسْلُكْ | ܠܐ ܗܠܟ | *lâ* + [[Lexicon/ܗܠܟ\|ܗܠܟ]] D past 3m *hîllak* |
+| בַּעֲצַת רְשָׁעִים “in the counsel of the wicked” | فِي مَشُورَةِ الأَشْرَارِ | ܒܐܘܪܚܐ ܕܥܘܠܐ | *pi-hal ? dal hal ?* |
+| וּבְדֶרֶךְ חַטָּאִים “and in the path of sinners” | وَفِي طَرِيقِ الْخُطَاةِ | ܘܒܪܥܝܢܐ ܕܚܛܝܐ | *pi-hal* + [[Lexicon/ܬܪܟܐ\|ܬܪܟܐ]] *tarkâ* + *dal hal* + [[Lexicon/ܚܛܝܐܢܐ\|ܚܛܝܐܢܐ]] plural *ḥaṭiyânîn* |
+| לֹא עָמָד “did not stand” | لَمْ يَقِفْ | ܠܐ ܩܡ | *lâ* + [[Lexicon/ܩܘܡ\|ܩܘܡ]] G past 3m *qôm* |
+| וּבְמוֹשַׁב לֵצִים “and in the seat of scoffers” | وَفِي مَجْلِسِ الْمُسْتَهْزِئِينَ | ܘܥܠ ܡܘܬܒܐ ܕܡܡܝܩܢܐ | *pi-hal ? dal hal* + [[Lexicon/ܨܚܟ\|ܨܚܟ]] D participle plural *maṣîḥâkîn* |
+| לֹא יָשָׁב “did not sit” | لَمْ يَجْلِسْ | ܠܐ ܝܬܒ | *lâ ?* |
+
+The Peshitta has “way of the unjust” in the first clause and “mindset of sinners” in the second, where Hebrew has “counsel” and then “path.” Its third clause begins verse 2 in the linked edition. Hebrew *môšāb*, Syriac *mawtbā*, and Arabic *majlis* all pair a noun for a seat or sitting place with a verb of sitting. [Syriac Psalm 1:1–2](https://www.peshitta.eu/ot/psalms/1.html)

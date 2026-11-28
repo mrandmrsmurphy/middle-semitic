@@ -19,7 +19,7 @@ Prophets and Writings, if you want to go past the Torah:
 - Psalm 1:1, the blessed man. It has an easy sentence structure.
 
 My suggestion: do Genesis 1:3, Exodus 20:13–15 and Psalm 23 first.
-- Genesis 1:3 and Exodus 20:13–15 are very short, and the commandments exercise the negative imperative (lo plus the verb).
+- Exodus 20:13–15 are very short, and the commandments exercise the negative imperative (lo plus the verb).
 - Psalm 23 is the most widely recognized text across all three faiths, and it tests the poetic register.
 - For the vocabulary stress test: add Psalm 1:1 and Genesis 22:2 to see how many gaps MS has left.
 
