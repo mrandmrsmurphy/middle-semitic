@@ -599,3 +599,6 @@ Append-only. Never edit past entries.
 
 ## 2026-11-27 — The unjust in Psalm 1:1
 - User identified the Hebrew–Aramaic–Arabic correspondence for ʿ-W-L. Added hollow G ܥܘܠ *ʿôl* “be unjust, act wrongfully” and used definite plural *hal maʿôlîn* for “the wicked.” “Counsel” remains open.
+
+## 2026-11-27 — Counsel and completion of Psalm 1:1
+- User chose W-ʿ-Ṭ. Added ܥܝܛܐ *ʿêṭâ* “advice, counsel” and its root page. Psalm 1:1 now uses *pi-hal ʿêṭâ dal hal maʿôlîn* and has no lexical gaps.

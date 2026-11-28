@@ -337,21 +337,21 @@ The Hebrew and Arabic have no copula, and the Syriac puts the pronoun ܗܘ at th
 
 *Blessed is the man who has not walked in the counsel of the wicked, stood in the path of sinners, or sat in the seat of scoffers.* [Hebrew](https://www.sefaria.org/Psalms.1.1) · [Syriac](https://www.peshitta.eu/ot/psalms/1.html) · [Arabic, Smith–Van Dyke](https://biblia.com/bible/ar-vandyke/psalm/1)
 
-**Middle Semitic draft**
+**Middle Semitic**
 
-ܬܐܫܪܬܐ ܠܗܠ ܓܒܪܐ ܠܝܕ ܠܐ ܗܝܠܟ ܦܗܠ ? ܕܠ ܗܠ ܡܥܘܠܝܢ
+ܬܐܫܪܬܐ ܠܗܠ ܓܒܪܐ ܠܝܕ ܠܐ ܗܝܠܟ ܦܗܠ ܥܝܛܐ ܕܠ ܗܠ ܡܥܘܠܝܢ
 
 ܘܠܝܕ ܠܐ ܩܘܡ ܦܗܠ ܬܪܟܐ ܕܠ ܗܠ ܚܛܝܐܢܝܢ،
 
 ܘܠܝܕ ܠܐ ܘܫܒ ܦܗܠ ܡܘܫܒܐ ܕܠ ܗܠ ܡܨܝܚܐܟܝܢ
 
-*taʾširatâ li-hal gabrâ lîd lâ hîllak pi-hal ? dal hal maʿôlîn,
+*taʾširatâ li-hal gabrâ lîd lâ hîllak pi-hal ʿêṭâ dal hal maʿôlîn,
 
 wa-lîd lâ qôm pi-hal tarkâ dal hal ḥaṭiyânîn,
 
 wa-lîd lâ wašav pi-hal môšavâ dal hal maṣîḥâkîn*
 
-Hebrew introduces the three finite past clauses with a single *ʾăšer*. MS repeats the relative marker as *wa-lîd* for the second and third clauses and uses verb-first order within each relative, followed by the prepositional phrase. The draft uses D *hîllak* “walk” and G *qôm* “stand.” *Hal ḥaṭiyânîn* uses the existing plural substantive “sinners.” *Hal maṣîḥâkîn* uses the definite masculine plural of the D participle “those who mock.” The nominal beatitude *taʾširatâ li-hal gabrâ* means “blessedness to the man.” The last clause pairs *wašav* “sit” and *môšavâ* “seat” from the same root. *Hal maʿôlîn* is the definite masculine plural participle of “be unjust, act wrongfully” and renders “the wicked.” “Counsel” remains open.
+Hebrew introduces the three finite past clauses with a single *ʾăšer*. MS repeats the relative marker as *wa-lîd* for the second and third clauses and uses verb-first order within each relative, followed by the prepositional phrase. The verse uses D *hîllak* “walk” and G *qôm* “stand.” *Hal ḥaṭiyânîn* uses the existing plural substantive “sinners.” *Hal maṣîḥâkîn* uses the definite masculine plural of the D participle “those who mock.” The nominal beatitude *taʾširatâ li-hal gabrâ* means “blessedness to the man.” The last clause pairs *wašav* “sit” and *môšavâ* “seat” from the same root. *Hal maʿôlîn* is the definite masculine plural participle of “be unjust, act wrongfully” and renders “the wicked.” *ʿÊṭâ* means “advice, counsel,” as in the Hebrew.
 
 | Hebrew | Arabic | Syriac | Middle Semitic |
 | --- | --- | --- | --- |
@@ -359,7 +359,7 @@ Hebrew introduces the three finite past clauses with a single *ʾăšer*. MS rep
 | הָאִישׁ “the man” | لِلرَّجُلِ | ܠܓܒܪܐ | *li-hal* + [[Lexicon/ܓܒܪܐ\|ܓܒܪܐ]] *gabrâ* |
 | אֲשֶׁר “who” | الَّذِي | ܕ | [[Lexicon/ܠܝܕ\|ܠܝܕ]] *lîd*, with *wa-lîd* for the next two clauses |
 | לֹא הָלַךְ “did not walk” | لَمْ يَسْلُكْ | ܠܐ ܗܠܟ | *lâ* + [[Lexicon/ܗܠܟ\|ܗܠܟ]] D past 3m *hîllak* |
-| בַּעֲצַת רְשָׁעִים “in the counsel of the wicked” | فِي مَشُورَةِ الأَشْرَارِ | ܒܐܘܪܚܐ ܕܥܘܠܐ | *pi-hal ? dal hal* + [[Lexicon/ܥܘܠ\|ܥܘܠ]] G participle plural *maʿôlîn* |
+| בַּעֲצַת רְשָׁעִים “in the counsel of the wicked” | فِي مَشُورَةِ الأَشْرَارِ | ܒܐܘܪܚܐ ܕܥܘܠܐ | *pi-hal* + [[Lexicon/ܥܝܛܐ\|ܥܝܛܐ]] *ʿêṭâ* + *dal hal* + [[Lexicon/ܥܘܠ\|ܥܘܠ]] G participle plural *maʿôlîn* |
 | וּבְדֶרֶךְ חַטָּאִים “and in the path of sinners” | وَفِي طَرِيقِ الْخُطَاةِ | ܘܒܪܥܝܢܐ ܕܚܛܝܐ | *pi-hal* + [[Lexicon/ܬܪܟܐ\|ܬܪܟܐ]] *tarkâ* + *dal hal* + [[Lexicon/ܚܛܝܐܢܐ\|ܚܛܝܐܢܐ]] plural *ḥaṭiyânîn* |
 | לֹא עָמָד “did not stand” | لَمْ يَقِفْ | ܠܐ ܩܡ | *lâ* + [[Lexicon/ܩܘܡ\|ܩܘܡ]] G past 3m *qôm* |
 | וּבְמוֹשַׁב לֵצִים “and in the seat of scoffers” | وَفِي مَجْلِسِ الْمُسْتَهْزِئِينَ | ܘܥܠ ܡܘܬܒܐ ܕܡܡܝܩܢܐ | *pi-hal* + [[Lexicon/ܡܘܫܒܐ\|ܡܘܫܒܐ]] *môšavâ* + *dal hal* + [[Lexicon/ܨܚܟ\|ܨܚܟ]] D participle plural *maṣîḥâkîn* |
