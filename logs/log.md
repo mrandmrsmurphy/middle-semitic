@@ -608,3 +608,9 @@ Append-only. Never edit past entries.
 
 ## 2026-11-27 — Love in Leviticus 19:18
 - User chose Ḥ-B-B and distinguished it from R-Ḥ-M “have compassion.” Added ܚܒܒ *ḥabab* with the regular MS geminate paradigm and used imperative *ḥəbab* with a direct object in Leviticus 19:18. Revenge, grudge, people, and fellow remain open.
+
+## 2026-11-27 — People in Leviticus 19:18
+- User chose ʾ-M-M with initial *u* for “nation, people, ethnos.” Added feminine ܐܡܬܐ *ʾummatâ* and used *bênîn dal ʾummatâkâ* in the verse. Revenge, holding a grudge, and fellow remain open.
+
+## 2026-11-27 — Revenge in Leviticus 19:18
+- User chose N-Q-M. Added ܢܩܡ *naqam* “avenge, take revenge,” with a direct object for what is avenged and *ʿal* for the target. Used *lâ tanqam* in Leviticus 19:18. Holding a grudge and fellow remain open.

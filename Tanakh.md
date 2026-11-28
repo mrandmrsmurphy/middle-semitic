@@ -303,17 +303,17 @@ Every word is an existing MS entry. "Make" is ܦܥܠ *paʿal* (Hebrew עָשָׂ
 
 **Middle Semitic draft**
 
-ܠܐ ? ܘܠܐ ? ܥܠ ܒܝܢܝܢ ܕܠ ?ܟܐ، ܘܚܒܒ ?ܟܐ ܟܟܐ. ܐܢܐ ܐܕܘܢܝ
+ܠܐ ܬܢܩܡ ܘܠܐ ? ܥܠ ܒܝܢܝܢ ܕܠ ܐܡܬܐܟܐ، ܘܚܒܒ ?ܟܐ ܟܟܐ. ܐܢܐ ܐܕܘܢܝ
 
-*lâ ? wa-lâ ? ʿal bênîn dal ?kâ, wa-ḥəbab ?kâ kikâ. anâ adônî*
+*lâ tanqam wa-lâ ? ʿal bênîn dal ʾummatâkâ, wa-ḥəbab ?kâ kikâ. anâ adônî*
 
-Hebrew distinguishes taking revenge from holding a grudge. The Peshitta combines them in one prohibition, literally “do not keep enmity.” MS keeps both Hebrew prohibitions, with *lâ* plus second-person non-past. The draft uses *ʿal* for the shared target, as in the Arabic. The positive command uses *ḥəbab*, the masculine singular imperative of “love.” “Your fellow” is its direct object, as in the Arabic. Hebrew and Syriac introduce that argument with *l-*. The Syriac verb is cognate with MS *raḥam* “have mercy on.” *Kikâ* renders “as yourself,” and *anâ adônî* follows the closing formula used in [[Tanakh#Exodus 20:2]].
+Hebrew distinguishes taking revenge from holding a grudge. The Peshitta combines them in one prohibition, literally “do not keep enmity.” MS keeps both Hebrew prohibitions, with *lâ* plus second-person non-past. The first prohibition uses *lâ tanqam* “do not take revenge.” The draft uses *ʿal* for the shared target, as in the Arabic. The phrase *bênîn dal ʾummatâkâ* literally means “children of your people,” referring to its members. The positive command uses *ḥəbab*, the masculine singular imperative of “love.” “Your fellow” is its direct object, as in the Arabic. Hebrew and Syriac introduce that argument with *l-*. The Syriac verb is cognate with MS *raḥam* “have mercy on.” *Kikâ* renders “as yourself,” and *anâ adônî* follows the closing formula used in [[Tanakh#Exodus 20:2]].
 
 | Hebrew | Arabic | Syriac | Middle Semitic |
 | --- | --- | --- | --- |
-| לֹא־תִקֹּם “do not take revenge” | لَا تَنْتَقِمْ | Combined with the next prohibition | [[Lexicon/ܠܐ\|ܠܐ]] *lâ* + ? (non-past 2m) |
+| לֹא־תִקֹּם “do not take revenge” | لَا تَنْتَقِمْ | Combined with the next prohibition | [[Lexicon/ܠܐ\|ܠܐ]] *lâ* + [[Lexicon/ܢܩܡ\|ܢܩܡ]] G non-past 2m *tanqam* |
 | וְלֹא־תִטֹּר “and do not hold a grudge” | وَلَا تَحْقِدْ | ܠܐ ܬܛܪ ܒܥܠܕܒܒܘܬܐ | *wa-lâ* + ? (non-past 2m) |
-| אֶת־בְּנֵי עַמֶּךָ “against members of your people” | عَلَى أَبْنَاءِ شَعْبِكَ | ܠܒܢ̈ܝ ܥܡܟ | [[Lexicon/ܥܠ-\|ܥܠ]] *ʿal* + [[Lexicon/ܒܝܢܐ\|ܒܝܢܐ]] plural *bênîn* + [[Lexicon/ܕܠ\|ܕܠ]] *dal* + ? “people” + [[Lexicon/-ܟܐ\|-ܟܐ]] *-kâ* |
+| אֶת־בְּנֵי עַמֶּךָ “against members of your people” | عَلَى أَبْنَاءِ شَعْبِكَ | ܠܒܢ̈ܝ ܥܡܟ | [[Lexicon/ܥܠ-\|ܥܠ]] *ʿal* + [[Lexicon/ܒܝܢܐ\|ܒܝܢܐ]] plural *bênîn* + [[Lexicon/ܕܠ\|ܕܠ]] *dal* + [[Lexicon/ܐܡܬܐ\|ܐܡܬܐ]] *ʾummatâ* + [[Lexicon/-ܟܐ\|-ܟܐ]] *-kâ* |
 | וְאָהַבְתָּ “and love” | بَلْ تُحِبُّ | ܐܠܐ ܪܚܡ | *wa-* + [[Lexicon/ܚܒܒ\|ܚܒܒ]] G imperative 2m *ḥəbab* |
 | לְרֵעֲךָ “your fellow” | قَرِيبَكَ | ܠܚܒܪܟ | ? “fellow, neighbor” + *-kâ* |
 | כָּמוֹךָ “as yourself” | كَنَفْسِكَ | ܐܝܟ ܢܦܫܟ | [[Lexicon/ܟܟܐ\|ܟܟܐ]] *kikâ* |
