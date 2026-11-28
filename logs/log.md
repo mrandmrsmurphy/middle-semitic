@@ -623,3 +623,6 @@ Append-only. Never edit past entries.
 
 ## 2026-11-27 — Hadith page and Leviticus 19:18 parallel
 - Created Hadith.md with the Arabic and English rendering of al-Bukhārī 13, al-Nawawī 13, and the brother-or-neighbor variant in Muslim 45a. Linked the faith section from Leviticus 19:18 and linked the page from the hub.
+
+## 2026-11-27 — Middle Semitic draft of al-Bukhārī 13
+- Added Syriac script, romanization, and word-by-word analysis to Hadith.md. Kept the two beneficiary phrases and used a headless relative. Marked the verb for believing, finite until clause, and self noun as provisional.

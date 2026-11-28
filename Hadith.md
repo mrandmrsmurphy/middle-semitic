@@ -2,7 +2,7 @@
 
 > Parent: [[Middle Semitic]]
 
-Selected hadith in Arabic, with English renderings and textual parallels. See also [[Quran]] and [[Tanakh]].
+Selected hadith in Arabic, with Middle Semitic and English renderings and textual parallels. See also [[Quran]] and [[Tanakh]].
 
 ## Faith (Kitāb al-Īmān)
 
@@ -13,6 +13,22 @@ Anas ibn Mālik reports that the Prophet Muḥammad said:
 > لَا يُؤْمِنُ أَحَدُكُمْ حَتَّى يُحِبَّ لِأَخِيهِ مَا يُحِبُّ لِنَفْسِهِ.
 
 *None of you believes until he loves for his brother what he loves for himself.*
+
+**Middle Semitic draft**
+
+ܠܐ ܝܫ ܘܚܕ ܡܢܟܘܡ ܠܝܕ ܝܫܐܡܢ ܥܕ ܐܢ ܝܚܒܒ ܠܐܚܗܘ ܠܝܕ ܝܚܒܒ ܠܢܦܣܐܗܘ.
+
+*lâ yiš waḥad minkûm lîd yašâman ʿad an yaḥbab li-aḥhû lîd yaḥbab li-nafsâhû.*
+
+| Arabic | Meaning | Middle Semitic |
+| --- | --- | --- |
+| لَا يُؤْمِنُ أَحَدُكُمْ | none of you believes | *lâ* + [[Lexicon/ܝܫ\|ܝܫ]] *yiš* + [[Lexicon/ܘܚܕ\|ܘܚܕ]] *waḥad* + [[Lexicon/ܡܢܟܘܡ\|ܡܢܟܘܡ]] *minkûm* + *lîd yašâman* |
+| حَتَّى يُحِبَّ لِأَخِيهِ | until he loves for his brother | *ʿad an* + [[Lexicon/ܚܒܒ\|ܚܒܒ]] G non-past 3m *yaḥbab* + *li-* + [[Lexicon/ܐܚܐ\|ܐܚܐ]] suffixed *aḥhû* |
+| مَا يُحِبُّ لِنَفْسِهِ | what he loves for himself | [[Lexicon/ܠܝܕ\|ܠܝܕ]] *lîd* + *yaḥbab li-nafsâhû* |
+
+The draft uses the negated existential *lâ yiš waḥad minkûm lîd yašâman* “there is no one among you who believes”. Both instances of *yaḥbab* use the ordinary non-past. The first takes *li-aḥhû* “for his brother” as beneficiary and the headless relative *lîd yaḥbab li-nafsâhû* as its direct object. The second takes *li-nafsâhû* “for himself” as beneficiary.
+
+Three forms are provisional. *Yašâman* is the proposed C non-past of ʾ-M-N “believe,” modeled on the Arabic causative verb. *ʿAd an* combines MS *ʿad* “until” with *an* to introduce a finite clause. *Nafsâ* is a proposed noun for “self,” here with *-hû* referring back to the subject.
 
 This is the wording of [Ṣaḥīḥ al-Bukhārī 13](https://sunnah.com/bukhari:13), also quoted in [al-Nawawī’s Forty Hadith, no. 13](https://sunnah.com/nawawi40:13). [Ṣaḥīḥ Muslim 45a](https://sunnah.com/muslim:45a) records the variant لِأَخِيهِ أَوْ قَالَ لِجَارِهِ, “for his brother, or he said, for his neighbor.”
 
