@@ -303,19 +303,19 @@ Every word is an existing MS entry. "Make" is ܦܥܠ *paʿal* (Hebrew עָשָׂ
 
 **Middle Semitic draft**
 
-ܠܐ ? ܘܠܐ ? ܥܠ ܒܝܢܝܢ ܕܠ ?ܟܐ، ܘ? ܠ?ܟܐ ܟܟܐ. ܐܢܐ ܐܕܘܢܝ
+ܠܐ ? ܘܠܐ ? ܥܠ ܒܝܢܝܢ ܕܠ ?ܟܐ، ܘܚܒܒ ?ܟܐ ܟܟܐ. ܐܢܐ ܐܕܘܢܝ
 
-*lâ ? wa-lâ ? ʿal bênîn dal ?kâ, wa-? li-?kâ kikâ. anâ adônî*
+*lâ ? wa-lâ ? ʿal bênîn dal ?kâ, wa-ḥəbab ?kâ kikâ. anâ adônî*
 
-Hebrew distinguishes taking revenge from holding a grudge. The Peshitta combines them in one prohibition, literally “do not keep enmity.” MS keeps both Hebrew prohibitions, with *lâ* plus second-person non-past. The draft uses *ʿal* for the shared target, as in the Arabic. The positive command calls for a masculine singular imperative. Its draft *li-* follows the Hebrew and Syriac, pending the choice of a verb and its object construction. MS has *raḥam* “pity, have mercy on.” Syriac uses the cognate for “love” here, so the verse raises the choice of extending *raḥam* or using a separate root. *Kikâ* renders “as yourself,” and *anâ adônî* follows the closing formula used in [[Tanakh#Exodus 20:2]].
+Hebrew distinguishes taking revenge from holding a grudge. The Peshitta combines them in one prohibition, literally “do not keep enmity.” MS keeps both Hebrew prohibitions, with *lâ* plus second-person non-past. The draft uses *ʿal* for the shared target, as in the Arabic. The positive command uses *ḥəbab*, the masculine singular imperative of “love.” “Your fellow” is its direct object, as in the Arabic. Hebrew and Syriac introduce that argument with *l-*. The Syriac verb is cognate with MS *raḥam* “have mercy on.” *Kikâ* renders “as yourself,” and *anâ adônî* follows the closing formula used in [[Tanakh#Exodus 20:2]].
 
 | Hebrew | Arabic | Syriac | Middle Semitic |
 | --- | --- | --- | --- |
 | לֹא־תִקֹּם “do not take revenge” | لَا تَنْتَقِمْ | Combined with the next prohibition | [[Lexicon/ܠܐ\|ܠܐ]] *lâ* + ? (non-past 2m) |
 | וְלֹא־תִטֹּר “and do not hold a grudge” | وَلَا تَحْقِدْ | ܠܐ ܬܛܪ ܒܥܠܕܒܒܘܬܐ | *wa-lâ* + ? (non-past 2m) |
 | אֶת־בְּנֵי עַמֶּךָ “against members of your people” | عَلَى أَبْنَاءِ شَعْبِكَ | ܠܒܢ̈ܝ ܥܡܟ | [[Lexicon/ܥܠ-\|ܥܠ]] *ʿal* + [[Lexicon/ܒܝܢܐ\|ܒܝܢܐ]] plural *bênîn* + [[Lexicon/ܕܠ\|ܕܠ]] *dal* + ? “people” + [[Lexicon/-ܟܐ\|-ܟܐ]] *-kâ* |
-| וְאָהַבְתָּ “and love” | بَلْ تُحِبُّ | ܐܠܐ ܪܚܡ | *wa-* + ? (imperative 2m); compare [[Lexicon/ܪܚܡ\|ܪܚܡ]] |
-| לְרֵעֲךָ “your fellow” | قَرِيبَكَ | ܠܚܒܪܟ | *li-* + ? “fellow, neighbor” + *-kâ* |
+| וְאָהַבְתָּ “and love” | بَلْ تُحِبُّ | ܐܠܐ ܪܚܡ | *wa-* + [[Lexicon/ܚܒܒ\|ܚܒܒ]] G imperative 2m *ḥəbab* |
+| לְרֵעֲךָ “your fellow” | قَرِيبَكَ | ܠܚܒܪܟ | ? “fellow, neighbor” + *-kâ* |
 | כָּמוֹךָ “as yourself” | كَنَفْسِكَ | ܐܝܟ ܢܦܫܟ | [[Lexicon/ܟܟܐ\|ܟܟܐ]] *kikâ* |
 | אֲנִי יְהוָה “I am the Lord” | أَنَا الرَّبُّ | ܐܢܐ ܐܢܐ ܡܪܝܐ | [[Lexicon/ܐܢܐ\|ܐܢܐ]] *anâ* + [[Lexicon/ܐܕܘܢܝ\|ܐܕܘܢܝ]] *adônî* |
 

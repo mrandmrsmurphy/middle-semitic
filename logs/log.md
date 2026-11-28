@@ -605,3 +605,6 @@ Append-only. Never edit past entries.
 
 ## 2026-11-27 — Leviticus 19:18 draft
 - Added Leviticus 19:18 under Vayikra with Hebrew, an MS draft, and Arabic and Syriac parallels. Preserved both Hebrew prohibitions and used *kikâ* and *anâ adônî*. Revenge, holding a grudge, people, love, and fellow remain open.
+
+## 2026-11-27 — Love in Leviticus 19:18
+- User chose Ḥ-B-B and distinguished it from R-Ḥ-M “have compassion.” Added ܚܒܒ *ḥabab* with the regular MS geminate paradigm and used imperative *ḥəbab* with a direct object in Leviticus 19:18. Revenge, grudge, people, and fellow remain open.
